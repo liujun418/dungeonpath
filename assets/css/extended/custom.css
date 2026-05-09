@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header background and border */
 .header {
-  background: var(--header-bg) !important;
+  background: var(--header-bg);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 2px solid transparent;
@@ -89,10 +89,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Logo / site name */
 .logo a {
-  font-family: 'Orbitron', sans-serif !important;
-  font-weight: 900 !important;
-  font-size: 22px !important;
-  color: var(--neon-purple) !important;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  color: var(--neon-purple);
   text-shadow: var(--neon-glow);
   letter-spacing: 1px;
 }
@@ -126,9 +126,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Active nav link */
 .menu .active {
-  color: var(--neon-purple) !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
+  color: var(--neon-purple);
+  text-decoration: none;
 }
 
 .menu .active::after {
@@ -137,9 +136,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Theme toggle button */
 .theme-toggle {
-  color: var(--secondary) !important;
+  color: var(--secondary);
 }
 
 .theme-toggle:hover {
-  color: var(--neon-purple) !important;
+  color: var(--neon-purple);
 }
