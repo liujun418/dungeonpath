@@ -6,5 +6,12 @@
     "deploymentEnabled": {
       "master": true
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "https://www.dungeonpath.com/:path(.*)",
+      "destination": "https://dungeonpath.com/$1",
+      "permanent": true
+    }
+  ]
 }
