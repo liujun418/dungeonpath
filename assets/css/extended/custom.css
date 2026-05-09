@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-content p {
   line-height: 1.8;
-  color: #cbd5e1;
+  color: var(--secondary);
 }
 
 /* Content headings */
@@ -323,30 +323,13 @@ details.toc a:hover {
 }
 
 .post-content table td {
-  color: #cbd5e1 !important;
+  color: var(--secondary) !important;
 }
 
 /* Blockquotes */
 .post-content blockquote {
   border-left: 3px solid var(--neon-purple) !important;
   background: rgba(139, 92, 246, 0.05) !important;
-}
-
-/* Tag pills on single post */
-.post-tags a {
-  background: rgba(139, 92, 246, 0.15) !important;
-  border: 1px solid rgba(139, 92, 246, 0.25) !important;
-  color: var(--neon-purple) !important;
-  border-radius: 20px !important;
-  font-size: 12px !important;
-  padding: 0 12px !important;
-  line-height: 28px !important;
-  transition: background 0.2s ease, color 0.2s ease !important;
-}
-
-.post-tags a:hover {
-  background: rgba(139, 92, 246, 0.3) !important;
-  color: #e9d5ff !important;
 }
 
 /* Pagination nav */
