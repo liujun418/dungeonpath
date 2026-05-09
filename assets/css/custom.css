@@ -1,0 +1,39 @@
+/* DungeonPath custom styles */
+
+:root {
+  --primary-color: #6366f1;
+  --content-text: #1f2937;
+  --theme-toggle-bg: #e5e7eb;
+}
+
+/* Brand color override */
+:root {
+  --theme: #6366f1;
+}
+
+/* Better spacing for guide content */
+.post-content p {
+  line-height: 1.75;
+}
+
+/* Table styling */
+.post-content table {
+  font-size: 0.9em;
+}
+
+.post-content table thead {
+  background-color: var(--code-bg);
+}
+
+/* FAQ styling helper */
+.faq-question {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+/* Mobile: slightly larger tap targets */
+@media (max-width: 768px) {
+  .post-nav-link {
+    padding: 12px 0;
+  }
+}

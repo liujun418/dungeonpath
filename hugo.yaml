@@ -1,0 +1,105 @@
+baseURL: "https://dungeonpath.com/"
+title: "DungeonPath"
+copyright: "© 2026 DungeonPath"
+paginate: 10
+theme: PaperMod
+enableRobotsTXT: true
+enableEmoji: true
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    label: English
+    weight: 1
+    title: "DungeonPath"
+    params:
+      description: "Your ultimate guide to Roblox dungeons, survival games, and trending multiplayer experiences."
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Your ultimate guide to Roblox dungeons, survival games, and trending multiplayer experiences."
+  keywords: ["Roblox guides", "game walkthroughs", "Roblox tips", "Fisch guide", "Pressure guide"]
+  author: DungeonPath Team
+  DateFormat: "January 2, 2006"
+
+  # Social / SEO
+  images: ["images/banner.webp"]
+  ToggleTheme: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  TocOpen: true
+
+  # Assets
+  assets:
+    favicon: "/favicon.ico"
+    customCSS:
+      - css/custom.css
+
+  # Profile mode (homepage)
+  profileMode:
+    enabled: true
+    title: "DungeonPath"
+    subtitle: "Your ultimate guide to Roblox dungeons, survival games, and trending multiplayer experiences."
+    imageUrl: ""
+    imageTitle: "DungeonPath Logo"
+    buttons:
+      - name: "Browse Guides"
+        url: "/posts/"
+      - name: "About"
+        url: "/about/"
+
+  # Social links
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/liujun418/dungeonpath"
+
+menu:
+  main:
+    - name: "Guides"
+      url: "/posts/"
+      weight: 1
+    - name: "Categories"
+      url: "/categories/"
+      weight: 2
+    - name: "Search"
+      url: "/search/"
+      weight: 3
+    - name: "About"
+      url: "/about/"
+      weight: 4
+
+# SEO / Taxonomy
+taxonomies:
+  category: categories
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: true
+
+services:
+  googleAnalytics:
+    # Will be added later when GA is set up
+    # ID: "G-XXXXXXXXXX"
