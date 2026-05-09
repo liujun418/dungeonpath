@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Horror on DungeonPath</title>
-    <link>https://dungeonpath.com/tags/horror/</link>
-    <description>Recent content in Horror on DungeonPath</description>
+    <title>DOORS on DungeonPath</title>
+    <link>https://dungeonpath.com/tags/doors/</link>
+    <description>Recent content in DOORS on DungeonPath</description>
     <image>
       <title>DungeonPath</title>
       <url>https://dungeonpath.com/images/banner.webp</url>
@@ -13,20 +13,13 @@
     <language>en</language>
     <copyright>2026 DungeonPath</copyright>
     <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dungeonpath.com/tags/horror/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dungeonpath.com/tags/doors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DOORS Beginner Guide (May 2026): Survive The Hotel, The Mines, and Beyond</title>
       <link>https://dungeonpath.com/posts/doors/beginner-guide/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid>https://dungeonpath.com/posts/doors/beginner-guide/</guid>
       <description>Complete walkthrough for Roblox DOORS. Learn every entity, puzzle solution, item strategy, and how to conquer Rush Mode and Endless Mode.</description>
-    </item>
-    <item>
-      <title>Pressure Beginner Guide: Complete Walkthrough for New Players (2026)</title>
-      <link>https://dungeonpath.com/posts/pressure/beginner-guide/</link>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://dungeonpath.com/posts/pressure/beginner-guide/</guid>
-      <description>Everything you need to survive the Hadal Blacksite in Roblox Pressure. Learn entity mechanics, item locations, and proven strategies to reach Room 100.</description>
     </item>
   </channel>
 </rss>
