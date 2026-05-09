@@ -68,15 +68,6 @@
 - [x] 推送到 `origin/master`
 - [x] GitHub 仓库：https://github.com/liujun418/dungeonpath
 
-### 当前进度
-- ✅ Phase 1: 环境准备与项目初始化
-- ✅ Phase 2: 站点结构搭建
-- 🔄 Phase 3: 内容创建 — Fisch（下一步）
-- ⏳ Phase 4: 内容创建 — Pressure
-- ⏳ Phase 5: 本地测试
-- ⏳ Phase 6: GitHub + Vercel 部署（部分完成，推送已完成）
-- ⏳ Phase 7: SEO 基础设置
-
 ---
 
 ## Session 3 — 2026-05-09
@@ -93,15 +84,6 @@
   - /posts/fisch/beginner-guide/ → 正常
   - /posts/pressure/beginner-guide/ → 正常
   - /posts/ → 正常
-
-### 当前进度
-- ✅ Phase 1: 环境准备与项目初始化
-- ✅ Phase 2: 站点结构搭建
-- 🔄 Phase 3: 内容创建 — Fisch（下一步）
-- ⏳ Phase 4: 内容创建 — Pressure
-- ✅ Phase 5: 本地测试
-- ✅ Phase 6: GitHub + Vercel 部署
-- ⏳ Phase 7: SEO 基础设置
 
 ---
 
@@ -121,13 +103,58 @@
 - [x] 移动端适配（标题缩放）
 - [x] 生产构建 + Vercel 部署
 
-### 当前进度
-- ✅ Phase 1: 环境准备与项目初始化
-- ✅ Phase 2: 站点结构搭建
-- ✅ Phase 5: 本地测试
-- ✅ Phase 6: GitHub + Vercel 部署
-- ✅ Phase 3.1: Fisch Beginner Guide（3,071 字，10 表格）
-- ✅ Phase 3.2: Fisch Best Rods Tier List（2,532 字，14 表格）
-- ✅ Phase 4.1: Pressure Beginner Guide（2,425 字，13 表格）
-- 🔄 Phase 3.3: Fisch Fish Location Map（待完成）
-- ⏳ Phase 7: SEO 基础设置
+---
+
+## Session 5 — 2026-05-09
+
+### Phase 3: Fisch 内容 ✅
+
+- [x] Fisch Beginner Guide（重写，3,071 字，10 表格）
+- [x] Fisch Best Rods Tier List（2,532 字，14 表格）
+- [x] Fisch Fish Location Map（2,320 字，8 个主要地点）
+
+### Phase 4: Pressure 内容 ✅
+
+- [x] Pressure Beginner Guide（重写，2,425 字，13 表格）
+- [x] Pressure Entities Guide（complete bestiary with survival strategies）
+
+---
+
+## Session 6 — 2026-05-09
+
+### RIVALS 内容 ✅
+
+- [x] RIVALS Beginner Guide — comprehensive new player walkthrough
+- [x] RIVALS Weapon Tier List — all weapons ranked for Season 3
+
+### Sailor Piece 内容 ✅
+
+- [x] Sailor Piece Beginner Guide — comprehensive new player walkthrough
+
+### DOORS 内容 ✅
+
+- [x] DOORS Beginner Guide — Hotel, Mines, Rush Mode walkthrough
+
+---
+
+## 站点总览
+
+### 已发布页面（80 pages）
+
+| 游戏 | 页面 | URL |
+|------|------|-----|
+| **Fisch** | Beginner Guide | `/posts/fisch/beginner-guide/` |
+| | Best Rods Tier List | `/posts/fisch/best-rods-tier-list/` |
+| | Fish Location Map | `/posts/fisch/fish-location-map/` |
+| **Pressure** | Beginner Guide | `/posts/pressure/beginner-guide/` |
+| | Entities Guide | `/posts/pressure/entities-guide/` |
+| **RIVALS** | Beginner Guide | `/posts/rivals/beginner-guide/` |
+| | Weapon Tier List | `/posts/rivals/weapon-tier-list/` |
+| **Sailor Piece** | Beginner Guide | `/posts/sailor-piece/beginner-guide/` |
+| **DOORS** | Beginner Guide | `/posts/doors/beginner-guide/` |
+
+### 待办
+
+- [ ] Phase 7: SEO 基础设置（Google Search Console, sitemap, robots.txt）
+- [ ] 更多游戏内容（根据搜索量决定优先级）
+- [ ] 用户验证内容准确性
