@@ -72,3 +72,74 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
 }
+
+/* ============================================================
+   Header & Navigation
+   ============================================================ */
+
+/* Header background and border */
+.header {
+  background: var(--header-bg) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 2px solid transparent;
+  border-image: var(--gradient-brand);
+  border-image-slice: 1;
+}
+
+/* Logo / site name */
+.logo a {
+  font-family: 'Orbitron', sans-serif !important;
+  font-weight: 900 !important;
+  font-size: 22px !important;
+  color: var(--neon-purple) !important;
+  text-shadow: var(--neon-glow);
+  letter-spacing: 1px;
+}
+
+/* Nav links */
+.menu a {
+  color: var(--secondary);
+  font-weight: 500;
+  transition: color 0.2s ease;
+  position: relative;
+}
+
+.menu a:hover {
+  color: var(--neon-purple);
+}
+
+.menu a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--gradient-brand);
+  transition: width 0.2s ease;
+}
+
+.menu a:hover::after {
+  width: 100%;
+}
+
+/* Active nav link */
+.menu .active {
+  color: var(--neon-purple) !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.menu .active::after {
+  width: 100%;
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  color: var(--secondary) !important;
+}
+
+.theme-toggle:hover {
+  color: var(--neon-purple) !important;
+}
