@@ -7,9 +7,27 @@
       "master": true
     }
   },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dungeonpath.com"
+        }
+      ],
+      "destination": "https://dungeonpath.com/$1"
+    }
+  ],
   "redirects": [
     {
-      "source": "https://www.dungeonpath.com/:path(.*)",
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dungeonpath.com"
+        }
+      ],
       "destination": "https://dungeonpath.com/$1",
       "permanent": true
     }
