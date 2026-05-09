@@ -126,6 +126,8 @@
 - ✅ Phase 2: 站点结构搭建
 - ✅ Phase 5: 本地测试
 - ✅ Phase 6: GitHub + Vercel 部署
-- 🔄 Phase 3: 内容创建 — Fisch（下一步）
-- ⏳ Phase 4: 内容创建 — Pressure
+- ✅ Phase 3.1: Fisch Beginner Guide（3,071 字，10 表格）
+- ✅ Phase 3.2: Fisch Best Rods Tier List（2,532 字，14 表格）
+- ✅ Phase 4.1: Pressure Beginner Guide（2,425 字，13 表格）
+- 🔄 Phase 3.3: Fisch Fish Location Map（待完成）
 - ⏳ Phase 7: SEO 基础设置
