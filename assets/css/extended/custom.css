@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
    Header & Navigation
    ============================================================ */
 
-/* Header background and border */
+/* Header background and border - clip all overflow */
 .header {
   background: var(--header-bg);
   backdrop-filter: blur(10px);
@@ -85,6 +85,14 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 2px solid transparent;
   border-image: var(--gradient-brand);
   border-image-slice: 1;
+  overflow: clip !important;
+}
+
+/* Override PaperMod header-nav line-height to prevent vertical overflow */
+.header-nav {
+  overflow: clip !important;
+  line-height: normal !important;
+  height: 60px;
 }
 
 /* Logo / site name */
@@ -95,6 +103,19 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--neon-purple);
   text-shadow: var(--neon-glow);
   letter-spacing: 1px;
+  line-height: normal;
+}
+
+/* Override PaperMod's menu overflow */
+.menu {
+  overflow: clip !important;
+  flex-shrink: 0;
+}
+
+/* Remove PaperMod's li styling overflow */
+.menu li {
+  overflow: clip;
+  list-style: none;
 }
 
 /* Nav links */
@@ -102,22 +123,23 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--secondary);
   font-weight: 500;
   transition: color 0.2s ease;
-  position: relative;
+  line-height: normal;
+  padding: 4px 0;
 }
 
 .menu a:hover {
   color: var(--neon-purple);
 }
 
+/* Underline effect without overflow */
 .menu a::after {
   content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 0;
+  display: block;
   width: 0;
   height: 2px;
   background: var(--gradient-brand);
   transition: width 0.2s ease;
+  margin-top: 2px;
 }
 
 .menu a:hover::after {
@@ -141,6 +163,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .theme-toggle:hover {
   color: var(--neon-purple);
+}
+
+/* Logo switches */
+.logo-switches {
+  overflow: clip;
+}
 }
 
 /* ============================================================
