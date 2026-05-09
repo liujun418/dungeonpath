@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on DungeonPath</title>
+    <link>https://dungeonpath.com/tags/</link>
+    <description>Recent content in Tags on DungeonPath</description>
+    <image>
+      <title>DungeonPath</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner Guide</title>
+      <link>https://dungeonpath.com/tags/beginner-guide/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/beginner-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fisch</title>
+      <link>https://dungeonpath.com/tags/fisch/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/fisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pressure</title>
+      <link>https://dungeonpath.com/tags/pressure/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/pressure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roblox</title>
+      <link>https://dungeonpath.com/tags/roblox/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/roblox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survival</title>
+      <link>https://dungeonpath.com/tags/survival/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/survival/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>https://dungeonpath.com/tags/tips/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Walkthrough</title>
+      <link>https://dungeonpath.com/tags/walkthrough/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/tags/walkthrough/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

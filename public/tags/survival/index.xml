@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Survival on DungeonPath</title>
+    <link>https://dungeonpath.com/tags/survival/</link>
+    <description>Recent content in Survival on DungeonPath</description>
+    <image>
+      <title>DungeonPath</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/survival/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pressure Beginner Guide: Survival Tips for New Players (2026)</title>
+      <link>https://dungeonpath.com/posts/pressure/beginner-guide/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/pressure/beginner-guide/</guid>
+      <description>Learn how to survive in Pressure, the terrifying Roblox dungeon crawler. Complete beginner walkthrough with monster guides, item tips, and survival strategies.</description>
+    </item>
+  </channel>
+</rss>
