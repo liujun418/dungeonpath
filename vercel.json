@@ -1,0 +1,10 @@
+{
+  "framework": "hugo",
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "git": {
+    "deploymentEnabled": {
+      "master": true
+    }
+  }
+}
