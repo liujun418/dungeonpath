@@ -1,0 +1,23 @@
+<div class="profile neon-profile">
+    {{- with site.Params.profileMode }}
+    <div class="profile_inner">
+        {{- /* Profile image removed — no logo asset yet */ -}}
+        <h1 class="neon-title">{{ .title | default site.Title | markdownify }}</h1>
+        <span class="neon-subtitle">{{ .subtitle | markdownify }}</span>
+        {{- partial "social_icons.html" . -}}
+
+        {{- with .buttons }}
+        <div class="buttons neon-buttons">
+            {{- range . }}
+            <a class="button neon-button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                </span>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+        <div class="neon-divider"></div>
+    </div>
+    {{- end}}
+</div>
