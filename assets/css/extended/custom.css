@@ -254,3 +254,133 @@ h1, h2, h3, h4, h5, h6 {
 .list {
   background: var(--theme) !important;
 }
+
+/* ============================================================
+   Single Post Page
+   ============================================================ */
+
+/* Post title */
+.post-title {
+  font-weight: 800 !important;
+  color: var(--primary) !important;
+}
+
+/* Post content text */
+.post-content {
+  color: var(--content) !important;
+}
+
+.post-content p {
+  line-height: 1.8;
+  color: #cbd5e1;
+}
+
+/* Content headings */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  color: var(--primary) !important;
+}
+
+/* Links in content */
+.post-content a {
+  color: var(--neon-purple);
+  transition: color 0.2s ease;
+}
+
+.post-content a:hover {
+  color: #c084fc;
+}
+
+/* Table of Contents */
+details.toc {
+  background: var(--entry) !important;
+  border: 1px solid rgba(139, 92, 246, 0.2) !important;
+  border-left: 3px solid var(--neon-purple) !important;
+}
+
+details.toc summary {
+  color: var(--neon-purple) !important;
+  font-weight: 600;
+}
+
+details.toc a {
+  color: var(--secondary) !important;
+}
+
+details.toc a:hover {
+  color: var(--neon-purple) !important;
+}
+
+/* Tables */
+.post-content table th {
+  background: var(--entry) !important;
+  color: var(--primary) !important;
+  font-weight: 600;
+}
+
+.post-content table td {
+  color: #cbd5e1 !important;
+}
+
+/* Blockquotes */
+.post-content blockquote {
+  border-left: 3px solid var(--neon-purple) !important;
+  background: rgba(139, 92, 246, 0.05) !important;
+}
+
+/* Tag pills on single post */
+.post-tags a {
+  background: rgba(139, 92, 246, 0.15) !important;
+  border: 1px solid rgba(139, 92, 246, 0.25) !important;
+  color: var(--neon-purple) !important;
+  border-radius: 20px !important;
+  font-size: 12px !important;
+  padding: 0 12px !important;
+  line-height: 28px !important;
+  transition: background 0.2s ease, color 0.2s ease !important;
+}
+
+.post-tags a:hover {
+  background: rgba(139, 92, 246, 0.3) !important;
+  color: #e9d5ff !important;
+}
+
+/* Pagination nav */
+.paginav {
+  background: var(--entry) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.paginav a {
+  color: var(--primary) !important;
+}
+
+.paginav .title {
+  color: var(--neon-purple) !important;
+}
+
+.paginav a:hover {
+  background: rgba(139, 92, 246, 0.1) !important;
+}
+
+/* Breadcrumbs */
+.breadcrumbs a {
+  color: var(--secondary) !important;
+}
+
+.breadcrumbs a:hover {
+  color: var(--neon-purple) !important;
+}
+
+/* Post meta (date, reading time) */
+.post-meta {
+  color: var(--secondary) !important;
+}
+
+.post-meta a {
+  color: var(--neon-purple) !important;
+}
