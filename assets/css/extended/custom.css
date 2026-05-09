@@ -367,3 +367,102 @@ details.toc a:hover {
 .post-meta a {
   color: var(--neon-purple) !important;
 }
+
+/* ============================================================
+   Search Page
+   ============================================================ */
+
+.searchbox input {
+  background: var(--entry) !important;
+  border: 2px solid var(--border) !important;
+  color: var(--primary) !important;
+  border-radius: 10px !important;
+  padding: 10px 16px !important;
+  transition: border-color 0.2s ease !important;
+}
+
+.searchbox input:focus {
+  border-color: var(--neon-purple) !important;
+  outline: none !important;
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15) !important;
+}
+
+.searchResults li {
+  background: var(--entry) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.searchResults li:hover {
+  border-color: var(--neon-purple) !important;
+  box-shadow: var(--card-glow-hover);
+}
+
+/* ============================================================
+   Tags & Terms Pages
+   ============================================================ */
+
+.terms-tags a {
+  background: rgba(139, 92, 246, 0.1) !important;
+  border: 1px solid rgba(139, 92, 246, 0.2) !important;
+  color: var(--neon-purple) !important;
+  border-radius: 20px !important;
+  padding: 8px 20px !important;
+  transition: background 0.2s ease !important;
+}
+
+.terms-tags a:hover {
+  background: rgba(139, 92, 246, 0.25) !important;
+}
+
+/* ============================================================
+   Archives Page
+   ============================================================ */
+
+.archive-entry {
+  color: var(--primary) !important;
+}
+
+.archive-entry:hover .entry-header h2 {
+  color: var(--neon-purple) !important;
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+
+.footer {
+  background: #060612 !important;
+  color: var(--secondary) !important;
+  position: relative;
+}
+
+.footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  height: 1px;
+  background: var(--gradient-brand);
+  opacity: 0.5;
+}
+
+.footer a {
+  color: var(--neon-purple) !important;
+}
+
+.footer a:hover {
+  color: #c084fc !important;
+}
+
+/* Scroll-to-top button */
+.top-link {
+  background: var(--entry) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.top-link:hover {
+  color: var(--neon-purple) !important;
+  box-shadow: var(--card-glow-hover);
+}
