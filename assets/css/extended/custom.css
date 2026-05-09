@@ -267,7 +267,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Post content text */
 .post-content {
-  color: var(--content) !important;
+  color: var(--content);
 }
 
 .post-content p {
@@ -431,7 +431,7 @@ details.toc a:hover {
    ============================================================ */
 
 .footer {
-  background: #060612 !important;
+  background: var(--theme) !important;
   color: var(--secondary) !important;
   position: relative;
 }
@@ -465,4 +465,12 @@ details.toc a:hover {
 .top-link:hover {
   color: var(--neon-purple) !important;
   box-shadow: var(--card-glow-hover);
+}
+
+/* Mobile: scale down title */
+@media (max-width: 600px) {
+  .neon-title {
+    font-size: 28px !important;
+    letter-spacing: 1px !important;
+  }
 }
