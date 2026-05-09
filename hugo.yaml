@@ -47,8 +47,6 @@ params:
   # Assets
   assets:
     favicon: "/favicon.ico"
-    customCSS:
-      - css/custom.css
 
   # Profile mode (homepage)
   profileMode:

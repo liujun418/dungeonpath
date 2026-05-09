@@ -12,10 +12,8 @@
   --card-glow-hover: 0 4px 20px rgba(139, 92, 246, 0.15);
   --glow-bg: radial-gradient(ellipse at top right, rgba(168, 85, 247, 0.08) 0%, transparent 70%);
   --header-bg: rgba(10, 10, 26, 0.95);
-}
 
-/* --- Dark Mode (default) --- */
-:root {
+  /* --- Dark Mode (default) --- */
   --theme: #0a0a1a;
   --entry: #111128;
   --primary: #e2e8f0;
@@ -38,7 +36,6 @@
   --border: rgba(139, 92, 246, 0.2);
   --code-bg: #080818;
   --code-block-bg: #080818;
-  color-scheme: dark;
 }
 
 /* --- Light Mode (adjusted dark-first palette) --- */
@@ -52,7 +49,6 @@
   --border: rgba(139, 92, 246, 0.15);
   --code-bg: #0d0d1f;
   --code-block-bg: #0d0d1f;
-  color-scheme: dark;
 }
 
 /* --- Global Background --- */
@@ -68,7 +64,6 @@ body {
 
 /* --- Font Overrides --- */
 body,
-.entry-content,
 .post-content {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
