@@ -1,0 +1,73 @@
+{{- /* DungeonPath custom sitemap — excludes low-value keyword tags, adds priority */}}
+{{- $gameNames := slice
+  "fisch" "pressure" "rivals" "doors" "blade-ball"
+  "dress-to-impress" "tower-defense-simulator" "sailor-piece"
+  "monster-legends" "my-singing-monsters" "palworld" "lethal-company"
+}}
+{{- $articles := where site.RegularPages "Type" "eq" "posts" }}
+{{- $articleURLs := slice }}
+{{- range $articles }}
+  {{- $articleURLs = $articleURLs | append .RelPermalink }}
+{{- end }}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{{- /* 1. Homepage — highest priority */}}
+{{- with site.Home }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+{{- end }}
+{{- /* 2. All game guide articles — high priority */}}
+{{- range $articles }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- end }}
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+{{- end }}
+{{- /* 3. Category pages */}}
+{{- range site.Taxonomies.categories }}
+  <url>
+    <loc>{{ .Page.Permalink }}</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+{{- end }}
+{{- /* 4. Game-name tags only — not generic keyword tags */}}
+{{- range $name, $taxonomy := site.Taxonomies.tags }}
+  {{- if in $gameNames ($name | urlize) }}
+  <url>
+    <loc>{{ $taxonomy.Page.Permalink }}</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  {{- end }}
+{{- end }}
+{{- /* 5. Non-article static pages (legal, about) — exclude posts and duplicates */}}
+{{- range where site.RegularPages "Type" "ne" "posts" }}
+  {{- if not (in $articleURLs .RelPermalink) }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- end }}
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  {{- end }}
+{{- end }}
+{{- /* 6. Posts list page */}}
+{{- with site.GetPage "/posts" }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <priority>0.6</priority>
+    <changefreq>daily</changefreq>
+  </url>
+{{- end }}
+</urlset>

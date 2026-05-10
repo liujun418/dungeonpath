@@ -4,4 +4,4 @@ Disallow: /search/
 Disallow: /tags/*/page/
 Crawl-delay: 10
 
-Sitemap: https://dungeonpath.com/sitemap.xml
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
