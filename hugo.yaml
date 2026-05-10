@@ -58,7 +58,7 @@ params:
     buttons:
       - name: "Browse Guides"
         url: "/posts/"
-      - name: "Search"
+      - name: "Search Guides"
         url: "/search/"
 
   # Social links
