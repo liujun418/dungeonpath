@@ -497,6 +497,27 @@ details.toc a:hover {
   box-shadow: var(--card-glow-hover);
 }
 
+/* Footer legal links */
+.footer-legal {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.25rem;
+}
+
+.footer-legal a {
+  font-size: 0.8rem;
+  color: var(--secondary) !important;
+  opacity: 0.8;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.footer-legal a:hover {
+  color: var(--neon-purple) !important;
+  opacity: 1;
+}
+
 /* Mobile: scale down title */
 @media (max-width: 600px) {
   .neon-title {

@@ -33,9 +33,8 @@ The name comes from the idea of finding your way through the dungeon — whether
 
 ### Contact
 
-- **GitHub**: [liujun418/dungeonpath](https://github.com/liujun418/dungeonpath)
-- **Email**: [contact@dungeonpath.com](mailto:contact@dungeonpath.com)
+- **Email**: [jzerov@live.com](mailto:jzerov@live.com)
 
 ---
 
-*Last updated: May 9, 2026*
+*Last updated: May 10, 2026*

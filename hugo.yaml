@@ -62,9 +62,7 @@ params:
         url: "/about/"
 
   # Social links
-  socialIcons:
-    - name: "github"
-      url: "https://github.com/liujun418/dungeonpath"
+  socialIcons: []
 
 menu:
   main:
@@ -79,6 +77,20 @@ menu:
       weight: 3
     - name: "About"
       url: "/about/"
+      weight: 4
+
+  footer:
+    - name: "Privacy Policy"
+      url: "/privacy-policy/"
+      weight: 1
+    - name: "Terms of Service"
+      url: "/terms-of-service/"
+      weight: 2
+    - name: "Ad Disclosure"
+      url: "/ad-disclosure/"
+      weight: 3
+    - name: "Contact"
+      url: "mailto:jzerov@live.com"
       weight: 4
 
 # SEO / Taxonomy

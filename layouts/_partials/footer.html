@@ -19,6 +19,12 @@
         <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
+
+    <div class="footer-legal">
+        {{- range site.Menus.footer }}
+        <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http://") (strings.HasPrefix .URL "https://") }}rel="noopener" target="_blank"{{ end }}>{{ .Name }}</a>
+        {{- end }}
+    </div>
 </footer>
 {{- end }}
 
