@@ -1,4 +1,6 @@
-{{/* Custom homepage: profile + featured sections */}}
+{{- define "main" }}
+
+{{/* ---- Profile Section ---- */}}
 {{- if site.Params.profileMode.enabled }}
 {{- partial "index_profile.html" . }}
 {{- end }}
@@ -57,3 +59,5 @@
         {{- end }}
     </div>
 </section>
+
+{{- end }}{{/* end main */}}
