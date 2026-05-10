@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Co-op Team Roles Guide: Optimal 4-Player Team Composition (2026)"
-description: "Learn the optimal 4-player team composition in Lethal Company. Ship Operator, Scout, Hauler, Support — complete role guide with communication protocols and coordination."
+description: "Learn optimal 4-player team composition in Lethal Company. Ship Operator, Scout, Hauler, and Support roles with communication protocols."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Co-op", "Team Roles", "Horror", "Strategy"]
+tags: ["Lethal Company", "PC Games", "Co-op", "Team Roles", "Horror", "Strategy", "lethal company team roles", "lethal company 4 player", "lethal company coordination"]
 categories: ["PC Games"]
 ---
 

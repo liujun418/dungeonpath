@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Strategies on DungeonPath</title><link>https://dungeonpath.com/tags/strategies/</link><description>Recent content in Strategies on DungeonPath</description><image><title>DungeonPath</title><url>https://dungeonpath.com/images/banner.webp</url><link>https://dungeonpath.com/images/banner.webp</link></image><generator>Hugo</generator><language>en</language><copyright>2026 DungeonPath</copyright><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dungeonpath.com/tags/strategies/index.xml" rel="self" type="application/rss+xml"/><item><title>Blade Ball How to Win: Pro Tips and Strategies to Dominate Every Match (2026)</title><link>https://dungeonpath.com/posts/blade-ball/how-to-win-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/blade-ball/how-to-win-guide/</guid><description>Master Blade Ball with advanced strategies, positioning tips, ability combos, and pro techniques to consistently win matches.</description></item><item><title>RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)</title><link>https://dungeonpath.com/posts/rivals/game-modes-and-ranked-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/rivals/game-modes-and-ranked-guide/</guid><description>Complete guide to all RIVALS game modes and the ranked system. Learn the rules, best strategies, and how to climb the competitive ladder.</description></item><item><title>RIVALS Maps Guide: All Maps, Callouts, and Winning Strategies (2026)</title><link>https://dungeonpath.com/posts/rivals/maps-and-strategies-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/rivals/maps-and-strategies-guide/</guid><description>Complete guide to every RIVALS map. Learn map layouts, key callouts, best positions, and strategies for each game mode on every map.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Strategies on DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+    <link>https://dungeonpath.com/tags/strategies/</link>
+    <description>Recent content in Strategies on DungeonPath — Free Game Guides &amp; Walkthroughs</description>
+    <image>
+      <title>DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/strategies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blade Ball How to Win: Pro Tips and Strategies to Dominate Every Match (2026)</title>
+      <link>https://dungeonpath.com/posts/blade-ball/how-to-win-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/blade-ball/how-to-win-guide/</guid>
+      <description>Master Blade Ball with pro strategies, positioning tips, ability combos, and advanced techniques to dominate every match and win consistently.</description>
+    </item>
+    <item>
+      <title>RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)</title>
+      <link>https://dungeonpath.com/posts/rivals/game-modes-and-ranked-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/rivals/game-modes-and-ranked-guide/</guid>
+      <description>Complete guide to all RIVALS game modes and the ranked system. Learn the rules, best strategies, and how to climb the competitive ladder.</description>
+    </item>
+    <item>
+      <title>RIVALS Maps Guide: All Maps, Callouts, and Winning Strategies (2026)</title>
+      <link>https://dungeonpath.com/posts/rivals/maps-and-strategies-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/rivals/maps-and-strategies-guide/</guid>
+      <description>Complete guide to every RIVALS map. Learn map layouts, key callouts, best positions, and strategies for each game mode on every map.</description>
+    </item>
+  </channel>
+</rss>

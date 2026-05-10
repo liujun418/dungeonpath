@@ -44,7 +44,8 @@
 
 {{/* ---- Browse by Game ---- */}}
 {{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
-{{- $games := slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS" }}
+{{- /* Dynamic game list based on actual content */}}
+{{- $games := slice "Fisch" "Pressure" "RIVALS" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Sailor Piece" }}
 <section class="home-section home-games">
     <h2 class="section-title">🎮 Browse by Game</h2>
     <div class="game-grid">

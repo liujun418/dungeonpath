@@ -1,0 +1,21 @@
+{{- /* Related Guides: show 4 posts from same game based on the first tag */}}
+{{- $current := . }}
+{{- $gameTag := index .Params.tags 0 }}
+{{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
+{{- $related := where $allPosts "Params.tags" "intersect" (slice $gameTag) | first 5 }}
+{{- $related = $related | complement (slice $current) | first 4 }}
+{{- if gt (len $related) 0 }}
+<section class="related-guides">
+  <hr class="related-divider">
+  <h2 class="related-title">🎯 More {{ $gameTag }} Guides</h2>
+  <div class="related-grid">
+    {{- range $related }}
+    <a href="{{ .RelPermalink }}" class="related-card">
+      <span class="related-game-tag">{{ $gameTag }}</span>
+      <h3 class="related-card-title">{{ .Title }}</h3>
+      <p class="related-card-desc">{{ .Description | truncate 100 }}</p>
+    </a>
+    {{- end }}
+  </div>
+</section>
+{{- end }}

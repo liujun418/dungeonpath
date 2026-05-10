@@ -1,10 +1,10 @@
 ---
 title: "Monster Legends Events and Dungeons Guide: Maze, Race, Puzzle, and Team Dungeons (2026)"
-description: "Master every Monster Legends event type with winning strategies. Learn how to complete Maze events efficiently, win Race events, solve Puzzle paths, and clear Team Dungeons for maximum rewards."
+description: "Master every Monster Legends event type with winning strategies. Learn Maze, Race, Puzzle, and Team Dungeon tactics for maximum rewards."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Events", "Dungeons", "Maze", "Race", "Guide"]
+tags: ["Monster Legends", "Mobile Games", "Events", "Dungeons", "Maze", "Race", "Guide", "monster legends maze guide", "monster legends dungeon tips", "monster legends event rewards"]
 categories: ["Mobile Games"]
 ---
 

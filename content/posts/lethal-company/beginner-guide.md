@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Beginner Guide: Survive Your First Quota (2026)"
-description: "New to Lethal Company? This complete beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
+description: "New to Lethal Company? This beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Horror", "Co-op", "Beginner Guide", "Survival Tips"]
+tags: ["Lethal Company", "PC Games", "Horror", "Co-op", "Beginner Guide", "Survival Tips", "lethal company how to survive", "lethal company first quota", "lethal company tips"]
 categories: ["PC Games"]
 ---
 

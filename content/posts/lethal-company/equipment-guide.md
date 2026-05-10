@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Equipment Guide: Best Items, Costs, and Loadouts (2026)"
-description: "Complete equipment guide for Lethal Company with real item costs, best items to buy early, equipment combos, team loadout strategies, and which items are traps."
+description: "Complete equipment guide for Lethal Company with real item costs, best early purchases, team loadout strategies, and which items are traps."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Equipment Guide", "Shop Items", "Horror", "Co-op"]
+tags: ["Lethal Company", "PC Games", "Equipment Guide", "Shop Items", "Horror", "Co-op", "lethal company best items", "lethal company loadout", "lethal company shop guide"]
 categories: ["PC Games"]
 ---
 

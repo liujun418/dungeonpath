@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Scrap and Loot Guide: Complete Item Database (2026)"
-description: "Complete scrap and loot database for Lethal Company with every item, real value ranges, weight classes, and best value-per-slot rankings. Maximize your quota profits."
+description: "Complete scrap and loot database for Lethal Company with every item, value ranges, weight classes, and value rankings to maximize profits."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Scrap Guide", "Loot", "Item Values", "Horror", "Co-op"]
+tags: ["Lethal Company", "PC Games", "Scrap Guide", "Loot", "Item Values", "Horror", "Co-op", "lethal company scrap values", "lethal company best loot", "lethal company profit guide"]
 categories: ["PC Games"]
 ---
 

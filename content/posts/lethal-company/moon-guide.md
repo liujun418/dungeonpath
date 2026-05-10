@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Moons Guide: Complete Moon Rankings and Strategies (2026)"
-description: "Every moon in Lethal Company ranked by difficulty with real loot values, monster spawns, travel costs, weather effects, and expert strategies for maximum profit."
+description: "Every moon in Lethal Company ranked by difficulty with loot values, monster spawns, travel costs, weather effects, and profit strategies."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Moons Guide", "Moon Rankings", "Horror", "Co-op"]
+tags: ["Lethal Company", "PC Games", "Moons Guide", "Moon Rankings", "Horror", "Co-op", "lethal company all moons", "lethal company best moon", "lethal company moon tier list"]
 categories: ["PC Games"]
 ---
 

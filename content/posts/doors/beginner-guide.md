@@ -4,7 +4,7 @@ description: "Complete walkthrough for Roblox DOORS. Learn every entity, puzzle 
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "Walkthrough"]
+tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "Walkthrough", "doors floor 2 guide", "how to survive doors roblox"]
 categories: ["Roblox Guides"]
 ---
 
@@ -38,6 +38,8 @@ Inspired by games like *Spooky's Jump Scare Mansion* and *Spelunky*, DOORS puts 
 5. **Redeem codes immediately** — open the Lobby Shop and enter codes for free Knobs
 
 ### Active Codes (May 2026)
+
+For the latest codes and redemption instructions, see our [DOORS Codes and Secrets Guide](/posts/doors/codes-and-secrets-guide/). Below are currently active codes:
 
 | Code | Reward |
 |------|--------|
@@ -79,6 +81,8 @@ Redeem codes in the **Lobby Shop** -> text box -> **Redeem**. Codes are **case-s
 | **100** | **The Electrical Room** — final Figure + circuit breaker | **Figure** (final boss) |
 
 ### All Hotel Entities
+
+For a detailed bestiary covering every entity's behavior, spawn conditions, and survival strategies, see our [DOORS Entities Bestiary](/posts/doors/entities-bestiary/).
 
 #### Rush
 
@@ -184,7 +188,7 @@ Counterintuitive mechanic — you need to go backward first. Many players die be
 
 ## The Mines (Floor 2: Doors 101-200)
 
-The Mines is significantly more challenging than The Hotel. Access it from the Lobby (Rock Bottom badge) or after completing The Hotel.
+The Mines is significantly more challenging than The Hotel. Access it from the Lobby (Rock Bottom badge) or after completing The Hotel. For a full walkthrough, see our [DOORS The Mines Walkthrough](/posts/doors/the-mines-walkthrough/).
 
 ### Room Progression
 
@@ -221,7 +225,7 @@ The Mines is significantly more challenging than The Hotel. Access it from the L
 
 ## The Outdoors (Subfloor, August 2025)
 
-Garden-themed subfloor accessible with 10 Stardust from the Lobby.
+Garden-themed subfloor accessible with 10 Stardust from the Lobby. For a complete walkthrough, see our [DOORS The Outdoors Walkthrough](/posts/doors/the-outdoors-walkthrough/).
 
 | Entity | Warning | Survival |
 |--------|---------|----------|
@@ -238,7 +242,7 @@ Garden-themed subfloor accessible with 10 Stardust from the Lobby.
 
 ## Rush Mode & Endless Mode (April 2026)
 
-Both modes were introduced in the April Fools 2026 event and made **permanent** in the Visions tab.
+Both modes were introduced in the April Fools 2026 event and made **permanent** in the Visions tab. For advanced strategies and speedrun tips, see our [DOORS Speedrun Guide](/posts/doors/speedrun-guide/).
 
 ### Rush Mode
 
@@ -262,6 +266,8 @@ Both modes were introduced in the April Fools 2026 event and made **permanent** 
 ---
 
 ## Item Guide
+
+For a complete breakdown of every item, where to find it, and when to use it, see our [DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/).
 
 ### The Hotel Items (Jeff Shop, Doors 52-59)
 
@@ -341,7 +347,7 @@ Both modes were introduced in the April Fools 2026 event and made **permanent** 
 
 ## Secrets & Achievements
 
-DOORS has **87+ badges/achievements**. Here are the key ones to target:
+DOORS has **87+ badges/achievements**. For the complete list with unlock requirements, see our [DOORS Achievements and Secrets Guide](/posts/doors/achievements-and-secrets/). Here are the key ones to target:
 
 ### Easy Achievements
 

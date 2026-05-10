@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Terminal Commands Guide: Complete Reference (2026)"
-description: "Complete terminal command reference for Lethal Company. Every command including moons, store, bestiary, scan, switch, ping, transmit, and hidden commands."
+description: "Complete terminal command reference for Lethal Company. Every command including moons, store, bestiary, scan, switch, ping, and hidden commands."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Terminal Commands", "Guide", "Horror", "Co-op"]
+tags: ["Lethal Company", "PC Games", "Terminal Commands", "Guide", "Horror", "Co-op", "lethal company terminal guide", "lethal company all commands", "lethal company console"]
 categories: ["PC Games"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Monster Bestiary: Every Entity Explained (2026)"
-description: "Complete monster bestiary for Lethal Company with all 12+ entities. Real names, accurate behaviors, counter-strategies, danger levels, and detection methods."
+description: "Complete monster bestiary for Lethal Company with all 12+ entities. Learn behaviors, counter-strategies, danger levels, and detection methods."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Monster Bestiary", "Entity Guide", "Horror", "Co-op"]
+tags: ["Lethal Company", "PC Games", "Monster Bestiary", "Entity Guide", "Horror", "Co-op", "lethal company how to survive bracken", "lethal company coil head", "lethal company all monsters"]
 categories: ["PC Games"]
 ---
 

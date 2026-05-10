@@ -13,7 +13,8 @@ languages:
   en:
     label: English
     weight: 1
-    title: "DungeonPath"
+    locale: en-us
+    title: "DungeonPath — Free Game Guides & Walkthroughs"
     params:
       description: "Expert game guides and walkthroughs for Roblox, mobile, and PC games. Detailed tier lists, beginner guides, breeding charts, and strategy tips."
 
@@ -26,7 +27,8 @@ outputs:
 params:
   env: production
   description: "Expert game guides and walkthroughs for Roblox, mobile, and PC games. Detailed tier lists, beginner guides, breeding charts, and strategy tips."
-  keywords: ["game guides", "Roblox guides", "mobile game guides", "PC game guides", "Monster Legends", "Palworld", "Lethal Company", "My Singing Monsters", "walkthroughs", "tier lists"]
+  mainSections: ["posts"]
+  keywords: ["game guides", "Roblox guides", "mobile game guides", "PC game guides", "Monster Legends", "Palworld", "Lethal Company", "My Singing Monsters", "walkthroughs", "tier lists", "how to breed", "beginner guide", "best weapons", "monster guide", "boss guide", "strategy guide", "free game guide", "game walkthrough 2026"]
   author: DungeonPath Team
   DateFormat: "January 2, 2006"
 
@@ -34,6 +36,7 @@ params:
   images: ["images/banner.webp"]
   ToggleTheme: true
   ShowReadingTime: true
+  ShowWordCount: true
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -86,12 +89,18 @@ menu:
     - name: "Terms of Service"
       url: "/terms-of-service/"
       weight: 2
+    - name: "Refund Policy"
+      url: "/refund-policy/"
+      weight: 3
     - name: "Ad Disclosure"
       url: "/ad-disclosure/"
-      weight: 3
+      weight: 4
+    - name: "About"
+      url: "/about/"
+      weight: 5
     - name: "Contact"
       url: "mailto:jzerov@live.com"
-      weight: 4
+      weight: 6
 
 # SEO / Taxonomy
 taxonomies:
@@ -111,5 +120,9 @@ markup:
 
 services:
   googleAnalytics:
-    # Will be added later when GA is set up
-    # ID: "G-XXXXXXXXXX"
+    ID: "G-KPVC0NXDK2"
+
+# Site verification
+verify:
+  google: "nKpCprzOhJQoVYhA5Ewb6yvJwiEIBdcnpiIE2DJ0Q4Q"
+  bing: ""

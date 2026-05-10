@@ -1,10 +1,10 @@
 ---
 title: "Lethal Company Advanced Strategies Guide: Late-Game, Quota Scaling, and Max-Efficiency (2026)"
-description: "Master late-game Lethal Company with advanced strategies including quota scaling math, weather tactics, max-efficiency loot routes, inverse teleporter strategies, and more."
+description: "Master late-game Lethal Company with advanced strategies. Learn quota scaling math, weather tactics, max-efficiency loot routes, and more."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Advanced Strategies", "Horror", "Co-op", "Late Game"]
+tags: ["Lethal Company", "PC Games", "Advanced Strategies", "Horror", "Co-op", "Late Game", "lethal company quota scaling", "lethal company max efficiency", "lethal company endgame"]
 categories: ["PC Games"]
 ---
 

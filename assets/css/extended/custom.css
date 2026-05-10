@@ -525,6 +525,119 @@ details.toc a:hover {
   opacity: 1;
 }
 
+/* ---- Related Guides (bottom of single post) ---- */
+
+.related-guides {
+  margin-top: 3rem;
+  max-width: var(--main-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.related-divider {
+  border: none;
+  height: 2px;
+  background: var(--gradient-brand);
+  opacity: 0.5;
+  margin-bottom: 2rem;
+}
+
+.related-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--neon-cyan);
+  margin-bottom: 1.25rem;
+  text-shadow: 0 0 8px rgba(34, 211, 238, 0.2);
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .related-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.related-card:hover {
+  border-color: var(--neon-purple);
+  box-shadow: 0 0 12px rgba(168, 85, 247, 0.2);
+  transform: translateY(-2px);
+}
+
+.related-game-tag {
+  display: inline-block;
+  background: rgba(168, 85, 247, 0.12);
+  color: var(--neon-purple);
+  font-size: 0.65rem;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+}
+
+.related-card-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--content);
+  margin: 0 0 0.4rem;
+  line-height: 1.4;
+}
+
+.related-card:hover .related-card-title {
+  color: var(--neon-purple);
+}
+
+.related-card-desc {
+  font-size: 0.8rem;
+  color: var(--secondary);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* ===== Ad Placement Styles ===== */
+
+.ad-container {
+  max-width: var(--main-width);
+  margin: 2rem auto;
+  text-align: center;
+  min-height: 90px;
+}
+
+.ad-banner {
+  display: block;
+  margin: 1.5rem auto;
+  overflow: hidden;
+}
+
+.ad-label {
+  font-size: 0.65rem;
+  color: var(--secondary);
+  opacity: 0.6;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.25rem;
+}
+
 /* Mobile: scale down title */
 @media (max-width: 600px) {
   .neon-title {

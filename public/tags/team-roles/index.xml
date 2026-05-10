@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Team Roles on DungeonPath</title><link>https://dungeonpath.com/tags/team-roles/</link><description>Recent content in Team Roles on DungeonPath</description><image><title>DungeonPath</title><url>https://dungeonpath.com/images/banner.webp</url><link>https://dungeonpath.com/images/banner.webp</link></image><generator>Hugo</generator><language>en</language><copyright>2026 DungeonPath</copyright><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dungeonpath.com/tags/team-roles/index.xml" rel="self" type="application/rss+xml"/><item><title>Lethal Company Co-op Team Roles Guide: Optimal 4-Player Team Composition (2026)</title><link>https://dungeonpath.com/posts/lethal-company/coop-team-roles-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/lethal-company/coop-team-roles-guide/</guid><description>Learn the optimal 4-player team composition in Lethal Company. Ship Operator, Scout, Hauler, Support — complete role guide with communication protocols and coordination.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Team Roles on DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+    <link>https://dungeonpath.com/tags/team-roles/</link>
+    <description>Recent content in Team Roles on DungeonPath — Free Game Guides &amp; Walkthroughs</description>
+    <image>
+      <title>DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/team-roles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lethal Company Co-op Team Roles Guide: Optimal 4-Player Team Composition (2026)</title>
+      <link>https://dungeonpath.com/posts/lethal-company/coop-team-roles-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/lethal-company/coop-team-roles-guide/</guid>
+      <description>Learn optimal 4-player team composition in Lethal Company. Ship Operator, Scout, Hauler, and Support roles with communication protocols.</description>
+    </item>
+  </channel>
+</rss>

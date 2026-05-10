@@ -1,1 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Palworld on DungeonPath</title><link>https://dungeonpath.com/tags/palworld/</link><description>Recent content in Palworld on DungeonPath</description><image><title>DungeonPath</title><url>https://dungeonpath.com/images/banner.webp</url><link>https://dungeonpath.com/images/banner.webp</link></image><generator>Hugo</generator><language>en</language><copyright>2026 DungeonPath</copyright><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dungeonpath.com/tags/palworld/index.xml" rel="self" type="application/rss+xml"/><item><title>Palworld Base Building Guide: Locations, Layouts &amp; Automation (2026)</title><link>https://dungeonpath.com/posts/palworld/base-building-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/base-building-guide/</guid><description>Complete Palworld base building guide covering best base locations, optimal layout designs, Pal assignment strategies, automation setup, defense, and multi-base management.</description></item><item><title>Palworld Beginner's Guide: Survival, Crafting &amp; First Pals (2026)</title><link>https://dungeonpath.com/posts/palworld/beginner-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/beginner-guide/</guid><description>New to Palworld? This complete beginner&amp;#39;s guide covers survival basics, first Pals, base building, leveling tips, food systems, and common mistakes to avoid.</description></item><item><title>Palworld Best Pals Tier List: Combat, Mounts &amp; Work (2026)</title><link>https://dungeonpath.com/posts/palworld/best-pals-tier-list/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/best-pals-tier-list/</guid><description>Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work. S/A/B/C tiers with detailed reasoning. Covers Anubis, Jormuntide, Frostallion, Jetragon and more.</description></item><item><title>Palworld Boss &amp; Tower Guide: All Bosses, Strategies &amp; Rewards (2026)</title><link>https://dungeonpath.com/posts/palworld/boss-and-tower-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/boss-and-tower-guide/</guid><description>Complete guide to every boss in Palworld including all 5 tower bosses, alpha bosses, dungeon bosses, and legendary Pal boss fights with strategies, weaknesses, and rewards.</description></item><item><title>Palworld Breeding Guide: Combos, Passives &amp; Best Crossbreeds (2026)</title><link>https://dungeonpath.com/posts/palworld/breeding-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/breeding-guide/</guid><description>Complete guide to Palworld breeding mechanics including breeding pen setup, cake requirements, all crossbreed combos, passive skill inheritance, and how to breed top Pals like Anubis.</description></item><item><title>Palworld Pal Locations Guide: Every Pal by Biome (2026)</title><link>https://dungeonpath.com/posts/palworld/pal-locations-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/pal-locations-guide/</guid><description>Where to find every Pal in Palworld by biome including Grasslands, Desert, Volcano, Snow, and Dungeon spawn locations, rare spawns, day/night differences, and alpha Pals.</description></item><item><title>Palworld Resources &amp; Materials Guide: Farming Every Item (2026)</title><link>https://dungeonpath.com/posts/palworld/resources-and-materials-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/resources-and-materials-guide/</guid><description>Complete guide to all resources and materials in Palworld including wood, stone, ore, coal, sulfur, quartz, paldium, best farming locations, and automation setups.</description></item><item><title>Palworld Technology &amp; Progression Guide: Level 1 to 50 Roadmap (2026)</title><link>https://dungeonpath.com/posts/palworld/technology-and-progression-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/palworld/technology-and-progression-guide/</guid><description>Complete Palworld technology tree guide with level-by-level unlock priorities, Ancient Technology points, Statue of Power upgrades, Lifmunk Effigies, and full progression roadmap.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Palworld Guides — Survival Game Walkthroughs, Pal Locations &amp; Breeding on DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+    <link>https://dungeonpath.com/tags/palworld/</link>
+    <description>Recent content in Palworld Guides — Survival Game Walkthroughs, Pal Locations &amp; Breeding on DungeonPath — Free Game Guides &amp; Walkthroughs</description>
+    <image>
+      <title>DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/palworld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palworld Base Building Guide: Locations, Layouts &amp; Automation (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/base-building-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/base-building-guide/</guid>
+      <description>Complete Palworld base building guide covering best base locations, optimal layout designs, Pal assignment strategies, automation setup, defense, and multi-base management.</description>
+    </item>
+    <item>
+      <title>Palworld Beginner&#39;s Guide: Survival, Crafting &amp; First Pals (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/beginner-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/beginner-guide/</guid>
+      <description>New to Palworld? This complete beginner&amp;#39;s guide covers survival basics, first Pals, base building, leveling tips, food systems, and common mistakes to avoid.</description>
+    </item>
+    <item>
+      <title>Palworld Best Pals Tier List: Combat, Mounts &amp; Work (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/best-pals-tier-list/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/best-pals-tier-list/</guid>
+      <description>Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work. S/A/B/C tiers with detailed reasoning. Covers Anubis, Jormuntide, Frostallion, Jetragon and more.</description>
+    </item>
+    <item>
+      <title>Palworld Boss &amp; Tower Guide: All Bosses, Strategies &amp; Rewards (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/boss-and-tower-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/boss-and-tower-guide/</guid>
+      <description>Complete guide to every boss in Palworld including all 5 tower bosses, alpha bosses, dungeon bosses, and legendary Pal boss fights with strategies, weaknesses, and rewards.</description>
+    </item>
+    <item>
+      <title>Palworld Breeding Guide: Combos, Passives &amp; Best Crossbreeds (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/breeding-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/breeding-guide/</guid>
+      <description>Complete guide to Palworld breeding mechanics including breeding pen setup, cake requirements, all crossbreed combos, passive skill inheritance, and how to breed top Pals like Anubis.</description>
+    </item>
+    <item>
+      <title>Palworld Pal Locations Guide: Every Pal by Biome (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/pal-locations-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/pal-locations-guide/</guid>
+      <description>Where to find every Pal in Palworld by biome including Grasslands, Desert, Volcano, Snow, and Dungeon spawn locations, rare spawns, day/night differences, and alpha Pals.</description>
+    </item>
+    <item>
+      <title>Palworld Resources &amp; Materials Guide: Farming Every Item (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/resources-and-materials-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/resources-and-materials-guide/</guid>
+      <description>Complete guide to all resources and materials in Palworld including wood, stone, ore, coal, sulfur, quartz, paldium, best farming locations, and automation setups.</description>
+    </item>
+    <item>
+      <title>Palworld Technology &amp; Progression Guide: Level 1 to 50 Roadmap (2026)</title>
+      <link>https://dungeonpath.com/posts/palworld/technology-and-progression-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/palworld/technology-and-progression-guide/</guid>
+      <description>Complete Palworld technology tree guide with level-by-level unlock priorities, Ancient Technology points, Statue of Power upgrades, Lifmunk Effigies, and full progression roadmap.</description>
+    </item>
+  </channel>
+</rss>

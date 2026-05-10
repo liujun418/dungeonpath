@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Wave Guide on DungeonPath</title><link>https://dungeonpath.com/tags/wave-guide/</link><description>Recent content in Wave Guide on DungeonPath</description><image><title>DungeonPath</title><url>https://dungeonpath.com/images/banner.webp</url><link>https://dungeonpath.com/images/banner.webp</link></image><generator>Hugo</generator><language>en</language><copyright>2026 DungeonPath</copyright><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dungeonpath.com/tags/wave-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)</title><link>https://dungeonpath.com/posts/tower-defense-simulator/enemy-wave-guide/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://dungeonpath.com/posts/tower-defense-simulator/enemy-wave-guide/</guid><description>Complete guide to every enemy type in Tower Defense Simulator. Learn enemy stats, abilities, boss mechanics, and wave patterns for every map and gamemode.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wave Guide on DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+    <link>https://dungeonpath.com/tags/wave-guide/</link>
+    <description>Recent content in Wave Guide on DungeonPath — Free Game Guides &amp; Walkthroughs</description>
+    <image>
+      <title>DungeonPath — Free Game Guides &amp; Walkthroughs</title>
+      <url>https://dungeonpath.com/images/banner.webp</url>
+      <link>https://dungeonpath.com/images/banner.webp</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2026 DungeonPath</copyright>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dungeonpath.com/tags/wave-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)</title>
+      <link>https://dungeonpath.com/posts/tower-defense-simulator/enemy-wave-guide/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://dungeonpath.com/posts/tower-defense-simulator/enemy-wave-guide/</guid>
+      <description>Complete guide to every enemy type in Tower Defense Simulator. Learn enemy stats, abilities, boss mechanics, and wave patterns for every map and gamemode.</description>
+    </item>
+  </channel>
+</rss>

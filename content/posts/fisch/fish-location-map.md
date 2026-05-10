@@ -1,10 +1,10 @@
 ---
 title: "Fisch Fish Location Map (May 2026): Where to Find Every Fish"
-description: "Complete guide to all fishing locations in Roblox Fisch. Learn how to unlock every island, what fish to catch, and the best bait and conditions for each spot."
+description: "Complete guide to all fishing locations in Roblox Fisch. Learn to unlock islands, what fish to catch, and the best bait for each spot."
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Locations", "Fish Map", "Guide", "Bestiary"]
+tags: ["Fisch", "Roblox", "Locations", "Fish Map", "Guide", "Bestiary", "all fisch fish locations", "fisch island unlock guide", "fisch best fishing spots"]
 categories: ["Roblox Guides"]
 ---
 
@@ -61,7 +61,7 @@ Moosewood is the tutorial dock where every player begins. It sits at the center 
 ### Tips
 
 - Fish here until you can afford the **Carbon Rod** (~2,000 C$)
-- Complete **Pierre's tutorial quests** for bonus XP
+- Complete **Pierre's tutorial quests** for bonus XP (see our [Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/) for all quest details)
 - Talk to **Phineas** near the docks for your first bait quest
 - Use the **Fish Merchant** to sell catches and **Appraiser** to appraise them
 
@@ -296,7 +296,7 @@ Some fish only appear under specific conditions. Here's a quick reference:
 | **Absolute Darkness** | Complete blackness (Desolate Deep) | Desolate Deep, Mariana's Veil |
 | **Blizzard** | Heavy snow, whiteout | Snowcap Island only |
 
-> **Pro Tip:** You can force specific weather conditions using **Weather Totems**. The **Rain Totem** forces rain, the **Sundial Totem** forces clear weather, and the **Tempest Totem** triggers a storm. Use these to target specific fish.
+> **Pro Tip:** You can force specific weather conditions using **Weather Totems** (see our [Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/) guide for totem strategies). The **Rain Totem** forces rain, the **Sundial Totem** forces clear weather, and the **Tempest Totem** triggers a storm. Use these to target specific fish.
 
 ---
 

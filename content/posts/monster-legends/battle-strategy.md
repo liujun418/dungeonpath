@@ -1,10 +1,10 @@
 ---
 title: "Monster Legends Battle Strategy Guide: PvP, Team Wars, and Advanced Combat Tactics (2026)"
-description: "Master Monster Legends combat with advanced battle strategies. Learn team building, turn order manipulation, status effect combos, PvP climbing tactics, and Team War coordination."
+description: "Master Monster Legends combat with advanced battle strategies. Learn team building, turn order, status combos, PvP climbing, and Team War tactics."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Team Wars", "Combat"]
+tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Team Wars", "Combat", "monster legends pvp guide", "monster legends team war", "monster legends combat tips"]
 categories: ["Mobile Games"]
 ---
 

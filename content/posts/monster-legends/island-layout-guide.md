@@ -1,10 +1,10 @@
 ---
 title: "Monster Legends Island and Habitat Layout Guide: Optimal Base Design (2026)"
-description: "Complete Monster Legends island layout guide. Learn the best habitat placement, which islands to unlock first, how to maximize gold production, and efficient base organization strategies."
+description: "Complete Monster Legends island layout guide. Learn best habitat placement, which islands to unlock first, and how to maximize gold production."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Islands", "Habitats", "Base Building", "Layout"]
+tags: ["Monster Legends", "Mobile Games", "Islands", "Habitats", "Base Building", "Layout", "monster legends island order", "monster legends best habitat", "monster legends base design"]
 categories: ["Mobile Games"]
 ---
 
