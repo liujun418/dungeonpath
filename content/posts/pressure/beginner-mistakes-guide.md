@@ -1,10 +1,10 @@
 ---
 title: "Pressure Common Mistakes Guide: 15 Things New Players Get Wrong (and How to Fix Them) (2026)"
-description: "Avoid the most common mistakes new Pressure players make. Learn what not to do, why these mistakes cost you runs, and how to fix them immediately."
+description: "Avoid the most common mistakes new Pressure players make in 2026. Learn what not to do, why these mistakes cost runs, and how to fix them to survive longer."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Beginner Guide", "Mistakes", "Tips", "Horror"]
+tags: ["Pressure", "Roblox", "Beginner Guide", "Mistakes", "Tips", "Horror", "pressure common mistakes", "pressure beginner tips", "pressure mistakes guide"]
 categories: ["Roblox Guides"]
 ---
 
@@ -135,7 +135,7 @@ Entities in Pressure are pattern-based. They follow predictable rules. If you do
 3. **Test different responses.** Try hiding early, hiding late, running, and standing still. See what works.
 4. **Record your findings.** Even a simple mental note like "Angler flickers lights then splashes, hide in far locker" helps.
 
-**Entity Pattern Reference:**
+**Entity Pattern Reference (see the [Entities Guide](/posts/pressure/entities-guide/) for a complete bestiary):**
 
 | Entity | Warning Signs | Survival Action | Common Mistake |
 |--------|--------------|-----------------|----------------|
@@ -235,7 +235,7 @@ Some rooms are inherently safer than others. Locker rooms, medical bays, and sup
 | **Heavy Containment** | Dangerous | Fewer lockers, more entities; enter with caution |
 | **Flesh Room** | Very Dangerous | Unpredictable layout, limited hiding spots; rush through |
 
-**Safe Room Strategy:** When you find a very safe room, take a moment to heal, organize inventory, and prepare for the next stretch. Do not just blast through it.
+**Safe Room Strategy:** When you find a very safe room, take a moment to heal, organize inventory, and prepare for the next stretch. Do not just blast through it. For a complete floor-by-floor guide to room types and layouts, see the [Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Monster Bestiary: Every Entity Explained (2026)"
-description: "Complete monster bestiary for Lethal Company with all 12+ entities. Learn behaviors, counter-strategies, danger levels, and detection methods."
+description: "Complete monster bestiary for Lethal Company with all 12+ entities. Learn behaviors, counter-strategies, danger levels, and detection methods to survive."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -468,7 +468,7 @@ The Nutcracker is a large, wooden soldier that patrols mansion/laboratory interi
 | **Stun grenade** | Stuns through all phases, easy kill setup |
 
 **Nutcracker Farming:**
-Killing Nutcrackers is one of the best ways to get shotguns, which are both a powerful weapon and valuable scrap (shotguns sell for 90-150 credits, shells for 10-30 each).
+Killing Nutcrackers is one of the best ways to get shotguns, which are both a powerful weapon and valuable scrap (shotguns sell for 90-150 credits, shells for 10-30 each). For a complete database of all scrap items and value ranges, see our [Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/).
 
 ---
 
@@ -535,13 +535,16 @@ Use this table when you encounter a monster mid-game and need a fast reminder:
 
 Knowing your monsters is the difference between a successful run and a squad wipe in Lethal Company. Each entity has a specific behavioral pattern and a counter-strategy. The most dangerous situations arise when multiple monster types appear together — a Coil-Head blocking a corridor while a Bracken stalks you from behind, or a Jester winding up while Eyeless Dogs patrol outside.
 
-Master the monsters one at a time. Learn the Bracken dance before you tackle Titan. Practice the Coil-Head stare on Assurance. And always, always check the ceiling.
+Master the monsters one at a time. Learn the Bracken dance before you tackle Titan. Practice the Coil-Head stare on Assurance. Use the terminal `bestiary` command to review scanned entities in-game, and always, always check the ceiling. For a full list of terminal commands, see our [Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/).
 
 ---
 
 ### Related Guides
 
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
+- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
+- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)

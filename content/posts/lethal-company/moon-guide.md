@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Moons Guide: Complete Moon Rankings and Strategies (2026)"
-description: "Every moon in Lethal Company ranked by difficulty with loot values, monster spawns, travel costs, weather effects, and profit strategies."
+description: "Every moon in Lethal Company ranked by difficulty with complete loot values, monster spawns, travel costs, weather effects, and profit strategies for 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -351,7 +351,10 @@ The progression path is clear: master Experimentation, learn the factory layouts
 
 ### Related Guides
 
+- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
 - [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
 - [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
+- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)

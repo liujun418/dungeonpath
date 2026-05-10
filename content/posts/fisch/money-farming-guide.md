@@ -111,6 +111,8 @@ When a fish has multiple mutations, the multipliers **stack multiplicatively**:
 
 ## Best Locations for Money Farming
 
+For a complete map of every fishing spot, see our [Fisch Fish Location Map](/posts/fisch/fish-location-map/).
+
 ### Early Game (0–50,000 C$)
 
 #### 1. Moosewood — Starting Zone
@@ -202,6 +204,8 @@ Different rods excel at different farming strategies. Here's a breakdown:
 
 ### Money Farming Rod Rankings
 
+For a complete ranking of every rod, see our [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/).
+
 | Rod | Cost/Requirement | Why It's Good for Money | Best Location |
 |-----|-----------------|------------------------|---------------|
 | **Ethereal Prism Rod** | 3,500,000 C$ | **Prismize passive**: 50% chance for 5.5x value on every catch | Any high-value location |
@@ -277,7 +281,7 @@ Quests are one of the most reliable coin sources, especially in the early and mi
 
 ### Quest Completion Priority
 
-Complete quests in this order for maximum coin efficiency:
+For a detailed breakdown of every quest and NPC, see our [Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/). Complete quests in this order for maximum coin efficiency:
 
 1. **All Pierre quests** — quick, easy, unlocks core knowledge
 2. **All Phineas bait quests** — bait is essential for farming
@@ -482,6 +486,7 @@ Ready to put these strategies into action? Check out our other Fisch guides:
 3. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish by location
 4. **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Free coins, bait, and items from active codes
 5. **[Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/)** — All quests, NPC locations, and rewards
+6. **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies, weather manipulation, and rare fish hunting
 
 ---
 

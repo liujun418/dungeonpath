@@ -1,6 +1,6 @@
 ---
 title: "DOORS Achievements and Secrets Guide: All Achievements, Easter Eggs, and Hidden Content (2026)"
-description: "Complete guide to all DOORS achievements, secret rooms, easter eggs, and hidden content. Unlock everything the game has to offer."
+description: "Complete guide to all DOORS achievements, secret rooms, easter eggs, and hidden content in Roblox. Unlock everything the game has to offer with expert tips."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

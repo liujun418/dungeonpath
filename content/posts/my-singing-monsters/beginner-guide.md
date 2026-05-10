@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Beginner Guide: Tips, Islands, and Getting Started (2026)"
-description: "New to My Singing Monsters? This complete beginner guide covers islands, breeding, currencies, leveling, and pro tips to fast-track your progress in 2026."
+description: "New to My Singing Monsters in 2026? This beginner guide covers islands, breeding, currencies, leveling, and pro tips to fast-track your progress every day."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips and Tricks"]
+tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips and Tricks", "msm breeding chart", "how to get ghazt", "my singing monsters guide"]
 categories: ["Mobile Games"]
 ---
 
@@ -203,7 +203,7 @@ Wishing Torches are a social feature that increases your chances of breeding rar
 ### Level 12-20: Mid-Game Foundation
 
 1. **Unlock Ethereal Island** (Level 12) and **Wublin Island** (Level 12)
-2. **Breed Ghazt** on Plant Island using Entbrat + 3-element combo
+2. **Breed Ghazt** on Plant Island using Entbrat + 3-element combo (see our [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}))
 3. **Start powering up Zynth** on Wublin Island (easiest and most rewarding Wublin)
 4. **Join a Tribal Island** and feed your monster weekly
 5. **Upgrade Bakeries** to produce higher-tier treats
@@ -245,7 +245,7 @@ Wishing Torches are a social feature that increases your chances of breeding rar
 
 **Why it hurts:** Wublins, especially Zynth, produce diamonds, coins, treats, and shards daily. Delaying Wublin Island means missing out on passive income.
 
-**Fix:** Start working toward your first Zynth as soon as you unlock Wublin Island at Level 12.
+**Fix:** Start working toward your first Zynth as soon as you unlock Wublin Island at Level 12. See our [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) for optimal zapping strategies.
 
 ### Mistake 7: Breeding Without Torches
 

@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Beginner Guide: Survive Your First Quota (2026)"
-description: "New to Lethal Company? This beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
+description: "New to Lethal Company in 2026? This beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -95,7 +95,7 @@ Facilities have a main entrance and sometimes a fire exit. The interior consists
 
 ### Step 6: Collect Scrap
 
-Walk up to any scrap item and press **E** to pick it up. One-handed items let you carry something else in your other hand. Two-handed items require both hands. Bring scrap back to the ship and drop it in the storage area.
+Walk up to any scrap item and press **E** to pick it up. One-handed items let you carry something else in your other hand. Two-handed items require both hands. Bring scrap back to the ship and drop it in the storage area. For a complete database of all scrap items, value ranges, and sell priorities, see our [Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/).
 
 ### Step 7: Sell Before Midnight
 
@@ -109,7 +109,7 @@ Once everyone is on the ship and the scrap is sold, you can type `stop` at the t
 
 ### 1. Never Split Up Alone
 
-Always travel with at least one other person. Solo players who encounter a Bracken or Coil-Head rarely survive. The buddy system saves lives.
+Always travel with at least one other person. Solo players who encounter a Bracken or Coil-Head rarely survive. The buddy system saves lives. For optimal team composition and communication, see our [Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/).
 
 ### 2. Watch Your Stamina
 
@@ -248,6 +248,8 @@ Once your quota exceeds 300 credits, Experimentation and Assurance may not provi
 | 400-700 | March, Rend (if you can afford travel) |
 | 700+ | Titan (best loot, highest danger) |
 
+For advanced quota scaling strategies, weather survival tactics, and max-efficiency routing, see our [Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/).
+
 ## Conclusion
 
 Lethal Company has a steep learning curve, but mastering the basics outlined in this guide will see you through your first quota and well beyond. Remember: **communication, caution, and teamwork** are more important than any piece of equipment.
@@ -258,7 +260,10 @@ The most successful teams are those that respect the monsters, watch the clock, 
 
 ### Related Guides
 
+- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Moons Guide: Complete Moon Rankings and Strategies](/posts/lethal-company/moon-guide/)
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
+- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
 - [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)

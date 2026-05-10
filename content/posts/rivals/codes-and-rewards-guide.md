@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Codes Guide: All Active Codes for May 2026 (+ Free Skins and Coins)"
-description: "Complete list of all active RIVALS codes for May 2026. Get free weapon skins, coins, and exclusive items. Updated regularly."
+description: "Complete list of all active RIVALS codes for May 2026 on Roblox. Get free weapon skins, coins, and exclusive cosmetic items every day with new code updates."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Codes", "Free Items", "Rewards", "Weapon Skins"]
+tags: ["RIVALS", "Roblox", "Codes", "Free Items", "Rewards", "Weapon Skins", "rivals codes 2026", "rivals free skins", "rivals key codes"]
 categories: ["Roblox Guides"]
 ---
 
@@ -12,7 +12,7 @@ categories: ["Roblox Guides"]
 
 ## All Active RIVALS Codes (May 2026)
 
-**RIVALS** by Nosniy Games is one of the most-played Roblox shooters in 2026, and the developers regularly release promotional codes that grant free Keys, weapon wraps, emotes, and exclusive cosmetic items. Whether you're a brand-new player looking for a free boost or a veteran hunting rare cosmetics, this guide has every working code and everything you need to know about redeeming them.
+**RIVALS** by Nosniy Games is one of the most-played Roblox shooters in 2026, and the developers regularly release promotional codes that grant free Keys, weapon wraps, emotes, and exclusive cosmetic items. Whether you're a brand-new player looking for a free boost or a veteran hunting rare cosmetics, this guide has every working code and everything you need to know about redeeming them. For a complete beginner's walkthrough, see the [RIVALS Beginner Guide](/posts/rivals/beginner-guide/).
 
 ### Working Codes
 
@@ -102,7 +102,7 @@ Keys are the most important currency in RIVALS. They are used to purchase weapon
 | 3 Keys | Milestone codes | Mid-tier weapon — e.g., Knife (melee) costs ~20 Keys total |
 | 5 Keys | Premium/event codes | Significant chunk toward a powerful weapon purchase |
 
-> **Strategy tip:** Every Key from a code is a Key you don't have to earn through gameplay. If you redeem all active codes, you can earn enough Keys to buy your first weapon upgrade within minutes of starting the game.
+> **Strategy tip:** Every Key from a code is a Key you don't have to earn through gameplay. If you redeem all active codes, you can earn enough Keys to buy your first weapon upgrade within minutes of starting the game. For a full breakdown of weapon prices and purchase priorities, check the [RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/).
 
 ### Weapon Wraps
 
@@ -195,6 +195,8 @@ Getting free stuff from codes is great, but using those rewards strategically ma
 ### 1. Redeem Every Code Immediately
 
 Codes expire without notice, and seasonal codes have hard expiration dates. The moment you see a new code, open RIVALS and redeem it. Don't wait — even "permanent" codes can be retired at the developer's discretion.
+
+If you are optimizing your setup for competitive play, see the [RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/) for FOV, sensitivity, and keybind recommendations.
 
 ### 2. Spend Keys on Weapons First, Cosmetics Second
 

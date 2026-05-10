@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Beginner Guide: Complete Walkthrough for New Players (May 2026)"
-description: "Everything you need to know to start winning in Roblox RIVALS. Learn movement mechanics, weapon loadouts, map strategies, and ranked tips."
+description: "Everything you need to know to start winning in Roblox RIVALS in 2026. Learn movement mechanics, weapon loadouts, map strategies, and ranked tips for success."
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["RIVALS", "Roblox", "Beginner Guide", "FPS", "PVP", "Tips"]
+tags: ["RIVALS", "Roblox", "Beginner Guide", "FPS", "PVP", "Tips", "rivals best loadout", "rivals movement guide", "rivals ranked tips"]
 categories: ["Roblox Guides"]
 ---
 
@@ -52,9 +52,13 @@ Before diving into serious matches, adjust these settings:
 | **Camera Sensitivity** | Default | Adjust to comfort | Too fast = shaky aim, too slow = can't track fast targets |
 | **Chat** | On | Off (in competitive matches) | Removes visual clutter during fights |
 
+For a complete settings guide covering FOV, sensitivity, crosshair, graphics, and keybinds, see the [RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/).
+
 ### Start in Beginner 2v2
 
 RIVALS offers a **Beginner 2v2 mode** specifically for new players. This is the best way to learn without getting destroyed by experienced opponents. Play 5-10 matches here before jumping into regular matchmaking.
+
+For a complete breakdown of every game mode including ranked rules, MMR mechanics, and competitive strategies, see the [RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/).
 
 ### Visit the Shooting Range
 
@@ -76,7 +80,7 @@ RIVALS regularly releases codes for free Keys and cosmetics. Here are the curren
 | BOOST | 1 Key |
 | ROBLOX_RTC | 5 Keys |
 
-Redeem codes in the **Shop** menu. Keys are the primary currency for buying weapons, so don't skip this.
+Redeem codes in the **Shop** menu. Keys are the primary currency for buying weapons, so don't skip this. For the latest codes and detailed redemption tips, see the [RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/).
 
 ---
 
@@ -108,6 +112,8 @@ Most matches follow a **first-to-5 round wins** format:
 ## Movement Mechanics — The Foundation of RIVALS
 
 Movement is **the most important skill** in RIVALS. Players who master movement will beat players with better aim every time. Here's what you need to learn, in order:
+
+For a complete deep dive into every movement technique including slide cancels, grenade boosting, and Scythe dash combos, see the [RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/).
 
 ### 1. Slide Jump (Learn This First)
 
@@ -156,6 +162,8 @@ Press Ctrl to slide, then quickly release and change direction. This lets you:
 > **Note:** Lure Speed caps at 99%. A weapon with 1000% lure speed isn't faster than one with 99% — both fire at maximum rate.
 
 ### Primary Weapons — Tier Overview
+
+For a complete ranking of every weapon with detailed stats, prices, and playstyle recommendations, see the [RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/).
 
 | Weapon | Tier | Best For | Key Strength |
 |--------|------|----------|-------------|
@@ -268,6 +276,8 @@ Press Ctrl to slide, then quickly release and change direction. This lets you:
 ### Map Voting System
 
 Before each match, players vote on which map to play. Learning the layouts of popular maps gives you a significant advantage — you'll know sightlines, hiding spots, and flanking routes.
+
+For detailed map-by-map breakdowns with callouts, sniper spots, and winning strategies, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 ### Map Categories
 
@@ -479,11 +489,17 @@ A: The **Bow** has the highest skill ceiling among primaries due to its arcing p
 
 ## Next Steps
 
-Ready for more RIVALS content? Check out our other guides:
+Ready to put these skills into practice? Check out our other RIVALS guides:
 
-- **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for the popular Roblox fishing game
-- **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every fishing rod ranked by tier
-- **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Survive the Hadal Blacksite
+1. **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
+2. **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked by tier for Season 12
+3. **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
+4. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
+5. **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — All game modes explained, ranked climbing tips
+6. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
+7. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
+
+Also check out our other Roblox game guides:
 - **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
 
 ---

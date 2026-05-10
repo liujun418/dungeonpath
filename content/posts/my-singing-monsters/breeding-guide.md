@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Breeding Guide: All Combinations, Times, and Secrets (2026)"
-description: "Complete breeding guide for My Singing Monsters with all island combinations, breeding times, rare and ethereal breeding formulas, and pro strategies for every monster."
+description: "Complete breeding guide for My Singing Monsters with all island combinations, breeding times, rare and ethereal formulas for every monster and island in 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Breeding Combinations"]
+tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Breeding Combinations", "msm breeding chart", "msm breeding times", "my singing monsters all combos"]
 categories: ["Mobile Games"]
 ---
 
@@ -343,4 +343,5 @@ Remember that MSM breeding is designed to take time. The thrill of finally seein
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Using bred monsters for Wublins
 - [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}) -- Seasonal breeding windows
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Maximizing resources
+- [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary monsters
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monsters and teleportation

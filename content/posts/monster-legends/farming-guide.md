@@ -79,7 +79,7 @@ At this stage, gold flows in from multiple sources:
 | 10+ maxed habitats with Legendaries/Mythics | 5,000,000 – 10,000,000 | Fill every habitat slot |
 | Adventure Map Chapter 5+ farming | 2,000,000 – 4,000,000 | Auto-farm highest gold node while sleeping |
 | Team Wars (active team) | 1,000,000 – 3,000,000 | Join a top-100 team |
-| Events | 1,000,000 – 5,000,000 | Prioritize gold rewards in events |
+| Events | 1,000,000 – 5,000,000 | Prioritize gold rewards in events. See our [Events Guide](/posts/monster-legends/events-guide/) for Maze and Race strategies. |
 | Temple bonus income | +15-25% to all gold | Upgrade all temples to level 10 |
 | **Total Potential** | **10M – 22M+ per day** | Full optimization |
 
@@ -140,7 +140,7 @@ Food is the real bottleneck in Monster Legends. Leveling a single Mythic from 1 
 | Purchase | Cost | Priority | ROI |
 |----------|------|----------|-----|
 | Extra Worker | 200 gems | #1 | Doubles all building speed permanently |
-| Breeding Mountain Level 4 | 240 gems total | #2 | 3 breeding slots doubles breeding output |
+| Breeding Mountain Level 4 | 240 gems total | #2 | 3 breeding slots doubles breeding output. See [Breeding Guide](/posts/monster-legends/breeding-guide/) for efficient strategies. |
 | Hatchery Level 3 | 150 gems total | #3 | More egg slots = faster breeding cycles |
 | 3rd Worker | 500 gems | #4 | Triples building speed |
 | Island unlocks | 250-500 gems each | #5 | More habitat space |
@@ -196,6 +196,10 @@ Food is the real bottleneck in Monster Legends. Leveling a single Mythic from 1 
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — Start here if you're new
-- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) — Breed the monsters worth feeding
-- [Monster Legends Tier List](/posts/monster-legends/tier-list/) — Know which monsters to invest your food in
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

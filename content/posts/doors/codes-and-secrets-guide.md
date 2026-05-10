@@ -1,6 +1,6 @@
 ---
 title: "DOORS Codes and Secrets Guide: Active Codes, Easter Eggs, and Hidden Content (2026)"
-description: "Complete guide to DOORS codes, easter eggs, secret rooms, and hidden content. Find all active codes and unlock exclusive achievements."
+description: "Complete guide to DOORS codes, easter eggs, secret rooms, and hidden content in Roblox. Find all active codes and unlock exclusive achievements and rewards."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

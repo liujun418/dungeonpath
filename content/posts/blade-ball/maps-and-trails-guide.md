@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball Maps and Trails Guide: All Locations and Cosmetics (2026)"
-description: "All Blade Ball maps, trails, and cosmetics guide. Learn map layouts, best positioning spots, and how to unlock exclusive sword skins and trails."
+description: "All Blade Ball maps, trails, and cosmetics guide for Roblox. Learn map layouts, best positioning spots, and how to unlock exclusive sword skins and trails."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

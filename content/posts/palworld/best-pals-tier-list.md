@@ -1,10 +1,10 @@
 ---
 title: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026)"
-description: "Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work. S/A/B/C tiers with detailed reasoning. Covers Anubis, Jormuntide, Frostallion, Jetragon and more."
+description: "Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work in 2026. S/A/B/C tier rankings with detailed reasoning for each Pal."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Tier List", "Best Pals", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Tier List", "Best Pals", "Guides", "best pal for mining", "palworld best mounts", "palworld combat pals"]
 categories: ["PC Games"]
 ---
 
@@ -211,6 +211,8 @@ Some Pals excel in multiple roles simultaneously. These are the most valuable Pa
 
 ## Tier List Summary: Best Pals to Prioritize
 
+For exact spawn locations of every Pal mentioned below, see the [Pal Locations Guide](../palworld/pal-locations-guide.md).
+
 ### Early Game (Levels 1-20)
 
 | Pal | Why |
@@ -248,12 +250,14 @@ Some Pals excel in multiple roles simultaneously. These are the most valuable Pa
 
 The "best" Pal depends on what you need right now. If you are base-building, Anubis and Jormuntide are your priorities. If you are exploring, Jetragon or Frostallion should be your target. If you are boss-hunting, Paladius and Shadowbeak will carry you through.
 
-The single most impactful Pal in the game is **Frostallion** -- the only Pal that is S-tier in combat, mount, and work simultaneously. Every player should prioritize obtaining one (either by catching at level 50 or breeding).
+The single most impactful Pal in the game is **Frostallion** -- the only Pal that is S-tier in combat, mount, and work simultaneously. Every player should prioritize obtaining one (either by catching at level 50 or breeding). For a complete guide on farming the materials needed to craft spheres, food, and gear, see the [Resources & Materials Guide](../palworld/resources-and-materials-guide.md).
 
 ### Continue Reading
 
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start your journey here.
 - **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- How to breed Anubis, Frostallion, and other top Pals.
 - **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Optimize your base with the right Pals.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to find every Pal mentioned in this tier list.
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Use the right combat Pals for each boss.
+- **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farm materials for spheres and gear.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Leveling roadmap.

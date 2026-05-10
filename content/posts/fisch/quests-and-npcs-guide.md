@@ -1,6 +1,6 @@
 ---
 title: "Fisch Quests and NPCs Guide: All Quests, NPC Locations, and Rewards (2026)"
-description: "Complete guide to every quest and NPC in Fisch. Learn where to find each NPC, what quests they offer, and what rewards you can earn."
+description: "Complete guide to every quest and NPC in Roblox Fisch for 2026. Learn where to find each NPC, what quests they offer, and what rewards you can earn from them."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -241,7 +241,7 @@ The Keeper allows you to permanently enchant your fishing rods, adding passive b
 | **Mutation Enchantment** | +10–25% mutation chance | Rare Enchant Relics | More mutations per catch |
 | **Value Enchantment** | +10–20% fish value | Rare Enchant Relics | More coins per fish |
 
-> **Pro Tip:** Enchantments are permanent and stack with your rod's base stats. A mid-tier rod with good enchantments can outperform an unenchanted higher-tier rod.
+> **Pro Tip:** Enchantments are permanent and stack with your rod's base stats. A mid-tier rod with good enchantments can outperform an unenchanted higher-tier rod. See our [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/) to decide which rod to enchant.
 
 ### Hades — Underworld Fishing
 
@@ -284,7 +284,7 @@ Some of the best rewards in Fisch come from NPCs that aren't immediately obvious
 | **Trigger** | Fish during a storm at a specific location |
 | **Rewards** | Treasure maps, exclusive cosmetics, large coin payouts |
 
-The Treasure Hunter is one of the most elusive NPCs in Fisch. To find them:
+The Treasure Hunter is one of the most elusive NPCs in Fisch. For weather manipulation help, see our [Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/) guide. To find them:
 
 1. Wait for **storm weather** (or use a Storm Totem)
 2. Travel to **Grand Reef**
@@ -526,6 +526,7 @@ Ready to tackle Fisch's quest system? Use these guides to complement your advent
 3. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every rod ranked with stats
 4. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish
 5. **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Active codes for free rewards
+6. **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies, weather manipulation, and rare fish hunting
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Fisch Fish Location Map (May 2026): Where to Find Every Fish"
-description: "Complete guide to all fishing locations in Roblox Fisch. Learn to unlock islands, what fish to catch, and the best bait for each spot."
+description: "Complete guide to all fishing locations in Roblox Fisch for 2026. Learn to unlock islands, what fish to catch, and the best bait for each spot on the map."
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
@@ -340,6 +340,10 @@ Need more help planning your fishing route?
 
 - **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for new players
 - **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every rod ranked by tier
+- **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Active codes for free rewards
+- **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
+- **[Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/)** — All quests and NPC locations
+- **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies and rare fish hunting
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Try a different Roblox horror game
 
 ---

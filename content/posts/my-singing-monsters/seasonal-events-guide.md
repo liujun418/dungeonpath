@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Seasonal Events Guide: Complete 2026 Calendar and Strategies"
-description: "Complete My Singing Monsters seasonal events calendar for 2026. Learn about Spooktacle, Festival of Yay, SummerSong, and all limited-time monsters and rewards."
+description: "Complete My Singing Monsters seasonal events calendar for 2026. Learn about Spooktacle, Festival of Yay, SummerSong, and limited-time monsters and rewards."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Event Guide"]
+tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Event Guide", "msm seasonal events", "msm spooktacle", "msm festival of yay"]
 categories: ["Mobile Games"]
 ---
 
@@ -331,3 +331,4 @@ The key to seasonal event success is preparation: save diamonds throughout the y
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Resource optimization
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary Shugabush monsters
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monsters
+- [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive resource generation

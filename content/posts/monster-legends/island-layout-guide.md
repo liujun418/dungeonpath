@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Island and Habitat Layout Guide: Optimal Base Design (2026)"
-description: "Complete Monster Legends island layout guide. Learn best habitat placement, which islands to unlock first, and how to maximize gold production."
+description: "Complete Monster Legends island layout guide for 2026. Learn best habitat placement, which islands to unlock first, and how to maximize your gold production."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -86,7 +86,7 @@ Place these buildings in the center of your Main Island for efficient access:
 
 | Building | Placement | Reason |
 |----------|-----------|--------|
-| **Breeding Mountain** | Center | Most frequently used building |
+| **Breeding Mountain** | Center | Most frequently used building. See [Breeding Guide](/posts/monster-legends/breeding-guide/) for combination recipes. |
 | **Hatchery** | Adjacent to Breeding Mountain | Minimize travel between breeding and hatching |
 | **Temples** | Edge of main island | Accessed less frequently; don't waste center space |
 | **Farms** | Grouped together on one island | Keep food production in one zone |
@@ -180,6 +180,10 @@ When you have 8+ islands and 50+ habitats, organization becomes critical:
 
 ## Related Guides
 
-- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/) — Maximize what your layout produces
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — Early game island unlock order
-- [Monster Legends Tier List](/posts/monster-legends/tier-list/) — Which monsters to fill your habitats with
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

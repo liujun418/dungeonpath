@@ -1,10 +1,10 @@
 ---
 title: "Tower Defense Simulator Strategy Guide: Advanced Tips, Combos, and Pro Techniques (2026)"
-description: "Master Tower Defense Simulator with advanced strategies, tower combos, economic optimization, and pro techniques to clear the hardest maps and gamemodes."
+description: "Master TDS with advanced strategies including tower combos, economic optimization, and pro techniques to clear the hardest maps in Tower Defense Simulator."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "TDS", "Advanced Tips"]
+tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "TDS", "Advanced Tips", "tds strategy guide", "tds tower combos", "tds advanced tips"]
 categories: ["Roblox Guides"]
 ---
 
@@ -13,6 +13,8 @@ categories: ["Roblox Guides"]
 ## Advanced TDS Strategies
 
 Once you've mastered the basics, these advanced strategies will help you tackle the hardest maps and gamemodes in Tower Defense Simulator.
+
+For a complete ranking of every tower with detailed stats and placement tips, see the [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/).
 
 ---
 
@@ -246,9 +248,13 @@ Both. Solo teaches you self-sufficiency and tower placement fundamentals. Co-op 
 
 ## Next Steps
 
-1. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Every tower ranked
-2. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — Master the hardest modes
-3. **[TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/)** — Complete walkthrough for new players
+1. **[TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/)** — Complete walkthrough for new players
+2. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Every tower ranked
+3. **[TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)** — Strategy for every map in the game
+4. **[TDS Codes Guide](/posts/tower-defense-simulator/codes-guide/)** — All active codes for free crates and rewards
+5. **[TDS Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/)** — All enemy types, bosses, and wave patterns
+6. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — Master the hardest modes
+7. **[TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)** — Complete strategies for Fallen mode
 
 ---
 

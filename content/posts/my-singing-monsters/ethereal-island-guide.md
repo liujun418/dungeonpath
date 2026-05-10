@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Ethereal Island Guide: Breeding, Teleportation, and Shards (2026)"
-description: "Complete Ethereal Island guide for My Singing Monsters. Learn how to breed all 5 Ethereals, teleport costs, shard production optimization, and rare Ethereal strategies."
+description: "Complete Ethereal Island guide for My Singing Monsters in 2026. Learn to breed all 5 Ethereals, teleport costs, and shard production strategies for success."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Ethereal Island", "Ethereal Monsters", "Shard Farming"]
+tags: ["My Singing Monsters", "Mobile Games", "Ethereal Island", "Ethereal Monsters", "Shard Farming", "msm ethereal guide", "how to breed ethereal msm", "msm shard farming"]
 categories: ["Mobile Games"]
 ---
 
@@ -260,7 +260,7 @@ Once on Ethereal Island, Ethereals produce shards instead of coins. Shards are u
 
 ## Rare Ethereals
 
-Rare Ethereals are enhanced versions of the standard Ethereals with different colors and higher shard production. They are available during special events.
+Rare Ethereals are enhanced versions of the standard Ethereals with different colors and higher shard production. They are available during special events. For a full event calendar, see our [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}).
 
 | Rare Ethereal | Base Ethereal | Availability | Shard Rate Bonus |
 |--------------|--------------|--------------|-----------------|
@@ -412,4 +412,5 @@ The path to a fully operational Ethereal Island is long, starting with countless
 - [Rare and Epic Monsters Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) -- Rare and epic variants
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive resource generation
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Coin, diamond, and shard optimization
+- [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}) -- Limited-time events and monsters
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary Shugabush monsters

@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Tier List: Best Monsters for PvP, Wars, and Adventure (May 2026)"
-description: "Complete Monster Legends monster ranking for every mode. S-Tier to D-Tier rankings for PvP, Team Wars, Adventure Map, and dungeons."
+description: "Complete Monster Legends monster ranking for every mode in 2026. S-Tier to D-Tier rankings for PvP, Team Wars, Adventure Map, and dungeons to dominate."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -172,6 +172,10 @@ Based on recent developer announcements and the Spring 2026 update roadmap:
 
 ## Related Guides
 
-- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) — How to breed every monster on this tier list
-- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/) — Fund your team upgrades
-- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/) — Advanced combat tactics
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)

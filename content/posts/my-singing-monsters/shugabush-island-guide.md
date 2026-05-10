@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Shugabush Island Guide: Unlock, Breeding, and Song (2026)"
-description: "Complete Shugabush Island guide for My Singing Monsters. Learn how to unlock Shugabush, breed every Shugafamily member, and complete the island song in 2026."
+description: "Complete Shugabush Island guide for My Singing Monsters in 2026. Learn to unlock Shugabush, breed all Shugafamily members, and complete the island song."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Shugabush Island", "Legendary Monsters"]
+tags: ["My Singing Monsters", "Mobile Games", "Shugabush Island", "Legendary Monsters", "msm shugabush guide", "how to breed shugabush", "msm shugafamily"]
 categories: ["Mobile Games"]
 ---
 
@@ -319,4 +319,5 @@ The Shugafamily members are excellent coin producers that rival 4-element natura
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Coin and resource optimization
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monsters and shard production
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive resource generation
+- [Rare and Epic Monsters Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) -- Rare and epic variants
 - [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}) -- Limited-time monsters

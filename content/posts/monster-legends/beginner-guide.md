@@ -64,9 +64,11 @@ As soon as the breeding mountain is built, start breeding to replace your starte
 | **Tarzape** | Rare | Nature | Two Nature monsters | Tanky early fighter, good for defense |
 | **Razfeesh** | Epic | Water/Dark | Two specific Water + Dark combos | One of the easiest Epics to breed early |
 
+For a complete breeding chart with every Legendary and Mythic combination, see our [Breeding Guide](/posts/monster-legends/breeding-guide/).
+
 ### Step 4: Expand Your Habitats
 
-Gold is your primary resource in the early game. The more monsters you have in habitats, the more passive gold you generate. Build these habitats first:
+Gold is your primary resource in the early game. The more monsters you have in habitats, the more passive gold you generate. For optimal base layout and habitat placement, see our [Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/). Build these habitats first:
 
 | Habitat | Element | Monsters to Fill With | Priority |
 |---------|---------|----------------------|----------|
@@ -117,11 +119,13 @@ This is the #1 mistake new players make. Never spend gems to speed up breeding t
 | **Island expansions** | Varies | Medium |
 | **Legendary/Mythic eggs from events** | Varies | Medium — only if guaranteed good returns |
 
+For a complete list of active promo codes and daily free rewards, see our [Codes and Rewards Guide](/posts/monster-legends/codes-guide/).
+
 **Never buy:** speed-ups, gold, food, or common/rare monster eggs from the shop.
 
 ### Priority 4: Join an Active Team
 
-Teams give you access to **Team Wars** and **Team Battlegrounds**, which are major sources of exclusive monsters and rewards. Look for a team that:
+Teams give you access to **Team Wars** and **Team Battlegrounds**, which are major sources of exclusive monsters and rewards. For a full breakdown of Team War strategy and event types, see our [Events and Dungeons Guide](/posts/monster-legends/events-guide/). Look for a team that:
 - Has 20+ active members
 - Participates in every Team War
 - Doesn't require a minimum level (yet)
@@ -132,7 +136,7 @@ Teams give you access to **Team Wars** and **Team Battlegrounds**, which are maj
 
 ### Element System
 
-Monster Legends has 10 elements. Each monster has 1-2 elements, and each element has strengths and weaknesses:
+Monster Legends has 10 elements. Each monster has 1-2 elements, and each element has strengths and weaknesses. For advanced combat tactics including turn order and status combos, see our [Battle Strategy Guide](/posts/monster-legends/battle-strategy/):
 
 | Element | Strong Against | Weak Against | Status Effect |
 |---------|---------------|--------------|---------------|
@@ -258,4 +262,14 @@ Once you've completed your first week, focus on:
 - **Participating in your first Team War**
 - **Unlocking Temples for all elements** and upgrading to level 5+
 
-See our [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) for detailed recipes to breed every Legendary and Mythic monster, and the [Monster Tier List](/posts/monster-legends/tier-list/) to know which monsters are worth investing in.
+See our [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) for detailed recipes to breed every Legendary and Mythic monster, the [Monster Tier List](/posts/monster-legends/tier-list/) to know which monsters are worth investing in, and the [Gold and Food Farming Guide](/posts/monster-legends/farming-guide/) to fund your progression.
+
+### Related Guides
+
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

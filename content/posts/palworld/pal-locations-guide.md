@@ -1,10 +1,10 @@
 ---
 title: "Palworld Pal Locations Guide: Every Pal by Biome (2026)"
-description: "Where to find every Pal in Palworld by biome including Grasslands, Desert, Volcano, Snow, and Dungeon spawn locations, rare spawns, day/night differences, and alpha Pals."
+description: "Every Pal location in Palworld by biome for 2026. Find Grasslands, Desert, Volcano, Snow, and Dungeon spawns including rare and alpha Pals with coordinates."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Pal Locations", "Biomes", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Pal Locations", "Biomes", "Guides", "palworld all pals", "palworld alpha pals locations", "palworld rare spawns"]
 categories: ["PC Games"]
 ---
 
@@ -26,7 +26,7 @@ The Palpagos Islands are divided into distinct biomes, each hosting a unique eco
 
 ## Grasslands Biome (Levels 1-15)
 
-The Grasslands are your starting area and stretch across the southern islands. These are safe, abundant areas perfect for building your first base.
+The Grasslands are your starting area and stretch across the southern islands. These are safe, abundant areas perfect for building your first base (see the [Base Building Guide](../palworld/base-building-guide.md) for location recommendations).
 
 ### Common Grassland Spawns
 
@@ -264,7 +264,7 @@ Alpha Pals are marked on the map with a unique boss icon. They respawn every 30-
 
 ## Pro Tips for Pal Hunting
 
-1. **Sphere economy:** Use basic Spheres for common Pals (level 1-20), Mega Spheres for levels 20-35, Giga Spheres for 35-45, and Hyper Spheres / Legendary Spheres for 45-50+.
+1. **Sphere economy:** Use basic Spheres for common Pals (level 1-20), Mega Spheres for levels 20-35, Giga Spheres for 35-45, and Hyper Spheres / Legendary Spheres for 45-50+. See the [Resources & Materials Guide](../palworld/resources-and-materials-guide.md) for sphere crafting requirements.
 
 2. **Capture power upgrades:** Upgrade your capture power at the Statue of Power using Lifmunk Effigies. Maxed capture power makes high-level catches significantly easier.
 
@@ -284,6 +284,8 @@ Alpha Pals are marked on the map with a unique boss icon. They respawn every 30-
 
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start here if you are new to Palworld.
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Which Pals are worth your time.
+- **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Build bases near key Pal spawns.
 - **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- How to breed specific Pals.
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- All boss strategies.
+- **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Craft spheres and gear for hunting.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Leveling roadmap.

@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Terminal Commands Guide: Complete Reference (2026)"
-description: "Complete terminal command reference for Lethal Company. Every command including moons, store, bestiary, scan, switch, ping, and hidden commands."
+description: "Complete terminal command reference for Lethal Company in 2026. Every command including moons, store, bestiary, scan, switch, ping, and hidden commands listed."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -534,7 +534,10 @@ The hidden `sigurd` command adds a layer of lore for players interested in the g
 
 ### Related Guides
 
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
+- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
+- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)

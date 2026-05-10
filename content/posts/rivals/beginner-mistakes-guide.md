@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Common Mistakes Guide: 15 Things New Players Get Wrong (and How to Fix Them) (2026)"
-description: "Avoid the most common RIVALS mistakes. Learn what not to do, why these mistakes cost you matches, and how to fix them immediately."
+description: "Avoid the most common RIVALS mistakes in 2026. Learn what not to do, why these mistakes cost you matches, and how to fix them to improve fast and win."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Common Mistakes", "Tips", "Improvement", "FPS"]
+tags: ["RIVALS", "Roblox", "Common Mistakes", "Tips", "Improvement", "FPS", "rivals common mistakes", "rivals beginner tips", "rivals improvement guide"]
 categories: ["Roblox Guides"]
 ---
 
@@ -92,7 +92,7 @@ This guide identifies the **15 most common mistakes** new RIVALS players make, e
 | **Jiggle peeking** | Quick tap in and out of an angle to gather information | Reveals enemy positions without committing |
 | **Reposition after every exchange** | Never peek from the same spot twice in a row | Enemies will pre-fire your known position |
 
-**Map knowledge is essential:** Before you can use cover effectively, you need to know where cover exists on each map. Spend time learning the layout of at least 3-4 maps before jumping into ranked.
+**Map knowledge is essential:** Before you can use cover effectively, you need to know where cover exists on each map. Spend time learning the layout of at least 3-4 maps before jumping into ranked. For detailed map-by-map breakdowns with callouts and positions, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 ---
 
@@ -230,6 +230,8 @@ This guide identifies the **15 most common mistakes** new RIVALS players make, e
 | **Spawn points** | Where enemies appear at round start | Pay attention during the first 5 seconds of each round |
 | **High ground** | Elevated positions that provide advantages | Look up and note every elevated platform |
 
+For complete map-by-map coverage with callouts, sniper positions, and rush routes, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+
 ---
 
 ## Mistake #11: Not Adjusting Sensitivity Settings
@@ -254,6 +256,8 @@ This guide identifies the **15 most common mistakes** new RIVALS players make, e
 3. Track a moving target — if you consistently overshoot, lower it; if you can't keep up, raise it
 4. Adjust in small increments (5-10%) and re-test
 5. Once comfortable, **don't change it** for at least a week to build muscle memory
+
+For a complete settings optimization guide including FOV, crosshair, and keybind recommendations, see the [RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/).
 
 **Sensitivity + FOV interaction:**
 
@@ -439,10 +443,11 @@ Ready to put these fixes into practice? Check out our other RIVALS guides for de
 1. **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players, from your first match to ranked play
 2. **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Deep dive into slide jump, strafe, slide cancel, and advanced movement
 3. **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked by tier for Season 12, with loadout recommendations
-4. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
-5. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best sensitivity, FOV, crosshair, and performance settings
-6. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
-7. **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
+4. **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained with ranked climbing strategies
+5. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
+6. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best sensitivity, FOV, crosshair, and performance settings
+7. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
+8. **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
 
 ---
 

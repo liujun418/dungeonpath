@@ -1,10 +1,10 @@
 ---
 title: "Palworld Resources & Materials Guide: Farming Every Item (2026)"
-description: "Complete guide to all resources and materials in Palworld including wood, stone, ore, coal, sulfur, quartz, paldium, best farming locations, and automation setups."
+description: "Complete guide to all resources and materials in Palworld for 2026 including wood, stone, ore, coal, sulfur, and paldium with farming locations and tips."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Resources", "Materials", "Farming", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Resources", "Materials", "Farming", "Guides", "palworld best ore farm", "palworld paldium guide", "palworld material farming"]
 categories: ["PC Games"]
 ---
 
@@ -217,6 +217,8 @@ Resources in Palworld fall into several categories:
 
 ### Ancient Civilization Parts
 
+For exact coordinates of all boss spawn locations, see the [Pal Locations Guide](../palworld/pal-locations-guide.md).
+
 | Detail | Information |
 |--------|-------------|
 | Found by | Defeating tower bosses, alpha bosses, dungeon bosses |
@@ -413,7 +415,7 @@ For a self-sustaining cake production base:
 
 ### Daily Boss Rotation (Ancient Parts)
 
-1. Teleport to Desert Plateau -> defeat Paladius + Necromus (24-32 Ancient Parts)
+1. Teleport to Desert Plateau -> defeat Paladius + Necromus (24-32 Ancient Parts) -- see the [Boss & Tower Guide](../palworld/boss-and-tower-guide.md) for detailed boss strategies
 2. Teleport to Frostbound Mountains -> defeat Frostallion (8-12 Ancient Parts)
 3. Teleport to Volcanic Crater -> defeat Jetragon (8-12 Ancient Parts)
 4. Fly to Desert Tomb -> defeat Alpha Anubis (8-12 Ancient Parts)
@@ -447,4 +449,6 @@ Best for early to mid-game, this location has 5+ ore nodes in close proximity. B
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Best gathering Pals.
 - **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Set up automated resource bases.
 - **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- Breed resource-producing Pals.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Find resource-rich biomes and boss spawns.
+- **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Farm Ancient Parts from bosses.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Unlock resource tech.

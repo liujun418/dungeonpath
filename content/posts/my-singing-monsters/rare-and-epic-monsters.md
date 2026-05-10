@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Rare and Epic Monsters: Complete Collecting Guide (2026)"
-description: "Complete guide to breeding Rare and Epic monsters in My Singing Monsters. Learn availability windows, breeding combinations, and expert collection strategies."
+description: "Complete guide to Rare and Epic monsters in My Singing Monsters for 2026. Learn availability windows, breeding combinations, and collection strategies inside."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Rare Monsters", "Epic Monsters"]
+tags: ["My Singing Monsters", "Mobile Games", "Rare Monsters", "Epic Monsters", "msm rare monsters", "msm epic monsters", "how to breed rare msm"]
 categories: ["Mobile Games"]
 ---
 
@@ -305,3 +305,4 @@ Building a complete Rare and Epic collection is a long-term goal that can take y
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Maximizing resource production
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Wublin monsters and resource farming
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monster breeding
+- [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary Shugabush monsters

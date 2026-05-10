@@ -1,6 +1,6 @@
 ---
 title: "DOORS Beginner Guide (May 2026): Survive The Hotel, The Mines, and Beyond"
-description: "Complete walkthrough for Roblox DOORS. Learn every entity, puzzle solution, item strategy, and how to conquer Rush Mode and Endless Mode."
+description: "Complete walkthrough for Roblox DOORS in 2026. Learn every entity, puzzle solution, item strategy, and how to conquer Rush Mode and Endless Mode with ease."
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false

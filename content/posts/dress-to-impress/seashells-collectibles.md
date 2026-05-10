@@ -1,6 +1,6 @@
 ---
 title: "Dress To Impress Seashell and Collectibles Guide: Hidden Locations and Exclusive Items (2026)"
-description: "Find every hidden seashell, treasure chest, and collectible in Dress To Impress. Unlock the Seashell Crown and exclusive reward items."
+description: "Find every hidden seashell, treasure chest, and collectible in Dress To Impress on Roblox. Unlock the Seashell Crown and exclusive reward items today."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

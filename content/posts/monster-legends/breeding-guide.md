@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Breeding Guide: All Combinations for Legendary, Mythic, and Epic Monsters (2026)"
-description: "Complete Monster Legends breeding chart with every Legendary, Mythic, and Epic combo. Learn how to breed specific monsters efficiently."
+description: "Complete Monster Legends breeding chart with every Legendary, Mythic, and Epic combo in 2026. Learn how to breed specific monsters efficiently every time."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -215,8 +215,12 @@ The **pool** of possible outcomes is deterministic (fixed per parent pair), but 
 
 ---
 
-## Next Steps
+## Related Guides
 
-- See our [Monster Legends Tier List](/posts/monster-legends/tier-list/) to know which bred monsters are worth keeping and leveling
-- Check the [Gold and Food Farming Guide](/posts/monster-legends/farming-guide/) to fund your breeding operation
-- Read the [Events and Dungeons Guide](/posts/monster-legends/events-guide/) for event breeding strategies
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

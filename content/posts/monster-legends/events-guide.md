@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Events and Dungeons Guide: Maze, Race, Puzzle, and Team Dungeons (2026)"
-description: "Master every Monster Legends event type with winning strategies. Learn Maze, Race, Puzzle, and Team Dungeon tactics for maximum rewards."
+description: "Master every Monster Legends event type with winning strategies in 2026. Learn Maze, Race, Puzzle, and Team Dungeon tactics for maximum rewards every season."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -89,7 +89,7 @@ Race events are PvP-like competitions where you compete against other players on
 | Collect gold | 1 per 100 gold | Yes | Save habitat collection for race |
 | Hatch an egg | 10-30 per hatch | Yes | Stockpile eggs before race starts |
 | Feed monsters | 1 per 100 food | Yes | Save food for race tasks |
-| Win PvP battles | 20-50 per win | Yes | Drop rank before race, then climb |
+| Win PvP battles | 20-50 per win | Yes | Drop rank before race, then climb. See our [Battle Strategy Guide](/posts/monster-legends/battle-strategy/) for team composition tips. |
 | Complete dungeon node | 15-40 per node | Limited by keys | Save keys for race |
 
 ### Race Strategy: Preparation Is Everything
@@ -202,6 +202,10 @@ In general, play events F2P. The rare exceptions where gems are worth spending:
 
 ## Related Guides
 
-- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) — Breeding event combinations
-- [Monster Legends Farming Guide](/posts/monster-legends/farming-guide/) — Stockpile resources for events
-- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/) — Win those PvP race tasks
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

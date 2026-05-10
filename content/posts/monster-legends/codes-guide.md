@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Codes and Rewards Guide: All Active Codes and Free Rewards (May 2026)"
-description: "Complete list of working Monster Legends codes for May 2026. Get free gems, food, gold, and exclusive monsters plus daily rewards."
+description: "Complete list of working Monster Legends codes for May 2026 on mobile. Get free gems, food, gold, and exclusive monsters plus daily login rewards and gifts."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -195,6 +195,10 @@ Codes from social media typically expire within 24-72 hours—faster than standa
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — What to spend your free gems on
-- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/) — Complement your code rewards
-- [Monster Legends Events Guide](/posts/monster-legends/events-guide/) — Maximize event rewards
+- [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
+- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
+- [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
+- [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Tier List](/posts/monster-legends/tier-list/)

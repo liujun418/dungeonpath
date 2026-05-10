@@ -1,6 +1,6 @@
 ---
 title: "Dress To Impress Seasonal Events Guide: All Events, Limited Items, and How to Prepare (2026)"
-description: "Complete guide to all Dress To Impress seasonal events. Learn about past events, limited-time items, and how to prepare for seasonal updates."
+description: "Complete guide to all Dress To Impress seasonal events on Roblox. Learn about past events, limited-time items, and how to prepare for future seasonal updates."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

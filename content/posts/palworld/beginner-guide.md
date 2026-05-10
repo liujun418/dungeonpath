@@ -1,10 +1,10 @@
 ---
 title: "Palworld Beginner's Guide: Survival, Crafting & First Pals (2026)"
-description: "New to Palworld? This complete beginner's guide covers survival basics, first Pals, base building, leveling tips, food systems, and common mistakes to avoid."
+description: "New to Palworld in 2026? This beginner guide covers survival basics, first Pals, base building tips, leveling strategies, and common mistakes to avoid."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Beginner Guide", "Crafting"]
+tags: ["Palworld", "PC Games", "Survival", "Beginner Guide", "Crafting", "palworld tips", "how to survive palworld", "palworld first base"]
 categories: ["PC Games"]
 ---
 
@@ -60,6 +60,8 @@ Paldium Fragments are found on the ground near rocks -- they glow blue. You will
 
 Weaken a Pal by reducing its HP (lower HP = higher capture chance). Then throw a Pal Sphere. A mini-game plays: a circle shrinks and expands. Press the button when the circle is at its smallest for a **critical capture bonus**.
 
+For a complete map of every Pal's habitat, check the [Pal Locations Guide](../palworld/pal-locations-guide.md).
+
 ### First Pals to Catch
 
 These early-game Pals are abundant in the starting area and serve different roles:
@@ -80,7 +82,7 @@ These early-game Pals are abundant in the starting area and serve different role
 
 ### Choosing a Location
 
-Your first base location matters immensely. Look for a flat area with:
+Your first base location matters immensely (see our [Base Building Guide](../palworld/base-building-guide.md) for detailed location analysis and layouts). Look for a flat area with:
 
 - **Access to trees and stone** (for building materials)
 - **Nearby ore deposits** (for early metal)
@@ -141,7 +143,7 @@ You gain experience from:
 
 ### Technology Tree
 
-The Technology tree unlocks as you level up. Spend **Technology Points** (TP) to unlock blueprints. You earn 1 TP per level.
+The Technology tree unlocks as you level up. Spend **Technology Points** (TP) to unlock blueprints. You earn 1 TP per level. See the [Technology & Progression Guide](../palworld/technology-and-progression-guide.md) for a complete unlock priority roadmap.
 
 | Level | Critical Unlock | Why It Matters |
 |-------|----------------|---------------|
@@ -258,6 +260,7 @@ Once you have a stable base, food production, and a team of level 15-20 Pals, yo
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Which Pals are worth your time at every stage of the game.
 - **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to find every Pal by biome.
 - **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Detailed base layouts, automation, and defense.
+- **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- How to breed top Pals with perfect passives.
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Strategies for every boss in the game.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Where to farm everything.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Full tech tree breakdown.

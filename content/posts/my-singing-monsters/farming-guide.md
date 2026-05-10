@@ -1,10 +1,10 @@
 ---
 title: "My Singing Monsters Farming Guide: Coins, Diamonds, Shards, and Treats Optimization (2026)"
-description: "Master resource farming in My Singing Monsters. Complete guide to coin optimization, diamonds earning, shard production, treats baking, and efficiency strategies."
+description: "Master resource farming in My Singing Monsters for 2026. Learn coin optimization, diamond earning, shard production, treats baking, and efficiency tips."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Coin Optimization", "Diamond Farming"]
+tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Coin Optimization", "Diamond Farming", "msm coin farm", "msm diamond guide", "msm shard farming"]
 categories: ["Mobile Games"]
 ---
 
@@ -94,7 +94,7 @@ Below are approximate coin production rates at Level 10 for key monsters on Plan
 |------|--------|--------|
 | 1 | Level all monsters to 10 uniformly | Full island at Lv10 |
 | 2 | Push Entbrats to Level 15 | 2-3 Entbrats at Lv15+ |
-| 3 | Add Rare monsters as obtained | Replace common versions |
+| 3 | Add Rare monsters as obtained | Replace common versions. See [Rare and Epic Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) for breeding strategies. |
 | 4 | Maximize Natural Island beds | All islands at max bed capacity |
 | 5 | Start Wublin coin production | Brump, Whaddle, Zynth |
 
@@ -343,4 +343,5 @@ Remember these key principles:
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive income through Wublins
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Shard production from Ethereals
 - [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}) -- Limited-time monsters
+- [Rare and Epic Monsters Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) -- Rare and epic variants
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary monsters

@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Settings and Optimization Guide: Best FOV, Sensitivity, and Performance Settings (2026)"
-description: "Optimize every setting in RIVALS for maximum performance. Recommended FOV, sensitivity, graphics, audio, and crosshair configurations for PC and mobile."
+description: "Optimize RIVALS settings for maximum performance in 2026. Recommended FOV, sensitivity, graphics, audio, and crosshair settings for PC and mobile players."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "FPS", "Settings", "Optimization", "FOV", "Sensitivity", "Performance"]
+tags: ["RIVALS", "Roblox", "FPS", "Settings", "Optimization", "FOV", "Sensitivity", "Performance", "rivals best settings", "rivals sensitivity guide", "rivals fps boost"]
 categories: ["Roblox Guides"]
 ---
 
@@ -314,6 +314,7 @@ In RIVALS, audio is your second set of eyes. Footsteps, slide sounds, gunfire, a
 ## Practice Settings and Training
 
 ### Building a Practice Routine
+For a detailed breakdown of movement mechanics and drills to include in your routine, see the [RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/).
 
 | Phase | Duration | Focus |
 |-------|----------|-------|
@@ -414,9 +415,13 @@ No, settings are platform-specific. PC settings (mouse sensitivity, keybinds) do
 
 Continue optimizing your RIVALS experience with these complementary guides:
 
-- **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** - Learn the fundamentals alongside your optimized settings for the best start.
-- **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** - Pair your perfect settings with the best weapons in the game.
-- **[RIVALS Codes and Rewards](/posts/rivals/codes-and-rewards/)** - Redeem active codes for cosmetic items and rewards.
+- **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Learn the fundamentals alongside your optimized settings for the best start.
+- **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
+- **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Pair your perfect settings with the best weapons in the game.
+- **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
+- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
+- **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 
 ---
 

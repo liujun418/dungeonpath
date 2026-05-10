@@ -1,10 +1,10 @@
 ---
 title: "Sailor Piece Boss Strategies Guide: Every Boss Fight, Drop Tables, and Winning Tactics (2026)"
-description: "Master every boss fight in Sailor Piece. Learn boss patterns, weakness exploitation, recommended loadouts, and drop tables for every boss in Sea 1 and Sea 2."
+description: "Master every boss fight in Sailor Piece. Learn boss patterns, weaknesses, loadouts, and drop tables for Sea 1 and Sea 2."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Boss Guide", "Boss Strategy", "Drop Tables", "Combat", "PvE"]
+tags: ["Sailor Piece", "Roblox", "Boss Guide", "Boss Strategy", "Drop Tables", "Combat", "PvE", "sailor piece boss guide", "sailor piece all bosses", "sailor piece sea 2 bosses"]
 categories: ["Roblox Guides"]
 ---
 
@@ -36,6 +36,8 @@ Before diving into individual bosses, understand these universal mechanics:
 | **Boss Enrage** | Some bosses become faster at low HP | Save defensive cooldowns for the last 20% |
 
 ### General Boss Strategy Framework
+
+For a complete guide to Haki types, fighting styles, and combat techniques, see the [Sailor Piece Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/).
 
 | Phase | Strategy |
 |-------|----------|
@@ -485,6 +487,7 @@ Before diving into individual bosses, understand these universal mechanics:
 - **Solo:** This is the ultimate Sea 1 boss challenge. Only players with near-max builds (12,000+ level, optimal race/clan, awakened fruit, max fighting style) should attempt solo. The 2B HP means a 15-20 minute fight even under optimal conditions.
 - **Team (4-8 players):** Strongly recommended. The clone mechanic is particularly dangerous in groups -- communicate who is targeting the clone. During Final Atomic, assign one player to call out each detonation timing.
 - **Recommended Loadout:** Maximum Power stat for fruit mains, Galevorn + Devil clan combination, highest available fighting style for melee mains, full Conqueror's Haki if unlocked.
+For a complete ranking of every fruit with awakening guides and trading values, see the [Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/).
 
 **Drop Table:**
 

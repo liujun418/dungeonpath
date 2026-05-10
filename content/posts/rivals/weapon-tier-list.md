@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked"
-description: "Complete tier list ranking all weapons in Roblox RIVALS. Find the best primary, secondary, melee, and utility weapons for Season 3."
+description: "Complete tier list ranking all weapons in Roblox RIVALS for 2026. Find the best primary, secondary, melee, and utility weapons for Season 3 meta and beyond."
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadouts", "Guide"]
+tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadouts", "Guide", "rivals best weapons", "rivals weapon tier list 2026", "rivals best loadout"]
 categories: ["Roblox Guides"]
 ---
 
@@ -147,6 +147,8 @@ Changed from hitscan to projectile weapon in Update 20. Charge multipliers adjus
 **Scythe — The Aggressive King:**
 Best mobility melee in RIVALS. The dash ability (4s cooldown) enables unmatched aggressive plays — close gaps instantly, dodge incoming fire, and reposition mid-fight.
 
+For a complete guide to movement mechanics and weapon synergies with speed modifiers, see the [RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/).
+
 **Katana — The Defensive Masterpiece:**
 Can deflect almost all hitscan weapon bullets. The deflect ability (4s cooldown, 1s duration) is game-changing — timed correctly, it turns an enemy's attack against them. Essential for gun-melee hybrid playstyles.
 
@@ -274,6 +276,7 @@ Blocks corridors and forces enemies to reposition. Essential on small maps where
 **Cost:** 0 Keys (all starter weapons). Upgrade to **Shotgun** (20 Keys) + **Uzi** (15 Keys) as your first purchases.
 
 ### Map-Specific Loadouts
+For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 | Map Type | Primary | Secondary | Melee | Utility |
 |----------|---------|-----------|-------|---------|
@@ -316,6 +319,8 @@ The April 24, 2026 "Collapse" update brought significant weapon adjustments:
 | **Season Pass** | 10-20 Skin Tickets + Keys per season | Free and Premium tracks |
 | **Ranked Contracts** | Bonus Keys for ranked performance | Higher rank = more Keys |
 
+For all active codes and redemption instructions, see the [RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/).
+
 ### Key Bundles (Robux)
 
 | Bundle | Robux | Keys | Extras |
@@ -342,6 +347,8 @@ The April 24, 2026 "Collapse" update brought significant weapon adjustments:
 | 10 | **Sniper** | 75 Keys | One-shot potential |
 
 > **Pro Tip:** Skip cosmetics entirely until you have all the weapons you want. Every Key spent on a wrap is a Key not spent on a weapon that directly improves your gameplay.
+
+For best FOV, sensitivity, crosshair, and performance settings to complement your weapon loadout, see the [RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/).
 
 ---
 
@@ -377,9 +384,13 @@ A: Almost every weapon received balance changes. Key changes: Assault Rifle dama
 
 Want more RIVALS content? Check out our other guides:
 
-- **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players
-- **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for the popular Roblox fishing game
-- **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Survive the Hadal Blacksite
+- **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players from first match to ranked play
+- **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
+- **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
+- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
+- **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
+- **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
+- **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 - **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
 
 ---

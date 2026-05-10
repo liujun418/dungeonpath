@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Scrap and Loot Guide: Complete Item Database (2026)"
-description: "Complete scrap and loot database for Lethal Company with every item, value ranges, weight classes, and value rankings to maximize profits."
+description: "Complete scrap and loot database for Lethal Company with every item, value ranges, weight classes, and value rankings to maximize your profits in 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -621,7 +621,10 @@ Remember the Golden Rule of Scrap: **a Gold Bar in the ship is worth more than a
 
 ### Related Guides
 
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
 - [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
+- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
+- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)

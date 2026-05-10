@@ -1,10 +1,10 @@
 ---
 title: "Palworld Breeding Guide: Combos, Passives & Best Crossbreeds (2026)"
-description: "Complete guide to Palworld breeding mechanics including breeding pen setup, cake requirements, all crossbreed combos, passive skill inheritance, and how to breed top Pals like Anubis."
+description: "Complete guide to Palworld breeding mechanics including pen setup, cake requirements, crossbreed combos, passive inheritance, and top Pals to breed in 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Breeding", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Breeding", "Guides", "how to breed anubis palworld", "palworld breeding combos", "palworld best breeding pals"]
 categories: ["PC Games"]
 ---
 
@@ -90,6 +90,8 @@ The result is rounded, and the Pal with the closest internal ID to that average 
 This means you can reliably predict offspring by knowing the parents. Here are the most important combinations.
 
 ### Essential Breeding Combos
+
+For exact spawn locations of all parent Pals listed below, see the [Pal Locations Guide](../palworld/pal-locations-guide.md).
 
 | Parent A | Parent B | Offspring | Why You Want This |
 |----------|----------|-----------|-------------------|
@@ -264,7 +266,7 @@ Build a collection of Pals with individual high-value passives. Keep them organi
 
 ### Strategy 3: Legendary Passive Breeding
 
-Legendary Pals (Frostallion, Jetragon, Paladius, Necromus) come with the **Legend** passive inherently. You can breed this passive onto other Pals by:
+Legendary Pals (Frostallion, Jetragon, Paladius, Necromus) come with the **Legend** passive inherently. See the [Boss & Tower Guide](../palworld/boss-and-tower-guide.md) for strategies to defeat and capture these legendary Pals. You can breed this passive onto other Pals by:
 
 1. Catching a male Frostallion (has Legend passive).
 2. Breeding it with a female of another species.
@@ -328,5 +330,7 @@ Breed each of these once with passives, then level them up naturally.
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start here if new to Palworld.
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Which Pals to prioritize breeding.
 - **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Where to set up your breeding base.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to catch parent Pals for breeding.
+- **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Capture legendary Pals for breeding stock.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farming ingredients for cakes.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Technology unlock roadmap.

@@ -1,10 +1,10 @@
 ---
 title: "Tower Defense Simulator Beginner Guide: Complete Walkthrough for New Players (2026)"
-description: "Everything you need to know to start playing Tower Defense Simulator on Roblox. Learn the best towers for beginners, placement strategies, map guides, and pro tips to beat every difficulty."
+description: "Learn to play Tower Defense Simulator on Roblox. Find the best towers for beginners, placement strategies, and pro tips to beat every difficulty and game mode."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "TDS"]
+tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "TDS", "tds best towers", "tds beginner guide", "tower defense simulator tips"]
 categories: ["Roblox Guides"]
 ---
 
@@ -21,6 +21,8 @@ In TDS, you:
 - **Play solo or with a team** — up to 6 players in co-op mode
 - **Compete in multiple gamemodes** — Normal, Hardcore, Fallen, and special event maps
 - **Unlock new towers** through codes, events, quests, and the in-game shop
+
+For detailed guides on each difficulty, see the [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/) and [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/).
 
 This guide covers everything a brand-new player needs to go from their first game to beating Normal difficulty and preparing for Hardcore.
 
@@ -65,11 +67,13 @@ Go to the **Twitter Bird icon** on the right sidebar and enter active codes for 
 | `BLORP` | Free tower skin |
 | `SUB2OFFICIALNOOB` | Coins + rewards |
 
-> **Note:** Codes expire frequently. If a code doesn't work, it has likely expired. Check the [TDS Discord](https://discord.gg/tds) or the [TDS Wiki](https://tds.fandom.com/wiki/Codes) for the latest active codes.
+> **Note:** Codes expire frequently. If a code doesn't work, it has likely expired. Check the [TDS Discord](https://discord.gg/tds) or the [TDS Wiki](https://tds.fandom.com/wiki/Codes) for the latest active codes. For all currently active codes and rewards, see the [TDS Codes Guide](/posts/tower-defense-simulator/codes-guide/).
 
 ---
 
 ## Best Towers for Beginners
+
+For a complete ranking of every tower with detailed stats and loadout recommendations, see the [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/).
 
 After the 2026 balance update, here are the most effective towers for new players:
 
@@ -93,6 +97,8 @@ After the 2026 balance update, here are the most effective towers for new player
 | **Mortar** | ~2,000 coins | Damage/AoE | Cluster damage, good for grouped enemies (recently nerfed but still strong) |
 | **Freezer** | ~1,800 coins | Utility | Slows enemies significantly, essential for Hardcore mode |
 
+For a complete list of all enemy types, boss mechanics, and wave patterns, see the [TDS Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/).
+
 ### Late Game Towers (Save for These)
 
 | Tower | Cost/Requirement | Role | Why It's Good |
@@ -107,6 +113,8 @@ After the 2026 balance update, here are the most effective towers for new player
 ---
 
 ## Tower Placement Strategy
+
+For advanced placement techniques, tower combos, and wave-timing strategies, see the [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/).
 
 ### The Golden Rules of Placement
 
@@ -166,6 +174,8 @@ After the 2026 balance update, here are the most effective towers for new player
 ---
 
 ## Best Maps for Beginners
+
+For detailed map-by-map strategies with optimal tower placements, see the [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/).
 
 | Map | Difficulty | Why It's Good | Tips |
 |-----|-----------|---------------|------|
@@ -256,7 +266,12 @@ Now that you've mastered the basics, continue with these guides:
 
 1. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Complete ranking of every tower in the 2026 meta
 2. **[TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)** — Strategy for every map in the game
-3. **[Browse all guides](/posts/)** — Visit our guides page for the latest walkthroughs
+3. **[TDS Codes Guide](/posts/tower-defense-simulator/codes-guide/)** — All active codes for free crates and rewards
+4. **[TDS Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/)** — All enemy types, bosses, and wave patterns
+5. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — How to survive the hardest difficulty
+6. **[TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)** — Complete strategies for Fallen mode
+7. **[TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)** — Advanced tactics, combos, and pro techniques
+8. **[Browse all guides](/posts/)** — Visit our guides page for the latest walkthroughs
 
 ---
 

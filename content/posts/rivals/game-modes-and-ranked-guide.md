@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)"
-description: "Complete guide to all RIVALS game modes and the ranked system. Learn the rules, best strategies, and how to climb the competitive ladder."
+description: "Complete guide to all RIVALS game modes and ranked system on Roblox in 2026. Learn rules, winning strategies, and how to climb the competitive ladder fast."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Game Modes", "Ranked", "Competitive", "FPS", "Guide", "Strategies"]
+tags: ["RIVALS", "Roblox", "Game Modes", "Ranked", "Competitive", "FPS", "Guide", "Strategies", "rivals ranked guide", "rivals game modes", "rivals competitive tips"]
 categories: ["Roblox Guides"]
 ---
 
@@ -43,6 +43,7 @@ categories: ["Roblox Guides"]
 | **Skill Factor** | 100% individual — no teammates to carry or be carried by |
 
 **Best Loadouts for 1v1:**
+For a complete ranking of every weapon with stats and prices, see the [RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/).
 
 | Slot | Weapon | Why |
 |------|--------|-----|
@@ -196,6 +197,8 @@ RIVALS features a competitive ranked mode with a structured progression system. 
 | **Ranked 1v1** | Pure individual competition | High — most competitive |
 | **Ranked 2v2** | Team-based ranked (most played) | Highest — best balance of skill and teamwork |
 | **Ranked 3v3** | Large-team ranked | Medium — requires full team coordination |
+
+The ranked map pool draws from a curated selection of the most balanced maps. For detailed breakdowns of every map with callouts and positions, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 ### Rank Tiers and MMR
 
@@ -411,9 +414,12 @@ A: Yes, RIVALS supports cross-platform play including mobile (iOS/Android). Howe
 Want more RIVALS content? Check out our other guides:
 
 - **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players covering loadouts, modes, and progression
+- **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked with stats, prices, and best loadouts for Season 3
 - **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, advanced movement, and pro techniques
 - **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
+- **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 - **[Browse all Roblox guides](/posts/)** — See our full collection of Roblox game guides
 
 ---

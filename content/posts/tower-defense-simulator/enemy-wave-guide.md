@@ -1,10 +1,10 @@
 ---
 title: "Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)"
-description: "Complete guide to every enemy type in Tower Defense Simulator. Learn enemy stats, abilities, boss mechanics, and wave patterns for every map and gamemode."
+description: "Complete guide to every enemy type in Tower Defense Simulator. Learn stats, abilities, boss mechanics, and wave patterns for every game mode and difficulty."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "TDS", "Enemy Guide", "Wave Guide", "Boss Guide"]
+tags: ["Tower Defense Simulator", "Roblox", "TDS", "Enemy Guide", "Wave Guide", "Boss Guide", "tds enemy types", "tds wave guide", "tds all enemies"]
 categories: ["Roblox Guides"]
 ---
 
@@ -13,6 +13,8 @@ categories: ["Roblox Guides"]
 ## Why Knowing Enemies Is Your Biggest Advantage
 
 In **Tower Defense Simulator (TDS)**, towers are only half the equation. If you don't understand **what you're fighting** — enemy HP, speed, abilities, resistances, and wave timing — even the best tower setup will fail. Every map has a unique enemy composition, and every gamemode scales enemies differently.
+
+For a complete ranking of all towers to counter each enemy type, see the [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/).
 
 This guide breaks down every enemy type, boss mechanic, and wave pattern so you can plan your defenses with precision.
 
@@ -258,11 +260,14 @@ Play Casual mode first to observe enemy behavior without pressure. Then progress
 
 ## Next Steps
 
-1. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Complete ranking of every tower in the 2026 meta
-2. **[TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)** — Advanced tactics for every gamemode
+1. **[TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/)** — Complete walkthrough for new players
+2. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Complete ranking of every tower in the 2026 meta
 3. **[TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)** — Strategy for every map
-4. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — How to survive the hardest difficulty
-5. **[Browse all guides](/posts/)** — Visit our guides page
+4. **[TDS Codes Guide](/posts/tower-defense-simulator/codes-guide/)** — All active codes for free crates and rewards
+5. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — How to survive the hardest difficulty
+6. **[TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)** — Complete strategies for Fallen mode
+7. **[TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)** — Advanced tactics, combos, and pro techniques
+8. **[Browse all guides](/posts/)** — Visit our guides page
 
 ---
 

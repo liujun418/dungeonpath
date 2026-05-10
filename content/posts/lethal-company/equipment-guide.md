@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Equipment Guide: Best Items, Costs, and Loadouts (2026)"
-description: "Complete equipment guide for Lethal Company with real item costs, best early purchases, team loadout strategies, and which items are traps."
+description: "Complete equipment guide for Lethal Company with real item costs, best early purchases, team loadout strategies, and which items are traps to avoid in 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -437,7 +437,10 @@ A well-equipped team with 200 credits of gear is far more effective than a poorl
 
 ### Related Guides
 
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
-- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
+- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
+- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
+- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)

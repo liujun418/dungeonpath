@@ -1,10 +1,10 @@
 ---
 title: "RIVALS Movement and Mechanics Guide: Slide Jumping, Advanced Movement, and Tips (2026)"
-description: "Master RIVALS movement mechanics. Learn slide jumping, advanced techniques, map positioning, and pro movement tips to outplay opponents."
+description: "Master RIVALS movement mechanics in 2026. Learn slide jumping, advanced movement techniques, map positioning skills, and pro tips to outplay opponents and win."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Movement", "FPS", "Mechanics", "Guide", "Slide Jump", "Tips"]
+tags: ["RIVALS", "Roblox", "Movement", "FPS", "Mechanics", "Guide", "Slide Jump", "Tips", "rivals movement guide", "rivals slide jump", "rivals advanced movement"]
 categories: ["Roblox Guides"]
 ---
 
@@ -320,6 +320,7 @@ Never fight an enemy from more than 2 angles simultaneously. If exposed to 3+ si
 Your movement effectiveness changes based on your equipped weapons. Understanding these synergies is crucial for optimal play.
 
 ### Best Movement Weapons
+For complete weapon stats and tier rankings, see the [RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/).
 
 | Weapon | Speed Modifier | Movement Synergy |
 |--------|---------------|-----------------|
@@ -350,6 +351,8 @@ Your movement effectiveness changes based on your equipped weapons. Understandin
 ## Map-Specific Movement Strategies
 
 Different maps reward different movement approaches. Here is a quick reference:
+
+For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 | Map Type | Movement Strategy | Key Techniques |
 |----------|------------------|----------------|
@@ -398,8 +401,12 @@ A: Basic slide jumping can be learned in 30 minutes. Consistent chaining takes a
 Want more RIVALS content? Check out our other guides:
 
 - **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players covering loadouts, modes, and progression
+- **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked with stats, prices, and best loadouts for Season 3
 - **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
+- **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
+- **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 - **[Browse all Roblox guides](/posts/)** — See our full collection of Roblox game guides
 
 ---

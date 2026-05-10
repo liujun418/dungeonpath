@@ -1,10 +1,10 @@
 ---
 title: "Palworld Technology & Progression Guide: Level 1 to 50 Roadmap (2026)"
-description: "Complete Palworld technology tree guide with level-by-level unlock priorities, Ancient Technology points, Statue of Power upgrades, Lifmunk Effigies, and full progression roadmap."
+description: "Complete Palworld technology tree guide with level-by-level unlock priorities, Ancient Technology points, and full progression roadmap to reach level 50."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Technology", "Progression", "Leveling", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Technology", "Progression", "Leveling", "Guides", "palworld leveling guide", "palworld ancient tech", "palworld tech tree priority"]
 categories: ["PC Games"]
 ---
 
@@ -266,7 +266,7 @@ The Statue also allows stat point allocation from catching 10 of each Pal specie
 4. **Tracker:** There is no in-game tracker for effigies. Mark them on your map manually.
 5. **Drop rate:** Each region has approximately 10-15 effigies. Total on the map: ~150+.
 
-**Effigy route for quick 30 effigies:**
+**Effigy route for quick 30 effigies (see [Pal Locations Guide](../palworld/pal-locations-guide.md) for detailed area maps):**
 1. Starting beach area (5 effigies)
 2. Grassy Behemoth Hills cliffs (4 effigies)
 3. Fort Ruins area (3 effigies)
@@ -303,7 +303,7 @@ The Statue also allows stat point allocation from catching 10 of each Pal specie
 - [ ] Craft Crossbow and Pelt Armor
 - [ ] Build Refined Furnace
 - [ ] Catch or breed a Nitewing for flying
-- [ ] Build Breeding Pen (level 19)
+- [ ] Build Breeding Pen (level 19) -- see the [Breeding Guide](../palworld/breeding-guide.md) for combos and passive inheritance
 - [ ] Start producing cakes (Ranch setup)
 
 ### Phase 3: Industrial Revolution (Levels 20-34, ~8-15 hours)
@@ -441,5 +441,7 @@ You get exactly 49-50 TP from leveling (level 50). Here is the optimized spend f
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start your journey.
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Pals worth investing in.
 - **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Build efficient bases.
+- **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- Breed Pals with perfect passives.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Find Pals and resources by biome.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farm what you need to build.
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Beat every boss.

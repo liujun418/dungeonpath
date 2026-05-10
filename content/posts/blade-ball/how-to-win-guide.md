@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball How to Win: Pro Tips and Strategies to Dominate Every Match (2026)"
-description: "Master Blade Ball with pro strategies, positioning tips, ability combos, and advanced techniques to dominate every match and win consistently."
+description: "Master Blade Ball on Roblox with pro strategies, positioning tips, ability combos, and advanced techniques to dominate every match and win consistently."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

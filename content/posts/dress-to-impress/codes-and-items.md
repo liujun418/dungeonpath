@@ -1,6 +1,6 @@
 ---
 title: "Dress To Impress Codes Guide: All Active Codes for May 2026 (+ Free Items)"
-description: "Complete list of all active Dress To Impress codes for May 2026. Get free outfits, accessories, seashells, and exclusive items."
+description: "Complete list of all active Dress To Impress codes and items for May 2026. Get free outfits, accessories, seashells, and exclusive cosmetics with our guide."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

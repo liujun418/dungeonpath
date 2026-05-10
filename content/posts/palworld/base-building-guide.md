@@ -1,10 +1,10 @@
 ---
 title: "Palworld Base Building Guide: Locations, Layouts & Automation (2026)"
-description: "Complete Palworld base building guide covering best base locations, optimal layout designs, Pal assignment strategies, automation setup, defense, and multi-base management."
+description: "Complete Palworld base building guide covering best base locations, layout designs, Pal assignments, automation, and multi-base management tips for 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Base Building", "Automation", "Guides"]
+tags: ["Palworld", "PC Games", "Survival", "Base Building", "Automation", "Guides", "palworld best base", "palworld base layout", "palworld automation guide"]
 categories: ["PC Games"]
 ---
 
@@ -40,7 +40,7 @@ Your Palbox can be upgraded using materials. Higher levels unlock more Pal slots
 
 ## Base Location Tier List
 
-Your base location determines resource access, raid difficulty, and overall efficiency. Choose your first base carefully.
+Your base location determines resource access, raid difficulty, and overall efficiency. Choose your first base carefully. See the [Pal Locations Guide](../palworld/pal-locations-guide.md) for detailed biome information and Pal spawns.
 
 ### S-Tier Base Locations
 
@@ -267,7 +267,7 @@ For Refined Ingots, you need Charcoal:
 
 ## Base Defense (Raid Management)
 
-Raids occur periodically where hostile Pals or human NPCs attack your base.
+Raids occur periodically where hostile Pals or human NPCs attack your base. For dedicated boss fight strategies, see the [Boss & Tower Guide](../palworld/boss-and-tower-guide.md).
 
 ### Raid Mechanics
 
@@ -421,5 +421,7 @@ You can fast travel between bases using the Palbox map menu. Resources are share
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start here if new.
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Which Pals to assign to your base.
 - **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- How to breed workers with perfect passives.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to find Pals for your base by biome.
+- **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Defeat raid enemies and world bosses.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farming all resources.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Tech tree unlock priorities.

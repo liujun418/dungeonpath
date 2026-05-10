@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball Trails and Cosmetics Guide: All Sword Skins, Trails, and How to Unlock Them (2026)"
-description: "Complete guide to all Blade Ball cosmetic items. Learn how to unlock every sword skin, trail, ability effect, and exclusive cosmetic in 2026."
+description: "Complete guide to all Blade Ball cosmetic items on Roblox. Learn how to unlock every sword skin, trail, ability effect, and exclusive cosmetic in 2026."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false

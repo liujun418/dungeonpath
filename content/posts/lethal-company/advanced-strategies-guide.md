@@ -1,6 +1,6 @@
 ---
 title: "Lethal Company Advanced Strategies Guide: Late-Game, Quota Scaling, and Max-Efficiency (2026)"
-description: "Master late-game Lethal Company with advanced strategies. Learn quota scaling math, weather tactics, max-efficiency loot routes, and more."
+description: "Master late-game Lethal Company with advanced strategies and tips. Learn quota scaling math, weather tactics, max-efficiency loot routes, and pro techniques."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
@@ -209,7 +209,7 @@ For experienced teams with Inverse Teleporter:
 
 ## Handling Multiple Monster Spawns
 
-The deadliest situations involve multiple monster types simultaneously. Here is how to handle common combinations:
+The deadliest situations involve multiple monster types simultaneously. Here is how to handle common combinations. For detailed information on every entity's behavior and counters, see our [Monster Bestiary](/posts/lethal-company/monster-bestiary/).
 
 | Monster Combo | Danger | Strategy |
 |--------------|--------|----------|
@@ -400,7 +400,10 @@ The difference between a team that survives 10 quotas and a team that wipes on q
 
 ### Related Guides
 
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
+- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
+- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
+- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
 - [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
