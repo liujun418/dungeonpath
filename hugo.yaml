@@ -47,6 +47,10 @@ params:
   ShowToc: true
   TocOpen: true
 
+  # Logo text — keep short, SEO title stays long
+  label:
+    text: "DungeonPath"
+
   # Assets
   assets:
     favicon: "/favicon.ico"
