@@ -58,8 +58,8 @@ params:
     buttons:
       - name: "Browse Guides"
         url: "/posts/"
-      - name: "About"
-        url: "/about/"
+      - name: "Search"
+        url: "/search/"
 
   # Social links
   socialIcons: []

@@ -203,6 +203,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .neon-buttons {
   gap: 1rem !important;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.neon-buttons .button {
+  flex: 0 0 160px !important;
+  text-align: center;
 }
 
 .neon-button {
