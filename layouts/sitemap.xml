@@ -3,6 +3,7 @@
   "fisch" "pressure" "rivals" "doors" "blade-ball"
   "dress-to-impress" "tower-defense-simulator" "sailor-piece"
   "monster-legends" "my-singing-monsters" "palworld" "lethal-company"
+  "blox-fruits"
 }}
 {{- $articles := where site.RegularPages "Type" "eq" "posts" }}
 {{- $articleURLs := slice }}

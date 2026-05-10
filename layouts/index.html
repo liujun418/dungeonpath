@@ -12,7 +12,7 @@
     <div class="featured-grid">
         {{- range $featured }}
         <a href="{{ .RelPermalink }}" class="featured-card">
-            {{- $game := .Params.tags | intersect (slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS") | first 1 }}
+            {{- $game := .Params.tags | intersect (slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Blox Fruits") | first 1 }}
             <div class="card-header">
                 {{- with $game }}
                 <span class="card-game-tag">{{ . }}</span>
@@ -45,7 +45,7 @@
 {{/* ---- Browse by Game ---- */}}
 {{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
 {{- /* Dynamic game list based on actual content */}}
-{{- $games := slice "Fisch" "Pressure" "RIVALS" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Sailor Piece" }}
+{{- $games := slice "Fisch" "Pressure" "RIVALS" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Sailor Piece" "Blox Fruits" }}
 <section class="home-section home-games">
     <h2 class="section-title">🎮 Browse by Game</h2>
     <div class="game-grid">
