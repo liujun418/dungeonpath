@@ -1,0 +1,59 @@
+{{/* Custom homepage: profile + featured sections */}}
+{{- if site.Params.profileMode.enabled }}
+{{- partial "index_profile.html" . }}
+{{- end }}
+
+{{/* ---- Featured Guides (Hot Guides) ---- */}}
+{{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 6 }}
+<section class="home-section home-featured">
+    <h2 class="section-title">🔥 Featured Guides</h2>
+    <div class="featured-grid">
+        {{- range $featured }}
+        <a href="{{ .RelPermalink }}" class="featured-card">
+            {{- $game := .Params.tags | intersect (slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS") | first 1 }}
+            <div class="card-header">
+                {{- with $game }}
+                <span class="card-game-tag">{{ . }}</span>
+                {{- end }}
+            </div>
+            <h3 class="card-title">{{ .Title }}</h3>
+            <p class="card-excerpt">{{ .Description | truncate 120 }}</p>
+            <span class="card-date">{{ .Date | time.Format ":date_medium" }}</span>
+        </a>
+        {{- end }}
+    </div>
+</section>
+
+{{/* ---- Latest Updates ---- */}}
+{{- $latest := where site.RegularPages "Type" "in" (slice "posts") | first 4 }}
+<section class="home-section home-latest">
+    <h2 class="section-title">📝 Latest Updates</h2>
+    <div class="latest-list">
+        {{- range $latest }}
+        <a href="{{ .RelPermalink }}" class="latest-item">
+            <div class="latest-content">
+                <h3 class="latest-title">{{ .Title }}</h3>
+                <p class="latest-date">{{ .Date | time.Format ":date_medium" }}</p>
+            </div>
+        </a>
+        {{- end }}
+    </div>
+</section>
+
+{{/* ---- Browse by Game ---- */}}
+{{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
+{{- $games := slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS" }}
+<section class="home-section home-games">
+    <h2 class="section-title">🎮 Browse by Game</h2>
+    <div class="game-grid">
+        {{- range $games }}
+        {{- $gamePosts := where $allPosts "Params.tags" "intersect" (slice .) }}
+        {{- if $gamePosts }}
+        <a href="/tags/{{ . | urlize }}/" class="game-card">
+            <span class="game-name">{{ . }}</span>
+            <span class="game-count">{{ len $gamePosts }} guides</span>
+        </a>
+        {{- end }}
+        {{- end }}
+    </div>
+</section>
