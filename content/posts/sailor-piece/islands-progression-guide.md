@@ -1,6 +1,6 @@
 ---
 title: "Sailor Piece Islands and Progression Guide: Complete Walkthrough for Sea 1, Sea 2, and Beyond (2026)"
-description: "Complete island-by-island walkthrough for Sailor Piece. Learn boss strategies, level requirements, loot tables, and Sea 2 unlock."
+description: "Complete island-by-island walkthrough for Sailor Piece in 2026. Learn boss strategies, level requirements, loot tables, and how to unlock Sea 2 to progress."
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
