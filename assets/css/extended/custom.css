@@ -654,7 +654,7 @@ details.toc a:hover {
 /* ===== Hero Carousel ===== */
 .hero-carousel {
   max-width: var(--main-width);
-  margin: 0.5rem auto 2rem;
+  margin: 0 auto 1.5rem;
   padding: 0 var(--gap);
   position: relative;
 }
@@ -740,11 +740,17 @@ details.toc a:hover {
   animation-play-state: paused;
 }
 
+/* ===== Tighten main padding & unify section gaps ===== */
+.main {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
 /* ===== Homepage Sections ===== */
 
 .home-section {
   max-width: var(--main-width);
-  margin: 0 auto 3rem;
+  margin: 0 auto 1.5rem;
   padding: 0 var(--gap);
 }
 
@@ -753,7 +759,7 @@ details.toc a:hover {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--neon-cyan);
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.8rem;
   text-shadow: 0 0 8px rgba(34, 211, 238, 0.3);
 }
 
