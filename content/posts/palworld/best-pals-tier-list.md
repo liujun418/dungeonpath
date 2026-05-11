@@ -4,7 +4,7 @@ description: "Comprehensive Palworld tier list ranking the best Pals for combat,
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Tier List", "Best Pals", "Guides", "best pal for mining", "palworld best mounts", "palworld combat pals"]
+tags: ["Palworld", "PC Games", "Tier List", "Survival", "Ranking", "best pal for mining", "palworld best mounts", "palworld combat pals"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

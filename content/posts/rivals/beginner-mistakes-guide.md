@@ -4,7 +4,7 @@ description: "Avoid the most common RIVALS mistakes in 2026. Learn what not to d
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Common Mistakes", "Tips", "Improvement", "FPS", "rivals common mistakes", "rivals beginner tips", "rivals improvement guide"]
+tags: ["RIVALS", "Roblox", "Tips", "Beginner Guide", "FPS", "rivals common mistakes", "rivals beginner tips", "rivals improvement guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

@@ -4,7 +4,7 @@ description: "Complete monster bestiary for Lethal Company with all 12+ entities
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Monster Bestiary", "Entity Guide", "Horror", "Co-op", "lethal company how to survive bracken", "lethal company coil head", "lethal company all monsters"]
+tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities", "lethal company how to survive bracken", "lethal company coil head", "lethal company all monsters"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

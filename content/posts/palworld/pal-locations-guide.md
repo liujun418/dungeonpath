@@ -4,7 +4,7 @@ description: "Every Pal location in Palworld by biome for 2026. Find Grasslands,
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Pal Locations", "Biomes", "Guides", "palworld all pals", "palworld alpha pals locations", "palworld rare spawns"]
+tags: ["Palworld", "PC Games", "Pal Locations", "Maps", "Survival", "palworld all pals", "palworld alpha pals locations", "palworld rare spawns"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

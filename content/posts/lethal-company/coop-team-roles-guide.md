@@ -4,7 +4,7 @@ description: "Learn optimal 4-player team composition in Lethal Company for 2026
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Co-op", "Team Roles", "Horror", "Strategy", "lethal company team roles", "lethal company 4 player", "lethal company coordination"]
+tags: ["Lethal Company", "PC Games", "Co-op", "Team Roles", "Strategy Guide", "lethal company team roles", "lethal company 4 player", "lethal company coordination"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

@@ -4,7 +4,7 @@ description: "Master advanced fishing in Roblox Fisch with pro strategies. Learn
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Advanced Guide", "Fishing", "Rare Fish", "fisch legendary fish", "fisch weather manipulation", "fisch pro tips"]
+tags: ["Fisch", "Roblox", "Advanced Guide", "Fishing", "fisch legendary fish", "fisch weather manipulation", "fisch pro tips"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

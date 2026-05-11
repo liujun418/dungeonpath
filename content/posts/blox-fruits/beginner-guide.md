@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Start playing Blox Fruits on Roblox in 2026 with this complete beginner walkthrough. Learn how to choose your first fruit, level up fast, master combat basics, and progress through all three seas."
-tags: ["Blox Fruits", "Roblox", "Beginner Guide", "Leveling", "blox fruits beginner guide 2026", "how to start blox fruits", "blox fruits first sea guide"]
+tags: ["Blox Fruits", "Roblox", "Beginner Guide", "Leveling", "Walkthrough", "blox fruits beginner guide 2026", "how to start blox fruits", "blox fruits first sea guide"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 ---

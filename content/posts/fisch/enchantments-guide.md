@@ -4,7 +4,7 @@ description: "Complete Fisch enchantments and mutations guide for 2026. Every ro
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Enchantments", "Mutations Guide", "fisch best rod enchantments 2026", "fisch all mutations list", "fisch enchantment combos guide"]
+tags: ["Fisch", "Roblox", "Enchantments", "Mutations Guide", "fisch best rod enchantments", "fisch all mutations list", "fisch enchantment combos guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

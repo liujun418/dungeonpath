@@ -4,7 +4,7 @@ description: "Master resource farming in My Singing Monsters for 2026. Learn coi
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Coin Optimization", "Diamond Farming", "msm coin farm", "msm diamond guide", "msm shard farming"]
+tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Diamond Farming", "Money Farming", "msm coin farm", "msm diamond guide", "msm shard farming"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

@@ -4,7 +4,7 @@ description: "Complete list of all active Fisch codes for May 2026 on Roblox. Ge
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Codes", "Free Items", "Rewards", "fisch codes 2026", "fisch free rods", "fisch code redemption"]
+tags: ["Fisch", "Roblox", "Codes and Rewards", "Free Items", "fisch codes 2026", "fisch free rods", "fisch code redemption"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

@@ -4,7 +4,7 @@ description: "Complete guide to every item in Roblox DOORS. Learn where to find 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Items", "Inventory", "Guide", "Jeff Shop", "doors jeff shop guide", "doors best items", "doors items locations"]
+tags: ["DOORS", "Roblox", "Items Guide", "Survival", "Strategy Guide", "doors jeff shop guide", "doors best items", "doors items locations"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

@@ -4,7 +4,7 @@ description: "New to My Singing Monsters in 2026? This beginner guide covers isl
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips and Tricks", "msm breeding chart", "how to get ghazt", "my singing monsters guide"]
+tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips", "msm breeding chart", "how to get ghazt", "my singing monsters guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

@@ -4,7 +4,7 @@ description: "Advanced survival strategies for Roblox Pressure in 2026. Learn en
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Survival", "Advanced Guide", "Horror", "Pro Tips", "pressure survival tips", "how to reach room 100 pressure", "pressure pro strategy"]
+tags: ["Pressure", "Roblox", "Survival", "Advanced Guide", "Horror", "pressure survival tips", "how to reach room 100 pressure", "pressure pro strategy"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

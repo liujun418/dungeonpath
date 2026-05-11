@@ -4,7 +4,7 @@ description: "Complete Monster Legends monster ranking for every mode in 2026. S
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Team Wars", "Rankings", "monster legends best team", "monster legends pvp tier list", "monster legends top monsters"]
+tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Ranking", "monster legends best team", "monster legends pvp tier list", "monster legends top monsters"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

@@ -4,7 +4,7 @@ description: "Optimize your Blade Ball settings for maximum performance. Learn t
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Settings", "Controls", "Sensitivity", "Keybinds", "PC", "Mobile", "blade ball best settings 2026"]
+tags: ["Blade Ball", "Roblox", "Settings", "Controls", "blade ball best settings 2026", "blade ball sensitivity settings", "blade ball controls guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

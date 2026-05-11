@@ -4,7 +4,7 @@ description: "Master DOORS speedrunning in Roblox. Learn optimal routes, skip st
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Horror", "Speedrun", "Strategy", "Any%", "Advanced", "doors speedrun tips", "doors best route"]
+tags: ["DOORS", "Roblox", "Speedrun", "Strategy Guide", "Horror", "doors speedrun tips", "doors best route", "doors speedrun guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

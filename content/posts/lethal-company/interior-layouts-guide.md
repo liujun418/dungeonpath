@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Lethal Company interior guide 2026. Facility and Mansion dungeons mapped with room types, navigation tips, trap patterns, strategies to never get lost inside."
-tags: ["Lethal Company", "PC Games", "Interior Guide", "Map Layout", "lethal company interior layout guide", "lethal company facility vs mansion", "lethal company dungeon navigation"]
+tags: ["Lethal Company", "PC Games", "Interior Guide", "Maps", "Mechanics", "lethal company interior layout guide", "lethal company facility vs mansion", "lethal company dungeon navigation"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

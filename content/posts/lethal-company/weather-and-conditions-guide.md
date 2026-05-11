@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Lethal Company weather guide 2026. Eclipsed, Flooded, Stormy, Foggy, Rainy effects with scrap value multipliers, spawn changes, and survival strategies."
-tags: ["Lethal Company", "PC Games", "Weather Guide", "Conditions", "lethal company weather effects guide", "lethal company eclipsed strategy", "lethal company flooded moons survival"]
+tags: ["Lethal Company", "PC Games", "Weather Guide", "Survival", "Mechanics", "lethal company weather effects guide", "lethal company eclipsed strategy", "lethal company flooded moons survival"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

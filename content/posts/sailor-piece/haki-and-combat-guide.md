@@ -4,7 +4,7 @@ description: "Master Haki and combat in Sailor Piece in 2026. Learn Armament, Ob
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Haki", "Combat", "PvP", "Boss Strategy", "RPG", "sailor piece haki guide", "sailor piece best haki", "sailor piece combat tips"]
+tags: ["Sailor Piece", "Roblox", "Haki", "Combat", "PvP", "sailor piece haki guide", "sailor piece best haki", "sailor piece combat tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

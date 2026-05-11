@@ -4,7 +4,7 @@ description: "Complete TDS tower tier list for May 2026. Every tower ranked from
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Tier List", "Towers", "TDS", "Meta", "tds best towers", "tds tower tier list 2026", "tds best loadout"]
+tags: ["Tower Defense Simulator", "Roblox", "Tier List", "Towers", "Loadout Guide", "tds best towers", "tds tower tier list 2026", "tds best loadout"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

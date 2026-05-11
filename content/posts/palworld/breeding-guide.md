@@ -4,7 +4,7 @@ description: "Complete guide to Palworld breeding mechanics including pen setup,
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Breeding", "Guides", "how to breed anubis palworld", "palworld breeding combos", "palworld best breeding pals"]
+tags: ["Palworld", "PC Games", "Breeding Guide", "Survival", "Tips", "how to breed anubis palworld", "palworld breeding combos", "palworld best breeding pals"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

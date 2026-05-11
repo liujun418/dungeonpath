@@ -4,7 +4,7 @@ description: "Master Monster Legends combat with advanced battle strategies for 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Team Wars", "Combat", "monster legends pvp guide", "monster legends team war", "monster legends combat tips"]
+tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Combat", "monster legends pvp guide", "monster legends team war", "monster legends combat tips"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

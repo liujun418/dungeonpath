@@ -4,7 +4,7 @@ description: "Complete island-by-island walkthrough for Sailor Piece in 2026. Le
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Islands", "Progression", "Walkthrough", "Boss Guide", "Sea 2", "sailor piece islands", "sailor piece sea 2 unlock", "sailor piece leveling guide"]
+tags: ["Sailor Piece", "Roblox", "Island Progression", "Walkthrough", "Leveling", "sailor piece islands", "sailor piece sea 2 unlock", "sailor piece leveling guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

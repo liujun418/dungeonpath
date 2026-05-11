@@ -4,7 +4,7 @@ description: "Complete walkthrough for Roblox DOORS in 2026. Learn every entity,
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "Walkthrough", "doors floor 2 guide", "how to survive doors roblox"]
+tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "doors floor 2 guide", "how to survive doors roblox"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

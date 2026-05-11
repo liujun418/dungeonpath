@@ -4,7 +4,7 @@ description: "Complete guide to every item, keycard, and puzzle in Roblox Pressu
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Items", "Puzzles", "Guide", "Keycards", "pressure items guide", "pressure puzzle solutions", "pressure keycard guide"]
+tags: ["Pressure", "Roblox", "Items Guide", "Puzzles", "pressure items guide", "pressure puzzle solutions", "pressure keycard guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

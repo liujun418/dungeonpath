@@ -4,7 +4,7 @@ description: "Complete list of all active RIVALS codes for May 2026 on Roblox. G
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Codes", "Free Items", "Rewards", "Weapon Skins", "rivals codes 2026", "rivals free skins", "rivals key codes"]
+tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items", "rivals codes 2026", "rivals free skins", "rivals key codes"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

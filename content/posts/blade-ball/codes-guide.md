@@ -4,7 +4,7 @@ description: "Complete list of all active Blade Ball codes for May 2026. Get fre
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Codes", "Free Items", "Rewards", "blade ball codes 2026", "blade ball free spins", "blade ball redemption"]
+tags: ["Blade Ball", "Roblox", "Codes", "Items Guide", "blade ball codes 2026", "blade ball free spins", "blade ball redemption"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

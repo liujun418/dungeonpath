@@ -4,7 +4,7 @@ description: "Complete Palworld base building guide covering best base locations
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Base Building", "Automation", "Guides", "palworld best base", "palworld base layout", "palworld automation guide"]
+tags: ["Palworld", "PC Games", "Base Building", "Survival", "Crafting", "palworld best base", "palworld base layout", "palworld automation guide"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

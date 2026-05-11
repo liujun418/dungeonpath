@@ -4,7 +4,7 @@ description: "Complete Palworld technology tree guide with level-by-level unlock
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Technology", "Progression", "Leveling", "Guides", "palworld leveling guide", "palworld ancient tech", "palworld tech tree priority"]
+tags: ["Palworld", "PC Games", "Technology", "Progression", "Leveling", "palworld leveling guide", "palworld ancient tech", "palworld tech tree priority"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

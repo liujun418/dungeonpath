@@ -942,3 +942,84 @@ details.toc a:hover {
   flex-shrink: 0;
 }
 
+/* ---- Tags Page — Categorized Tag Grid ---- */
+.tags-section {
+  margin: 2rem 0 1rem;
+}
+
+.tags-section-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 0.8rem;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tags-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.5rem;
+}
+
+.tag-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.55rem 0.8rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+}
+
+.tag-game-card {
+  background: var(--entry);
+  border: 1px solid rgba(168, 85, 247, 0.15);
+}
+
+.tag-game-card:hover {
+  border-color: var(--neon-purple);
+  box-shadow: var(--card-glow-hover);
+  transform: translateY(-1px);
+}
+
+.tag-topic-card {
+  background: var(--entry);
+  border: 1px solid rgba(6, 182, 212, 0.1);
+}
+
+.tag-topic-card:hover {
+  border-color: var(--neon-cyan);
+  box-shadow: 0 2px 12px rgba(6, 182, 212, 0.12);
+  transform: translateY(-1px);
+}
+
+.tag-name {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--primary);
+  line-height: 1.3;
+  transition: color 0.2s ease;
+}
+
+.tag-game-card:hover .tag-name {
+  color: var(--neon-purple);
+}
+
+.tag-topic-card:hover .tag-name {
+  color: var(--neon-cyan);
+}
+
+.tag-count {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--secondary);
+  background: rgba(139, 92, 246, 0.08);
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  margin-left: 0.5rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+

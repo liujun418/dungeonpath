@@ -4,7 +4,7 @@ description: "Complete breeding guide for My Singing Monsters with all island co
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Breeding Combinations", "msm breeding chart", "msm breeding times", "my singing monsters all combos"]
+tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Monsters", "msm breeding chart", "msm breeding times", "my singing monsters all combos"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

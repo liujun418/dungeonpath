@@ -4,7 +4,7 @@ description: "Master TDS with advanced strategies including tower combos, econom
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "TDS", "Advanced Tips", "tds strategy guide", "tds tower combos", "tds advanced tips"]
+tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "Advanced Guide", "Advanced Tips", "tds strategy guide", "tds tower combos", "tds advanced tips"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

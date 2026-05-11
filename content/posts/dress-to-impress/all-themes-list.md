@@ -4,7 +4,7 @@ description: "Complete list of every Dress To Impress theme on Roblox in 2026. R
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Themes", "Fashion", "Outfit Ideas", "dress to impress all themes", "dti outfit ideas", "dti theme guide"]
+tags: ["Dress To Impress", "Roblox", "Themes", "Cosmetics", "dress to impress all themes list", "dress to impress outfit ideas", "dress to impress theme guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

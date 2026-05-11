@@ -4,7 +4,7 @@ description: "Complete list of all active Tower Defense Simulator codes for May 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Codes", "Free Items", "TDS", "tds codes 2026", "tds free towers", "tds code redemption"]
+tags: ["Tower Defense Simulator", "Roblox", "Codes and Rewards", "Free Items", "Tips", "tds codes 2026", "tds free towers", "tds code redemption"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

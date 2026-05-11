@@ -4,7 +4,7 @@ description: "Complete terminal command reference for Lethal Company in 2026. Ev
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Terminal Commands", "Guide", "Horror", "Co-op", "lethal company terminal guide", "lethal company all commands", "lethal company console"]
+tags: ["Lethal Company", "PC Games", "Terminal Commands", "Controls", "Mechanics", "lethal company terminal guide", "lethal company all commands", "lethal company console"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

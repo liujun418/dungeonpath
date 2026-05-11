@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blade Ball ranked mode guide for 2026. Learn the MMR ranking system, every tier from Bronze to Grandmaster, competitive meta strategies, and proven methods to climb the ranks."
-tags: ["Blade Ball", "Roblox", "Ranked Guide", "Competitive", "blade ball ranking system", "blade ball mmr explained", "blade ball competitive meta"]
+tags: ["Blade Ball", "Roblox", "Competitive", "Ranking", "Strategy Guide", "blade ball ranking system", "blade ball mmr explained", "blade ball competitive meta"]
 category: "Roblox Guides"
 ---
 

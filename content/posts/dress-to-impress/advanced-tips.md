@@ -4,7 +4,7 @@ description: "Advanced Dress To Impress strategies covering Freeplay mode, votin
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Fashion", "Pro Tips", "dti advanced tips", "dti freeplay guide", "how to win dti"]
+tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Tips", "dress to impress advanced tips", "dress to impress freeplay guide", "how to win dress to impress"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

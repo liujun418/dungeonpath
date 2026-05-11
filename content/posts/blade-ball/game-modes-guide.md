@@ -4,7 +4,7 @@ description: "Complete guide to every Blade Ball game mode. Learn the rules, str
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Game Modes", "Classic", "1v1", "Team Mode", "Events", "blade ball game modes guide"]
+tags: ["Blade Ball", "Roblox", "Game Modes", "Strategy Guide", "Competitive", "blade ball game modes guide", "blade ball game modes explained"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

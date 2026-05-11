@@ -4,7 +4,7 @@ description: "Learn to play Tower Defense Simulator on Roblox. Find the best tow
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "TDS", "tds best towers", "tds beginner guide", "tower defense simulator tips"]
+tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "tds best towers", "tds beginner guide", "tower defense simulator tips"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

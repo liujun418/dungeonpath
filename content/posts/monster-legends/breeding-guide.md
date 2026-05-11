@@ -4,7 +4,7 @@ description: "Complete Monster Legends breeding chart with every Legendary, Myth
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Legendary", "Mythic", "Combinations", "how to breed legendary monster legends", "monster legends breeding chart", "monster legends all combos"]
+tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Monsters", "how to breed legendary monster legends", "monster legends breeding chart", "monster legends all combos"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

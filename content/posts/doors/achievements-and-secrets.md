@@ -4,7 +4,7 @@ description: "Complete guide to all DOORS achievements, secret rooms, easter egg
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Achievements", "Secrets", "Easter Eggs", "Guide", "doors all achievements", "doors secret rooms", "doors hidden content"]
+tags: ["DOORS", "Roblox", "Achievements", "Secrets", "doors all achievements", "doors secret rooms", "doors hidden content"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

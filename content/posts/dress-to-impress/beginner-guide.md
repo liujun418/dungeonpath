@@ -4,7 +4,7 @@ description: "Learn to play Dress To Impress on Roblox in 2026. Master themed fa
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Beginner Guide", "Tips", "Fashion", "dress to impress all themes", "how to win dti runway", "dti outfits guide"]
+tags: ["Dress To Impress", "Roblox", "Beginner Guide", "Tips", "dress to impress beginner guide", "how to win dress to impress", "dress to impress outfits guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---
