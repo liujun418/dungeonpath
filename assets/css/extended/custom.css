@@ -849,3 +849,70 @@ details.toc a:hover {
   font-family: 'Inter', sans-serif;
 }
 
+/* ---- Category Page — Game Sub-Category Cards ---- */
+.category-games-section {
+  margin: 1.5rem 0 1rem;
+}
+
+.category-games-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 0.8rem;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.category-games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 0.6rem;
+}
+
+.category-game-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.9rem 0.8rem;
+  background: var(--entry);
+  border: 1px solid rgba(139, 92, 246, 0.15);
+  border-radius: 10px;
+  text-decoration: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+}
+
+.category-game-card:hover {
+  border-color: var(--neon-purple);
+  box-shadow: var(--card-glow-hover);
+  transform: translateY(-2px);
+}
+
+.category-game-name {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--primary);
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  transition: color 0.2s ease;
+}
+
+.category-game-card:hover .category-game-name {
+  color: var(--neon-cyan);
+  text-shadow: 0 0 10px rgba(34, 211, 238, 0.4);
+}
+
+.category-game-count {
+  font-size: 0.75rem;
+  color: var(--secondary);
+  font-family: 'Inter', sans-serif;
+  margin-top: 0.25rem;
+}
+
+.category-games-divider {
+  border: none;
+  border-top: 1px solid rgba(139, 92, 246, 0.12);
+  margin: 1.5rem 0 0.5rem;
+}
+
