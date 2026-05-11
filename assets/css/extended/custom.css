@@ -654,7 +654,7 @@ details.toc a:hover {
 /* ===== Hero Carousel ===== */
 .hero-carousel {
   max-width: var(--main-width);
-  margin: 0.5rem auto 2rem;
+  margin: 1rem auto 1.5rem;
   padding: 0 var(--gap);
   position: relative;
 }
