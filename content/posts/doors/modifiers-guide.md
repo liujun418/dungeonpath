@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete Doors Roblox modifiers guide. Every gameplay modifier explained with strategies, best and worst modifier combos, challenge run setups, and how to earn modifier badges in 2026."
-tags: ["DOORS", "Roblox", "Modifiers", "Game Modes", "doors all modifiers list", "doors modifier combos best", "doors challenge run badges"]
+tags: ["DOORS", "Roblox", "Game Modes", "doors entities", "doors items", "doors walkthrough"]
 category: "Roblox Guides"
 ---
 

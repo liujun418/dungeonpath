@@ -4,7 +4,7 @@ description: "Complete walkthrough for every floor and area in Pressure in 2026.
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Locations", "Maps", "Walkthrough", "pressure floors guide", "pressure hadal blacksite map", "pressure room 100 guide"]
+tags: ["Pressure", "Roblox", "Locations", "Maps", "Walkthrough", "pressure floor guide", "pressure entity guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

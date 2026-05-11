@@ -4,7 +4,7 @@ description: "Master late-game Lethal Company with advanced strategies and tips.
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Advanced Guide", "Strategy Guide", "Survival", "lethal company quota scaling", "lethal company max efficiency", "lethal company endgame"]
+tags: ["Lethal Company", "PC Games", "Advanced Guide", "Strategy Guide", "Survival", "lethal company moons guide", "lethal company monsters guide", "lethal company scrap guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

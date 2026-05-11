@@ -4,7 +4,7 @@ description: "Complete scrap and loot database for Lethal Company with every ite
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Scrap Guide", "Items Guide", "Co-op", "lethal company scrap values", "lethal company best loot", "lethal company profit guide"]
+tags: ["Lethal Company", "PC Games", "Items Guide", "Co-op", "lethal company scrap guide", "lethal company moons guide", "lethal company equipment guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

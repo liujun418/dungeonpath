@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete MSM Tribal Island guide. Tribe mechanics, Star Power system, optimal monster picks, feeding strategies, and how to maximize weekly diamond rewards."
-tags: ["My Singing Monsters", "Mobile Games", "Tribal Island", "Star Power", "msm tribal island strategy", "how to get star power msm", "msm tribe rewards guide"]
+tags: ["My Singing Monsters", "Mobile Games", "msm island guide", "msm beginner guide", "msm rare monsters"]
 category: "Mobile Games"
 ---
 

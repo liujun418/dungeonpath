@@ -4,7 +4,7 @@ description: "Complete list of all active Sailor Piece codes for May 2026 on Rob
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Codes and Rewards", "Free Items", "Tips", "sailor piece codes 2026", "sailor piece free beli", "sailor piece code redemption"]
+tags: ["Sailor Piece", "Roblox", "Codes and Rewards", "Free Items", "Tips", "sailor piece codes", "sailor piece beginner guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

@@ -4,7 +4,7 @@ description: "Master Fallen mode in Tower Defense Simulator with this complete s
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Fallen Mode", "Endgame Guide", "Strategy Guide", "tds fallen mode guide", "tds fallen strategy", "tds fallen boss"]
+tags: ["Tower Defense Simulator", "Roblox", "Endgame Guide", "Strategy Guide", "tds mode strategy", "tds loadout guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

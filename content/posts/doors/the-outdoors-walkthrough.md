@@ -4,7 +4,7 @@ description: "Complete walkthrough for The Outdoors in DOORS Floor 3 on Roblox. 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors floor 3 guide", "doors outdoors entities", "doors the outdoors walkthrough"]
+tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors walkthrough", "doors entities", "doors items"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

@@ -4,7 +4,7 @@ description: "Complete guide to every Devil Fruit in Sailor Piece in 2026. Learn
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading", "sailor piece best fruit", "sailor piece fruit tier list", "sailor piece fruit spawns"]
+tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading", "sailor piece devil fruits", "sailor piece haki guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

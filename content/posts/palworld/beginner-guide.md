@@ -4,7 +4,7 @@ description: "New to Palworld in 2026? This beginner guide covers survival basic
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Beginner Guide", "Survival", "Crafting", "palworld tips", "how to survive palworld", "palworld first base"]
+tags: ["Palworld", "PC Games", "Beginner Guide", "Survival", "Crafting", "palworld beginner guide", "palworld base building", "palworld breeding guide"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

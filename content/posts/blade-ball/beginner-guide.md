@@ -4,7 +4,7 @@ description: "Learn to play Blade Ball on Roblox with this complete beginner gui
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP", "how to win blade ball", "best abilities 2026", "blade ball strategies"]
+tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP", "blade ball beginner guide", "blade ball pvp tips", "blade ball abilities"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

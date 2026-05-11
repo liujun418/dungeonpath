@@ -4,7 +4,7 @@ description: "Avoid the most common mistakes new Pressure players make in 2026. 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Beginner Guide", "Tips", "Horror", "pressure common mistakes", "pressure beginner tips", "pressure mistakes guide"]
+tags: ["Pressure", "Roblox", "Beginner Guide", "Tips", "Horror", "pressure beginner guide", "pressure survival tips"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

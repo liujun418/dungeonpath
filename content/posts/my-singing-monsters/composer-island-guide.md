@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete MSM Composer Island guide. Master music creation, learn note types and instruments, explore tempo and key settings, and create amazing monster songs."
-tags: ["My Singing Monsters", "Mobile Games", "Composer Island", "Music Creation", "msm composer island guide", "how to make songs msm composer", "msm composer note system"]
+tags: ["My Singing Monsters", "Mobile Games", "msm island guide", "msm beginner guide"]
 category: "Mobile Games"
 ---
 

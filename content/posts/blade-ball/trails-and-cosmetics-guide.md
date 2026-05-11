@@ -4,7 +4,7 @@ description: "Complete guide to all Blade Ball cosmetic items on Roblox. Learn h
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Cosmetics", "Items Guide", "Equipment Guide", "blade ball skins", "blade ball trails"]
+tags: ["Blade Ball", "Roblox", "Cosmetics", "Items Guide", "Equipment Guide", "blade ball codes", "blade ball game modes"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

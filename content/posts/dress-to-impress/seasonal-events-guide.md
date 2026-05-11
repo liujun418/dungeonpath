@@ -4,7 +4,7 @@ description: "Complete guide to all Dress To Impress seasonal events on Roblox. 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Events Guide", "dress to impress seasonal events", "dress to impress limited items", "dress to impress event guide 2026"]
+tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Events Guide", "dress to impress themes", "dress to impress vip", "dress to impress outfits"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

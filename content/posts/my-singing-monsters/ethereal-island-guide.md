@@ -4,7 +4,7 @@ description: "Complete Ethereal Island guide for My Singing Monsters in 2026. Le
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Ethereal Island", "Monsters", "msm ethereal guide", "how to breed ethereal msm", "msm shard farming"]
+tags: ["My Singing Monsters", "Mobile Games", "Monsters", "msm island guide", "msm events guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

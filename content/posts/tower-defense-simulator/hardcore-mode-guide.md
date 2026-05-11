@@ -4,7 +4,7 @@ description: "Master Hardcore mode in Tower Defense Simulator with our expert gu
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Hardcore Mode", "Strategy", "Survival", "tds hardcore guide", "tds hardcore loadout", "tds hardcore strategy"]
+tags: ["Tower Defense Simulator", "Roblox", "Strategy", "Survival", "tds mode strategy", "tds loadout guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

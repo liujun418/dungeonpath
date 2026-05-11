@@ -4,7 +4,7 @@ description: "Optimize RIVALS settings for maximum performance in 2026. Recommen
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Settings", "Optimization", "FPS", "rivals best settings", "rivals sensitivity guide", "rivals fps boost"]
+tags: ["RIVALS", "Roblox", "Settings", "FPS", "rivals movement guide", "rivals pvp tips"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

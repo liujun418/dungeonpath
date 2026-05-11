@@ -4,7 +4,7 @@ description: "Find every hidden seashell, treasure chest, and collectible in Dre
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Collectibles", "Secrets", "dress to impress seashell locations", "dress to impress seashell crown", "dress to impress hidden items"]
+tags: ["Dress To Impress", "Roblox", "Secrets", "dress to impress themes", "dress to impress outfits"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

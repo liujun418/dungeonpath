@@ -4,7 +4,7 @@ description: "Complete guide to Rare and Epic monsters in My Singing Monsters fo
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Rare Monsters", "Breeding Guide", "msm rare monsters", "msm epic monsters", "how to breed rare msm"]
+tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "msm rare monsters", "msm events guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

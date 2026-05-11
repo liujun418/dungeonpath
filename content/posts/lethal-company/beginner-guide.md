@@ -4,7 +4,7 @@ description: "New to Lethal Company in 2026? This beginner guide covers the core
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips", "lethal company how to survive", "lethal company first quota", "lethal company tips"]
+tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips", "lethal company beginner guide", "lethal company equipment guide", "lethal company monsters guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

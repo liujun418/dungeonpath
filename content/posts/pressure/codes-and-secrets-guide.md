@@ -4,7 +4,7 @@ description: "Complete guide to Pressure codes, easter eggs, secret rooms, and h
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Codes", "Secrets", "pressure codes 2026", "pressure free items", "pressure secret rooms"]
+tags: ["Pressure", "Roblox", "Codes", "Secrets", "pressure codes", "pressure beginner guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

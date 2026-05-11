@@ -4,7 +4,7 @@ description: "Complete guide to all RIVALS game modes and ranked system on Roblo
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS", "rivals ranked guide", "rivals game modes", "rivals competitive tips"]
+tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS", "rivals pvp tips", "rivals weapon guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

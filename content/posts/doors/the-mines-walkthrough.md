@@ -4,7 +4,7 @@ description: "Complete walkthrough for The Mines in DOORS Floor 2 on Roblox. Lea
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors mines guide", "how to beat the mines doors", "doors floor 2 walkthrough"]
+tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors walkthrough", "doors entities", "doors items"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

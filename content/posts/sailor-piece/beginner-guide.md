@@ -4,7 +4,7 @@ description: "Start your adventure in Roblox Sailor Piece in 2026. Learn Devil F
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips", "sailor piece devil fruits", "sailor piece sea 2", "sailor piece islands"]
+tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips", "sailor piece beginner guide", "sailor piece devil fruits"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

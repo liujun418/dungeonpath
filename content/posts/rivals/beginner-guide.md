@@ -4,7 +4,7 @@ description: "Everything you need to know to start winning in Roblox RIVALS in 2
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons", "rivals best loadout", "rivals movement guide", "rivals ranked tips"]
+tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons", "rivals beginner guide", "rivals weapon guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

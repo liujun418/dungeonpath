@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete Monster Legends runes and relics guide. Rune types ranked, best attacker tank support builds, relic crafting recipes, and optimization strategies."
-tags: ["Monster Legends", "Mobile Games", "Runes", "Relics", "Equipment Guide", "monster legends best rune builds", "monster legends rune crafting guide", "monster legends relics guide"]
+tags: ["Monster Legends", "Mobile Games", "Equipment Guide", "monster legends runes guide", "monster legends tier list"]
 category: "Mobile Games"
 ---
 

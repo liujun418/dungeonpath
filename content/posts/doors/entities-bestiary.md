@@ -4,7 +4,7 @@ description: "Complete DOORS entities bestiary for The Hotel, Mines, and Outdoor
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival", "doors all entities", "doors how to survive figure", "doors rush ambush guide"]
+tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival", "doors entities"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

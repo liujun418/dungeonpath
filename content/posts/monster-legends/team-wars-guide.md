@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Monster Legends Team Wars guide for 2026. Learn war strategy, defense team builds, attack phase tactics, point calculations, and how lead your team to victory."
-tags: ["Monster Legends", "Mobile Games", "Team Wars", "Strategy Guide", "monster legends team wars strategy", "monster legends war defense setup", "how to win monster legends wars"]
+tags: ["Monster Legends", "Mobile Games", "Strategy Guide", "monster legends team wars", "monster legends tier list"]
 category: "Mobile Games"
 ---
 

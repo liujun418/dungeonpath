@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits bosses and raids guide for 2026. Every boss location across all three seas, all rare drops and spawn times, raid mechanics explained, and best strategies for every raid."
-tags: ["Blox Fruits", "Roblox", "Bosses", "Raids", "Strategy Guide", "blox fruits all boss locations", "blox fruits raid guide", "blox fruits boss drops list"]
+tags: ["Blox Fruits", "Roblox", "Bosses", "Raids", "Strategy Guide", "blox fruits boss guide", "blox fruits haki"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 ---

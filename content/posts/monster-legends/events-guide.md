@@ -4,7 +4,7 @@ description: "Master every Monster Legends event type with winning strategies in
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Events Guide", "Strategy Guide", "monster legends maze guide", "monster legends dungeon tips", "monster legends event rewards"]
+tags: ["Monster Legends", "Mobile Games", "Events Guide", "Strategy Guide", "monster legends team wars", "monster legends beginner guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

@@ -4,7 +4,7 @@ description: "All Blade Ball maps, trails, and cosmetics guide for Roblox. Learn
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Maps", "Cosmetics", "Locations", "blade ball cosmetics", "blade ball unlock guide"]
+tags: ["Blade Ball", "Roblox", "Maps", "Cosmetics", "Locations", "blade ball codes", "blade ball beginner guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

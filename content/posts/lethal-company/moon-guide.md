@@ -4,7 +4,7 @@ description: "Every moon in Lethal Company ranked by difficulty with complete lo
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Moon Guide", "Maps", "Co-op", "lethal company all moons", "lethal company best moon", "lethal company moon tier list"]
+tags: ["Lethal Company", "PC Games", "Maps", "Co-op", "lethal company moons guide", "lethal company monsters guide", "lethal company scrap guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

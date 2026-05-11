@@ -4,7 +4,7 @@ description: "Master Sailor Piece PvP combat in 2026. Bounty system guide, 1v1 d
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "PvP", "Combat", "Strategy Guide", "sailor piece pvp combos", "sailor piece bounty hunting guide", "how to win pvp sailor piece"]
+tags: ["Sailor Piece", "Roblox", "PvP", "Combat", "Strategy Guide", "sailor piece pvp guide", "sailor piece haki guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

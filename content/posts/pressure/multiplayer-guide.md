@@ -4,7 +4,7 @@ description: "Master Pressure multiplayer in 2026 with co-op strategies, team ro
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Co-op", "Horror", "Team Roles", "pressure multiplayer guide", "pressure team roles", "pressure co-op tips"]
+tags: ["Pressure", "Roblox", "Co-op", "Horror", "Team Roles", "pressure survival tips", "pressure entity guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

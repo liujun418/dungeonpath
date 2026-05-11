@@ -4,7 +4,7 @@ description: "Complete list of all active Dress To Impress codes and items for M
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Codes", "Free Items", "dress to impress codes 2026", "dress to impress free items", "dress to impress code redemption"]
+tags: ["Dress To Impress", "Roblox", "Codes", "Free Items", "dress to impress codes", "dress to impress vip", "dress to impress beginner guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

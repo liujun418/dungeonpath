@@ -4,7 +4,7 @@ description: "Master every boss fight in Sailor Piece in 2026. Learn boss patter
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Boss Guide", "Bosses", "Combat", "sailor piece boss guide", "sailor piece all bosses", "sailor piece sea 2 bosses"]
+tags: ["Sailor Piece", "Roblox", "Boss Guide", "Bosses", "Combat", "sailor piece haki guide", "sailor piece pvp guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

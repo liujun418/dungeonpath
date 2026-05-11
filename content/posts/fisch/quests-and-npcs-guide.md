@@ -4,7 +4,7 @@ description: "Complete guide to every quest and NPC in Roblox Fisch for 2026. Le
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Quests", "Walkthrough", "fisch npc locations", "fisch quest rewards", "fisch quest guide"]
+tags: ["Fisch", "Roblox", "Walkthrough", "fisch fish locations", "fisch money farming", "fisch beginner guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

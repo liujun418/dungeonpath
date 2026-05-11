@@ -4,7 +4,7 @@ description: "Ultimate TDS loadout guide for 2026. Best tower combos for Fallen,
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Loadout Guide", "Tower Combos", "Strategy Guide", "tds best loadout 2026", "tds tower combos for fallen mode", "tds hardcore loadout build"]
+tags: ["Tower Defense Simulator", "Roblox", "Loadout Guide", "Strategy Guide", "tds loadout guide", "tds tower guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

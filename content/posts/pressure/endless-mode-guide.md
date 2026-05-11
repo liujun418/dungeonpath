@@ -4,7 +4,7 @@ description: "Master Roblox Pressure Endless Mode in 2026. Room scaling mechanic
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Endless Mode", "Strategy Guide", "pressure endless mode strategy", "pressure high score tips", "pressure room scaling guide"]
+tags: ["Pressure", "Roblox", "Strategy Guide", "pressure survival tips", "pressure floor guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

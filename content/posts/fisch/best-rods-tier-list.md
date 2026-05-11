@@ -4,7 +4,7 @@ description: "Complete tier list ranking all 227+ fishing rods in Roblox Fisch. 
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide", "fisch best rod", "fisch rod tier list", "fisch endgame rod"]
+tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide", "fisch best rods", "fisch money farming"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

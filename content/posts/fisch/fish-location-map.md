@@ -4,7 +4,7 @@ description: "Complete guide to all fishing locations in Roblox Fisch for 2026. 
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Locations", "Maps", "Bestiary", "all fisch fish locations", "fisch island unlock guide", "fisch best fishing spots"]
+tags: ["Fisch", "Roblox", "Locations", "Maps", "Bestiary", "fisch fish locations", "fisch best rods"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

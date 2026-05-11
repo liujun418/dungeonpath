@@ -4,7 +4,7 @@ description: "Master the runway walk and voting system in Dress To Impress on Ro
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Runway Guide", "Voting Strategy", "Tips", "dress to impress runway tips", "dress to impress voting explained", "dress to impress presentation guide"]
+tags: ["Dress To Impress", "Roblox", "Tips", "dress to impress themes", "dress to impress outfits"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

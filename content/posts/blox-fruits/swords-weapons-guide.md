@@ -4,7 +4,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits swords and weapons guide for 2026. Every sword ranked, all legendary and mythic sword locations, upgrade requirements, enchantment guide, and best sword combos for PvP."
-tags: ["Blox Fruits", "Roblox", "Swords", "Weapons", "Tier List", "blox fruits best swords 2026", "blox fruits all sword locations", "blox fruits sword tier list"]
+tags: ["Blox Fruits", "Roblox", "Weapons", "Tier List", "blox fruits fighting style", "blox fruits haki"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 ---

@@ -4,7 +4,7 @@ description: "Complete guide to every TDS map in Tower Defense Simulator. Learn 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Maps Guide", "Strategy", "Maps", "tds best maps", "tds map guide", "tds map strategies"]
+tags: ["Tower Defense Simulator", "Roblox", "Maps Guide", "Strategy", "Maps", "tds mode strategy", "tds tower guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

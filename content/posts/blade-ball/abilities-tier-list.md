@@ -4,7 +4,7 @@ description: "Complete Blade Ball abilities tier list for May 2026. Every abilit
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Tier List", "Abilities", "Combat", "ability tier list", "blade ball meta 2026"]
+tags: ["Blade Ball", "Roblox", "Tier List", "Combat", "blade ball abilities", "blade ball competitive"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

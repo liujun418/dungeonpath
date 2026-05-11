@@ -4,7 +4,7 @@ description: "Learn to play Fisch on Roblox with a complete beginner guide. Disc
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing", "fisch best rod", "how to get money fast fisch", "fisch rare fish guide"]
+tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing", "fisch beginner guide", "fisch codes"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

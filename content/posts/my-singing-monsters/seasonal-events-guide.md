@@ -4,7 +4,7 @@ description: "Complete My Singing Monsters seasonal events calendar for 2026. Le
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Events Guide", "msm seasonal events", "msm spooktacle", "msm festival of yay"]
+tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Events Guide", "msm events guide", "msm beginner guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---

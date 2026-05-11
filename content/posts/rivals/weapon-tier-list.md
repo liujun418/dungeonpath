@@ -4,7 +4,7 @@ description: "Complete tier list ranking all weapons in Roblox RIVALS for 2026. 
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadout Guide", "rivals best weapons", "rivals weapon tier list 2026", "rivals best loadout"]
+tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadout Guide", "rivals weapon guide", "rivals pvp tips"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

@@ -4,7 +4,7 @@ description: "Complete Monster Legends island layout guide for 2026. Learn best 
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Island Layout", "Base Building", "monster legends island order", "monster legends best habitat", "monster legends base design"]
+tags: ["Monster Legends", "Mobile Games", "Island Layout", "Base Building", "monster legends beginner guide", "monster legends breeding guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

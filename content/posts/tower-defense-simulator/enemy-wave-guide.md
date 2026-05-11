@@ -4,7 +4,7 @@ description: "Complete guide to every enemy type in Tower Defense Simulator. Lea
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Tower Defense Simulator", "Roblox", "Enemy Guide", "Wave Guide", "Boss Guide", "tds enemy types", "tds wave guide", "tds all enemies"]
+tags: ["Tower Defense Simulator", "Roblox", "Boss Guide", "tds tower guide", "tds mode strategy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 ---

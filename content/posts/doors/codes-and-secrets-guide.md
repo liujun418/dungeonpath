@@ -4,7 +4,7 @@ description: "Complete guide to DOORS codes, easter eggs, secret rooms, and hidd
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Codes", "Secrets", "Achievements", "doors codes 2026", "doors free knobs", "doors secret rooms"]
+tags: ["DOORS", "Roblox", "Codes", "Secrets", "Achievements", "doors codes", "doors secrets"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

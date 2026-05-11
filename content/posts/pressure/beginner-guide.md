@@ -4,7 +4,7 @@ description: "Learn to survive the Hadal Blacksite in Roblox Pressure in 2026. M
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival", "pressure roblox guide", "how to survive pressure", "pressure hadal blacksite"]
+tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival", "pressure beginner guide", "pressure entity guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

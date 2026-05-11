@@ -4,7 +4,7 @@ description: "Complete guide to every boss in Palworld in 2026 including tower b
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Boss Guide", "Bosses", "Survival", "palworld all bosses", "palworld tower bosses", "palworld legendary pals locations"]
+tags: ["Palworld", "PC Games", "Survival", "palworld boss guide", "palworld pal locations", "palworld breeding guide"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

@@ -4,7 +4,7 @@ description: "Master RIVALS movement mechanics in 2026. Learn slide jumping, adv
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Movement", "Mechanics", "FPS", "rivals movement guide", "rivals slide jump", "rivals advanced movement"]
+tags: ["RIVALS", "Roblox", "FPS", "rivals movement guide", "rivals pvp tips"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

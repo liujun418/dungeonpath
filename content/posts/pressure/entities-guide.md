@@ -4,7 +4,7 @@ description: "Complete bestiary of all entities in Roblox Pressure for 2026. Lea
 date: 2026-05-09
 lastmod: 2026-05-09
 draft: false
-tags: ["Pressure", "Roblox", "Entities", "Monsters", "Bestiary", "pressure all entities", "pressure angler guide", "how to survive pressure entities"]
+tags: ["Pressure", "Roblox", "Entities", "Monsters", "Bestiary", "pressure entity guide", "pressure survival tips"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

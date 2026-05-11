@@ -4,7 +4,7 @@ description: "Complete Shugabush Island guide for My Singing Monsters in 2026. L
 date: 2026-05-10
 lastmod: 2026-05-10
 draft: false
-tags: ["My Singing Monsters", "Mobile Games", "Shugabush Island", "Monsters", "msm shugabush guide", "how to breed shugabush", "msm shugafamily"]
+tags: ["My Singing Monsters", "Mobile Games", "Monsters", "msm island guide", "msm breeding guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
 ---
