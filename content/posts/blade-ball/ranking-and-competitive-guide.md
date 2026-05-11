@@ -1,6 +1,10 @@
 ---
 title: "Blade Ball Ranking Guide: Competitive Mode, MMR System & How to Climb (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blade-ball-beginner/cover.webp"
+  alt: "Blade Ball Ranking Guide Cover"
+  caption: "Blade Ball Ranking Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blade Ball ranked mode guide for 2026. Learn the MMR ranking system, every tier from Bronze to Grandmaster, competitive meta strategies, and proven methods to climb the ranks."

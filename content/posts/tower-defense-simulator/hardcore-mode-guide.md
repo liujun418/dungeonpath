@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Hardcore Mode Guide: Tips, Loadouts, and Strategies (2026)"
 description: "Master Hardcore mode in Tower Defense Simulator with our expert guide. Learn the best tower loadouts, wave-by-wave strategies, and map tactics to win."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Hardcore Mode Guide Cover"
+  caption: "Tower Defense Simulator Hardcore Mode Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Strategy", "Survival", "tds mode strategy", "tds loadout guide"]

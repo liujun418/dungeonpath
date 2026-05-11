@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Learn to play Tower Defense Simulator on Roblox. Find the best towers for beginners, placement strategies, and pro tips to beat every difficulty and game mode."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Beginner Guide Cover"
+  caption: "Tower Defense Simulator Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "tds beginner guide", "tds codes"]

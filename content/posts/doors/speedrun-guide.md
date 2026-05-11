@@ -2,6 +2,10 @@
 title: "DOORS Speedrun Guide: How to Beat The Hotel, The Mines, and The Outdoors Fast (2026)"
 description: "Master DOORS speedrunning in Roblox. Learn optimal routes, skip strategies, time-saving techniques, and record-breaking tips for all three floors and modes."
 date: 2026-05-10
+cover:
+  image: "/cover-image/doors-beginner/cover.webp"
+  alt: "DOORS Speedrun Guide Cover"
+  caption: "DOORS Speedrun Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Speedrun", "Strategy Guide", "Horror", "doors walkthrough", "doors entities"]

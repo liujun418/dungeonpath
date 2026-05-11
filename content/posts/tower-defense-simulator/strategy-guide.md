@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Strategy Guide: Advanced Tips, Combos, and Pro Techniques (2026)"
 description: "Master TDS with advanced strategies including tower combos, economic optimization, and pro techniques to clear the hardest maps in Tower Defense Simulator."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Strategy Guide Cover"
+  caption: "Tower Defense Simulator Strategy Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "Advanced Guide", "Advanced Tips", "tds tower guide", "tds loadout guide"]

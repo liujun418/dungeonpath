@@ -2,6 +2,10 @@
 title: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026)"
 description: "Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work in 2026. S/A/B/C tier rankings with detailed reasoning for each Pal."
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026) Guide Cover"
+  caption: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026) Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Tier List", "Survival", "Ranking", "palworld pal locations", "palworld breeding guide", "palworld boss guide"]

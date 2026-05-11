@@ -2,6 +2,10 @@
 title: "RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)"
 description: "Complete guide to all RIVALS game modes and ranked system on Roblox in 2026. Learn rules, winning strategies, and how to climb the competitive ladder fast."
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Game Modes and Ranked Guide Cover"
+  caption: "RIVALS Game Modes and Ranked Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS", "rivals pvp tips", "rivals weapon guide"]

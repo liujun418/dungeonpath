@@ -2,6 +2,10 @@
 title: "RIVALS Settings and Optimization Guide: Best FOV, Sensitivity, and Performance Settings (2026)"
 description: "Optimize RIVALS settings for maximum performance in 2026. Recommended FOV, sensitivity, graphics, audio, and crosshair settings for PC and mobile players."
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Settings and Optimization Guide Cover"
+  caption: "RIVALS Settings and Optimization Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Settings", "FPS", "rivals movement guide", "rivals pvp tips"]

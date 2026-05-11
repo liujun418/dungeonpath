@@ -2,6 +2,10 @@
 title: "Monster Legends Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Master Monster Legends from first hatch to PvP. Learn core mechanics, best starter monsters, early priorities, and how to progress without spending money."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Beginner Guide Cover"
+  caption: "Monster Legends Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Beginner Guide", "Tips", "Walkthrough", "monster legends beginner guide", "monster legends breeding guide"]

@@ -2,6 +2,10 @@
 title: "Dress To Impress All Themes List: Every Theme Ranked and Outfit Ideas (May 2026)"
 description: "Complete list of every Dress To Impress theme on Roblox in 2026. Ranked by difficulty with outfit ideas, color palettes, and strategies for each category."
 date: 2026-05-10
+cover:
+  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  alt: "Dress To Impress All Themes List: Every Theme Ranked and Outfit Ideas (May 2026) Guide Cover"
+  caption: "Dress To Impress All Themes List: Every Theme Ranked and Outfit Ideas (May 2026) Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Cosmetics", "dress to impress themes", "dress to impress outfits"]

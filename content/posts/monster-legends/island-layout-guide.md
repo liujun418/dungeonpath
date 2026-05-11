@@ -2,6 +2,10 @@
 title: "Monster Legends Island and Habitat Layout Guide: Optimal Base Design (2026)"
 description: "Complete Monster Legends island layout guide for 2026. Learn best habitat placement, which islands to unlock first, and how to maximize your gold production."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Island and Habitat Layout Guide Cover"
+  caption: "Monster Legends Island and Habitat Layout Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Island Layout", "Base Building", "monster legends beginner guide", "monster legends breeding guide"]

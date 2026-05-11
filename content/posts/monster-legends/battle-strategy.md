@@ -2,6 +2,10 @@
 title: "Monster Legends Battle Strategy Guide: PvP, Team Wars, and Advanced Combat Tactics (2026)"
 description: "Master Monster Legends combat with advanced battle strategies for 2026. Learn team building, turn order, status combos, PvP climbing, and Team War tactics."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Battle Strategy Guide Cover"
+  caption: "Monster Legends Battle Strategy Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Combat", "monster legends team wars", "monster legends tier list"]

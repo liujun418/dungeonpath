@@ -1,6 +1,10 @@
 ---
 title: "Blox Fruits Codes Guide 2026: All Working Codes, Free Beli, XP Boosts & Reset Stats"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  alt: "Blox Fruits Codes Guide Cover"
+  caption: "Blox Fruits Codes Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits codes list for May 2026. All active working codes for free Beli, XP boosts, stat resets, and exclusive items. Updated regularly with new codes and redemption instructions."

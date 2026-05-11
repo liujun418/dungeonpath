@@ -2,6 +2,10 @@
 title: "Lethal Company Scrap and Loot Guide: Complete Item Database (2026)"
 description: "Complete scrap and loot database for Lethal Company with every item, value ranges, weight classes, and value rankings to maximize your profits in 2026."
 date: 2026-05-10
+cover:
+  image: "/cover-image/lethal-company-beginner/cover.webp"
+  alt: "Lethal Company Scrap and Loot Guide Cover"
+  caption: "Lethal Company Scrap and Loot Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Items Guide", "Co-op", "lethal company scrap guide", "lethal company moons guide", "lethal company equipment guide"]

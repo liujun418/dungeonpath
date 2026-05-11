@@ -1,6 +1,10 @@
 ---
 title: "My Singing Monsters Composer Island Guide: Song Creation, Note System & Tips (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
+  alt: "My Singing Monsters Composer Island Guide Cover"
+  caption: "My Singing Monsters Composer Island Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete MSM Composer Island guide. Master music creation, learn note types and instruments, explore tempo and key settings, and create amazing monster songs."

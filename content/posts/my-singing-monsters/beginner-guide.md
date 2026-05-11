@@ -2,6 +2,10 @@
 title: "My Singing Monsters Beginner Guide: Tips, Islands, and Getting Started (2026)"
 description: "New to My Singing Monsters in 2026? This beginner guide covers islands, breeding, currencies, leveling, and pro tips to fast-track your progress every day."
 date: 2026-05-10
+cover:
+  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
+  alt: "My Singing Monsters Beginner Guide Cover"
+  caption: "My Singing Monsters Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips", "msm beginner guide", "msm breeding guide"]

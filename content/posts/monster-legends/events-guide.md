@@ -2,6 +2,10 @@
 title: "Monster Legends Events and Dungeons Guide: Maze, Race, Puzzle, and Team Dungeons (2026)"
 description: "Master every Monster Legends event type with winning strategies in 2026. Learn Maze, Race, Puzzle, and Team Dungeon tactics for maximum rewards every season."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Events and Dungeons Guide Cover"
+  caption: "Monster Legends Events and Dungeons Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Events Guide", "Strategy Guide", "monster legends team wars", "monster legends beginner guide"]

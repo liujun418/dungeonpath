@@ -2,6 +2,10 @@
 title: "Lethal Company Terminal Commands Guide: Complete Reference (2026)"
 description: "Complete terminal command reference for Lethal Company in 2026. Every command including moons, store, bestiary, scan, switch, ping, and hidden commands listed."
 date: 2026-05-10
+cover:
+  image: "/cover-image/lethal-company-beginner/cover.webp"
+  alt: "Lethal Company Terminal Commands Guide Cover"
+  caption: "Lethal Company Terminal Commands Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Controls", "Mechanics", "lethal company beginner guide", "lethal company equipment guide", "lethal company moons guide"]

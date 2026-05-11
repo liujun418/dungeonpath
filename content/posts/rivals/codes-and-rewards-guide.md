@@ -2,6 +2,10 @@
 title: "RIVALS Codes Guide: All Active Codes for May 2026 (+ Free Skins and Coins)"
 description: "Complete list of all active RIVALS codes for May 2026 on Roblox. Get free weapon skins, coins, and exclusive cosmetic items every day with new code updates."
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Codes Guide Cover"
+  caption: "RIVALS Codes Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items", "rivals codes", "rivals beginner guide"]

@@ -1,6 +1,10 @@
 ---
 title: "Lethal Company Interior Guide: All Dungeon Layouts, Navigation Tips & Trap Patterns (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/lethal-company-beginner/cover.webp"
+  alt: "Lethal Company Interior Guide Cover"
+  caption: "Lethal Company Interior Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Lethal Company interior guide 2026. Facility and Mansion dungeons mapped with room types, navigation tips, trap patterns, strategies to never get lost inside."

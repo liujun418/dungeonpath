@@ -1,6 +1,10 @@
 ---
 title: "Roblox Rivals Events Guide: Battle Pass, Seasonal Rewards & Limited Items (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "Roblox Rivals Events Guide Cover"
+  caption: "Roblox Rivals Events Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete guide to Rivals limited-time events in 2026. Track every seasonal event, battle pass tier rewards, exclusive weapon skins, event challenges, and how to earn all limited cosmetics."

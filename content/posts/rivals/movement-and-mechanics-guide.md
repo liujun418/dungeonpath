@@ -2,6 +2,10 @@
 title: "RIVALS Movement and Mechanics Guide: Slide Jumping, Advanced Movement, and Tips (2026)"
 description: "Master RIVALS movement mechanics in 2026. Learn slide jumping, advanced movement techniques, map positioning skills, and pro tips to outplay opponents and win."
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Movement and Mechanics Guide Cover"
+  caption: "RIVALS Movement and Mechanics Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "FPS", "rivals movement guide", "rivals pvp tips"]

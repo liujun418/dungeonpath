@@ -2,6 +2,10 @@
 title: "Monster Legends Breeding Guide: All Combinations for Legendary, Mythic, and Epic Monsters (2026)"
 description: "Complete Monster Legends breeding chart with every Legendary, Mythic, and Epic combo in 2026. Learn how to breed specific monsters efficiently every time."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Breeding Guide Cover"
+  caption: "Monster Legends Breeding Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Monsters", "monster legends breeding guide", "monster legends beginner guide"]

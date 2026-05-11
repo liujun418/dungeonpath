@@ -1,6 +1,10 @@
 ---
 title: "Monster Legends Team Wars Guide: Strategy, Defense Setup & Winning Tips (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Team Wars Guide Cover"
+  caption: "Monster Legends Team Wars Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Monster Legends Team Wars guide for 2026. Learn war strategy, defense team builds, attack phase tactics, point calculations, and how lead your team to victory."

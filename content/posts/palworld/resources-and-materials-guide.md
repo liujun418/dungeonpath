@@ -2,6 +2,10 @@
 title: "Palworld Resources & Materials Guide: Farming Every Item (2026)"
 description: "Complete guide to all resources and materials in Palworld for 2026 including wood, stone, ore, coal, sulfur, and paldium with farming locations and tips."
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Resources & Materials Guide Cover"
+  caption: "Palworld Resources & Materials Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Farming Guide", "Survival", "palworld base building", "palworld pal locations", "palworld beginner guide"]

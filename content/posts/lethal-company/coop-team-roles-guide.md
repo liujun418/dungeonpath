@@ -2,6 +2,10 @@
 title: "Lethal Company Co-op Team Roles Guide: Optimal 4-Player Team Composition (2026)"
 description: "Learn optimal 4-player team composition in Lethal Company for 2026. Ship Operator, Scout, Hauler, and Support roles with communication protocols and tips."
 date: 2026-05-10
+cover:
+  image: "/cover-image/lethal-company-beginner/cover.webp"
+  alt: "Lethal Company Co-op Team Roles Guide Cover"
+  caption: "Lethal Company Co-op Team Roles Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Co-op", "Strategy Guide", "lethal company monsters guide", "lethal company equipment guide", "lethal company moons guide", "lethal company beginner guide"]

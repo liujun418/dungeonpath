@@ -1,6 +1,10 @@
 ---
 title: "Blox Fruits Leveling Guide: Fast XP Method, All Island Quests & Max Level Tips (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  alt: "Blox Fruits Leveling Guide Cover"
+  caption: "Blox Fruits Leveling Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Ultimate Blox Fruits leveling guide for 2026. Fastest XP method revealed, complete island quest list for all three seas, best grinding fruit and build, and tips to reach max level 2600 fast."

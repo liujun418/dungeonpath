@@ -2,6 +2,10 @@
 title: "Palworld Pal Locations Guide: Every Pal by Biome (2026)"
 description: "Every Pal location in Palworld by biome for 2026. Find Grasslands, Desert, Volcano, Snow, and Dungeon spawns including rare and alpha Pals with coordinates."
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Pal Locations Guide Cover"
+  caption: "Palworld Pal Locations Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Maps", "Survival", "palworld pal locations", "palworld boss guide", "palworld beginner guide"]

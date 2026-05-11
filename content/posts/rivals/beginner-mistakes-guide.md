@@ -2,6 +2,10 @@
 title: "RIVALS Common Mistakes Guide: 15 Things New Players Get Wrong (and How to Fix Them) (2026)"
 description: "Avoid the most common RIVALS mistakes in 2026. Learn what not to do, why these mistakes cost you matches, and how to fix them to improve fast and win."
 date: 2026-05-10
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Common Mistakes Guide Cover"
+  caption: "RIVALS Common Mistakes Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Tips", "Beginner Guide", "FPS", "rivals beginner guide", "rivals pvp tips"]

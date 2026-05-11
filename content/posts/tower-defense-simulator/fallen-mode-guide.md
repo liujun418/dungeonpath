@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Fallen Mode Guide: Complete Strategy and Tower Guide (2026)"
 description: "Master Fallen mode in Tower Defense Simulator with this complete strategy guide. Learn Fallen enemy types, boss mechanics, and optimal tower loadouts."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Fallen Mode Guide Cover"
+  caption: "Tower Defense Simulator Fallen Mode Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Endgame Guide", "Strategy Guide", "tds mode strategy", "tds loadout guide"]

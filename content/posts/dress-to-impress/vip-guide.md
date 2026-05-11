@@ -1,6 +1,10 @@
 ---
 title: "Dress To Impress VIP Guide: Custom Makeup, Exclusive Items & Is It Worth It? (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  alt: "Dress To Impress VIP Guide Cover"
+  caption: "Dress To Impress VIP Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete DTI VIP guide for 2026. Compare VIP vs Free Play perks, see every Custom Makeup feature, exclusive VIP-only items, and determine if the Roblox VIP pass is worth buying."

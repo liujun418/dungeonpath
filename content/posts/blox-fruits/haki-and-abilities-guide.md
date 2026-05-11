@@ -1,6 +1,10 @@
 ---
 title: "Blox Fruits Haki Guide: Busoshoku, Kenbunshoku, Haoshoku — How to Get & Upgrade All Haki (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  alt: "Blox Fruits Haki Guide Cover"
+  caption: "Blox Fruits Haki Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits Haki guide for 2026. How to unlock Busoshoku (Armament), Kenbunshoku (Observation), and Haoshoku (Conqueror's) Haki, full upgrade paths, and how to use each in combat."

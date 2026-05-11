@@ -1,6 +1,10 @@
 ---
 title: "Doors Modifiers Guide: All Game Modifiers, Challenge Runs & Badge Rewards (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/doors-beginner/cover.webp"
+  alt: "Doors Modifiers Guide Cover"
+  caption: "Doors Modifiers Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Doors Roblox modifiers guide. Every gameplay modifier explained with strategies, best and worst modifier combos, challenge run setups, and how to earn modifier badges in 2026."

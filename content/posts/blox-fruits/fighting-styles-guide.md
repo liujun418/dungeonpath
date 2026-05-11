@@ -1,6 +1,10 @@
 ---
 title: "Blox Fruits Fighting Styles Guide: All Styles Ranked, Upgrades & Best Combos (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  alt: "Blox Fruits Fighting Styles Guide Cover"
+  caption: "Blox Fruits Fighting Styles Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits fighting styles guide for 2026. Every fighting style ranked with stats, all upgrade trainers located, best style for each build, and the strongest melee combo strings."

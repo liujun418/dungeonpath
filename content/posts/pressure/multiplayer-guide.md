@@ -2,6 +2,10 @@
 title: "Pressure Multiplayer Guide: Co-op Strategies, Team Roles, and Communication Tips (2026)"
 description: "Master Pressure multiplayer in 2026 with co-op strategies, team role assignments, communication tips, and group survival techniques to win every game."
 date: 2026-05-10
+cover:
+  image: "/cover-image/pressure-beginner/cover.webp"
+  alt: "Pressure Multiplayer Guide Cover"
+  caption: "Pressure Multiplayer Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Co-op", "Horror", "Team Roles", "pressure survival tips", "pressure entity guide"]

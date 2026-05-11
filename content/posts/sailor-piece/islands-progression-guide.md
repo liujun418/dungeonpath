@@ -2,6 +2,10 @@
 title: "Sailor Piece Islands and Progression Guide: Complete Walkthrough for Sea 1, Sea 2, and Beyond (2026)"
 description: "Complete island-by-island walkthrough for Sailor Piece in 2026. Learn boss strategies, level requirements, loot tables, and how to unlock Sea 2 to progress."
 date: 2026-05-10
+cover:
+  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  alt: "Sailor Piece Islands and Progression Guide Cover"
+  caption: "Sailor Piece Islands and Progression Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Walkthrough", "Leveling", "sailor piece beginner guide", "sailor piece haki guide"]

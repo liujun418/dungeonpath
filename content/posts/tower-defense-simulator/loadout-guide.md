@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Loadout Guide: Best Tower Combos for Every Mode (2026)"
 description: "Ultimate TDS loadout guide for 2026. Best tower combos for Fallen, Hardcore, Polluted Wasteland, events, and solo play with optimal upgrade path recommendations."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Loadout Guide Cover"
+  caption: "Tower Defense Simulator Loadout Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Loadout Guide", "Strategy Guide", "tds loadout guide", "tds tower guide"]

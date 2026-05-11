@@ -2,6 +2,10 @@
 title: "Blade Ball Beginner Guide: Complete Walkthrough, Abilities & Tips (2026)"
 description: "Learn to play Blade Ball on Roblox with this complete beginner guide. Master abilities, blocking techniques, positioning and pro tips to win every match."
 date: 2026-05-10
+cover:
+  image: "/cover-image/blade-ball-beginner/cover.webp"
+  alt: "Blade Ball Beginner Guide Cover"
+  caption: "Blade Ball Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP", "blade ball beginner guide", "blade ball pvp tips", "blade ball abilities"]

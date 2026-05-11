@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)"
 description: "Complete guide to every enemy type in Tower Defense Simulator. Learn stats, abilities, boss mechanics, and wave patterns for every game mode and difficulty."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Enemy and Wave Guide Cover"
+  caption: "Tower Defense Simulator Enemy and Wave Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Boss Guide", "tds tower guide", "tds mode strategy"]

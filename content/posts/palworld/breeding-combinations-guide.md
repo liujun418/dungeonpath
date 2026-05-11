@@ -1,6 +1,10 @@
 ---
 title: "Palworld Breeding Guide: Complete Combinations List & Passive Skill Inheritance (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Breeding Guide Cover"
+  caption: "Palworld Breeding Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Palworld breeding guide 2026. Breeding mechanics explained, rare Pal combos, passive skill inheritance rules, and calculator with full BP values table."

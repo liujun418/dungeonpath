@@ -2,6 +2,10 @@
 title: "Sailor Piece Devil Fruits Guide: All Fruits, Abilities, and How to Get Them (2026)"
 description: "Complete guide to every Devil Fruit in Sailor Piece in 2026. Learn abilities, rarity tiers, spawn locations, and the best fruits for your build and playstyle."
 date: 2026-05-10
+cover:
+  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  alt: "Sailor Piece Devil Fruits Guide Cover"
+  caption: "Sailor Piece Devil Fruits Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading", "sailor piece devil fruits", "sailor piece haki guide"]

@@ -1,6 +1,10 @@
 ---
 title: "Blox Fruits Swords Guide: Best Weapons Tier List, Locations & Upgrade Paths (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  alt: "Blox Fruits Swords Guide Cover"
+  caption: "Blox Fruits Swords Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits swords and weapons guide for 2026. Every sword ranked, all legendary and mythic sword locations, upgrade requirements, enchantment guide, and best sword combos for PvP."

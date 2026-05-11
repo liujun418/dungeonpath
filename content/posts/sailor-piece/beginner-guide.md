@@ -2,6 +2,10 @@
 title: "Sailor Piece Beginner Guide: Complete Walkthrough for New Players (May 2026)"
 description: "Start your adventure in Roblox Sailor Piece in 2026. Learn Devil Fruits, Haki, stat builds, island progression tips, and how to unlock Sea 2 and beyond."
 date: 2026-05-09
+cover:
+  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  alt: "Sailor Piece Beginner Guide Cover"
+  caption: "Sailor Piece Beginner Guide"
 lastmod: 2026-05-09
 draft: false
 tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips", "sailor piece beginner guide", "sailor piece devil fruits"]

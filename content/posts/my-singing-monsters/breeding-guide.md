@@ -2,6 +2,10 @@
 title: "My Singing Monsters Breeding Guide: All Combinations, Times, and Secrets (2026)"
 description: "Complete breeding guide for My Singing Monsters with all island combinations, breeding times, rare and ethereal formulas for every monster and island in 2026."
 date: 2026-05-10
+cover:
+  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
+  alt: "My Singing Monsters Breeding Guide Cover"
+  caption: "My Singing Monsters Breeding Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Monsters", "msm breeding guide", "msm rare monsters"]

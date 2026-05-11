@@ -2,6 +2,10 @@
 title: "Pressure Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Learn to survive the Hadal Blacksite in Roblox Pressure in 2026. Master entity mechanics, item locations, and proven strategies to reach Room 100 and escape."
 date: 2026-05-09
+cover:
+  image: "/cover-image/pressure-beginner/cover.webp"
+  alt: "Pressure Beginner Guide Cover"
+  caption: "Pressure Beginner Guide"
 lastmod: 2026-05-09
 draft: false
 tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival", "pressure beginner guide", "pressure entity guide"]

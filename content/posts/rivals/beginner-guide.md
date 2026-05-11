@@ -2,6 +2,10 @@
 title: "RIVALS Beginner Guide: Complete Walkthrough for New Players (May 2026)"
 description: "Everything you need to know to start winning in Roblox RIVALS in 2026. Learn movement mechanics, weapon loadouts, map strategies, and ranked tips for success."
 date: 2026-05-09
+cover:
+  image: "/cover-image/rivals-beginner/cover.webp"
+  alt: "RIVALS Beginner Guide Cover"
+  caption: "RIVALS Beginner Guide"
 lastmod: 2026-05-09
 draft: false
 tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons", "rivals beginner guide", "rivals weapon guide"]

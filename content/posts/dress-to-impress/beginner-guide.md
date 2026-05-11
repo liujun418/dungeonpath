@@ -2,6 +2,10 @@
 title: "Dress To Impress Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Learn to play Dress To Impress on Roblox in 2026. Master themed fashion contests, hidden collectibles, codes, and outfit combinations to win every round."
 date: 2026-05-10
+cover:
+  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  alt: "Dress To Impress Beginner Guide Cover"
+  caption: "Dress To Impress Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Beginner Guide", "Tips", "dress to impress beginner guide", "dress to impress outfits", "dress to impress codes"]

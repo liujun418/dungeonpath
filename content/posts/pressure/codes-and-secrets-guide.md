@@ -2,6 +2,10 @@
 title: "Pressure Codes and Secrets Guide: Active Codes, Easter Eggs, and Hidden Content (2026)"
 description: "Complete guide to Pressure codes, easter eggs, secret rooms, and hidden content in Roblox. Find all active codes and unlock exclusive rewards and items."
 date: 2026-05-10
+cover:
+  image: "/cover-image/pressure-beginner/cover.webp"
+  alt: "Pressure Codes and Secrets Guide Cover"
+  caption: "Pressure Codes and Secrets Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Codes", "Secrets", "pressure codes", "pressure beginner guide"]

@@ -1,6 +1,10 @@
 ---
 title: "Palworld Raid Bosses Guide: All Raids, Best Counters & Solo Strategies (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Raid Bosses Guide Cover"
+  caption: "Palworld Raid Bosses Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Palworld raid bosses guide 2026. Stats, attack patterns, Pal counters, solo strategies, and team builds for Bellanoir, Blazamut Ryu, Xenolord, and Bjorn."

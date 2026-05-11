@@ -2,6 +2,10 @@
 title: "Dress To Impress Freeplay and Advanced Tips Guide: Pro Strategies for Winning Every Round (2026)"
 description: "Advanced Dress To Impress strategies covering Freeplay mode, voting psychology, and pro tips to consistently rank in the top three and win every round."
 date: 2026-05-10
+cover:
+  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  alt: "Dress To Impress Freeplay and Advanced Tips Guide Cover"
+  caption: "Dress To Impress Freeplay and Advanced Tips Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Tips", "dress to impress themes", "dress to impress outfits"]

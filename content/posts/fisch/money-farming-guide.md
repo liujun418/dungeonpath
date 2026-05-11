@@ -2,6 +2,10 @@
 title: "Fisch Money Farming Guide: Best Ways to Earn Coins Fast (2026)"
 description: "Master money farming in Fisch with the best coin-making strategies. Learn efficient fishing spots, mutation hunting, quest completions, and trading tips."
 date: 2026-05-10
+cover:
+  image: "/cover-image/fisch-beginner/cover.webp"
+  alt: "Fisch Money Farming Guide Cover"
+  caption: "Fisch Money Farming Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Fisch", "Roblox", "Money Farming", "Strategy Guide", "fisch money farming", "fisch best rods"]

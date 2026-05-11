@@ -2,6 +2,10 @@
 title: "Tower Defense Simulator Codes Guide: All Active Codes for May 2026 (+ Rewards)"
 description: "Complete list of all active Tower Defense Simulator codes for May 2026. Get free coins, towers, skins, and crates with our step-by-step redemption guide."
 date: 2026-05-10
+cover:
+  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  alt: "Tower Defense Simulator Codes Guide Cover"
+  caption: "Tower Defense Simulator Codes Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Codes and Rewards", "Free Items", "Tips", "tds codes", "tds beginner guide"]

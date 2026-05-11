@@ -2,6 +2,10 @@
 title: "Monster Legends Gold and Food Farming Guide: Max Resources Fast (2026)"
 description: "Efficient gold and food farming in Monster Legends. Learn Adventure Map nodes, habitat setups, and event methods to level monsters without spending gems."
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Gold and Food Farming Guide Cover"
+  caption: "Monster Legends Gold and Food Farming Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Farming Guide", "Money Farming", "monster legends beginner guide", "monster legends codes"]

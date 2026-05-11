@@ -2,6 +2,10 @@
 title: "Dress To Impress Codes Guide: All Active Codes for May 2026 (+ Free Items)"
 description: "Complete list of all active Dress To Impress codes and items for May 2026. Get free outfits, accessories, seashells, and exclusive cosmetics with our guide."
 date: 2026-05-10
+cover:
+  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  alt: "Dress To Impress Codes Guide Cover"
+  caption: "Dress To Impress Codes Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Codes", "Free Items", "dress to impress codes", "dress to impress vip", "dress to impress beginner guide"]

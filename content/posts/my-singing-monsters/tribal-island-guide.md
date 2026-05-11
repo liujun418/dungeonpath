@@ -1,6 +1,10 @@
 ---
 title: "My Singing Monsters Tribal Island Guide: Strategy, Star Power & Tribe Rewards (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
+  alt: "My Singing Monsters Tribal Island Guide Cover"
+  caption: "My Singing Monsters Tribal Island Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete MSM Tribal Island guide. Tribe mechanics, Star Power system, optimal monster picks, feeding strategies, and how to maximize weekly diamond rewards."

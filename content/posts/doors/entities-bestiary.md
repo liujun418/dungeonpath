@@ -2,6 +2,10 @@
 title: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026)"
 description: "Complete DOORS entities bestiary for The Hotel, Mines, and Outdoors. Learn behavior, survival strategies, spawn conditions, and danger ratings for all entities."
 date: 2026-05-10
+cover:
+  image: "/cover-image/doors-beginner/cover.webp"
+  alt: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026) Guide Cover"
+  caption: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026) Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival", "doors entities"]

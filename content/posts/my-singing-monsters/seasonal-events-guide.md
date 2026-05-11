@@ -2,6 +2,10 @@
 title: "My Singing Monsters Seasonal Events Guide: Complete 2026 Calendar and Strategies"
 description: "Complete My Singing Monsters seasonal events calendar for 2026. Learn about Spooktacle, Festival of Yay, SummerSong, and limited-time monsters and rewards."
 date: 2026-05-10
+cover:
+  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
+  alt: "My Singing Monsters Seasonal Events Guide Cover"
+  caption: "My Singing Monsters Seasonal Events Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Events Guide", "msm events guide", "msm beginner guide"]

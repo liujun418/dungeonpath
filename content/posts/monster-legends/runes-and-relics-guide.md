@@ -1,6 +1,10 @@
 ---
 title: "Monster Legends Runes & Relics Guide: Best Rune Builds, Crafting & Optimization (2026)"
 date: 2026-05-10
+cover:
+  image: "/cover-image/monster-legends-beginner/cover.webp"
+  alt: "Monster Legends Runes & Relics Guide Cover"
+  caption: "Monster Legends Runes & Relics Guide"
 lastmod: 2026-05-10
 draft: false
 description: "Complete Monster Legends runes and relics guide. Rune types ranked, best attacker tank support builds, relic crafting recipes, and optimization strategies."
