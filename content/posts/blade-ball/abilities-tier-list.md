@@ -3,7 +3,7 @@ title: "Blade Ball Abilities Tier List: Every Skill Ranked S to D (May 2026)"
 description: "Complete Blade Ball abilities tier list for May 2026. Every ability ranked from S+ to D tier with detailed stats, use cases, and best loadout recommendations."
 date: 2026-05-10
 cover:
-  image: "/cover-image/blade-ball-beginner/cover.webp"
+  image: "/cover-image/blade-ball-abilities-tier-list/cover.webp"
   alt: "Blade Ball Abilities Tier List: Every Skill Ranked S to D (May 2026) Guide Cover"
   caption: "Blade Ball Abilities Tier List: Every Skill Ranked S to D (May 2026) Guide"
 lastmod: 2026-05-10

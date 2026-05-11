@@ -2,7 +2,7 @@
 title: "Blox Fruits Leveling Guide: Fast XP Method, All Island Quests & Max Level Tips (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  image: "/cover-image/blox-fruits-leveling/cover.webp"
   alt: "Blox Fruits Leveling Guide Cover"
   caption: "Blox Fruits Leveling Guide"
 lastmod: 2026-05-10

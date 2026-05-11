@@ -2,7 +2,7 @@
 title: "Blox Fruits Haki Guide: Busoshoku, Kenbunshoku, Haoshoku — How to Get & Upgrade All Haki (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  image: "/cover-image/blox-fruits-haki/cover.webp"
   alt: "Blox Fruits Haki Guide Cover"
   caption: "Blox Fruits Haki Guide"
 lastmod: 2026-05-10

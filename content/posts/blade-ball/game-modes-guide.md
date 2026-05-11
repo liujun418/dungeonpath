@@ -3,7 +3,7 @@ title: "Blade Ball Game Modes Guide: Classic, 1v1, Team Mode and Event Modes (20
 description: "Complete guide to every Blade Ball game mode. Learn the rules, strategies, and best abilities for Classic, 1v1, Team Mode, and special event modes to win."
 date: 2026-05-10
 cover:
-  image: "/cover-image/blade-ball-beginner/cover.webp"
+  image: "/cover-image/blade-ball-game-modes-guide/cover.webp"
   alt: "Blade Ball Game Modes Guide Cover"
   caption: "Blade Ball Game Modes Guide"
 lastmod: 2026-05-10

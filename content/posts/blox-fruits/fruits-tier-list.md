@@ -2,7 +2,7 @@
 title: "Blox Fruits Tier List 2026: Best Devil Fruits Ranked for PvP, Grinding & Raids"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  image: "/cover-image/blox-fruits-tier-list/cover.webp"
   alt: "Blox Fruits Tier List 2026: Best Devil Fruits Ranked for PvP, Grinding & Raids Guide Cover"
   caption: "Blox Fruits Tier List 2026: Best Devil Fruits Ranked for PvP, Grinding & Raids Guide"
 lastmod: 2026-05-10

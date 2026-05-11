@@ -3,7 +3,7 @@ title: "Blade Ball Settings and Controls Guide: Best Settings, Sensitivity, and 
 description: "Optimize your Blade Ball settings for maximum performance. Learn the best sensitivity, keybinds, graphics, and camera configurations for PC and mobile."
 date: 2026-05-10
 cover:
-  image: "/cover-image/blade-ball-beginner/cover.webp"
+  image: "/cover-image/blade-ball-settings-and-controls-guide/cover.webp"
   alt: "Blade Ball Settings and Controls Guide Cover"
   caption: "Blade Ball Settings and Controls Guide"
 lastmod: 2026-05-10

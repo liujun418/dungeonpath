@@ -2,7 +2,7 @@
 title: "Blox Fruits Fighting Styles Guide: All Styles Ranked, Upgrades & Best Combos (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  image: "/cover-image/blox-fruits-fighting-styles/cover.webp"
   alt: "Blox Fruits Fighting Styles Guide Cover"
   caption: "Blox Fruits Fighting Styles Guide"
 lastmod: 2026-05-10

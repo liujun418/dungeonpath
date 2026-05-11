@@ -2,7 +2,7 @@
 title: "Blox Fruits Bosses & Raids Guide: All Boss Locations, Drops & Raid Strategies (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.webp"
+  image: "/cover-image/blox-fruits-bosses-raids/cover.webp"
   alt: "Blox Fruits Bosses & Raids Guide Cover"
   caption: "Blox Fruits Bosses & Raids Guide"
 lastmod: 2026-05-10

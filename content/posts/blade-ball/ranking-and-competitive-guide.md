@@ -2,7 +2,7 @@
 title: "Blade Ball Ranking Guide: Competitive Mode, MMR System & How to Climb (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blade-ball-beginner/cover.webp"
+  image: "/cover-image/blade-ball-ranking-and-competitive-guide/cover.webp"
   alt: "Blade Ball Ranking Guide Cover"
   caption: "Blade Ball Ranking Guide"
 lastmod: 2026-05-10
