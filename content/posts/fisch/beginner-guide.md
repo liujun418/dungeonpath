@@ -2,6 +2,10 @@
 title: "Fisch Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Learn to play Fisch on Roblox with a complete beginner guide. Discover best fishing spots, rod upgrades, mutations, and bait strategies to catch rare fish fast."
 date: 2026-05-09
+cover:
+  image: "/cover-image/fisch-beginner/cover.webp"
+  alt: "Fisch Beginner Guide — Roblox Fishing Game Cover"
+  caption: "Fisch Beginner Guide"
 lastmod: 2026-05-09
 draft: false
 tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing", "fisch beginner guide", "fisch codes"]

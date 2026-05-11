@@ -2,6 +2,10 @@
 title: "Palworld Beginner's Guide: Survival, Crafting & First Pals (2026)"
 description: "New to Palworld in 2026? This beginner guide covers survival basics, first Pals, base building tips, leveling strategies, and common mistakes to avoid."
 date: 2026-05-10
+cover:
+  image: "/cover-image/palworld-beginner/cover.webp"
+  alt: "Palworld Beginner Guide — Survival Game Cover"
+  caption: "Palworld Beginner Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Beginner Guide", "Survival", "Crafting", "palworld beginner guide", "palworld base building", "palworld breeding guide"]

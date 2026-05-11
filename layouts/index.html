@@ -5,6 +5,9 @@
 {{- partial "index_profile.html" . }}
 {{- end }}
 
+{{/* ---- Hero Carousel ---- */}}
+{{- partial "featured-carousel.html" . }}
+
 {{/* ---- Featured Guides (Hot Guides) ---- */}}
 {{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 6 }}
 <section class="home-section home-featured">

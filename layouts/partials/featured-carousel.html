@@ -1,0 +1,27 @@
+{{- /* Featured Carousel — 3 rotating cover images */}}
+{{- $featured := slice
+  (dict "path" "/posts/blox-fruits/beginner-guide/" "title" "Blox Fruits Beginner Guide")
+  (dict "path" "/posts/palworld/beginner-guide/" "title" "Palworld Beginner Guide")
+  (dict "path" "/posts/fisch/beginner-guide/" "title" "Fisch Beginner Guide")
+}}
+
+<section class="hero-carousel" aria-label="Featured guides">
+  <div class="carousel-track">
+    {{- range $index, $item := $featured }}
+    {{- with site.GetPage $item.path }}
+    <div class="carousel-slide" style="animation-delay: {{ mul $index 4 }}s">
+      <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
+        {{- $cover := .Params.cover.image | default "" }}
+        {{- if $cover }}
+        <img src="{{ $cover }}" alt="{{ .Params.cover.alt | default .Title }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+        {{- end }}
+        <div class="carousel-caption">
+          <span class="carousel-label">Featured Guide</span>
+          <h3>{{ .Title }}</h3>
+        </div>
+      </a>
+    </div>
+    {{- end }}
+    {{- end }}
+  </div>
+</section>
