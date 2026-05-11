@@ -177,8 +177,14 @@ h1, h2, h3, h4, h5, h6 {
    Homepage Profile
    ============================================================ */
 
+/* Tighten homepage hero whitespace — override PaperMod full-viewport min-height */
+.main .profile {
+  min-height: unset;
+  padding: 2.5rem 0 1.5rem;
+}
+
 .neon-profile .profile_inner {
-  gap: 1.2rem;
+  gap: 0.9rem;
 }
 
 .neon-title {
@@ -202,13 +208,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .neon-buttons {
-  gap: 1rem !important;
+  gap: 0.8rem !important;
   flex-wrap: nowrap;
   justify-content: center;
+  margin-top: 0.2rem;
 }
 
 .neon-buttons .button {
-  flex: 0 0 180px !important;
+  flex: 0 0 170px !important;
   text-align: center;
 }
 
@@ -217,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff !important;
   font-weight: 700 !important;
   border-radius: 10px !important;
-  padding: 0.6rem 1.5rem !important;
+  padding: 0.55rem 1.4rem !important;
   font-size: 14px !important;
   border: none !important;
   transition: transform 0.2s ease, box-shadow 0.2s ease !important;
@@ -650,7 +657,7 @@ details.toc a:hover {
 
 .home-section {
   max-width: var(--main-width);
-  margin: 0 auto 3rem;
+  margin: 0 auto 2rem;
   padding: 0 var(--gap);
 }
 
@@ -659,7 +666,7 @@ details.toc a:hover {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--neon-cyan);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   text-shadow: 0 0 8px rgba(34, 211, 238, 0.3);
 }
 
