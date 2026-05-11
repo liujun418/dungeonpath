@@ -177,10 +177,6 @@ h1, h2, h3, h4, h5, h6 {
    Homepage Profile
    ============================================================ */
 
-.main .profile {
-  min-height: 300px !important;
-}
-
 .neon-profile .profile_inner {
   gap: 1.2rem;
 }
