@@ -1,12 +1,12 @@
 {{- define "main" }}
 
-{{/* ---- Hero Carousel ---- */}}
-{{- partial "featured-carousel.html" . }}
-
 {{/* ---- Profile Section ---- */}}
 {{- if site.Params.profileMode.enabled }}
 {{- partial "index_profile.html" . }}
 {{- end }}
+
+{{/* ---- Hero Carousel ---- */}}
+{{- partial "featured-carousel.html" . }}
 
 {{/* ---- Featured Guides (Hot Guides) ---- */}}
 {{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 6 }}
