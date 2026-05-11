@@ -916,3 +916,29 @@ details.toc a:hover {
   margin: 1.5rem 0 0.5rem;
 }
 
+/* ---- Game Page — Back to Category Button ---- */
+.back-to-category {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.4rem;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--neon-purple);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.back-to-category:hover {
+  background: rgba(168, 85, 247, 0.1);
+  border-color: var(--neon-purple);
+  color: var(--neon-cyan);
+}
+
+.back-to-category svg {
+  flex-shrink: 0;
+}
+

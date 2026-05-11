@@ -11,7 +11,7 @@
     <h2 class="section-title">🔥 Featured Guides</h2>
     <div class="featured-grid">
         {{- range $featured }}
-        <a href="{{ .RelPermalink }}" class="featured-card">
+        <a href="{{ .RelPermalink }}" class="featured-card" target="_blank" rel="noopener">
             {{- $game := index .Params.games 0 }}
             <div class="card-header">
                 {{- with $game }}
@@ -32,7 +32,7 @@
     <h2 class="section-title">📝 Latest Updates</h2>
     <div class="latest-list">
         {{- range $latest }}
-        <a href="{{ .RelPermalink }}" class="latest-item">
+        <a href="{{ .RelPermalink }}" class="latest-item" target="_blank" rel="noopener">
             <div class="latest-content">
                 <h3 class="latest-title">{{ .Title }}</h3>
                 <p class="latest-date">{{ .Date | time.Format ":date_medium" }}</p>
