@@ -2,7 +2,7 @@
 title: "Blox Fruits Beginner Guide: Complete Walkthrough for New Players (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/blox-fruits-beginner/cover.png"
+  image: "/cover-image/blox-fruits-beginner/cover.webp"
   alt: "Blox Fruits Beginner Guide — Roblox One Piece RPG Cover"
   caption: "Blox Fruits Beginner Guide"
 lastmod: 2026-05-10
