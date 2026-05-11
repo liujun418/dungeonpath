@@ -177,8 +177,13 @@ h1, h2, h3, h4, h5, h6 {
    Homepage Profile
    ============================================================ */
 
+.main .profile {
+  min-height: auto !important;
+  padding: 2rem 0 0.5rem !important;
+}
+
 .neon-profile .profile_inner {
-  gap: 1.2rem;
+  gap: 1rem;
 }
 
 .neon-title {
@@ -649,7 +654,7 @@ details.toc a:hover {
 /* ===== Hero Carousel ===== */
 .hero-carousel {
   max-width: var(--main-width);
-  margin: 1.5rem auto 2rem;
+  margin: 0.5rem auto 2rem;
   padding: 0 var(--gap);
   position: relative;
 }
