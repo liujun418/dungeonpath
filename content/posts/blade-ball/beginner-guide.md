@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP", "how to win blade ball", "best abilities 2026", "blade ball strategies"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Blade Ball mechanics, abilities, and the 2026 map as of May 2026.*

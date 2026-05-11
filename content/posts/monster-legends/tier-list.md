@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Team Wars", "Rankings", "monster legends best team", "monster legends pvp tier list", "monster legends top monsters"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. This tier list reflects the current Monster Legends meta after the Spring 2026 balance patch. Rankings are based on competitive PvP data, Team War performance, and Adventure Map utility.*

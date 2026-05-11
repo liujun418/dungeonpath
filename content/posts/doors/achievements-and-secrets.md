@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Achievements", "Secrets", "Easter Eggs", "Guide", "doors all achievements", "doors secret rooms", "doors hidden content"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all 87+ achievements, secret rooms, easter eggs, developer references, and hidden content. Updated for The Great Outdoors permanent update and Rush Mode/Endless Mode.*

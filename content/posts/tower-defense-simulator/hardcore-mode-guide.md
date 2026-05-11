@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Hardcore Mode", "TDS", "Strategy", "tds hardcore guide", "tds hardcore loadout", "tds hardcore strategy"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Hardcore strategies reflect the current 2026 meta.*

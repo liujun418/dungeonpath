@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Moons Guide", "Moon Rankings", "Horror", "Co-op", "lethal company all moons", "lethal company best moon", "lethal company moon tier list"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all eight moons in Lethal Company, ranked from easiest to hardest, with detailed statistics, map layout tips, and optimal looting strategies for each one.*

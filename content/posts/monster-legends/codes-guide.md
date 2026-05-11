@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Codes", "Rewards", "Free Gems", "Gifts", "monster legends codes 2026", "monster legends free gems", "monster legends redeem"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. All codes verified as of May 2026. Codes are case-sensitive and expire without warning — redeem immediately.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Horror", "The Mines", "Walkthrough", "Floor 2", "doors mines guide", "how to beat the mines doors"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers The Mines (Floor 2) as of the latest update, including all entities, items, Jeff's Shop prices, boss fight strategies, hidden areas, and survival tips. The Mines remains the most popular floor after The Hotel.*

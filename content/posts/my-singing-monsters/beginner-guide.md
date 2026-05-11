@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips and Tricks", "msm breeding chart", "how to get ghazt", "my singing monsters guide"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers everything a new player needs to know about My Singing Monsters, from your first island to endgame currencies and strategies.*

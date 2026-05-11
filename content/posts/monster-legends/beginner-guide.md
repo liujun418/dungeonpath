@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Beginner Guide", "RPG", "Tips", "how to breed legendary monster legends", "monster legends free gems", "monster legends best team"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Monster Legends as of the May 2026 update, including the latest Mythic monsters, breeding events, and the current multiplayer meta.*

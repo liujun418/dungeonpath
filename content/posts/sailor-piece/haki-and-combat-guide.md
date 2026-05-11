@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Haki", "Combat", "PvP", "Boss Strategy", "RPG", "sailor piece haki guide", "sailor piece best haki", "sailor piece combat tips"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. Covers Sailor Piece as of the Sea 2 update (April 2026) and the Anti-Magic update. Haki mechanics, unlock requirements, and combat meta reflect the current state of the game. Updates arrive every 1-2 weeks.*

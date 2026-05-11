@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Codes", "Secrets", "Easter Eggs", "Hidden Content", "pressure codes 2026", "pressure free items", "pressure secret rooms"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all known active and expired codes, easter eggs, secret rooms, and hidden content in Pressure as of the latest update, including the March 2026 "Half A Slice Of Cake" update additions.*

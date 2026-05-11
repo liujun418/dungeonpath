@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Tier List", "Best Pals", "Guides", "best pal for mining", "palworld best mounts", "palworld combat pals"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This tier list evaluates every major Pal across combat effectiveness, mount utility, and base work efficiency. Rankings are based on the current game meta including all updates through 2026.*

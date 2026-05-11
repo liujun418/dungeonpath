@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Events", "Dungeons", "Maze", "Race", "Guide", "monster legends maze guide", "monster legends dungeon tips", "monster legends event rewards"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. Event strategies updated for the current Monster Legends event rotation pattern. The Spring 2026 event schedule is reflected in the planning section.*

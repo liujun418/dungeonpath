@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadouts", "Guide", "rivals best weapons", "rivals weapon tier list 2026", "rivals best loadout"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 9, 2026. Covers all weapons as of RIVALS Season 3 (The Fame Season) and Update 20 (Collapse). Weapon stats reflect the latest balance changes from the April 2026 patch.*

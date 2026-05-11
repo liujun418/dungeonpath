@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Fashion", "Pro Tips", "dti advanced tips", "dti freeplay guide", "how to win dti"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. Advanced strategies and tips reflect the current DTI meta as of May 2026.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Breeding Combinations", "msm breeding chart", "msm breeding times", "my singing monsters all combos"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the complete breeding system for My Singing Monsters, including all natural island combinations, Ethereal breeding, seasonal breeding, and rare monster formulas.*

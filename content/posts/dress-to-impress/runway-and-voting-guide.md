@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Runway Guide", "Voting Strategy", "Tips", "dti runway tips", "dti voting explained", "dti presentation guide"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest runway mechanics, voting system, and presentation strategies for Dress To Impress as of May 2026.*

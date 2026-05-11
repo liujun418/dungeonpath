@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Codes", "Secrets", "Easter Eggs", "Achievements", "Hidden Rooms", "doors codes 2026", "doors free knobs"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all active codes, confirmed secret rooms, achievements, and community-discovered secrets as of The Great Outdoors update and the upcoming Archives Update (expected May/June 2026).*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Endless Mode", "Strategy Guide", "pressure endless mode strategy", "pressure high score tips", "pressure room scaling guide"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Pressure Endless Mode mechanics and strategies as of the latest update, including the March 2026 "Half A Slice Of Cake" update additions. Strategies tested across 200+ Endless Mode runs at various depth brackets.*

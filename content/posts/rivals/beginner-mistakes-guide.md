@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Common Mistakes", "Tips", "Improvement", "FPS", "rivals common mistakes", "rivals beginner tips", "rivals improvement guide"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 10, 2026. Covers RIVALS Season 12. Each mistake includes a detailed explanation of why it costs you matches and a step-by-step fix you can apply today.*

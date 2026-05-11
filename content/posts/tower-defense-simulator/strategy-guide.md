@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Strategy Guide", "TDS", "Advanced Tips", "tds strategy guide", "tds tower combos", "tds advanced tips"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Advanced strategies reflect the current 2026 meta.*

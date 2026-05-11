@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Tier List", "Abilities", "Skills", "Meta", "ability tier list", "blade ball meta 2026"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. Tier rankings reflect the current meta including all abilities available as of May 2026.*

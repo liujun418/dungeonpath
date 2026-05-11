@@ -6,6 +6,7 @@ draft: false
 description: "Complete Blox Fruits tier list for 2026. Every Devil Fruit ranked S to D tier for PvP, grinding and leveling, and raids. Best fruits for each sea and playstyle with detailed ability breakdowns."
 tags: ["Blox Fruits", "Roblox", "Tier List", "Devil Fruits", "blox fruits tier list 2026", "best devil fruits blox fruits", "blox fruits fruit ranking"]
 categories: ["Roblox Guides"]
+games: ["Blox Fruits"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every Devil Fruit in Blox Fruits ranked from S-tier to D-tier for PvP, grinding, and raids as of Update 24 (2026). All rankings reflect the current meta including fruit awakening, transformations, and ability reworks.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Adventure", "Tips", "sailor piece devil fruits", "sailor piece sea 2", "sailor piece islands"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 9, 2026. Covers Sailor Piece as of the Sea 2 update (April 2026) and the Anti-Magic update, including all islands, Devil Fruits, Haki systems, and the latest meta. Game has received major updates every 1-2 weeks.*

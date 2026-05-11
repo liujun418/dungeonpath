@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Horror", "The Outdoors", "Walkthrough", "Floor 3", "doors floor 3 guide", "doors outdoors entities"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers The Outdoors as of the latest update, including all entities, environmental hazards, items, boss fights, hidden areas, and speedrun strategies. The Outdoors was introduced in August 2025 and has since become a fan-favorite floor.*

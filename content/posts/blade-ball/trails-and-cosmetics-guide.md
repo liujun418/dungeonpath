@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Cosmetics", "Sword Skins", "Trails", "Skins", "Unlock Guide", "blade ball skins", "blade ball trails"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Blade Ball cosmetic items, unlock methods, and rarity rankings as of May 2026.*

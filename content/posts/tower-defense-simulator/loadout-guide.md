@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Loadout Guide", "Tower Combos", "tds best loadout 2026", "tds tower combos for fallen mode", "tds hardcore loadout build"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the best Tower Defense Simulator loadouts as of the 2026 balance update. All tower costs, upgrade paths, and strategy recommendations reflect the current meta. Strategies verified across Normal, Hardcore, Fallen, and Polluted Wasteland modes.*

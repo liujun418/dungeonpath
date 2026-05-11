@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Scrap Guide", "Loot", "Item Values", "Horror", "Co-op", "lethal company scrap values", "lethal company best loot", "lethal company profit guide"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This comprehensive scrap guide covers every lootable item in Lethal Company with accurate value ranges, weight classifications, and strategic priority rankings to maximize your quota earnings.*

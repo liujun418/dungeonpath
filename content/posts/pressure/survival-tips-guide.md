@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Survival", "Advanced Guide", "Horror", "Pro Tips", "pressure survival tips", "how to reach room 100 pressure", "pressure pro strategy"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers advanced survival strategies for Pressure as of the latest update, including the March 2026 "Half A Slice Of Cake" update which added 200+ item skins, 260+ charms, and 50+ modifiers. Strategies tested across 500+ runs.*

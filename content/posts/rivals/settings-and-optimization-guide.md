@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "FPS", "Settings", "Optimization", "FOV", "Sensitivity", "Performance", "rivals best settings", "rivals sensitivity guide", "rivals fps boost"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > **Last Updated:** May 10, 2026 - All settings, optimization tips, and performance recommendations verified for the latest RIVALS update.

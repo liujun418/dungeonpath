@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Movement", "FPS", "Mechanics", "Guide", "Slide Jump", "Tips", "rivals movement guide", "rivals slide jump", "rivals advanced movement"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all movement mechanics and techniques as of RIVALS Season 3 (The Fame Season), including the latest balance changes and meta strategies.*

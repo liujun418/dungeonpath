@@ -12,7 +12,7 @@
     <div class="featured-grid">
         {{- range $featured }}
         <a href="{{ .RelPermalink }}" class="featured-card">
-            {{- $game := .Params.tags | intersect (slice "Fisch" "Pressure" "RIVALS" "Sailor Piece" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Blox Fruits") | first 1 }}
+            {{- $game := index .Params.games 0 }}
             <div class="card-header">
                 {{- with $game }}
                 <span class="card-game-tag">{{ . }}</span>
@@ -43,20 +43,14 @@
 </section>
 
 {{/* ---- Browse by Game ---- */}}
-{{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
-{{- /* Dynamic game list based on actual content */}}
-{{- $games := slice "Fisch" "Pressure" "RIVALS" "DOORS" "Blade Ball" "Dress To Impress" "Tower Defense Simulator" "Monster Legends" "My Singing Monsters" "Palworld" "Lethal Company" "Sailor Piece" "Blox Fruits" }}
 <section class="home-section home-games">
     <h2 class="section-title">🎮 Browse by Game</h2>
     <div class="game-grid">
-        {{- range $games }}
-        {{- $gamePosts := where $allPosts "Params.tags" "intersect" (slice .) }}
-        {{- if $gamePosts }}
-        <a href="/tags/{{ . | urlize }}/" class="game-card">
-            <span class="game-name">{{ . }}</span>
-            <span class="game-count">{{ len $gamePosts }} guides</span>
+        {{- range $name, $taxonomy := site.Taxonomies.games }}
+        <a href="{{ $taxonomy.Page.RelPermalink }}" class="game-card">
+            <span class="game-name">{{ $taxonomy.Page.Title }}</span>
+            <span class="game-count">{{ len $taxonomy }} guides</span>
         </a>
-        {{- end }}
         {{- end }}
     </div>
 </section>

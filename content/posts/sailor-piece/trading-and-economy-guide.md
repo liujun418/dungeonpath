@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Trading", "Economy", "Money Guide", "Beli", "Fruits", "Tips", "sailor piece money guide", "sailor piece best trades", "sailor piece beli farm"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. Covers the Sailor Piece economy, trading system, and money farming methods as of the Sea 2 update (April 2026) and Anti-Magic update. Prices and strategies reflect current market conditions.*

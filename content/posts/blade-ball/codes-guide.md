@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Codes", "Free Items", "Rewards", "blade ball codes 2026", "blade ball free spins", "blade ball redemption"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. Codes are checked regularly — if a code doesn't work, it has expired.*

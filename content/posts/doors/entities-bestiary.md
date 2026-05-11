@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Horror", "Survival", "Guide", "doors all entities", "doors how to survive figure", "doors rush ambush guide"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update (expected May/June 2026).*

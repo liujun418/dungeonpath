@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "PvP Guide", "Bounty", "sailor piece pvp combos", "sailor piece bounty hunting guide", "how to win pvp sailor piece"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Sailor Piece PvP mechanics as of the Sea 2 update (April 2026) and the Anti-Magic update. All damage numbers, stat values, and combo strings reflect the current PvP meta. The game receives balance patches every 1-2 weeks, so this guide emphasizes fundamental mechanics that remain relevant across updates.*

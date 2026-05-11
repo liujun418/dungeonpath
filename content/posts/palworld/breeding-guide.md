@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Breeding", "Guides", "how to breed anubis palworld", "palworld breeding combos", "palworld best breeding pals"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers everything about breeding in Palworld -- how to set up a breeding farm, which combinations produce which Pals, how passive skills are inherited, and the best breeding chains for top-tier Pals.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Fisch", "Roblox", "Quests", "NPCs", "Guide", "Walkthrough", "fisch npc locations", "fisch quest rewards", "fisch quest guide"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 10, 2026. Covers all major NPCs and quests as of the latest Fisch update. New NPCs and quests may be added with game updates.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Collectibles", "Seashells", "Secrets", "dti seashell locations", "dti seashell crown", "dti hidden items"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. Collectible locations reflect the current DTI lobby layout as of May 2026.*

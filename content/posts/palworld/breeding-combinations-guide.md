@@ -6,6 +6,7 @@ draft: false
 description: "Palworld breeding guide 2026. Breeding mechanics explained, rare Pal combos, passive skill inheritance rules, and calculator with full BP values table."
 tags: ["Palworld", "PC Games", "Breeding", "Combinations", "palworld breeding combinations list", "palworld best breeding combos", "palworld passive skill inheritance"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the complete Palworld breeding system including breeding power mechanics, every major breeding combination, passive skill inheritance probabilities, optimal parent selection strategies, cake production, and how to breed perfect-stat Pals for combat and base work.*

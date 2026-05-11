@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Horror", "Speedrun", "Strategy", "Any%", "Advanced", "doors speedrun tips", "doors best route"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers speedrun strategies for all DOORS floors including The Hotel, The Mines, and The Outdoors. Includes split times, route optimization, entity skip strategies, and community record benchmarks. Updated for the post-Outdoors meta and upcoming Archives update.*

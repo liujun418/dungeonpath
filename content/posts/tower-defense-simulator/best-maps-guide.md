@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Maps Guide", "TDS", "Strategy", "tds best maps", "tds map guide", "tds map strategies"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Map strategies reflect the current 2026 meta.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Fisch", "Roblox", "Enchantments", "Mutations Guide", "fisch best rod enchantments 2026", "fisch all mutations list", "fisch enchantment combos guide"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every rod enchantment and fish mutation in the current Fisch meta, including the latest balance changes. All prices, stats, and drop rates verified against Version 2.5.0.*

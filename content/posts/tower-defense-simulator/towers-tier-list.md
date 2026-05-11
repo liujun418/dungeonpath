@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Tier List", "Towers", "TDS", "Meta", "tds best towers", "tds tower tier list 2026", "tds best loadout"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Tier rankings reflect the current meta after the 2026 balance update.*

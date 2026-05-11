@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Legendary", "Mythic", "Combinations", "how to breed legendary monster legends", "monster legends breeding chart", "monster legends all combos"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. All breeding combinations verified against the current Monster Legends patch. Breeding event exclusives are noted where temporary availability applies.*

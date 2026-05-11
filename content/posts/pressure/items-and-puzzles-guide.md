@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Items", "Puzzles", "Guide", "Keycards", "pressure items guide", "pressure puzzle solutions", "pressure keycard guide"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all known items, keycards, and puzzle types in Pressure as of the latest update, including the March 2026 "Half A Slice Of Cake" update additions (200+ item skins, 260+ charms, 50+ modifiers).*

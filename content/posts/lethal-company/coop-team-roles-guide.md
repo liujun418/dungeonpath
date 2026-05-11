@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Co-op", "Team Roles", "Horror", "Strategy", "lethal company team roles", "lethal company 4 player", "lethal company coordination"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide breaks down optimal team roles and communication protocols for Lethal Company. Whether you are playing with friends or random players, assigning clear roles dramatically improves survival rates and scrap income.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Limited Items", "Events Guide", "dti seasonal events", "dti limited items", "dti event guide 2026"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all known Dress To Impress seasonal events, past and upcoming, including event-exclusive items, codes, and preparation strategies as of May 2026.*

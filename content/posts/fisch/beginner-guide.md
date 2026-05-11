@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Fisch", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "Fishing", "fisch best rod", "how to get money fast fisch", "fisch rare fish guide"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 9, 2026. This guide covers the latest Fisch meta as of May 2026, including all current locations, rods, mutations, and active codes.*

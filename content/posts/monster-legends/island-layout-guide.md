@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Islands", "Habitats", "Base Building", "Layout", "monster legends island order", "monster legends best habitat", "monster legends base design"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. Island costs, habitat stats, and layout recommendations current as of the Spring 2026 Monster Legends update.*

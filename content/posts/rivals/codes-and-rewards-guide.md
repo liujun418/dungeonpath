@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Codes", "Free Items", "Rewards", "Weapon Skins", "rivals codes 2026", "rivals free skins", "rivals key codes"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 10, 2026. All codes verified as working. Covers RIVALS Season 12 rewards and the latest code releases from Nosniy Games.*

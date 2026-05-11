@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["RIVALS", "Roblox", "Beginner Guide", "FPS", "PVP", "Tips", "rivals best loadout", "rivals movement guide", "rivals ranked tips"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 9, 2026. Covers RIVALS as of Season 12, including the current weapon meta, all game modes, and the latest ranked system changes.*

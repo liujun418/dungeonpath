@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Pressure", "Roblox", "Entities", "Monsters", "Guide", "Bestiary", "pressure all entities", "pressure angler guide", "how to survive pressure entities"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 9, 2026. Covers all known entities as of the latest Pressure update, including the March 2026 "Half A Slice Of Cake" update additions.*

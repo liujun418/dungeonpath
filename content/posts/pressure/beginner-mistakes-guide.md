@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Beginner Guide", "Mistakes", "Tips", "Horror", "pressure common mistakes", "pressure beginner tips", "pressure mistakes guide"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the most common mistakes new Pressure players make as of the latest update. The March 2026 "Half A Slice Of Cake" update added new mechanics and modifiers that can compound existing beginner errors.*

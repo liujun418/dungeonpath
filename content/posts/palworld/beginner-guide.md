@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Beginner Guide", "Crafting", "palworld tips", "how to survive palworld", "palworld first base"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers everything a new player needs to know about Palworld, from your first spawn to building an automated base with a team of loyal Pals.*

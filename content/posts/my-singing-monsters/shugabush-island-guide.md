@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Shugabush Island", "Legendary Monsters", "msm shugabush guide", "how to breed shugabush", "msm shugafamily"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Shugabush Island in My Singing Monsters, including how to unlock the island, breed Shugabush and all Shugafamily members, and optimize their coin production.*

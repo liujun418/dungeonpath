@@ -1,10 +1,4 @@
-{{- /* DungeonPath custom sitemap — excludes low-value keyword tags, adds priority */}}
-{{- $gameNames := slice
-  "fisch" "pressure" "rivals" "doors" "blade-ball"
-  "dress-to-impress" "tower-defense-simulator" "sailor-piece"
-  "monster-legends" "my-singing-monsters" "palworld" "lethal-company"
-  "blox-fruits"
-}}
+{{- /* DungeonPath custom sitemap — uses games taxonomy, excludes low-value keyword tags */}}
 {{- $articles := where site.RegularPages "Type" "eq" "posts" }}
 {{- $articleURLs := slice }}
 {{- range $articles }}
@@ -40,15 +34,13 @@
     <changefreq>weekly</changefreq>
   </url>
 {{- end }}
-{{- /* 4. Game-name tags only — not generic keyword tags */}}
-{{- range $name, $taxonomy := site.Taxonomies.tags }}
-  {{- if in $gameNames ($name | urlize) }}
+{{- /* 4. Game pages from games taxonomy */}}
+{{- range site.Taxonomies.games }}
   <url>
-    <loc>{{ $taxonomy.Page.Permalink }}</loc>
+    <loc>{{ .Page.Permalink }}</loc>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
-  {{- end }}
 {{- end }}
 {{- /* 5. Non-article static pages (legal, about) — exclude posts and duplicates */}}
 {{- range where site.RegularPages "Type" "ne" "posts" }}

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Fallen Mode", "TDS", "Endgame Guide", "tds fallen mode guide", "tds fallen strategy", "tds fallen boss"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Fallen strategies reflect the current 2026 meta.*

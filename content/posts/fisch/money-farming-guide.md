@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Fisch", "Roblox", "Money Farming", "Coins", "Guide", "Strategy", "how to get money fast fisch", "fisch best money making", "fisch coin farm"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 10, 2026. Strategies tested and verified against the current Fisch meta as of May 2026.*

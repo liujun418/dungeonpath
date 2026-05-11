@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Terminal Commands", "Guide", "Horror", "Co-op", "lethal company terminal guide", "lethal company all commands", "lethal company console"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every terminal command in Lethal Company, from basic navigation to hidden secrets. Master the terminal to travel efficiently, buy equipment, and access crucial information.*

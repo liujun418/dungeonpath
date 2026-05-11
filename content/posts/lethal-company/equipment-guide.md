@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Equipment Guide", "Shop Items", "Horror", "Co-op", "lethal company best items", "lethal company loadout", "lethal company shop guide"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every purchasable item in Lethal Company with exact credit costs, practical use cases, team loadout strategies, and which items are worth your hard-earned scrap money.*

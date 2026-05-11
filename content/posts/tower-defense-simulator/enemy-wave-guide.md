@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "TDS", "Enemy Guide", "Wave Guide", "Boss Guide", "tds enemy types", "tds wave guide", "tds all enemies"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all enemy types, boss mechanics, and wave patterns in Tower Defense Simulator as of May 2026, including the latest 2026 balance update changes.*

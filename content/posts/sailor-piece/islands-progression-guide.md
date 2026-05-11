@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Islands", "Progression", "Walkthrough", "Boss Guide", "Sea 2", "sailor piece islands", "sailor piece sea 2 unlock", "sailor piece leveling guide"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. Covers Sailor Piece as of the Sea 2 update (April 2026) and the Anti-Magic update. All island information, boss HP values, loot tables, and Sea 2 requirements reflect the current game state. The game receives updates every 1-2 weeks.*

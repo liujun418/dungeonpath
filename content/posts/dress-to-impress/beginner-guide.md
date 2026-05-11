@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Beginner Guide", "Tips", "Fashion", "dress to impress all themes", "how to win dti runway", "dti outfits guide"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Dress To Impress mechanics, themes, codes, and features as of May 2026.*

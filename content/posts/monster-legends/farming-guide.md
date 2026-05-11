@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Farming Guide", "Gold", "Food", "Resources", "monster legends free gems", "monster legends gold farm", "monster legends food guide"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. All gold and food farming numbers reflect current Monster Legends economy values. Farming node recommendations updated for the Spring 2026 Adventure Map expansion.*

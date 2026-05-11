@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "Walkthrough", "doors floor 2 guide", "how to survive doors roblox"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 9, 2026. Covers all floors as of The Great Outdoors update, April Fools 2026 (Rush Mode + Endless Mode now permanent), and the upcoming Archives Update (expected May/June 2026). Includes 87+ achievements and current active codes.*

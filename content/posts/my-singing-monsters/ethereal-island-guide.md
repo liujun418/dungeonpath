@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Ethereal Island", "Ethereal Monsters", "Shard Farming", "msm ethereal guide", "how to breed ethereal msm", "msm shard farming"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Ethereal Island in My Singing Monsters, including how to breed every Ethereal monster, teleportation mechanics, shard production rates, and advanced strategies for building a high-output Ethereal farm.*

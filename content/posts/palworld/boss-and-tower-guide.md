@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Boss Guide", "Tower Bosses", "Legendary Pals", "palworld all bosses", "palworld tower bosses", "palworld legendary pals locations"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every boss encounter in Palworld including tower bosses, alpha bosses, dungeon bosses, and the four legendary Pals. Each entry includes stats, strategies, recommended levels, and rewards.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Floors", "Map", "Locations", "Walkthrough", "pressure floors guide", "pressure hadal blacksite map", "pressure room 100 guide"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all known floors, rooms, and locations in the Hadal Blacksite as of the latest Pressure update, including the March 2026 "Half A Slice Of Cake" update additions.*

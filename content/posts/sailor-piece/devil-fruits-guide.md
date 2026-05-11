@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Devil Fruits", "RPG", "Tier List", "Trading", "sailor piece best fruit", "sailor piece fruit tier list", "sailor piece fruit spawns"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. Covers Sailor Piece as of the Sea 2 update (April 2026) and the Anti-Magic update. Devil Fruit availability, pricing, and tier rankings reflect the current meta. The game receives updates every 1-2 weeks.*

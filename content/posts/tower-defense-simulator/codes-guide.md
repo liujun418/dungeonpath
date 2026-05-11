@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Codes", "Free Items", "TDS", "tds codes 2026", "tds free towers", "tds code redemption"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. Codes are checked regularly — if a code doesn't work, it has expired.*

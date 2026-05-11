@@ -6,6 +6,7 @@ draft: false
 description: "Lethal Company weather guide 2026. Eclipsed, Flooded, Stormy, Foggy, Rainy effects with scrap value multipliers, spawn changes, and survival strategies."
 tags: ["Lethal Company", "PC Games", "Weather Guide", "Conditions", "lethal company weather effects guide", "lethal company eclipsed strategy", "lethal company flooded moons survival"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every weather condition in Lethal Company including Eclipsed, Flooded, Stormy, Foggy, and Rainy. You will find detailed mechanical explanations, scrap value multipliers, enemy spawn changes, moon-specific weather probabilities, survival strategies for each condition, and how to check and interpret the weather report.*

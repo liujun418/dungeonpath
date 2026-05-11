@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Fisch", "Roblox", "Tier List", "Best Rods", "Fishing Rods", "Guide", "fisch best rod", "fisch rod tier list 2026", "fisch endgame rod"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 9, 2026. Covers all 227+ fishing rods as of the latest Fisch update. Tier rankings are based on overall performance, accessibility, and value for money.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Horror", "Co-op", "Beginner Guide", "Survival Tips", "lethal company how to survive", "lethal company first quota", "lethal company tips"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Lethal Company v50+ on Steam. Whether you are playing solo or with friends, this beginner tutorial walks you through everything you need to survive your first quota and beyond.*

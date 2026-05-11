@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Strategies", "Pro Tips", "Winning Guide", "Advanced", "how to win blade ball", "blade ball advanced techniques"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Blade Ball strategies, ability combos, and advanced techniques for consistently winning matches as of May 2026.*

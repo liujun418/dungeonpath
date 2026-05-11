@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Advanced Strategies", "Horror", "Co-op", "Late Game", "lethal company quota scaling", "lethal company max efficiency", "lethal company endgame"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide is for experienced Lethal Company players who have survived multiple quotas and are ready for late-game challenges. We cover quota scaling math, weather survival, max-efficiency routing, and advanced team tactics.*

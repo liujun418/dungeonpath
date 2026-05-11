@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival", "pressure roblox guide", "how to survive pressure", "pressure hadal blacksite"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 9, 2026. This guide covers the Hadal Blacksite as of the latest Pressure update, including all known entities, items, and room types. The March 2026 "Half A Slice Of Cake" update added 200+ item skins, 260+ charms, and 50+ modifiers.*

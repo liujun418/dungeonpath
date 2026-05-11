@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Game Modes", "Classic", "1v1", "Team Mode", "Events", "blade ball game modes guide"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all available Blade Ball game modes including Classic, 1v1, Team Mode, and special event modes as of May 2026.*

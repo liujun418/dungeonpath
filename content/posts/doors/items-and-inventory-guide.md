@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Items", "Inventory", "Guide", "Jeff Shop", "doors jeff shop guide", "doors best items", "doors items locations"]
 categories: ["Roblox Guides"]
+games: ["DOORS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all items from The Hotel, The Mines, The Outdoors, Jeff's Shop, containers, and special event items. Updated for The Great Outdoors permanent update.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-09
 draft: false
 tags: ["Fisch", "Roblox", "Locations", "Fish Map", "Guide", "Bestiary", "all fisch fish locations", "fisch island unlock guide", "fisch best fishing spots"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 9, 2026. Covers 45+ permanent locations and 9 limited-time event locations as of the latest Fisch update.*

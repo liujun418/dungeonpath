@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Themes", "Fashion", "Outfit Ideas", "dress to impress all themes", "dti outfit ideas", "dti theme guide"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. Theme list includes all themes available as of May 2026, with 515+ total themes.*

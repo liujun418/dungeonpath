@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough", "TDS", "tds best towers", "tds beginner guide", "tower defense simulator tips"]
 categories: ["Roblox Guides"]
+games: ["Tower Defense Simulator"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Tower Defense Simulator meta as of May 2026, including all current towers, maps, and the 2026 balance update changes.*

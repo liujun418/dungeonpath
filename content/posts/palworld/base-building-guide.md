@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Base Building", "Automation", "Guides", "palworld best base", "palworld base layout", "palworld automation guide"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers everything about base building in Palworld -- from choosing the perfect location to designing fully automated production lines with optimized Pal assignments.*

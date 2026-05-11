@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Coin Optimization", "Diamond Farming", "msm coin farm", "msm diamond guide", "msm shard farming"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every resource farming strategy in My Singing Monsters, from early-game coin optimization to endgame diamond and shard production systems.*

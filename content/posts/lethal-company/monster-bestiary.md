@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Lethal Company", "PC Games", "Monster Bestiary", "Entity Guide", "Horror", "Co-op", "lethal company how to survive bracken", "lethal company coil head", "lethal company all monsters"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This comprehensive monster bestiary covers every entity in Lethal Company v50+, with detailed behavioral analysis, proven counter-strategies, and exact danger ratings derived from gameplay data.*

@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Maps", "Strategies", "FPS", "Guide", "Callouts", "Positioning", "rivals map guide", "rivals best positions", "rivals map callouts"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all maps available in RIVALS as of Season 3 (The Fame Season), including map callouts, loadout recommendations, and strategies for every game mode.*

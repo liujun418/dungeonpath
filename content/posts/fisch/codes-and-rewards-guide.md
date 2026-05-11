@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Fisch", "Roblox", "Codes", "Free Items", "Rewards", "fisch codes 2026", "fisch free rods", "fisch code redemption"]
 categories: ["Roblox Guides"]
+games: ["Fisch"]
 ---
 
 > *Last updated: May 10, 2026. Codes are checked regularly — if a code doesn't work, it has expired.*

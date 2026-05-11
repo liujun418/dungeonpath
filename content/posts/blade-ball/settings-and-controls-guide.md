@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Settings", "Controls", "Sensitivity", "Keybinds", "PC", "Mobile", "blade ball best settings 2026"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers the latest Blade Ball settings, controls, and optimization tips as of May 2026.*

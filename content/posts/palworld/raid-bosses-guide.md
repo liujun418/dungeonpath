@@ -6,6 +6,7 @@ draft: false
 description: "Palworld raid bosses guide 2026. Stats, attack patterns, Pal counters, solo strategies, and team builds for Bellanoir, Blazamut Ryu, Xenolord, and Bjorn."
 tags: ["Palworld", "PC Games", "Raid Bosses", "Boss Guide", "palworld raid boss guide", "palworld bellanoir strategy", "palworld best pals for raids"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every raid boss in Palworld including Bellanoir, Bellanoir Libero, Blazamut Ryu, Xenolord, and Bjorn & Bastigor. You will find detailed stats, attack patterns, type weaknesses, recommended Pal counters, solo strategies, team compositions, and the complete loot table for each encounter.*

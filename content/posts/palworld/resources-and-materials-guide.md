@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Resources", "Materials", "Farming", "Guides", "palworld best ore farm", "palworld paldium guide", "palworld material farming"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every resource type in Palworld, where to find it, how to farm it efficiently, and which Pals are best for gathering each material.*

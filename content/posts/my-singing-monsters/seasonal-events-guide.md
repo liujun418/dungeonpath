@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Event Guide", "msm seasonal events", "msm spooktacle", "msm festival of yay"]
 categories: ["Mobile Games"]
+games: ["My Singing Monsters"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all seasonal events in My Singing Monsters, including event schedules, seasonal monster breeding, exclusive items, and strategies to maximize every limited-time event.*

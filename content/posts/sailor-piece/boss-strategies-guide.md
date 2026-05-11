@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Sailor Piece", "Roblox", "Boss Guide", "Boss Strategy", "Drop Tables", "Combat", "PvE", "sailor piece boss guide", "sailor piece all bosses", "sailor piece sea 2 bosses"]
 categories: ["Roblox Guides"]
+games: ["Sailor Piece"]
 ---
 
 > *Last updated: May 10, 2026. Covers all bosses in Sea 1 and Sea 2 as of the April 2026 Sea 2 update and Anti-Magic update. Boss HP values, drop rates, and strategies are based on current game data.*

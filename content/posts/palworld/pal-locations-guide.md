@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Palworld", "PC Games", "Survival", "Pal Locations", "Biomes", "Guides", "palworld all pals", "palworld alpha pals locations", "palworld rare spawns"]
 categories: ["PC Games"]
+games: ["Palworld"]
 ---
 
 > *Last updated: May 10, 2026. This guide maps every Pal spawn location across all biomes in Palworld, including rare spawns, alpha boss locations, and day/night differences.*

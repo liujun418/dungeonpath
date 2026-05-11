@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["RIVALS", "Roblox", "Game Modes", "Ranked", "Competitive", "FPS", "Guide", "Strategies", "rivals ranked guide", "rivals game modes", "rivals competitive tips"]
 categories: ["Roblox Guides"]
+games: ["RIVALS"]
 ---
 
 > *Last updated: May 10, 2026. Covers all game modes, the ranked system, MMR mechanics, and competitive strategies as of RIVALS Season 3 (The Fame Season).*

@@ -6,6 +6,7 @@ draft: false
 description: "Complete Blox Fruits fighting styles guide for 2026. Every fighting style ranked with stats, all upgrade trainers located, best style for each build, and the strongest melee combo strings."
 tags: ["Blox Fruits", "Roblox", "Fighting Styles", "Melee Guide", "blox fruits best fighting style", "blox fruits all fighting styles", "blox fruits fighting style upgrades"]
 categories: ["Roblox Guides"]
+games: ["Blox Fruits"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every fighting style in Blox Fruits including all V2 upgrades, mastery requirements, trainer locations, stat interactions, and the best combo strings for PvP as of Update 24 (2026).*

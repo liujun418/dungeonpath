@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Dress To Impress", "Roblox", "Codes", "Free Items", "Fashion", "dress to impress codes 2026", "dti free items", "dti code redemption"]
 categories: ["Roblox Guides"]
+games: ["Dress To Impress"]
 ---
 
 > *Last updated: May 10, 2026. Codes are checked regularly — if a code doesn't work, it has expired.*

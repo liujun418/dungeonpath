@@ -6,6 +6,7 @@ draft: false
 description: "Lethal Company interior guide 2026. Facility and Mansion dungeons mapped with room types, navigation tips, trap patterns, strategies to never get lost inside."
 tags: ["Lethal Company", "PC Games", "Interior Guide", "Map Layout", "lethal company interior layout guide", "lethal company facility vs mansion", "lethal company dungeon navigation"]
 categories: ["PC Games"]
+games: ["Lethal Company"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every interior layout in Lethal Company including Facility and Mansion dungeons, detailed room breakdowns with scrap locations and enemy spawns, trap patterns for turrets and landmines, navigation strategies to never get lost, and fire exit routing on every major moon.*

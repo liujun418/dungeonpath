@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Blade Ball", "Roblox", "Maps", "Trails", "Cosmetics", "Sword Skins", "Unlock Guide", "blade ball cosmetics", "blade ball unlock guide"]
 categories: ["Roblox Guides"]
+games: ["Blade Ball"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers all Blade Ball maps, trails, sword skins, and cosmetic items available as of May 2026, including event-exclusive unlocks.*

@@ -6,6 +6,7 @@ draft: false
 description: "Complete Blox Fruits bosses and raids guide for 2026. Every boss location across all three seas, all rare drops and spawn times, raid mechanics explained, and best strategies for every raid."
 tags: ["Blox Fruits", "Roblox", "Bosses", "Raids", "blox fruits all boss locations", "blox fruits raid guide", "blox fruits boss drops list"]
 categories: ["Roblox Guides"]
+games: ["Blox Fruits"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers every boss and raid in Blox Fruits as of Update 24 (2026) including locations across all three seas, drop tables, spawn mechanics, raid strategies, awakening costs, and the best builds for each encounter.*

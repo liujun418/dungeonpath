@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Team Wars", "Combat", "monster legends pvp guide", "monster legends team war", "monster legends combat tips"]
 categories: ["Mobile Games"]
+games: ["Monster Legends"]
 ---
 
 > *Last updated: May 10, 2026. Battle strategies updated for the current PvP meta and Team War format. Turn order mechanics verified against May 2026 patch.*

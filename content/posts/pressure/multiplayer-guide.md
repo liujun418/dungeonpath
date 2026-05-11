@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Multiplayer", "Co-op", "Team Strategy", "Horror", "pressure multiplayer guide", "pressure team roles", "pressure co-op tips"]
 categories: ["Roblox Guides"]
+games: ["Pressure"]
 ---
 
 > *Last updated: May 10, 2026. This guide covers Pressure multiplayer strategies as of the latest update. The March 2026 "Half A Slice Of Cake" update added new modifiers that affect multiplayer gameplay, including team-wide buffs and shared resource mechanics.*
