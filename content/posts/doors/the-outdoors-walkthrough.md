@@ -3,9 +3,9 @@ title: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide with All Entities
 description: "Complete walkthrough for The Outdoors in DOORS Floor 3 on Roblox. Learn entity encounters, environmental hazards, and survival strategies for the final floor."
 date: 2026-05-10
 cover:
-  image: "/cover-image/doors-beginner/cover.webp"
-  alt: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide Cover"
-  caption: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide"
+  image: "/cover-image/doors-the-outdoors/cover.webp"
+  alt: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide with All Entities and Strategies (2026)"
+  caption: "DOORS The Outdoors Walkthrough"
 lastmod: 2026-05-10
 draft: false
 tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors walkthrough", "doors entities", "doors items"]

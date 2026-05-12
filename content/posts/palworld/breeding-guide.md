@@ -3,8 +3,8 @@ title: "Palworld Breeding Guide: Combos, Passives & Best Crossbreeds (2026)"
 description: "Complete guide to Palworld breeding mechanics including pen setup, cake requirements, crossbreed combos, passive inheritance, and top Pals to breed in 2026."
 date: 2026-05-10
 cover:
-  image: "/cover-image/palworld-beginner/cover.webp"
-  alt: "Palworld Breeding Guide Cover"
+  image: "/cover-image/palworld-breeding/cover.webp"
+  alt: "Palworld Breeding Guide: Combos, Passives & Best Crossbreeds (2026)"
   caption: "Palworld Breeding Guide"
 lastmod: 2026-05-10
 draft: false

@@ -3,7 +3,7 @@ title: "Dress To Impress Runway and Voting Guide: How to Present and Win Votes (
 description: "Master the runway walk and voting system in Dress To Impress on Roblox. Learn to present outfits for maximum impact and get higher ratings every round."
 date: 2026-05-10
 cover:
-  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  image: "/cover-image/dress-to-impress-runway-and-voting-guide/cover.webp"
   alt: "Dress To Impress Runway and Voting Guide Cover"
   caption: "Dress To Impress Runway and Voting Guide"
 lastmod: 2026-05-10

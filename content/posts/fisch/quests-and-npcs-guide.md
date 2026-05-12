@@ -3,7 +3,7 @@ title: "Fisch Quests and NPCs Guide: All Quests, NPC Locations, and Rewards (202
 description: "Complete guide to every quest and NPC in Roblox Fisch for 2026. Learn where to find each NPC, what quests they offer, and what rewards you can earn from them."
 date: 2026-05-10
 cover:
-  image: "/cover-image/fisch-beginner/cover.webp"
+  image: "/cover-image/fisch-quests-and-npcs-guide/cover.webp"
   alt: "Fisch Quests and NPCs Guide Cover"
   caption: "Fisch Quests and NPCs Guide"
 lastmod: 2026-05-10

@@ -3,7 +3,7 @@ title: "Lethal Company Equipment Guide: Best Items, Costs, and Loadouts (2026)"
 description: "Complete equipment guide for Lethal Company with real item costs, best early purchases, team loadout strategies, and which items are traps to avoid in 2026."
 date: 2026-05-10
 cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
+  image: "/cover-image/lethal-company-equipment/cover.webp"
   alt: "Lethal Company Equipment Guide Cover"
   caption: "Lethal Company Equipment Guide"
 lastmod: 2026-05-10

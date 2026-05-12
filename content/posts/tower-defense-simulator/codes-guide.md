@@ -3,7 +3,7 @@ title: "Tower Defense Simulator Codes Guide: All Active Codes for May 2026 (+ Re
 description: "Complete list of all active Tower Defense Simulator codes for May 2026. Get free coins, towers, skins, and crates with our step-by-step redemption guide."
 date: 2026-05-10
 cover:
-  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  image: "/cover-image/tds-codes/cover.webp"
   alt: "Tower Defense Simulator Codes Guide Cover"
   caption: "Tower Defense Simulator Codes Guide"
 lastmod: 2026-05-10

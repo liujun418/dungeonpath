@@ -3,8 +3,8 @@ title: "Palworld Technology & Progression Guide: Level 1 to 50 Roadmap (2026)"
 description: "Complete Palworld technology tree guide with level-by-level unlock priorities, Ancient Technology points, and full progression roadmap to reach level 50."
 date: 2026-05-10
 cover:
-  image: "/cover-image/palworld-beginner/cover.webp"
-  alt: "Palworld Technology & Progression Guide Cover"
+  image: "/cover-image/palworld-technology/cover.webp"
+  alt: "Palworld Technology & Progression Guide: Level 1 to 50 Roadmap (2026)"
   caption: "Palworld Technology & Progression Guide"
 lastmod: 2026-05-10
 draft: false

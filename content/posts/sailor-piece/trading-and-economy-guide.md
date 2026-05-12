@@ -3,7 +3,7 @@ title: "Sailor Piece Trading and Economy Guide: How to Get Rich, Best Trades, an
 description: "Master the Sailor Piece economy in 2026. Learn trading strategies, money farming techniques, and how to build wealth for top fruits, gear, and rare items."
 date: 2026-05-10
 cover:
-  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  image: "/cover-image/sailor-piece-trading/cover.webp"
   alt: "Sailor Piece Trading and Economy Guide Cover"
   caption: "Sailor Piece Trading and Economy Guide"
 lastmod: 2026-05-10

@@ -3,7 +3,7 @@ title: "Sailor Piece Boss Strategies Guide: Every Boss Fight, Drop Tables, and W
 description: "Master every boss fight in Sailor Piece in 2026. Learn boss patterns, weaknesses, loadouts, drop tables, and winning strategies for Sea 1 and Sea 2 to dominate."
 date: 2026-05-10
 cover:
-  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  image: "/cover-image/sailor-piece-boss/cover.webp"
   alt: "Sailor Piece Boss Strategies Guide Cover"
   caption: "Sailor Piece Boss Strategies Guide"
 lastmod: 2026-05-10

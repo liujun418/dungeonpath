@@ -3,8 +3,8 @@ title: "Pressure Endless Mode Guide: Strategy, Room Scaling & High Score Tips (2
 description: "Master Roblox Pressure Endless Mode in 2026. Room scaling mechanics, entity patterns, best loadout choices, and proven pro tips for achieving high scores."
 date: 2026-05-10
 cover:
-  image: "/cover-image/pressure-beginner/cover.webp"
-  alt: "Pressure Endless Mode Guide Cover"
+  image: "/cover-image/pressure-endless-mode/cover.webp"
+  alt: "Pressure Endless Mode Guide: Strategy, Room Scaling & High Score Tips (2026)"
   caption: "Pressure Endless Mode Guide"
 lastmod: 2026-05-10
 draft: false

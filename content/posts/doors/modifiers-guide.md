@@ -2,8 +2,8 @@
 title: "Doors Modifiers Guide: All Game Modifiers, Challenge Runs & Badge Rewards (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/doors-beginner/cover.webp"
-  alt: "Doors Modifiers Guide Cover"
+  image: "/cover-image/doors-modifiers/cover.webp"
+  alt: "Doors Modifiers Guide: All Game Modifiers, Challenge Runs & Badge Rewards (2026)"
   caption: "Doors Modifiers Guide"
 lastmod: 2026-05-10
 draft: false

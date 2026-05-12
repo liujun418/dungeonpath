@@ -3,7 +3,7 @@ title: "Lethal Company Moons Guide: Complete Moon Rankings and Strategies (2026)
 description: "Every moon in Lethal Company ranked by difficulty with complete loot values, monster spawns, travel costs, weather effects, and profit strategies for 2026."
 date: 2026-05-10
 cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
+  image: "/cover-image/lethal-company-moon-guide/cover.webp"
   alt: "Lethal Company Moons Guide Cover"
   caption: "Lethal Company Moons Guide"
 lastmod: 2026-05-10

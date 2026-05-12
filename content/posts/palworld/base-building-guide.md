@@ -3,8 +3,8 @@ title: "Palworld Base Building Guide: Locations, Layouts & Automation (2026)"
 description: "Complete Palworld base building guide covering best base locations, layout designs, Pal assignments, automation, and multi-base management tips for 2026."
 date: 2026-05-10
 cover:
-  image: "/cover-image/palworld-beginner/cover.webp"
-  alt: "Palworld Base Building Guide Cover"
+  image: "/cover-image/palworld-base-building/cover.webp"
+  alt: "Palworld Base Building Guide: Locations, Layouts & Automation (2026)"
   caption: "Palworld Base Building Guide"
 lastmod: 2026-05-10
 draft: false

@@ -3,7 +3,7 @@ title: "Lethal Company Advanced Strategies Guide: Late-Game, Quota Scaling, and 
 description: "Master late-game Lethal Company with advanced strategies and tips. Learn quota scaling math, weather tactics, max-efficiency loot routes, and pro techniques."
 date: 2026-05-10
 cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
+  image: "/cover-image/lethal-company-advanced-strategies/cover.webp"
   alt: "Lethal Company Advanced Strategies Guide Cover"
   caption: "Lethal Company Advanced Strategies Guide"
 lastmod: 2026-05-10

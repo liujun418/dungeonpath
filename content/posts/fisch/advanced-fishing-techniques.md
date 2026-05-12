@@ -3,7 +3,7 @@ title: "Fisch Advanced Fishing Techniques: Pro Strategies, Weather Manipulation,
 description: "Master advanced fishing in Roblox Fisch with pro strategies. Learn weather manipulation, rare fish hunting tips, and how to catch legendary fish consistently."
 date: 2026-05-10
 cover:
-  image: "/cover-image/fisch-beginner/cover.webp"
+  image: "/cover-image/fisch-advanced-fishing-techniques/cover.webp"
   alt: "Fisch Advanced Fishing Techniques: Pro Strategies, Weather Manipulation, and Rare Fish Hunting (2026) Guide Cover"
   caption: "Fisch Advanced Fishing Techniques: Pro Strategies, Weather Manipulation, and Rare Fish Hunting (2026) Guide"
 lastmod: 2026-05-10

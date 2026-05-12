@@ -3,8 +3,8 @@ title: "My Singing Monsters Shugabush Island Guide: Unlock, Breeding, and Song (
 description: "Complete Shugabush Island guide for My Singing Monsters in 2026. Learn to unlock Shugabush, breed all Shugafamily members, and complete the island song."
 date: 2026-05-10
 cover:
-  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
-  alt: "My Singing Monsters Shugabush Island Guide Cover"
+  image: "/cover-image/msm-shugabush-island/cover.webp"
+  alt: "My Singing Monsters Shugabush Island Guide: Unlock, Breeding, and Song (2026)"
   caption: "My Singing Monsters Shugabush Island Guide"
 lastmod: 2026-05-10
 draft: false

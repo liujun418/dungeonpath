@@ -3,8 +3,8 @@ title: "Pressure Common Mistakes Guide: 15 Things New Players Get Wrong (and How
 description: "Avoid the most common mistakes new Pressure players make in 2026. Learn what not to do, why these mistakes cost runs, and how to fix them to survive longer."
 date: 2026-05-10
 cover:
-  image: "/cover-image/pressure-beginner/cover.webp"
-  alt: "Pressure Common Mistakes Guide Cover"
+  image: "/cover-image/pressure-beginner-mistakes/cover.webp"
+  alt: "Pressure Common Mistakes Guide: 15 Things New Players Get Wrong (and How to Fix Them) (2026)"
   caption: "Pressure Common Mistakes Guide"
 lastmod: 2026-05-10
 draft: false

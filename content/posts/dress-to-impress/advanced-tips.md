@@ -3,7 +3,7 @@ title: "Dress To Impress Freeplay and Advanced Tips Guide: Pro Strategies for Wi
 description: "Advanced Dress To Impress strategies covering Freeplay mode, voting psychology, and pro tips to consistently rank in the top three and win every round."
 date: 2026-05-10
 cover:
-  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  image: "/cover-image/dress-to-impress-advanced-tips/cover.webp"
   alt: "Dress To Impress Freeplay and Advanced Tips Guide Cover"
   caption: "Dress To Impress Freeplay and Advanced Tips Guide"
 lastmod: 2026-05-10

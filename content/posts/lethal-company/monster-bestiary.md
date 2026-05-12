@@ -3,7 +3,7 @@ title: "Lethal Company Monster Bestiary: Every Entity Explained (2026)"
 description: "Complete monster bestiary for Lethal Company with all 12+ entities. Learn behaviors, counter-strategies, danger levels, and detection methods to survive."
 date: 2026-05-10
 cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
+  image: "/cover-image/lethal-company-monster-bestiary/cover.webp"
   alt: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide Cover"
   caption: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide"
 lastmod: 2026-05-10

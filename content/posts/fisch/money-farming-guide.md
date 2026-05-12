@@ -3,7 +3,7 @@ title: "Fisch Money Farming Guide: Best Ways to Earn Coins Fast (2026)"
 description: "Master money farming in Fisch with the best coin-making strategies. Learn efficient fishing spots, mutation hunting, quest completions, and trading tips."
 date: 2026-05-10
 cover:
-  image: "/cover-image/fisch-beginner/cover.webp"
+  image: "/cover-image/fisch-money-farming-guide/cover.webp"
   alt: "Fisch Money Farming Guide Cover"
   caption: "Fisch Money Farming Guide"
 lastmod: 2026-05-10

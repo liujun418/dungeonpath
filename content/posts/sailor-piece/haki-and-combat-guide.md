@@ -3,7 +3,7 @@ title: "Sailor Piece Haki and Combat Guide: Master All Three Haki Types and Figh
 description: "Master Haki and combat in Sailor Piece in 2026. Learn Armament, Observation, and Conqueror's Haki plus advanced combos and PvP strategies to win every fight."
 date: 2026-05-10
 cover:
-  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  image: "/cover-image/sailor-piece-haki/cover.webp"
   alt: "Sailor Piece Haki and Combat Guide Cover"
   caption: "Sailor Piece Haki and Combat Guide"
 lastmod: 2026-05-10

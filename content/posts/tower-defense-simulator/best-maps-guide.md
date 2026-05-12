@@ -3,7 +3,7 @@ title: "Tower Defense Simulator Best Maps Guide: Every Map Strategy and Tips (20
 description: "Complete guide to every TDS map in Tower Defense Simulator. Learn the best tower placements, wave strategies, and tips for every map and difficulty mode."
 date: 2026-05-10
 cover:
-  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  image: "/cover-image/tds-best-maps/cover.webp"
   alt: "Tower Defense Simulator Best Maps Guide Cover"
   caption: "Tower Defense Simulator Best Maps Guide"
 lastmod: 2026-05-10

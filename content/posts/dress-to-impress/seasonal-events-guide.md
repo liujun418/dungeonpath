@@ -3,7 +3,7 @@ title: "Dress To Impress Seasonal Events Guide: All Events, Limited Items, and H
 description: "Complete guide to all Dress To Impress seasonal events on Roblox. Learn about past events, limited-time items, and how to prepare for future seasonal updates."
 date: 2026-05-10
 cover:
-  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  image: "/cover-image/dress-to-impress-seasonal-events-guide/cover.webp"
   alt: "Dress To Impress Seasonal Events Guide Cover"
   caption: "Dress To Impress Seasonal Events Guide"
 lastmod: 2026-05-10

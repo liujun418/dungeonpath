@@ -2,7 +2,7 @@
 title: "Lethal Company Weather & Conditions Guide: Eclipse, Flooded, Stormy Effects (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
+  image: "/cover-image/lethal-company-weather/cover.webp"
   alt: "Lethal Company Weather & Conditions Guide Cover"
   caption: "Lethal Company Weather & Conditions Guide"
 lastmod: 2026-05-10

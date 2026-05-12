@@ -2,7 +2,7 @@
 title: "Dress To Impress VIP Guide: Custom Makeup, Exclusive Items & Is It Worth It? (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/dress-to-impress-beginner/cover.webp"
+  image: "/cover-image/dress-to-impress-vip-guide/cover.webp"
   alt: "Dress To Impress VIP Guide Cover"
   caption: "Dress To Impress VIP Guide"
 lastmod: 2026-05-10

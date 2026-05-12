@@ -3,7 +3,7 @@ title: "Fisch Fish Location Map (May 2026): Where to Find Every Fish"
 description: "Complete guide to all fishing locations in Roblox Fisch for 2026. Learn to unlock islands, what fish to catch, and the best bait for each spot on the map."
 date: 2026-05-09
 cover:
-  image: "/cover-image/fisch-beginner/cover.webp"
+  image: "/cover-image/fisch-fish-location-map/cover.webp"
   alt: "Fisch Fish Location Map (May 2026): Where to Find Every Fish Guide Cover"
   caption: "Fisch Fish Location Map (May 2026): Where to Find Every Fish Guide"
 lastmod: 2026-05-09

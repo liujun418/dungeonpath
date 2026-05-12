@@ -3,7 +3,7 @@ title: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked"
 description: "Complete tier list ranking all 227+ fishing rods in Roblox Fisch. Find the best rods for money making, rare fish farming, and endgame progression in 2026."
 date: 2026-05-09
 cover:
-  image: "/cover-image/fisch-beginner/cover.webp"
+  image: "/cover-image/fisch-best-rods-tier-list/cover.webp"
   alt: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide Cover"
   caption: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide"
 lastmod: 2026-05-09

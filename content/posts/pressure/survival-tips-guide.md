@@ -3,9 +3,9 @@ title: "Pressure Pro Survival Tips: Advanced Strategies to Reach Floor 100 (2026
 description: "Advanced survival strategies for Roblox Pressure in 2026. Learn entity avoidance, resource management, and navigation to reach the deepest levels and escape."
 date: 2026-05-10
 cover:
-  image: "/cover-image/pressure-beginner/cover.webp"
-  alt: "Pressure Pro Survival Tips: Advanced Strategies to Reach Floor 100 (2026) Guide Cover"
-  caption: "Pressure Pro Survival Tips: Advanced Strategies to Reach Floor 100 (2026) Guide"
+  image: "/cover-image/pressure-survival-tips/cover.webp"
+  alt: "Pressure Pro Survival Tips: Advanced Strategies to Reach Floor 100 (2026)"
+  caption: "Pressure Pro Survival Tips Guide"
 lastmod: 2026-05-10
 draft: false
 tags: ["Pressure", "Roblox", "Survival", "Horror", "pressure survival tips", "pressure entity guide", "pressure codes"]

@@ -3,7 +3,7 @@ title: "Sailor Piece PvP Guide: Combat System, Bounty Hunting & 1v1 Strategy (20
 description: "Master Sailor Piece PvP combat in 2026. Bounty system guide, 1v1 dueling strategies, Devil Fruit combos, Haki usage, and how to dominate competitive battles."
 date: 2026-05-10
 cover:
-  image: "/cover-image/sailor-piece-beginner/cover.webp"
+  image: "/cover-image/sailor-piece-pvp/cover.webp"
   alt: "Sailor Piece PvP Guide Cover"
   caption: "Sailor Piece PvP Guide"
 lastmod: 2026-05-10

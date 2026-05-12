@@ -2,8 +2,8 @@
 title: "My Singing Monsters Tribal Island Guide: Strategy, Star Power & Tribe Rewards (2026)"
 date: 2026-05-10
 cover:
-  image: "/cover-image/my-singing-monsters-beginner/cover.webp"
-  alt: "My Singing Monsters Tribal Island Guide Cover"
+  image: "/cover-image/msm-tribal-island/cover.webp"
+  alt: "My Singing Monsters Tribal Island Guide: Strategy, Star Power & Tribe Rewards (2026)"
   caption: "My Singing Monsters Tribal Island Guide"
 lastmod: 2026-05-10
 draft: false

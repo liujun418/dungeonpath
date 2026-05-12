@@ -3,8 +3,8 @@ title: "Pressure Floors and Locations Guide: Complete Map Walkthrough (2026)"
 description: "Complete walkthrough for every floor and area in Pressure in 2026. Learn layouts, important rooms, escape routes, map secrets, and hidden areas to explore."
 date: 2026-05-10
 cover:
-  image: "/cover-image/pressure-beginner/cover.webp"
-  alt: "Pressure Floors and Locations Guide Cover"
+  image: "/cover-image/pressure-floors/cover.webp"
+  alt: "Pressure Floors and Locations Guide: Complete Map Walkthrough (2026)"
   caption: "Pressure Floors and Locations Guide"
 lastmod: 2026-05-10
 draft: false

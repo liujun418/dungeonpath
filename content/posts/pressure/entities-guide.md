@@ -3,8 +3,8 @@ title: "Pressure Entities Guide (May 2026): Every Monster and How to Survive"
 description: "Complete bestiary of all entities in Roblox Pressure for 2026. Learn every monster's warning signs, survival strategies, and encounter locations to survive."
 date: 2026-05-09
 cover:
-  image: "/cover-image/pressure-beginner/cover.webp"
-  alt: "Pressure Entities Guide Cover"
+  image: "/cover-image/pressure-entities/cover.webp"
+  alt: "Pressure Entities Guide (May 2026): Every Monster and How to Survive"
   caption: "Pressure Entities Guide"
 lastmod: 2026-05-09
 draft: false
