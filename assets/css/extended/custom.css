@@ -90,11 +90,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Override PaperMod header-nav line-height to prevent vertical overflow */
 .header-nav {
-  overflow: clip !important;
+  overflow: visible !important;
   line-height: normal !important;
-  height: 60px;
+  min-height: 60px;
   display: flex;
   align-items: center;
+  padding: 4px 0;
 }
 
 /* Logo / site name */
@@ -105,7 +106,8 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--neon-purple);
   text-shadow: var(--neon-glow);
   letter-spacing: 1px;
-  line-height: normal;
+  line-height: 1.2;
+  display: block;
 }
 
 /* Override PaperMod's menu overflow */
