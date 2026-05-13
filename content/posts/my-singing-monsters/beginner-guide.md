@@ -11,6 +11,17 @@ draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Beginner Guide", "Tips", "msm beginner guide", "msm breeding guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
+faq:
+  - question: "Is My Singing Monsters free to play?"
+    answer: "Yes, My Singing Monsters is free-to-play on mobile devices. It offers optional in-app purchases for diamonds and decorations but all monsters are obtainable through breeding."
+  - question: "How do I breed monsters in My Singing Monsters?"
+    answer: "Place two monsters in the Breeding Structure and wait for the breeding timer. Each combination produces a different monster. Rare and epic monsters take longer to breed."
+  - question: "What is the best first island to unlock in MSM?"
+    answer: "After Plant Island, Ethereal Island is the most important next unlock because it introduces Ethereal monsters that are needed for many advanced breeding combinations."
+  - question: "How do I earn diamonds fast in MSM?"
+    answer: "Feed monsters to level them up, complete achievements, participate in events, and check the Daily Login rewards. Diamonds are used for premium decorations and speeding up breeding."
+  - question: "Can I play My Singing Monsters offline?"
+    answer: "My Singing Monsters requires an internet connection to play since it is an online game with social features, events, and cloud saves."
 ---
 
 > *Last updated: May 10, 2026. This guide covers everything a new player needs to know about My Singing Monsters, from your first island to endgame currencies and strategies.*

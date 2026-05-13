@@ -11,6 +11,15 @@ draft: false
 tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips", "lethal company beginner guide", "lethal company equipment guide", "lethal company monsters guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faq:
+  - question: "Is Lethal Company free to play?"
+    answer: "No, Lethal Company is a paid game on Steam. It is relatively inexpensive and supports up to 4-player co-op multiplayer."
+  - question: "How many players can play Lethal Company together?"
+    answer: "Lethal Company supports 1-4 players in co-op multiplayer. Playing with friends significantly improves your chances of survival and makes the game much more fun."
+  - question: "What happens if I don't meet the quota in Lethal Company?"
+    answer: "If your team fails to meet the quota by the deadline, the Company will deduct credits from your account. If your total credits go below zero, you lose the game and must start over."
+  - question: "What are the most important items for beginners in Lethal Company?"
+    answer: "The Flashlight is essential for seeing in dark facilities. The Walkie-Talkie helps coordinate with teammates. The Shovel can be used for self-defense against monsters."
 ---
 
 > *Last updated: May 10, 2026. This guide covers Lethal Company v50+ on Steam. Whether you are playing solo or with friends, this beginner tutorial walks you through everything you need to survive your first quota and beyond.*
