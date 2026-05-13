@@ -1,0 +1,22 @@
+{{- /* FAQ Schema for articles with faq frontmatter: faq: [{question: "...", answer: "..."}] */}}
+{{- with .Params.faq }}
+{{- if gt (len .) 0 }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := . }}{{ if $i }},
+    {{ end }}{
+      "@type": "Question",
+      "name": {{ $item.question }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.answer | plainify | truncate 500 }}
+      }
+    }{{ end }}
+  ]
+}
+</script>
+{{- end }}
+{{- end }}

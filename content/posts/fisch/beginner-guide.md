@@ -11,6 +11,17 @@ draft: false
 tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing", "fisch beginner guide", "fisch codes"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
+faq:
+  - question: "Is Fisch free to play on Roblox?"
+    answer: "Yes, Fisch is completely free on Roblox. There are optional in-game purchases, but everything including rods, bait, and rare fish is earnable through regular gameplay."
+  - question: "What is the best first upgrade in Fisch?"
+    answer: "Save your coins for the Carbon Rod (around 2,000 C$). It is the single biggest quality-of-life upgrade for new players and makes fishing significantly faster and more rewarding."
+  - question: "What is the best bait for beginners in Fisch?"
+    answer: "Worms and Minnows are the best starting baits. Get your first batch from Phineas's quest near the docks, then buy more from bait shops at most locations."
+  - question: "How do mutations work in Fisch?"
+    answer: "Mutations are special attributes like Shiny, Albino, and Sparkling that randomly appear on fish. They change the fish appearance and multiply sell value. A Shiny fish sells for 1.85x normal price, and mutations can stack for even bigger multipliers."
+  - question: "How do I travel between islands in Fisch?"
+    answer: "Use the boat at Moosewood docks to travel to other islands. Roslit Bay is directly west of Moosewood and should be your first destination after completing the tutorial."
 ---
 
 > *Last updated: May 9, 2026. This guide covers the latest Fisch meta as of May 2026, including all current locations, rods, mutations, and active codes.*

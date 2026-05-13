@@ -11,6 +11,17 @@ draft: false
 tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "doors beginner guide", "doors codes", "doors walkthrough"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
+faq:
+  - question: "Is DOORS free to play on Roblox?"
+    answer: "Yes, DOORS is completely free on Roblox. The game offers optional in-game purchases for revive items and modifiers, but all content is accessible without spending Robux."
+  - question: "How do I survive Rush in DOORS?"
+    answer: "When you hear flickering lights and the screen goes dark, Rush is coming. Hide in the nearest closet or room immediately. If you stay in the open hallway, Rush will kill you instantly."
+  - question: "What is the best item for beginners in DOORS?"
+    answer: "The Lighter is the most essential item as it lets you see in dark rooms and protects you from Ambush. Always grab a Lighter when you find one."
+  - question: "What are DOORS modifiers?"
+    answer: "Modifiers are optional rules you can add before starting a run to increase difficulty. They grant extra Knobs (currency) as a reward. Examples include Dark Mode, Blind, and Speed modifiers."
+  - question: "How do I access Rush Mode and Endless Mode in DOORS?"
+    answer: "Rush Mode and Endless Mode were added in the 2026 April Fools update. Access them from the main menu after completing the standard hotel run at least once."
 ---
 
 > *Last updated: May 9, 2026. Covers all floors as of The Great Outdoors update, April Fools 2026 (Rush Mode + Endless Mode now permanent), and the upcoming Archives Update (expected May/June 2026). Includes 87+ achievements and current active codes.*
