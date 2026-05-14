@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neon Gaming Elements</title>
+<script src="/__helper.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; min-height: 100vh; }
+  .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+  h1 { text-align: center; font-size: 26px; margin-bottom: 6px; }
+  h1 span { background: linear-gradient(90deg, #a855f7, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .subtitle { text-align: center; color: #666; margin-bottom: 36px; font-size: 14px; }
+  .elements { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .element { background: rgba(139, 92, 246, 0.08); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; padding: 20px; cursor: pointer; transition: all 0.2s; }
+  .element:hover { border-color: rgba(139, 92, 246, 0.5); background: rgba(139, 92, 246, 0.12); }
+  .element.selected { border-color: #a855f7; background: rgba(139, 92, 246, 0.2); box-shadow: 0 0 20px rgba(168, 85, 247, 0.15); }
+  .element .check { float: right; width: 20px; height: 20px; border-radius: 50%; border: 2px solid rgba(139, 92, 246, 0.4); display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
+  .element.selected .check { background: #a855f7; border-color: #a855f7; }
+  .element.selected .check::after { content: '✓'; font-size: 12px; color: white; }
+  .element h3 { font-size: 15px; color: #c084fc; margin-bottom: 6px; }
+  .element p { font-size: 12px; color: #888; line-height: 1.4; }
+  .element .preview-mini { margin-top: 12px; height: 60px; border-radius: 8px; overflow: hidden; }
+  .element[data-id="gradient-bg"] .preview-mini { background: linear-gradient(135deg, #0d0221 0%, #1a0535 50%, #0d0221 100%); position: relative; }
+  .element[data-id="gradient-bg"] .preview-mini::after { content: ''; position: absolute; top: 0; right: 0; width: 100px; height: 100%; background: radial-gradient(ellipse at top right, rgba(168,85,247,0.2) 0%, transparent 70%); }
+  .element[data-id="neon-glow"] .preview-mini { background: #0d0221; position: relative; }
+  .element[data-id="neon-glow"] .preview-mini::after { content: 'DungeonPath'; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 18px; font-weight: 800; color: #a855f7; text-shadow: 0 0 10px rgba(168,85,247,0.8), 0 0 20px rgba(168,85,247,0.5), 0 0 40px rgba(168,85,247,0.3); }
+  .element[data-id="particles"] .preview-mini { background: #0d0221; position: relative; overflow: hidden; }
+  .element[data-id="particles"] .preview-mini::before { content: '·'; position: absolute; top: 20%; left: 30%; font-size: 8px; color: rgba(168,85,247,0.5); text-shadow: 0 0 6px rgba(168,85,247,0.3); animation: none; }
+  .element[data-id="particles"] .preview-mini::after { content: '·  ·  ·'; position: absolute; top: 60%; left: 50%; transform: translateX(-50%); font-size: 10px; color: rgba(6,182,212,0.4); letter-spacing: 30px; }
+  .element[data-id="game-cards"] .preview-mini { background: rgba(139, 92, 246, 0.05); padding: 8px; display: flex; gap: 6px; }
+  .element[data-id="game-cards"] .preview-mini .mini-card { flex: 1; background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 6px; padding: 6px; font-size: 8px; color: #a78bfa; }
+  .element[data-id="animated-border"] .preview-mini { background: #0d0221; display: flex; align-items: center; justify-content: center; }
+  .element[data-id="animated-border"] .preview-mini .border-demo { width: 80%; height: 70%; border-radius: 8px; border: 2px solid; border-image: linear-gradient(90deg, #a855f7, #06b6d4, #a855f7) 1; }
+  .element[data-id="pixel-font"] .preview-mini { background: #0d0221; display: flex; align-items: center; justify-content: center; font-family: monospace; }
+  .element[data-id="pixel-font"] .preview-mini .font-demo { font-size: 20px; color: #e9d5ff; letter-spacing: 2px; text-transform: uppercase; }
+  @media (max-width: 600px) { .elements { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1><span>Neon Gaming</span> — 视觉元素选择</h1>
+  <p class="subtitle">多选：勾选你想包含的视觉元素</p>
+
+  <div class="elements" data-multiselect>
+    <div class="element" data-id="gradient-bg" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>深色渐变背景</h3>
+      <p>全站深色背景 + 紫色/青色径向渐变光晕，营造氛围感</p>
+      <div class="preview-mini"></div>
+    </div>
+
+    <div class="element" data-id="neon-glow" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>霓虹发光标题</h3>
+      <p>Logo 和关键标题使用霓虹 text-shadow 效果，赛博朋克标志性视觉</p>
+      <div class="preview-mini"></div>
+    </div>
+
+    <div class="element" data-id="particles" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>粒子/光点动画</h3>
+      <p>背景中缓慢漂浮的微小光点，增加动态感和科技感</p>
+      <div class="preview-mini"></div>
+    </div>
+
+    <div class="element" data-id="game-cards" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>游戏风格卡片</h3>
+      <p>攻略卡片带半透明背景 + 渐变边框 + hover 发光效果</p>
+      <div class="preview-mini"></div>
+    </div>
+
+    <div class="element" data-id="animated-border" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>渐变装饰线</h3>
+      <p>导航栏底部、卡片顶部等位置使用紫蓝渐变装饰线</p>
+      <div class="preview-mini"></div>
+    </div>
+
+    <div class="element" data-id="pixel-font" onclick="toggleSelect(this)">
+      <div class="check"></div>
+      <h3>游戏感字体</h3>
+      <p>标题使用更有力量感的字体（如 Orbitron / Inter 黑体），正文保持可读性</p>
+      <div class="preview-mini"><span class="font-demo">DungeonPath</span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

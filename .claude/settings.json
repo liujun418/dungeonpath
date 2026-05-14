@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"require\\('sharp'\\); console.log\\('sharp available'\\)\")",
+      "Bash(node -e ' *)",
+      "Bash(curl -s https://dungeonpath.com/cover-image/ps99-beginner/cover.webp -o /dev/null -w \"%{http_code} %{size_download} bytes\")",
+      "Bash(ls -la C:/Users/jun/ai-toolbox/ 2>/dev/null | head -20)",
+      "Read(//c/Users/jun/ai-toolbox/**)"
+    ]
+  }
+}

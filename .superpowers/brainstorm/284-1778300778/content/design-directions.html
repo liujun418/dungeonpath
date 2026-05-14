@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DungeonPath Design Direction</title>
+<script src="/__helper.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f0f0f; color: #fff; min-height: 100vh; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+  h1 { text-align: center; font-size: 28px; margin-bottom: 8px; }
+  .subtitle { text-align: center; color: #888; margin-bottom: 40px; font-size: 14px; }
+  .designs { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; }
+  .design-card { border-radius: 16px; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; border: 2px solid transparent; }
+  .design-card:hover { transform: translateY(-4px); }
+  .design-card.selected { border-color: #fff; box-shadow: 0 0 30px rgba(255,255,255,0.2); }
+  .preview { padding: 24px; min-height: 280px; position: relative; }
+  .preview .mock-nav { font-size: 12px; padding: 8px 16px; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; gap: 16px; }
+  .preview .mock-title { font-size: 22px; font-weight: 800; margin-bottom: 8px; }
+  .preview .mock-subtitle { font-size: 13px; margin-bottom: 16px; opacity: 0.8; }
+  .preview .mock-btns { display: flex; gap: 8px; }
+  .preview .mock-btn { padding: 8px 20px; border-radius: 8px; font-size: 12px; font-weight: 600; }
+  .preview .mock-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 16px; }
+  .preview .mock-card-sm { padding: 12px; border-radius: 8px; font-size: 11px; }
+  .preview .mock-card-sm h4 { font-size: 12px; margin-bottom: 4px; }
+  .preview .mock-badge { position: absolute; top: 12px; right: 12px; padding: 4px 10px; border-radius: 20px; font-size: 10px; font-weight: 700; text-transform: uppercase; }
+  .info { padding: 20px 24px; background: rgba(255,255,255,0.05); }
+  .info h3 { font-size: 18px; margin-bottom: 6px; }
+  .info p { font-size: 13px; color: #aaa; line-height: 1.5; }
+  .info .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .info .tag { padding: 3px 10px; border-radius: 20px; font-size: 11px; background: rgba(255,255,255,0.1); color: #ccc; }
+  .palette { display: flex; gap: 6px; margin-top: 10px; }
+  .palette .swatch { width: 24px; height: 24px; border-radius: 50%; border: 2px solid rgba(255,255,255,0.2); }
+
+  /* === DESIGN A: Neon Gaming === */
+  .design-a .preview { background: linear-gradient(135deg, #0d0221 0%, #150735 50%, #0d0221 100%); }
+  .design-a .mock-nav { background: rgba(139, 92, 246, 0.15); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.3); }
+  .design-a .mock-title { background: linear-gradient(90deg, #a855f7, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .design-a .mock-subtitle { color: #a78bfa; }
+  .design-a .mock-btn { background: linear-gradient(135deg, #a855f7, #7c3aed); color: white; }
+  .design-a .mock-btn.outline { background: transparent; border: 1px solid #7c3aed; color: #a78bfa; }
+  .design-a .mock-card-sm { background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); color: #c4b5fd; }
+  .design-a .mock-card-sm h4 { color: #e9d5ff; }
+  .design-a .mock-badge { background: rgba(168, 85, 247, 0.3); color: #e9d5ff; }
+  .design-a .info h3 { color: #c084fc; }
+  .design-a .preview::after { content: ''; position: absolute; top: -50%; right: -30%; width: 200px; height: 200px; background: radial-gradient(circle, rgba(168,85,247,0.15) 0%, transparent 70%); pointer-events: none; }
+
+  /* === DESIGN B: Bold & Playful === */
+  .design-b .preview { background: linear-gradient(160deg, #fefce8 0%, #fef08a 100%); }
+  .design-b .mock-nav { background: #1a1a2e; color: #fbbf24; border: 2px solid #f59e0b; }
+  .design-b .mock-title { color: #1a1a2e; }
+  .design-b .mock-subtitle { color: #6b7280; }
+  .design-b .mock-btn { background: #f59e0b; color: #1a1a2e; font-weight: 800; }
+  .design-b .mock-btn.outline { background: #1a1a2e; color: #fbbf24; }
+  .design-b .mock-card-sm { background: white; border: 2px solid #e5e7eb; color: #374151; }
+  .design-b .mock-card-sm h4 { color: #1a1a2e; }
+  .design-b .mock-badge { background: #f59e0b; color: #1a1a2e; }
+  .design-b .info h3 { color: #d97706; }
+  .design-b .preview::after { content: '◆'; position: absolute; top: 16px; right: 50px; font-size: 40px; color: rgba(245, 158, 11, 0.15); pointer-events: none; }
+
+  /* === DESIGN C: Dark Fantasy === */
+  .design-c .preview { background: linear-gradient(180deg, #1a0a0a 0%, #0d0d0d 100%); }
+  .design-c .mock-nav { background: rgba(220, 38, 38, 0.1); color: #fca5a5; border: 1px solid rgba(220, 38, 38, 0.3); }
+  .design-c .mock-title { background: linear-gradient(90deg, #ef4444, #f97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .design-c .mock-subtitle { color: #9ca3af; }
+  .design-c .mock-btn { background: linear-gradient(135deg, #dc2626, #b91c1c); color: white; }
+  .design-c .mock-btn.outline { background: transparent; border: 1px solid #dc2626; color: #fca5a5; }
+  .design-c .mock-card-sm { background: rgba(220, 38, 38, 0.05); border: 1px solid rgba(220, 38, 38, 0.2); color: #d1d5db; }
+  .design-c .mock-card-sm h4 { color: #fca5a5; }
+  .design-c .mock-badge { background: rgba(220, 38, 38, 0.3); color: #fca5a5; }
+  .design-c .info h3 { color: #f87171; }
+  .design-c .preview::after { content: ''; position: absolute; bottom: -40%; left: -20%; width: 250px; height: 200px; background: radial-gradient(circle, rgba(220,38,38,0.08) 0%, transparent 70%); pointer-events: none; }
+
+  @media (max-width: 768px) { .designs { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>DungeonPath 视觉风格方向</h1>
+  <p class="subtitle">选择你最倾向的整体设计方向（点击卡片选择）</p>
+
+  <div class="designs">
+    <!-- A: Neon Gaming -->
+    <div class="design-card design-a" data-choice="neon-gaming" onclick="toggleSelect(this)">
+      <div class="preview">
+        <div class="mock-badge">DARK MODE</div>
+        <div class="mock-nav">DungeonPath &nbsp; Guides &nbsp; Categories &nbsp; Search</div>
+        <div class="mock-title">DungeonPath</div>
+        <div class="mock-subtitle">Your ultimate guide to Roblox dungeons & trending games</div>
+        <div class="mock-btns">
+          <div class="mock-btn">Browse Guides</div>
+          <div class="mock-btn outline">About</div>
+        </div>
+        <div class="mock-cards">
+          <div class="mock-card-sm"><h4>Fisch Beginner Guide</h4>Complete walkthrough...</div>
+          <div class="mock-card-sm"><h4>Pressure Monsters</h4>All entities & strategies...</div>
+        </div>
+      </div>
+      <div class="info">
+        <h3>A. Neon Gaming（霓虹游戏风）</h3>
+        <p>深色背景 + 紫蓝渐变 + 发光效果。赛博朋克/电音风格，科技感强，视觉冲击力大。</p>
+        <div class="tags">
+          <span class="tag">暗色主题</span>
+          <span class="tag">紫蓝渐变</span>
+          <span class="tag">发光效果</span>
+          <span class="tag">赛博朋克</span>
+        </div>
+        <div class="palette">
+          <div class="swatch" style="background:#0d0221"></div>
+          <div class="swatch" style="background:#a855f7"></div>
+          <div class="swatch" style="background:#06b6d4"></div>
+          <div class="swatch" style="background:#e9d5ff"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- B: Bold & Playful -->
+    <div class="design-card design-b" data-choice="bold-playful" onclick="toggleSelect(this)">
+      <div class="preview">
+        <div class="mock-badge">PLAYFUL</div>
+        <div class="mock-nav">DungeonPath &nbsp; Guides &nbsp; Categories &nbsp; Search</div>
+        <div class="mock-title">DungeonPath</div>
+        <div class="mock-subtitle">Your ultimate guide to Roblox dungeons & trending games</div>
+        <div class="mock-btns">
+          <div class="mock-btn">Browse Guides</div>
+          <div class="mock-btn outline">About</div>
+        </div>
+        <div class="mock-cards">
+          <div class="mock-card-sm"><h4>Fisch Beginner Guide</h4>Complete walkthrough...</div>
+          <div class="mock-card-sm"><h4>Pressure Monsters</h4>All entities & strategies...</div>
+        </div>
+      </div>
+      <div class="info">
+        <h3>B. Bold & Playful（活泼明亮风）</h3>
+        <p>亮色背景 + 黄黑撞色 + 粗体字 + 几何装饰。类似任天堂/Supercell 的活泼游戏感。</p>
+        <div class="tags">
+          <span class="tag">亮色主题</span>
+          <span class="tag">黄黑撞色</span>
+          <span class="tag">粗体字</span>
+          <span class="tag">几何装饰</span>
+        </div>
+        <div class="palette">
+          <div class="swatch" style="background:#fefce8"></div>
+          <div class="swatch" style="background:#f59e0b"></div>
+          <div class="swatch" style="background:#1a1a2e"></div>
+          <div class="swatch" style="background:#fbbf24"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- C: Dark Fantasy -->
+    <div class="design-card design-c" data-choice="dark-fantasy" onclick="toggleSelect(this)">
+      <div class="preview">
+        <div class="mock-badge">INTENSE</div>
+        <div class="mock-nav">DungeonPath &nbsp; Guides &nbsp; Categories &nbsp; Search</div>
+        <div class="mock-title">DungeonPath</div>
+        <div class="mock-subtitle">Your ultimate guide to Roblox dungeons & trending games</div>
+        <div class="mock-btns">
+          <div class="mock-btn">Browse Guides</div>
+          <div class="mock-btn outline">About</div>
+        </div>
+        <div class="mock-cards">
+          <div class="mock-card-sm"><h4>Fisch Beginner Guide</h4>Complete walkthrough...</div>
+          <div class="mock-card-sm"><h4>Pressure Monsters</h4>All entities & strategies...</div>
+        </div>
+      </div>
+      <div class="info">
+        <h3>C. Dark Fantasy（暗黑奇幻风）</h3>
+        <p>深黑背景 + 红橙火焰渐变 + 金属质感。偏黑暗/哥特风，适合生存/恐怖类游戏主题。</p>
+        <div class="tags">
+          <span class="tag">暗色主题</span>
+          <span class="tag">红橙渐变</span>
+          <span class="tag">金属质感</span>
+          <span class="tag">哥特风</span>
+        </div>
+        <div class="palette">
+          <div class="swatch" style="background:#1a0a0a"></div>
+          <div class="swatch" style="background:#dc2626"></div>
+          <div class="swatch" style="background:#f97316"></div>
+          <div class="swatch" style="background:#fca5a5"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
