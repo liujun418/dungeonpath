@@ -26,6 +26,9 @@ outputs:
 
 params:
   env: production
+  defaultTheme: auto
+  cover:
+    linkFullImages: false
   description: "Expert game guides and walkthroughs for Roblox, mobile, and PC games. Detailed tier lists, beginner guides, breeding charts, and strategy tips."
   mainSections: ["posts"]
   keywords: ["game guides", "Roblox guides", "mobile game guides", "PC game guides", "Monster Legends", "Palworld", "Lethal Company", "My Singing Monsters", "walkthroughs", "tier lists", "how to breed", "beginner guide", "best weapons", "monster guide", "boss guide", "strategy guide", "free game guide", "game walkthrough 2026"]

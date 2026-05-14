@@ -12,3 +12,5 @@ findings.md
 task_plan.md
 *.sh
 docs/
+# Built output - Vercel builds from source
+public/
