@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Common Mistakes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Tips", "Beginner Guide", "FPS", "rivals beginner guide", "rivals pvp tips"]
+tags: ["RIVALS", "Roblox", "Tips", "Beginner Guide", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

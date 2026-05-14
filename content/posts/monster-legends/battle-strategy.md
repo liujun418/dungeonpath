@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Battle Strategy Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Combat", "monster legends team wars", "monster legends tier list"]
+tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Combat"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

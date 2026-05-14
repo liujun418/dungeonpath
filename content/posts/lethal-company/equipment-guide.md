@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Equipment Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Equipment Guide", "Loadout Guide", "Co-op", "lethal company equipment guide", "lethal company beginner guide", "lethal company scrap guide"]
+tags: ["Lethal Company", "PC Games", "Equipment Guide", "Loadout Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

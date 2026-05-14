@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Beginner Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Beginner Guide", "Survival", "Crafting", "palworld beginner guide", "palworld base building", "palworld breeding guide"]
+tags: ["Palworld", "PC Games", "Beginner Guide", "Survival", "Crafting"]
 categories: ["PC Games"]
 games: ["Palworld"]
 faq:

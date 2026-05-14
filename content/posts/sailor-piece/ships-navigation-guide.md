@@ -4,7 +4,7 @@ description: "Complete Sailor Piece ships and navigation guide covering ship typ
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Sailor Piece", "Roblox", "Ships Guide", "Sea Beasts", "Navigation", "sailor piece ships", "sailor piece sea beasts", "sailor piece kraken"]
+tags: ["Sailor Piece", "Roblox", "Ships Guide", "Sea Beasts", "Navigation"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 cover:

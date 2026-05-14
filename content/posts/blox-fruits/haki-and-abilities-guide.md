@@ -8,7 +8,7 @@ cover:
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits Haki guide for 2026. How to unlock Busoshoku (Armament), Kenbunshoku (Observation), and Haoshoku (Conqueror's) Haki, full upgrade paths, and how to use each in combat."
-tags: ["Blox Fruits", "Roblox", "Haki", "Abilities", "Combat", "blox fruits haki", "blox fruits fighting style"]
+tags: ["Blox Fruits", "Roblox", "Haki", "Abilities", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 ---

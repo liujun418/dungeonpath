@@ -4,7 +4,7 @@ description: "Complete Fisch mutations and bait guide with all mutation value mu
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Fisch", "Roblox", "Mutations", "Bait Guide", "Fishing", "fisch mutations", "fisch best bait", "fisch money farming"]
+tags: ["Fisch", "Roblox", "Mutations", "Bait Guide", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 cover:

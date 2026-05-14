@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities", "lethal company monsters guide", "lethal company beginner guide", "lethal company equipment guide"]
+tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

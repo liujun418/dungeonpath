@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Pal Locations Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Maps", "Survival", "palworld pal locations", "palworld boss guide", "palworld beginner guide"]
+tags: ["Palworld", "PC Games", "Maps", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

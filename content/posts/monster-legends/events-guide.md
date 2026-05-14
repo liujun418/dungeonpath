@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Events and Dungeons Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Events Guide", "Strategy Guide", "monster legends team wars", "monster legends beginner guide"]
+tags: ["Monster Legends", "Mobile Games", "Events Guide", "Strategy Guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

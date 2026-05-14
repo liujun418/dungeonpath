@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Trading and Economy Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Money Farming", "Tips", "sailor piece codes", "sailor piece devil fruits", "sailor piece beginner guide"]
+tags: ["Sailor Piece", "Roblox", "Money Farming", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

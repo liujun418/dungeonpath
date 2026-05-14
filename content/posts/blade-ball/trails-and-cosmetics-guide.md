@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Trails and Cosmetics Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Cosmetics", "Items Guide", "Equipment Guide", "blade ball codes", "blade ball game modes"]
+tags: ["Blade Ball", "Roblox", "Cosmetics", "Items Guide", "Equipment Guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

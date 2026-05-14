@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Game Modes and Ranked Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS", "rivals pvp tips", "rivals weapon guide"]
+tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

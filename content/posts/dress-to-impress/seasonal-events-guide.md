@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress Seasonal Events Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Events Guide", "dress to impress themes", "dress to impress vip", "dress to impress outfits"]
+tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Events Guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

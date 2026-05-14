@@ -4,7 +4,7 @@ description: "Complete DOORS Hotel (Floor 1) walkthrough: room-by-room guide, en
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["DOORS", "Roblox", "Walkthrough", "Hotel", "doors hotel walkthrough", "doors floor 1 guide"]
+tags: ["DOORS", "Roblox", "Walkthrough", "Hotel"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 cover:

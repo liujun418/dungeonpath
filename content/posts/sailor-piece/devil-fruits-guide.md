@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Devil Fruits Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading", "sailor piece devil fruits", "sailor piece haki guide"]
+tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

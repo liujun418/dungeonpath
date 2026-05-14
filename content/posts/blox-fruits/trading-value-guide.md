@@ -4,7 +4,7 @@ description: "Complete Blox Fruits trading guide with current fruit values, rari
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Blox Fruits", "Roblox", "Trading Guide", "Fruit Values", "Economy", "blox fruits trading", "blox fruits values", "blox fruits economy"]
+tags: ["Blox Fruits", "Roblox", "Trading Guide", "Fruit Values", "Economy"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 cover:

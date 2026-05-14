@@ -11,7 +11,9 @@
   "author": { "@type": "Organization", "name": "DungeonPath" },
   "publisher": { "@type": "Organization", "name": "DungeonPath", "url": "{{ .Site.BaseURL }}" },
   "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink }}" },
-  "image": "{{ .Site.BaseURL }}{{ .Params.cover.image }}"
+  {{- if .Params.cover.image }}
+  "image": "{{ .Site.BaseURL }}{{ .Params.cover.image }}",
+  {{- end }}
 }
 </script>
 <script type="application/ld+json">

@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Fish Location Map (May 2026): Where to Find Every Fish Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Locations", "Maps", "Bestiary", "fisch fish locations", "fisch best rods"]
+tags: ["Fisch", "Roblox", "Locations", "Maps", "Bestiary"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

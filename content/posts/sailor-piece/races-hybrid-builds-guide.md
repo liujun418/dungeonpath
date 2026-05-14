@@ -4,7 +4,7 @@ description: "Complete Sailor Piece races and builds guide with the latest race 
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Sailor Piece", "Roblox", "Races Guide", "Build Guide", "Tier List", "sailor piece races", "sailor piece best build", "sailor piece meta"]
+tags: ["Sailor Piece", "Roblox", "Races Guide", "Build Guide", "Tier List"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 cover:

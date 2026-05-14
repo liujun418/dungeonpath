@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Settings and Controls Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Settings", "Controls", "blade ball beginner guide", "blade ball pvp tips"]
+tags: ["Blade Ball", "Roblox", "Settings", "Controls"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

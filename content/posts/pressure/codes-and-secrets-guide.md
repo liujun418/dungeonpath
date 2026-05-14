@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Codes and Secrets Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Codes", "Secrets", "pressure codes", "pressure beginner guide"]
+tags: ["Pressure", "Roblox", "Codes", "Secrets"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

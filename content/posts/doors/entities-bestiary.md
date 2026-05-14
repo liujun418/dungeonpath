@@ -8,7 +8,7 @@ cover:
   caption: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival", "doors entities"]
+tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

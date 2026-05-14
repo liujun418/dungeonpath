@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Codes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Codes", "Items Guide", "blade ball codes"]
+tags: ["Blade Ball", "Roblox", "Codes", "Items Guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

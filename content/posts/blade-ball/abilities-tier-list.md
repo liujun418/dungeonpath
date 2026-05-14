@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Abilities Tier List: Every Skill Ranked S to D (May 2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Tier List", "Combat", "blade ball abilities", "blade ball competitive"]
+tags: ["Blade Ball", "Roblox", "Tier List", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

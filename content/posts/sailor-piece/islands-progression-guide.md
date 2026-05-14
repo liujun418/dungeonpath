@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Islands and Progression Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Walkthrough", "Leveling", "sailor piece beginner guide", "sailor piece haki guide"]
+tags: ["Sailor Piece", "Roblox", "Walkthrough", "Leveling"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

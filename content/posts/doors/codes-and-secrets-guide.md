@@ -8,7 +8,7 @@ cover:
   caption: "DOORS Codes and Secrets Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Codes", "Secrets", "Achievements", "doors codes", "doors secrets"]
+tags: ["DOORS", "Roblox", "Codes", "Secrets", "Achievements"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

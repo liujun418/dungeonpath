@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Arena PvP Guide"
 lastmod: 2026-05-12
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Arena PvP", "Strategy Guide", "monster legends arena teams", "monster legends attack order", "monster legends season rewards"]
+tags: ["Monster Legends", "Mobile Games", "Arena PvP", "Strategy Guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

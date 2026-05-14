@@ -8,7 +8,7 @@ cover:
 lastmod: 2026-05-10
 draft: false
 description: "Palworld breeding guide 2026. Breeding mechanics explained, rare Pal combos, passive skill inheritance rules, and calculator with full BP values table."
-tags: ["Palworld", "PC Games", "Advanced Guide", "palworld breeding guide", "palworld pal locations", "palworld boss guide"]
+tags: ["Palworld", "PC Games", "Advanced Guide"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

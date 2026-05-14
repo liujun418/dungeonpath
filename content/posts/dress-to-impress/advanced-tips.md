@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress Freeplay and Advanced Tips Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Tips", "dress to impress themes", "dress to impress outfits"]
+tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

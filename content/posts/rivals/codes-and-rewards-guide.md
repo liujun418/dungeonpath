@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Codes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items", "rivals codes", "rivals beginner guide"]
+tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

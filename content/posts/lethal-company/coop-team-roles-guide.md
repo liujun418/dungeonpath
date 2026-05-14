@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Co-op Team Roles Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Co-op", "Strategy Guide", "lethal company monsters guide", "lethal company equipment guide", "lethal company moons guide", "lethal company beginner guide"]
+tags: ["Lethal Company", "PC Games", "Co-op", "Strategy Guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

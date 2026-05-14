@@ -4,7 +4,7 @@ description: "Complete Blox Fruits races guide covering all 7 playable races, V2
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Blox Fruits", "Roblox", "Races Guide", "V4 Awakening", "PvP", "blox fruits races", "blox fruits v4 guide", "blox fruits race tier list"]
+tags: ["Blox Fruits", "Roblox", "Races Guide", "V4 Awakening", "PvP"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 cover:

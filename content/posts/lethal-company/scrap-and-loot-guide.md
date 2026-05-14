@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Scrap and Loot Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Items Guide", "Co-op", "lethal company scrap guide", "lethal company moons guide", "lethal company equipment guide"]
+tags: ["Lethal Company", "PC Games", "Items Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

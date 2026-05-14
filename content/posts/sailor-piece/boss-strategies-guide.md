@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Boss Strategies Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Boss Guide", "Bosses", "Combat", "sailor piece haki guide", "sailor piece pvp guide"]
+tags: ["Sailor Piece", "Roblox", "Boss Guide", "Bosses", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

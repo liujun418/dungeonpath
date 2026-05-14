@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Pro Survival Tips Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Survival", "Horror", "pressure survival tips", "pressure entity guide", "pressure codes"]
+tags: ["Pressure", "Roblox", "Survival", "Horror"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

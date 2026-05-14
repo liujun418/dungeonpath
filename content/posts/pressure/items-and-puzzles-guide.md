@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Items and Puzzles Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Items Guide", "pressure entity guide", "pressure survival tips", "pressure floor guide"]
+tags: ["Pressure", "Roblox", "Items Guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

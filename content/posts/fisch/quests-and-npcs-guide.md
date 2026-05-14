@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Quests and NPCs Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Walkthrough", "fisch fish locations", "fisch money farming", "fisch beginner guide"]
+tags: ["Fisch", "Roblox", "Walkthrough"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

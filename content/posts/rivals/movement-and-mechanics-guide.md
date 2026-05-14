@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Movement and Mechanics Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "FPS", "rivals movement guide", "rivals pvp tips"]
+tags: ["RIVALS", "Roblox", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

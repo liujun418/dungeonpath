@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Maps and Trails Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Maps", "Cosmetics", "Locations", "blade ball codes", "blade ball beginner guide"]
+tags: ["Blade Ball", "Roblox", "Maps", "Cosmetics", "Locations"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

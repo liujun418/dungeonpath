@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Beginner Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival", "pressure beginner guide", "pressure entity guide"]
+tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 faq:

@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Beginner Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips", "lethal company beginner guide", "lethal company equipment guide", "lethal company monsters guide"]
+tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 faq:

@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Common Mistakes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Beginner Guide", "Tips", "Horror", "pressure beginner guide", "pressure survival tips"]
+tags: ["Pressure", "Roblox", "Beginner Guide", "Tips", "Horror"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

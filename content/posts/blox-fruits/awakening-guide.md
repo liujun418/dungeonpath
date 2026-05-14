@@ -4,7 +4,7 @@ description: "Complete Blox Fruits awakening guide: how to unlock awakened fruit
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["Blox Fruits", "Roblox", "Awakening", "Raids", "blox fruits awakening", "blox fruits raid guide"]
+tags: ["Blox Fruits", "Roblox", "Awakening", "Raids"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 cover:

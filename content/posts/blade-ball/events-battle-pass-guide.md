@@ -4,7 +4,7 @@ description: "Complete Blade Ball battle pass and events guide covering all 2025
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
-tags: ["Blade Ball", "Roblox", "Battle Pass", "Events Guide", "Limited Items", "blade ball battle pass", "blade ball events", "blade ball abilities"]
+tags: ["Blade Ball", "Roblox", "Battle Pass", "Events Guide", "Limited Items"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 cover:

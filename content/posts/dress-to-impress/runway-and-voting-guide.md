@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress Runway and Voting Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Tips", "dress to impress themes", "dress to impress outfits"]
+tags: ["Dress To Impress", "Roblox", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

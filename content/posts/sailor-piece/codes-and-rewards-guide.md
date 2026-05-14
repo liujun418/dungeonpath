@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Codes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "Codes and Rewards", "Free Items", "Tips", "sailor piece codes", "sailor piece beginner guide"]
+tags: ["Sailor Piece", "Roblox", "Codes and Rewards", "Free Items", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

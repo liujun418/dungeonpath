@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Endless Mode Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Strategy Guide", "pressure survival tips", "pressure floor guide"]
+tags: ["Pressure", "Roblox", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

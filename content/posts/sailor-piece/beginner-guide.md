@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece Beginner Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips", "sailor piece beginner guide", "sailor piece devil fruits"]
+tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 faq:

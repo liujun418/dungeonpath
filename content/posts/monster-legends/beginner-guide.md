@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Beginner Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Beginner Guide", "Tips", "Walkthrough", "monster legends beginner guide", "monster legends breeding guide"]
+tags: ["Monster Legends", "Mobile Games", "Beginner Guide", "Tips", "Walkthrough"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 faq:

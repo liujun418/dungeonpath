@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Entities Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Pressure", "Roblox", "Entities", "Monsters", "Bestiary", "pressure entity guide", "pressure survival tips"]
+tags: ["Pressure", "Roblox", "Entities", "Monsters", "Bestiary"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

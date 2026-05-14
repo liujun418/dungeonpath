@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Enchantments Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "fisch best rods", "fisch fish locations"]
+tags: ["Fisch", "Roblox"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

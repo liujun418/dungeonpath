@@ -4,7 +4,7 @@ description: "Complete Palworld weapon and gear guide: best weapons by tier, arm
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["Palworld", "PC Games", "Weapons", "Armor", "palworld weapon guide", "palworld armor guide", "palworld gear crafting"]
+tags: ["Palworld", "PC Games", "Weapons", "Armor"]
 categories: ["PC Game Guides"]
 games: ["Palworld"]
 cover:

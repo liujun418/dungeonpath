@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Communication & Signals Guide"
 lastmod: 2026-05-12
 draft: false
-tags: ["Lethal Company", "PC Games", "Communication", "Co-op", "Strategy Guide", "lethal company walkie talkie", "lethal company team coordination", "lethal company signals"]
+tags: ["Lethal Company", "PC Games", "Communication", "Co-op", "Strategy Guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

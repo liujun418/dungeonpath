@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Beginner Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons", "rivals beginner guide", "rivals weapon guide"]
+tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 faq:

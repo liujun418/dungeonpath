@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Beginner Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP", "blade ball beginner guide", "blade ball pvp tips", "blade ball abilities"]
+tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 faq:

@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress All Themes List: Every Theme Ranked and Outfit Ideas (May 2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Cosmetics", "dress to impress themes", "dress to impress outfits"]
+tags: ["Dress To Impress", "Roblox", "Cosmetics"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

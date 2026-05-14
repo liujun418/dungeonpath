@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Beginner Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing", "fisch beginner guide", "fisch codes"]
+tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 faq:

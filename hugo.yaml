@@ -40,7 +40,7 @@ params:
   ToggleTheme: true
   ShowReadingTime: true
   ShowWordCount: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true

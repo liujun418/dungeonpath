@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Terminal Commands Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Controls", "Mechanics", "lethal company beginner guide", "lethal company equipment guide", "lethal company moons guide"]
+tags: ["Lethal Company", "PC Games", "Controls", "Mechanics"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

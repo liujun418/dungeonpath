@@ -8,7 +8,7 @@ cover:
   caption: "Blade Ball Game Modes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Blade Ball", "Roblox", "Game Modes", "Strategy Guide", "Competitive", "blade ball game modes", "blade ball competitive"]
+tags: ["Blade Ball", "Roblox", "Game Modes", "Strategy Guide", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 ---

@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Resources & Materials Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Farming Guide", "Survival", "palworld base building", "palworld pal locations", "palworld beginner guide"]
+tags: ["Palworld", "PC Games", "Farming Guide", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

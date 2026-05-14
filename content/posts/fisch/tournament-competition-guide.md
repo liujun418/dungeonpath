@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Tournament & Competition Guide"
 lastmod: 2026-05-12
 draft: false
-tags: ["Fisch", "Roblox", "Tournament", "Competition", "Event Guide", "fisch tournament guide", "fisch competition tips", "fisch event rewards"]
+tags: ["Fisch", "Roblox", "Tournament", "Competition", "Event Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

@@ -8,7 +8,7 @@ cover:
   caption: "Sailor Piece PvP Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Sailor Piece", "Roblox", "PvP", "Combat", "Strategy Guide", "sailor piece pvp guide", "sailor piece haki guide"]
+tags: ["Sailor Piece", "Roblox", "PvP", "Combat", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
 ---

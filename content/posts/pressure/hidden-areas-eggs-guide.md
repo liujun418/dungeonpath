@@ -4,7 +4,7 @@ description: "Pressure hidden areas and Easter eggs guide: secret room locations
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["Pressure", "Roblox", "Secrets", "Easter Eggs", "pressure hidden areas", "pressure secrets guide", "pressure easter eggs"]
+tags: ["Pressure", "Roblox", "Secrets", "Easter Eggs"]
 categories: ["PC Game Guides"]
 games: ["Pressure"]
 cover:

@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Advanced Strategies Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Advanced Guide", "Strategy Guide", "Survival", "lethal company moons guide", "lethal company monsters guide", "lethal company scrap guide"]
+tags: ["Lethal Company", "PC Games", "Advanced Guide", "Strategy Guide", "Survival"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

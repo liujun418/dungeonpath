@@ -8,7 +8,7 @@ cover:
   caption: "DOORS The Outdoors Walkthrough"
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival", "doors walkthrough", "doors entities", "doors items"]
+tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

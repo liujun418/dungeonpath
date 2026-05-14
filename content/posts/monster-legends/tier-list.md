@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Tier List: Best Monsters for PvP, Wars, and Adventure (May 2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Ranking", "monster legends tier list", "monster legends runes guide"]
+tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Ranking"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

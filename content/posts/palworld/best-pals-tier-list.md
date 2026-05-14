@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026) Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Tier List", "Survival", "Ranking", "palworld pal locations", "palworld breeding guide", "palworld boss guide"]
+tags: ["Palworld", "PC Games", "Tier List", "Survival", "Ranking"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

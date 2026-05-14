@@ -8,7 +8,7 @@ cover:
   caption: "Pressure Floors and Locations Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Pressure", "Roblox", "Locations", "Maps", "Walkthrough", "pressure floor guide", "pressure entity guide"]
+tags: ["Pressure", "Roblox", "Locations", "Maps", "Walkthrough"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
 ---

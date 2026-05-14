@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Settings and Optimization Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Settings", "FPS", "rivals movement guide", "rivals pvp tips"]
+tags: ["RIVALS", "Roblox", "Settings", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

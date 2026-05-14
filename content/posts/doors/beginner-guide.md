@@ -8,7 +8,7 @@ cover:
   caption: "DOORS Beginner Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival", "doors beginner guide", "doors codes", "doors walkthrough"]
+tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 faq:

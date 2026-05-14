@@ -8,7 +8,7 @@ cover:
   caption: "DOORS Items and Inventory Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Items Guide", "Survival", "Strategy Guide", "doors items"]
+tags: ["DOORS", "Roblox", "Items Guide", "Survival", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

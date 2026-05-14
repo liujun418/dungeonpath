@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress Codes Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Codes", "Free Items", "dress to impress codes", "dress to impress vip", "dress to impress beginner guide"]
+tags: ["Dress To Impress", "Roblox", "Codes", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

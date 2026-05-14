@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide"
 lastmod: 2026-05-09
 draft: false
-tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide", "fisch best rods", "fisch money farming"]
+tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

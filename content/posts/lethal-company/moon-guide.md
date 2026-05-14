@@ -8,7 +8,7 @@ cover:
   caption: "Lethal Company Moons Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Lethal Company", "PC Games", "Maps", "Co-op", "lethal company moons guide", "lethal company monsters guide", "lethal company scrap guide"]
+tags: ["Lethal Company", "PC Games", "Maps", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---

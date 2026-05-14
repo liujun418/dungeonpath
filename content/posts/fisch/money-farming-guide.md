@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Money Farming Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Money Farming", "Strategy Guide", "fisch money farming", "fisch best rods"]
+tags: ["Fisch", "Roblox", "Money Farming", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

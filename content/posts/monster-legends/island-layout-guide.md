@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Island and Habitat Layout Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Island Layout", "Base Building", "monster legends beginner guide", "monster legends breeding guide"]
+tags: ["Monster Legends", "Mobile Games", "Island Layout", "Base Building"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

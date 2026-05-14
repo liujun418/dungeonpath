@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Base Building Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Base Building", "Survival", "Crafting", "palworld base building", "palworld pal locations", "palworld beginner guide"]
+tags: ["Palworld", "PC Games", "Base Building", "Survival", "Crafting"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

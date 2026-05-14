@@ -8,7 +8,7 @@ cover:
   caption: "Dress To Impress Seashell and Collectibles Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Dress To Impress", "Roblox", "Secrets", "dress to impress themes", "dress to impress outfits"]
+tags: ["Dress To Impress", "Roblox", "Secrets"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 ---

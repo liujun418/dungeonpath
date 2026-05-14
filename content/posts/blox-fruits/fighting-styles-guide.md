@@ -8,7 +8,7 @@ cover:
 lastmod: 2026-05-10
 draft: false
 description: "Complete Blox Fruits fighting styles guide for 2026. Every fighting style ranked with stats, all upgrade trainers located, best style for each build, and the strongest melee combo strings."
-tags: ["Blox Fruits", "Roblox", "Combat", "blox fruits fighting style", "blox fruits haki"]
+tags: ["Blox Fruits", "Roblox", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
 ---

@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Codes and Rewards Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Codes and Rewards", "Free Items", "monster legends codes", "monster legends beginner guide"]
+tags: ["Monster Legends", "Mobile Games", "Codes and Rewards", "Free Items"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

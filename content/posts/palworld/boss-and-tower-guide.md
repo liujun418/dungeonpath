@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Boss & Tower Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "palworld boss guide", "palworld pal locations", "palworld breeding guide"]
+tags: ["Palworld", "PC Games", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

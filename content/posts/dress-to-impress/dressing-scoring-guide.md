@@ -4,7 +4,7 @@ description: "Dress To Impress dressing and scoring guide: theme interpretation 
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["Dress To Impress", "Roblox", "Fashion", "Scoring", "dress to impress scoring", "dress to impress how to win"]
+tags: ["Dress To Impress", "Roblox", "Fashion", "Scoring"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]
 cover:

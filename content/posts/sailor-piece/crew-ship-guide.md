@@ -4,7 +4,7 @@ description: "Complete Sailor Piece crew and ship guide: best crewmate combinati
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["Sailor Piece", "Roblox", "Crew", "Ship", "sailor piece crew guide", "sailor piece ship upgrades", "sailor piece navigation"]
+tags: ["Sailor Piece", "Roblox", "Crew", "Ship"]
 categories: ["PC Game Guides"]
 games: ["Sailor Piece"]
 cover:

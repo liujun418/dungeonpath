@@ -8,7 +8,7 @@ cover:
   caption: "RIVALS Maps Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["RIVALS", "Roblox", "Maps", "Strategy Guide", "FPS", "rivals movement guide", "rivals weapon guide"]
+tags: ["RIVALS", "Roblox", "Maps", "Strategy Guide", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
 ---

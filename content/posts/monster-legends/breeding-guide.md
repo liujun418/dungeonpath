@@ -8,7 +8,7 @@ cover:
   caption: "Monster Legends Breeding Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Monsters", "monster legends breeding guide", "monster legends beginner guide"]
+tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Monsters"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]
 ---

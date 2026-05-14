@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Technology & Progression Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Progression", "Leveling", "palworld beginner guide", "palworld base building", "palworld breeding guide"]
+tags: ["Palworld", "PC Games", "Progression", "Leveling"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---

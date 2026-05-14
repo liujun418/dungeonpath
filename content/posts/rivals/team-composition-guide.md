@@ -4,7 +4,7 @@ description: "Rivals team composition guide: best team lineups for each map, rol
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
-tags: ["RIVALS", "Roblox", "Team Strategy", "Ranked", "rivals team comp", "rivals best lineups", "rivals counter picks"]
+tags: ["RIVALS", "Roblox", "Team Strategy", "Ranked"]
 categories: ["PC Game Guides"]
 games: ["RIVALS"]
 cover:

@@ -8,7 +8,7 @@ cover:
   caption: "DOORS Speedrun Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["DOORS", "Roblox", "Speedrun", "Strategy Guide", "Horror", "doors walkthrough", "doors entities"]
+tags: ["DOORS", "Roblox", "Speedrun", "Strategy Guide", "Horror"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 ---

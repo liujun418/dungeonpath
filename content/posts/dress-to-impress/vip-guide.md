@@ -8,7 +8,7 @@ cover:
 lastmod: 2026-05-10
 draft: false
 description: "Complete DTI VIP guide for 2026. Compare VIP vs Free Play perks, see every Custom Makeup feature, exclusive VIP-only items, and determine if the Roblox VIP pass is worth buying."
-tags: ["Dress To Impress", "Roblox", "dress to impress vip", "dress to impress outfits", "dress to impress themes"]
+tags: ["Dress To Impress", "Roblox"]
 category: "Roblox Guides"
 ---
 

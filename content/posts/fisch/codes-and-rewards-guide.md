@@ -8,7 +8,7 @@ cover:
   caption: "Fisch Codes and Rewards Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Fisch", "Roblox", "Codes and Rewards", "Free Items", "fisch codes", "fisch beginner guide"]
+tags: ["Fisch", "Roblox", "Codes and Rewards", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
 ---

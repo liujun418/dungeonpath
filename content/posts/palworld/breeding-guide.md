@@ -8,7 +8,7 @@ cover:
   caption: "Palworld Breeding Guide"
 lastmod: 2026-05-10
 draft: false
-tags: ["Palworld", "PC Games", "Survival", "Tips", "palworld breeding guide", "palworld base building", "palworld boss guide"]
+tags: ["Palworld", "PC Games", "Survival", "Tips"]
 categories: ["PC Games"]
 games: ["Palworld"]
 ---
