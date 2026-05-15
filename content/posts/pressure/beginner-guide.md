@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/pressure-beginner/cover.webp"
   alt: "Pressure Beginner Guide Cover"
   caption: "Pressure Beginner Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 draft: false
 tags: ["Pressure", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
@@ -279,6 +279,7 @@ Ready for more Pressure content? Check out our other guides:
 - **[Pressure Entities Guide](/posts/pressure/entities-guide/)** — Complete bestiary of every monster and how to survive
 - **[Pressure Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/)** — Room types, floor layouts, and zone strategies
 - **[Pressure Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)** — Every item, keycard, and puzzle solution
+- **[Pressure Badges & Achievements Guide](/posts/pressure/badges-achievements-guide/)** — Unlock all 50+ badges across every category
 - **[Pressure Multiplayer Guide](/posts/pressure/multiplayer-guide/)** — Co-op strategies, team roles, and communication
 - **[Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)** — Advanced strategies for reaching Room 100
 

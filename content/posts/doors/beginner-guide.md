@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/doors-beginner/cover.webp"
   alt: "DOORS Beginner Guide Cover"
   caption: "DOORS Beginner Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 draft: false
 tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
@@ -510,6 +510,7 @@ Ready for more DOORS content? Check out our other guides:
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Another Roblox horror game with unique entities
 - **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Fast-paced PvP shooter
 - **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Popular Roblox fishing game
+- **[DOORS Game Modes Guide](/posts/doors/game-modes-guide/)** — Master Daily Runs, Chaos Mode, Rush Mode & Endless Mode
 - **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
 
 ---

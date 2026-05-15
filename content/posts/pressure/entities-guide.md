@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/pressure-entities/cover.webp"
   alt: "Pressure Entities Guide (May 2026): Every Monster and How to Survive"
   caption: "Pressure Entities Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 draft: false
 tags: ["Pressure", "Roblox", "Entities", "Monsters", "Bestiary"]
 categories: ["Roblox Guides"]
@@ -411,6 +411,7 @@ A: Entity spawn rates and types can vary in multiplayer. Some encounters become 
 Ready for more Pressure content? Check out our other guides:
 
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Complete walkthrough for new players
+- **[Pressure Badges & Achievements Guide](/posts/pressure/badges-achievements-guide/)** — Unlock all entity survival badges and more
 - **[Pressure Common Mistakes Guide](/posts/pressure/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[Pressure Codes and Secrets Guide](/posts/pressure/codes-and-secrets-guide/)** — Active codes, easter eggs, and hidden content
 - **[Pressure Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/)** — Room types, floor layouts, and zone strategies

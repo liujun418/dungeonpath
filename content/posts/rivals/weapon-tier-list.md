@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/rivals-beginner/cover.webp"
   alt: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked Guide Cover"
   caption: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 draft: false
 tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadout Guide"]
 categories: ["Roblox Guides"]
@@ -214,6 +214,7 @@ Blocks corridors and forces enemies to reposition. Essential on small maps where
 | Weapon | Effect | Charges | Lifetime | Price | How to Get |
 |--------|--------|---------|----------|-------|------------|
 | **Grenade** | Reliable explosive area damage | — | — | Free | Starter weapon |
+| **Grapple** | Pull to surfaces / pull enemies toward you | ~3s cooldown | — | Season 3 Pass | Season 3 (Fame) Pass |
 | **Jump Pad** | Movement utility (vertical plays) | 3 charges | 90s | 9 Jump Shards | Shop |
 | **Satchel** | Explosive charge with delayed detonation | — | — | — | Shop |
 | **Smoke Grenade** | Vision blocking for escapes | — | — | — | Shop |
@@ -393,6 +394,7 @@ Want more RIVALS content? Check out our other guides:
 - **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
 - **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
+- **[RIVALS Season 3 Guide](/posts/rivals/season-3-weapons-maps-guide/)** — Master the Grapple, Spear, and new Diorama maps
 - **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
 - **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
 - **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics

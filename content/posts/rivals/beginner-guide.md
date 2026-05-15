@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/rivals-beginner/cover.webp"
   alt: "RIVALS Beginner Guide Cover"
   caption: "RIVALS Beginner Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 draft: false
 tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons"]
 categories: ["Roblox Guides"]
@@ -22,7 +22,7 @@ faq:
     answer: "Yes, RIVALS releases codes for free coins, weapon skins, and other rewards. Check our RIVALS Codes and Rewards Guide for the latest active codes."
 ---
 
-> *Last updated: May 9, 2026. Covers RIVALS as of Season 12, including the current weapon meta, all game modes, and the latest ranked system changes.*
+> *Last updated: May 15, 2026. Covers RIVALS as of Season 3 (The Fame Season), including the Grapple and Spear weapons, three new Diorama maps, and the latest ranked system changes.*
 
 ## What Is RIVALS?
 
@@ -511,7 +511,8 @@ Ready to put these skills into practice? Check out our other RIVALS guides:
 4. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
 5. **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — All game modes explained, ranked climbing tips
 6. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
-7. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
+7. **[RIVALS Season 3 Guide](/posts/rivals/season-3-weapons-maps-guide/)** — Master the Grapple, Spear, and new Diorama maps
+8. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 
 Also check out our other Roblox game guides:
 - **[Browse all guides](/posts/)** — See our full collection of Roblox game guides
