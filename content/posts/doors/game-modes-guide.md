@@ -11,6 +11,7 @@ draft: false
 tags: ["DOORS", "Roblox", "Game Modes", "Daily Runs", "Chaos Mode", "Endless Mode", "Horror"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
+comments: true
 ---
 
 > *Last updated: May 15, 2026. Covers all DOORS alternate game modes (Visions) released in 2026 — Daily Runs, Chaos Mode, Rush Mode, Endless Mode — plus Battle Mode. Includes unlock requirements, scoring systems, reward structures, and strategy breakdowns for each mode.*
