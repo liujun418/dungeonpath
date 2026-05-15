@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers every boss encounter in Palworld including tower bosses, alpha bosses, dungeon bosses, and the four legendary Pals. Each entry includes stats, strategies, recommended levels, and rewards.*
+> *Last updated: May 10, 2026. This guide covers every boss encounter in Palworld including tower bosses, alpha bosses, dungeon bosses, and the four legendary Pals. Each entry includes stats, strategies, recommended levels, and rewards.* See also: [Best Pals Tier List](/posts/palworld/best-pals-tier-list/), [Raid Bosses Guide](/posts/palworld/raid-bosses-guide/).
 
 ## Types of Bosses in Palworld
 

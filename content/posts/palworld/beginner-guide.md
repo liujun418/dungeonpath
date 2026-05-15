@@ -24,7 +24,7 @@ faq:
     answer: "Complete the Palpagos Atlas missions, catch new Pals for bonus XP, defeat Alpha Pals for large XP rewards, and explore the world rather than staying at your base."
 ---
 
-> *Last updated: May 10, 2026. This guide covers everything a new player needs to know about Palworld, from your first spawn to building an automated base with a team of loyal Pals.*
+> *Last updated: May 10, 2026. This guide covers everything a new player needs to know about Palworld, from your first spawn to building an automated base with a team of loyal Pals.* See also: [Base Building Guide](/posts/palworld/base-building-guide/), [Technology & Progression Guide](/posts/palworld/technology-and-progression-guide/).
 
 ## What Is Palworld?
 

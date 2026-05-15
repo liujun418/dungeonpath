@@ -57,6 +57,8 @@
   </div>
   {{- end }}
 
+  {{- partial "extend_post_content.html" . }}
+
   {{/* Ad: bottom of article */}}
   {{- if hugo.IsProduction }}
   <div class="ad-container ad-bottom">
@@ -70,8 +72,6 @@
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
   {{- end }}
-
-  {{- partial "extend_post_content.html" . }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -96,5 +96,7 @@
 {{- partial "article-schema.html" . }}
 
 {{- partial "faq-schema.html" . }}
+
+{{- partial "howto-schema.html" . }}
 
 {{- end }}{{/* end main */}}

@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers the complete technology tree in Palworld, optimal unlock order, Ancient Technology priorities, Statue of Power upgrades, and a full level-by-level progression roadmap from spawn to level 50.*
+> *Last updated: May 10, 2026. This guide covers the complete technology tree in Palworld, optimal unlock order, Ancient Technology priorities, Statue of Power upgrades, and a full level-by-level progression roadmap from spawn to level 50.* See also: [Beginner Guide](/posts/palworld/beginner-guide/), [Base Building Guide](/posts/palworld/base-building-guide/).
 
 ## How the Technology Tree Works
 

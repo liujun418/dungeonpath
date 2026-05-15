@@ -1,0 +1,36 @@
+{{- /* HowTo Schema: generates structured data for articles with howto frontmatter */}}
+{{- if .Params.howto }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": {{ .Title }},
+  "description": {{ .Description }},
+  {{- with .Params.howto.steps }}
+  "step": [
+    {{- range $i, $step := . }}
+    {
+      "@type": "HowToStep",
+      "position": {{ add $i 1 }},
+      "name": {{ $step.name }},
+      "text": {{ $step.text }}
+      {{- if $step.image }},
+      "image": {{ $step.image | absURL }}
+      {{- end }}
+    }{{- if ne (add $i 1) (len $) }},{{ end }}
+    {{- end }}
+  ]
+  {{- end }}
+  {{- with .Params.howto.tools }}
+  ,"tool": [
+    {{- range $i, $tool := . }}
+    {
+      "@type": "HowToTool",
+      "name": {{ $tool }}
+    }{{- if ne (add $i 1) (len $) }},{{ end }}
+    {{- end }}
+  ]
+  {{- end }}
+}
+</script>
+{{- end }}

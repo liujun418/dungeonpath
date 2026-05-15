@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This tier list evaluates every major Pal across combat effectiveness, mount utility, and base work efficiency. Rankings are based on the current game meta including all updates through 2026.*
+> *Last updated: May 10, 2026. This tier list evaluates every major Pal across combat effectiveness, mount utility, and base work efficiency. Rankings are based on the current game meta including all updates through 2026.* See also: [Breeding Guide](/posts/palworld/breeding-guide/), [Boss & Tower Guide](/posts/palworld/boss-and-tower-guide/).
 
 ## How Tiers Are Determined
 

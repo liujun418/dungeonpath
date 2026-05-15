@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers everything about breeding in Palworld -- how to set up a breeding farm, which combinations produce which Pals, how passive skills are inherited, and the best breeding chains for top-tier Pals.*
+> *Last updated: May 10, 2026. This guide covers everything about breeding in Palworld -- how to set up a breeding farm, which combinations produce which Pals, how passive skills are inherited, and the best breeding chains for top-tier Pals.* See also: [Breeding Combinations Guide](/posts/palworld/breeding-combinations-guide/), [Base Building Guide](/posts/palworld/base-building-guide/).
 
 ## How Breeding Works in Palworld
 

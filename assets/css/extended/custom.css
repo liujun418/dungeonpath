@@ -408,6 +408,11 @@ details.toc a:hover {
   color: var(--secondary) !important;
 }
 
+.post-lastmod {
+  color: var(--neon-cyan) !important;
+  font-weight: 500;
+}
+
 .post-meta a {
   color: var(--neon-purple) !important;
 }
@@ -1141,7 +1146,63 @@ details.toc a:hover {
   border-top: 1px solid rgba(139, 92, 246, 0.1);
 }
 
-/* ---- Cookie Consent Banner ---- */
+/* ============================================================
+   Reading Progress Bar
+   ============================================================ */
+
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: var(--gradient-brand);
+  z-index: 10000;
+  transition: width 0.1s linear;
+}
+
+/* ---- Stay Connected / Social Buttons ---- */
+
+.stay-connected {
+  max-width: var(--main-width);
+  margin: 2rem auto 0;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border: 1px solid var(--border);
+  color: var(--primary);
+  background: var(--entry);
+}
+
+.social-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--card-glow-hover);
+}
+
+.twitter-btn:hover {
+  border-color: #1d9bf0;
+  color: #1d9bf0;
+}
+
+.rss-btn:hover {
+  border-color: #f97316;
+  color: #f97316;
+}
+
+.guides-btn:hover {
+  border-color: var(--neon-purple);
+  color: var(--neon-purple);
+}
+
 .cookie-consent {
   position: fixed;
   bottom: 0;

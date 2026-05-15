@@ -1,4 +1,4 @@
-{{- /* Override theme: only Organization on homepage. Article + BreadcrumbList handled by custom partials. */}}
+{{- /* Override theme: Organization + WebSite on homepage. Article + BreadcrumbList handled by custom partials. */}}
 {{- if .IsHome }}
 <script type="application/ld+json">
 {
@@ -8,7 +8,24 @@
   "url": {{ site.Home.Permalink }},
   "description": {{ site.Params.description | plainify | truncate 180 }},
   "logo": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
-  "sameAs": []
+  "sameAs": ["https://twitter.com/DungeonPath"]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title }},
+  "url": {{ site.Home.Permalink }},
+  "description": {{ site.Params.description | plainify | truncate 180 }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.Home.Permalink }}search/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
 }
 </script>
 {{- end }}

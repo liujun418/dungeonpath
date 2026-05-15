@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers everything about base building in Palworld -- from choosing the perfect location to designing fully automated production lines with optimized Pal assignments.*
+> *Last updated: May 10, 2026. This guide covers everything about base building in Palworld -- from choosing the perfect location to designing fully automated production lines with optimized Pal assignments.* See also: [Palworld Beginner Guide](/posts/palworld/beginner-guide/), [Best Pals Tier List](/posts/palworld/best-pals-tier-list/).
 
 ## Base Building Fundamentals
 

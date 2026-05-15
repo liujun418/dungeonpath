@@ -13,7 +13,7 @@ categories: ["PC Games"]
 games: ["Palworld"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers every resource type in Palworld, where to find it, how to farm it efficiently, and which Pals are best for gathering each material.*
+> *Last updated: May 10, 2026. This guide covers every resource type in Palworld, where to find it, how to farm it efficiently, and which Pals are best for gathering each material.* See also: [Base Building Guide](/posts/palworld/base-building-guide/), [Pal Locations Guide](/posts/palworld/pal-locations-guide/).
 
 ## Resource Categories
 
