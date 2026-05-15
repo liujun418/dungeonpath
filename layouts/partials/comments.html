@@ -1,0 +1,29 @@
+{{- /* Giscus comments — GitHub Discussions-powered, free, no ads, dark mode support */}}
+{{- if hugo.IsProduction }}
+<div class="giscus-wrapper" style="max-width:var(--main-width);margin:3rem auto 1rem;">
+  <hr class="related-divider">
+  <h2 class="related-title">💬 Comments & Discussion</h2>
+  <script src="https://giscus.app/client.js"
+    data-repo="liujun418/dungeonpath"
+    data-repo-id="R_kgDOOUGYiQ"
+    data-category="General"
+    data-category-id="DIC_kwDOOUGYic4CpKQY"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+  <noscript>
+    <p style="color:var(--secondary);text-align:center;padding:2rem;">
+      Comments are powered by <a href="https://giscus.app" target="_blank" rel="noopener">Giscus</a>.
+      Please enable JavaScript to participate in the discussion.
+    </p>
+  </noscript>
+</div>
+{{- end }}

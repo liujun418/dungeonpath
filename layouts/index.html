@@ -8,8 +8,12 @@
 {{/* ---- Hero Carousel ---- */}}
 {{- partial "featured-carousel.html" . }}
 
-{{/* ---- Featured Guides (Hot Guides) ---- */}}
-{{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 6 }}
+{{/* ---- Featured Guides (hand-picked best content across all games) ---- */}}
+{{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
+{{- $featured := where $allPosts "Params.tags" "intersect" (slice "Beginner Guide" "Tier List" "Best") | first 6 }}
+{{- if lt (len $featured) 6 }}
+{{- $featured = $allPosts | first 6 }}
+{{- end }}
 <section class="home-section home-featured">
     <h2 class="section-title">🔥 Featured Guides</h2>
     <div class="featured-grid">
@@ -29,8 +33,8 @@
     </div>
 </section>
 
-{{/* ---- Latest Updates ---- */}}
-{{- $latest := where site.RegularPages "Type" "in" (slice "posts") | first 4 }}
+{{/* ---- Latest Updates (recently modified articles, excluding featured above) ---- */}}
+{{- $latest := $allPosts | complement $featured | first 5 }}
 <section class="home-section home-latest">
     <h2 class="section-title">📝 Latest Updates</h2>
     <div class="latest-list">
