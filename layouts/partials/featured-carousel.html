@@ -1,27 +1,26 @@
-{{- /* Featured Carousel — 3 rotating cover images */}}
-{{- $featured := slice
-  (dict "path" "/posts/blox-fruits/beginner-guide/" "title" "Blox Fruits Beginner Guide")
-  (dict "path" "/posts/palworld/beginner-guide/" "title" "Palworld Beginner Guide")
-  (dict "path" "/posts/fisch/beginner-guide/" "title" "Fisch Beginner Guide")
-}}
+{{- /* Featured Carousel — 3 most recent articles with covers */}}
+{{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 3 }}
 
 <section class="hero-carousel" aria-label="Featured guides">
   <div class="carousel-track">
-    {{- range $index, $item := $featured }}
-    {{- with site.GetPage $item.path }}
+    {{- range $index, $page := $featured }}
     <div class="carousel-slide" style="animation-delay: {{ mul $index 4 }}s">
-      <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
-        {{- $cover := .Params.cover.image | default "" }}
+      <a href="{{ $page.RelPermalink }}" target="_blank" rel="noopener">
+        {{- $cover := $page.Params.cover.image | default "" }}
         {{- if $cover }}
-        <img src="{{ $cover }}" alt="{{ .Params.cover.alt | default .Title }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+        <img src="{{ $cover }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
         {{- end }}
         <div class="carousel-caption">
-          <span class="carousel-label">Featured Guide</span>
-          <h3>{{ .Title }}</h3>
+          {{- $game := index $page.Params.games 0 }}
+          <span class="carousel-label">{{ $game | default "New Guide" }}</span>
+          <h3>{{ $page.Title }}</h3>
         </div>
       </a>
     </div>
-    {{- end }}
+    {{- else }}
+    <div class="carousel-slide" style="display:flex;align-items:center;justify-content:center;background:var(--entry);color:var(--secondary)">
+      <p>No featured guides yet — check back soon.</p>
+    </div>
     {{- end }}
   </div>
 </section>
