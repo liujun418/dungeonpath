@@ -1,14 +1,39 @@
-{{- /* Featured Carousel — 3 most recent articles with covers */}}
+{{- /* Featured Carousel — 3 most recent articles with responsive covers */}}
 {{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 3 }}
 
 <section class="hero-carousel" aria-label="Featured guides">
   <div class="carousel-track">
     {{- range $index, $page := $featured }}
     <div class="carousel-slide" style="animation-delay: {{ mul $index 4 }}s">
-      <a href="{{ $page.RelPermalink }}" target="_blank" rel="noopener">
-        {{- $cover := $page.Params.cover.image | default "" }}
-        {{- if $cover }}
-        <img src="{{ $cover }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+      <a href="{{ $page.RelPermalink }}">
+        {{- $coverPath := $page.Params.cover.image | default "" }}
+        {{- if $coverPath }}
+          {{- $coverDir := strings.TrimPrefix "/" (path.Dir $coverPath) }}
+          {{- $coverResourcePath := printf "%s/cover.png" $coverDir }}
+          {{- $cover := resources.Get $coverResourcePath }}
+          {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+          {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") }}
+          {{- if hugo.IsExtended }}
+            {{- $processableFormats = $processableFormats | append "webp" }}
+          {{- end }}
+          {{- if (and $cover (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
+            {{- $sizes := (slice "360" "480" "720" "1080") }}
+            <img loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                 srcset='{{- range $size := $sizes -}}
+                            {{- if (ge $cover.Width $size) }}
+                                {{- printf "%s %s" (($cover.Resize (printf "%sx webp" $size)).Permalink) (printf "%sw," $size) }}
+                            {{- end }}
+                        {{- end }}
+                        {{- printf "%s %dw" ($cover.Permalink) ($cover.Width) }}'
+                 src="{{ ($cover.Resize "720x webp").Permalink }}"
+                 sizes="(max-width: 600px) 100vw, 720px"
+                 width="{{ $cover.Width }}" height="{{ $cover.Height }}"
+                 alt="{{ $page.Params.cover.alt | default $page.Title }}">
+          {{- else }}
+            <img loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                 src="{{ $coverPath }}"
+                 alt="{{ $page.Params.cover.alt | default $page.Title }}">
+          {{- end }}
         {{- end }}
         <div class="carousel-caption">
           {{- $game := index $page.Params.games 0 }}

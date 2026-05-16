@@ -650,12 +650,109 @@ details.toc a:hover {
   margin-bottom: 0.25rem;
 }
 
-/* Mobile: scale down title */
+/* ============================================================
+   Mobile Responsive Fixes
+   ============================================================ */
+
+/* --- P0: Table overflow wrapper --- */
+@media (max-width: 768px) {
+  .post-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+}
+
+/* --- P0: Content images max-width constraint --- */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* --- P1: Title sizes on mobile --- */
 @media (max-width: 600px) {
+  .post-title {
+    font-size: 26px !important;
+  }
+
+  .md-content h1 {
+    font-size: 26px !important;
+  }
+
+  .md-content h2 {
+    font-size: 22px !important;
+  }
+
+  .md-content h3 {
+    font-size: 19px !important;
+  }
+
+  .md-content h4 {
+    font-size: 15px !important;
+  }
+
+  .page-header h1 {
+    font-size: 26px !important;
+  }
+
   .neon-title {
     font-size: 28px !important;
     letter-spacing: 1px !important;
   }
+
+  /* --- P1: DL stacked layout on mobile --- */
+  .md-content dt,
+  .md-content dd {
+    width: 100% !important;
+    padding-inline-start: 0 !important;
+  }
+
+  .md-content dt {
+    margin-top: 0.5rem;
+  }
+
+  /* --- P2: Carousel caption font size --- */
+  .carousel-caption h3 {
+    font-size: 1rem;
+  }
+
+  .carousel-caption {
+    padding: 1.25rem 1rem 1rem;
+  }
+
+  /* --- P2: Giscus iframe responsive --- */
+  .giscus-wrapper {
+    padding: 0 var(--gap);
+  }
+
+  .giscus-wrapper iframe {
+    max-width: 100% !important;
+  }
+}
+
+/* --- P2: Nav scroll hint --- */
+@media (max-width: 768px) {
+  .menu {
+    mask-image: linear-gradient(to right, black calc(100% - 32px), transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, black calc(100% - 32px), transparent 100%);
+    padding-right: 20px;
+  }
+}
+
+/* --- P3: Touch targets WCAG 44x44 minimum --- */
+.header-search-btn {
+  width: 44px;
+  height: 44px;
+  margin-right: 0;
+}
+
+.theme-toggle {
+  min-width: 44px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* ===== Hero Carousel ===== */
