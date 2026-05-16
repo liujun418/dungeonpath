@@ -31,20 +31,6 @@
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
 
-  {{/* Ad: top of article */}}
-  {{- if hugo.IsProduction }}
-  <div class="ad-container ad-top">
-    <span class="ad-label">Advertisement</span>
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-9954245854077897"
-         data-ad-slot="2414965838"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  </div>
-  {{- end }}
-
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
