@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-codes-and-rewards-guide/cover.webp"
   alt: "Fisch Codes and Rewards Guide Cover"
   caption: "Fisch Codes and Rewards Guide"
-lastmod: 2026-05-10
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Codes and Rewards", "Free Items"]
 categories: ["Roblox Guides"]
@@ -317,8 +317,9 @@ Now that you've redeemed all active codes, check out our other Fisch guides to m
 
 1. **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for new players, from your first cast to rare fish
 2. **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
-3. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every fishing rod ranked and rated
-4. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish in the game
+3. **[Fisch Venue Takeover Guide](/posts/fisch/venue-takeover-guide/)** — All 8 developer rods and VenueTakeover code
+4. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every fishing rod ranked and rated
+5. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish in the game
 5. **[Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/)** — All quests, NPC locations, and rewards
 6. **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies, weather manipulation, and rare fish hunting
 

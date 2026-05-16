@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/ps99-trading/cover.webp"
   alt: "Pet Simulator 99 Trading Values Guide Cover"
   caption: "Pet Simulator 99 Trading Values Guide"
-lastmod: 2026-05-13
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Trading", "Values", "ps99 trading guide", "ps99 values", "ps99 scam prevention"]
 categories: ["Roblox Guides"]

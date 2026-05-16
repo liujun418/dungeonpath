@@ -17,7 +17,7 @@
       {{- if $step.image }},
       "image": {{ $step.image | absURL }}
       {{- end }}
-    }{{- if ne (add $i 1) (len $) }},{{ end }}
+    }{{- if ne (add $i 1) (len $.Params.howto.steps) }},{{ end }}
     {{- end }}
   ]
   {{- end }}
@@ -27,7 +27,7 @@
     {
       "@type": "HowToTool",
       "name": {{ $tool }}
-    }{{- if ne (add $i 1) (len $) }},{{ end }}
+    }{{- if ne (add $i 1) (len $.Params.howto.tools) }},{{ end }}
     {{- end }}
   ]
   {{- end }}

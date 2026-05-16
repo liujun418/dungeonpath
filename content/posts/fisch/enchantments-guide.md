@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-enchantments-guide/cover.webp"
   alt: "Fisch Enchantments Guide Cover"
   caption: "Fisch Enchantments Guide"
-lastmod: 2026-05-10
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox"]
 categories: ["Roblox Guides"]

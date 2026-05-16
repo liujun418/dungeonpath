@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-beginner/cover.webp"
   alt: "Fisch Beginner Guide — Roblox Fishing Game Cover"
   caption: "Fisch Beginner Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing"]
 categories: ["Roblox Guides"]

@@ -2,7 +2,7 @@
 title: "Fisch Weather & Seasons Guide: All Weather Effects, Time Cycles & Totems (2026)"
 description: "Complete Fisch guide to weather conditions, seasons, day/night cycle, server events, and how to use totems to control weather for maximum fishing luck and rare catches."
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Weather Guide", "Seasons", "Totems"]
 categories: ["Roblox Guides"]

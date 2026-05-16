@@ -2,7 +2,7 @@
 title: "Pet Simulator 99 Enchantments Guide: Best Enchants, Builds & Upgrade Path (2026)"
 description: "Complete Pet Simulator 99 enchantments guide covering all standard and special enchants, best loadouts for diamond farming, damage, and hatching, plus the full upgrade path from Basic to Superior."
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Enchantments", "Upgrades Guide", "Diamond Farming", "ps99 enchants", "ps99 best loadout", "ps99 diamond farm"]
 categories: ["Roblox Guides"]

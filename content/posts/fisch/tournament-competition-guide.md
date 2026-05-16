@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-tournament/cover.webp"
   alt: "Fisch Tournament & Competition Guide Cover"
   caption: "Fisch Tournament & Competition Guide"
-lastmod: 2026-05-12
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Tournament", "Competition", "Event Guide"]
 categories: ["Roblox Guides"]

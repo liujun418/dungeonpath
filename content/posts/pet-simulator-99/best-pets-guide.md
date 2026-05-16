@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/ps99-best-pets/cover.webp"
   alt: "Pet Simulator 99 Best Pets Guide Cover"
   caption: "Pet Simulator 99 Best Pets Guide"
-lastmod: 2026-05-13
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Tier List", "Best Pets", "ps99 best pets", "ps99 tier list", "ps99 huge pets"]
 categories: ["Roblox Guides"]

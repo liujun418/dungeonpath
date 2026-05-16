@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-quests-and-npcs-guide/cover.webp"
   alt: "Fisch Quests and NPCs Guide Cover"
   caption: "Fisch Quests and NPCs Guide"
-lastmod: 2026-05-10
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Walkthrough"]
 categories: ["Roblox Guides"]
@@ -527,9 +527,10 @@ While there isn't a formal "all quests completed" achievement, completing all av
 Ready to tackle Fisch's quest system? Use these guides to complement your adventure:
 
 1. **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for new players
-2. **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
-3. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every rod ranked with stats
-4. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish
+2. **[Fisch Venue Takeover Guide](/posts/fisch/venue-takeover-guide/)** — All 8 limited developer rods and NPC questlines
+3. **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
+4. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — Every rod ranked with stats
+5. **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish
 5. **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Active codes for free rewards
 6. **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies, weather manipulation, and rare fish hunting
 

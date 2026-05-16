@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-fish-location-map/cover.webp"
   alt: "Fisch Fish Location Map (May 2026): Where to Find Every Fish Guide Cover"
   caption: "Fisch Fish Location Map (May 2026): Where to Find Every Fish Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Locations", "Maps", "Bestiary"]
 categories: ["Roblox Guides"]

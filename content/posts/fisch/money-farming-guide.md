@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-money-farming-guide/cover.webp"
   alt: "Fisch Money Farming Guide Cover"
   caption: "Fisch Money Farming Guide"
-lastmod: 2026-05-10
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Money Farming", "Strategy Guide"]
 categories: ["Roblox Guides"]

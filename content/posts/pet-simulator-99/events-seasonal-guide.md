@@ -2,7 +2,7 @@
 title: "Pet Simulator 99 Events Guide: Seasonal Updates, Limited Pets & Rewards (2026)"
 description: "Complete guide to Pet Simulator 99 seasonal events including Christmas 2025, Spring Machine, Elf on a Shelf locations, limited pets, and how to maximize event rewards."
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Events Guide", "Limited Pets", "Seasonal Updates", "ps99 events", "ps99 christmas event", "ps99 elf on a shelf"]
 categories: ["Roblox Guides"]
@@ -179,6 +179,7 @@ The best strategy for most players: **accumulate mid-event when prices dip, hold
 
 ## Related Guides
 
+- [Pet Simulator 99 Fantasy World Guide](/posts/pet-simulator-99/fantasy-world-guide/) — Current event: Combine-O-Matic, Time Trials & Titanic pets
 - [Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/) — Start here if you're new
 - [Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets to target during events
 - [Pet Simulator 99 Gems & Coins Guide](/posts/pet-simulator-99/gems-coins-guide/) — Currency farming for event eggs

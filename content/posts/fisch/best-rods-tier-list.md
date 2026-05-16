@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/fisch-best-rods-tier-list/cover.webp"
   alt: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide Cover"
   caption: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide"
-lastmod: 2026-05-09
+lastmod: 2026-05-16
 draft: false
 tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide"]
 categories: ["Roblox Guides"]
@@ -272,6 +272,7 @@ Ready to plan your fishing route? Check out our other guides:
 - **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
 - **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Active codes for free rewards
 - **[Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/)** — All quests, NPC locations, and rewards
+- **[Fisch Venue Takeover Guide](/posts/fisch/venue-takeover-guide/)** — All 8 limited developer rods from the May 2026 event
 - **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies and rare fish hunting
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Our guide to a different Roblox experience
 

@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/ps99-huge-titanic/cover.webp"
   alt: "Pet Simulator 99 Huge and Titanic Pets Guide Cover"
   caption: "Pet Simulator 99 Huge and Titanic Pets Guide"
-lastmod: 2026-05-13
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Huge Pets", "Titanic Pets", "Gargantuan", "ps99 huge pets guide", "ps99 titanic pets", "ps99 gargantuan"]
 categories: ["Roblox Guides"]
@@ -186,10 +186,11 @@ A system that changes every 2 days, giving boosted hatch rates for specific Huge
 
 ## Next Steps
 
-1. **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
-2. **[Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)** — How to read prices and avoid scams
-3. **[Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)** — Every pet ranked by tier
-4. **[Pet Simulator 99 Gems and Coins Guide](/posts/pet-simulator-99/gems-coins-guide/)** — Best strategies for earning currency fast
+1. **[Pet Simulator 99 Fantasy World Guide](/posts/pet-simulator-99/fantasy-world-guide/)** — Combine-O-Matic, Time Trials, and Titanic rewards
+2. **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
+3. **[Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)** — How to read prices and avoid scams
+4. **[Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)** — Every pet ranked by tier
+5. **[Pet Simulator 99 Gems and Coins Guide](/posts/pet-simulator-99/gems-coins-guide/)** — Best strategies for earning currency fast
 5. **[Browse all guides](/posts/)** — Visit our Guides page for the latest walkthroughs
 
 ---

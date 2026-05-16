@@ -2,7 +2,7 @@
 title: "Pet Simulator 99 Mastery & Quests Guide: Max Rank, Capes & Daily Rewards (2026)"
 description: "Complete guide to Pet Simulator 99 mastery system, all 15 mastery capes, rank quests, the Master Skill Cape, and the fastest methods to reach max rank and level 99 in every mastery category."
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Mastery Guide", "Rank Quests", "Daily Rewards", "ps99 mastery", "ps99 max rank", "ps99 capes"]
 categories: ["Roblox Guides"]

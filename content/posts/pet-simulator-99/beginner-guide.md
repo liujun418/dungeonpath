@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/ps99-beginner/cover.webp"
   alt: "Pet Simulator 99 Beginner Guide — Roblox Pet Collection Game Cover"
   caption: "Pet Simulator 99 Beginner Guide"
-lastmod: 2026-05-13
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Beginner Guide", "Walkthrough", "Pet Collection", "ps99 beginner guide", "ps99 codes", "ps99 pets"]
 categories: ["Roblox Guides"]

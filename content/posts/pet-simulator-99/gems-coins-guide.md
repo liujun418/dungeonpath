@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/ps99-gems-coins/cover.webp"
   alt: "Pet Simulator 99 Gems and Coins Farming Guide Cover"
   caption: "Pet Simulator 99 Gems and Coins Guide"
-lastmod: 2026-05-13
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Currency", "Farming", "Gems", "Coins", "ps99 gems guide", "ps99 coins guide", "ps99 farming"]
 categories: ["Roblox Guides"]
@@ -166,10 +166,11 @@ Equip pets with optimal farming enchants, go to your highest cleared area, and l
 
 ## Next Steps
 
-1. **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
-2. **[Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)** — How to read prices and avoid scams
-3. **[Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)** — Every pet ranked by tier
-4. **[Pet Simulator 99 Huge and Titanic Pets Guide](/posts/pet-simulator-99/huge-titanic-guide/)** — Complete guide to the rarest pets
+1. **[Pet Simulator 99 Fantasy World Guide](/posts/pet-simulator-99/fantasy-world-guide/)** — Combine-O-Matic, Time Trials & Titanic rewards
+2. **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
+3. **[Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)** — How to read prices and avoid scams
+4. **[Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)** — Every pet ranked by tier
+5. **[Pet Simulator 99 Huge and Titanic Pets Guide](/posts/pet-simulator-99/huge-titanic-guide/)** — Complete guide to the rarest pets
 5. **[Browse all guides](/posts/)** — Visit our Guides page for the latest walkthroughs
 
 ---

@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/pet-simulator-99-clan-battles/cover.webp"
   alt: "Pet Simulator 99 Clan Battles Guide: How to Win & Earn Titanic Pets (2026)"
   caption: "Pet Simulator 99 Clan Battles Guide"
-lastmod: 2026-05-15
+lastmod: 2026-05-16
 draft: false
 tags: ["Pet Simulator 99", "Roblox", "Clan Battles", "Titanic Pets", "Multiplayer", "Competitive"]
 categories: ["Roblox Guides"]
