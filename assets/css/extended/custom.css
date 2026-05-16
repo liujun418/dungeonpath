@@ -701,6 +701,17 @@ details.toc a:hover {
     letter-spacing: 1px !important;
   }
 
+  /* Profile buttons: allow wrap on mobile */
+  .neon-buttons {
+    flex-wrap: wrap !important;
+    gap: 0.6rem !important;
+  }
+
+  .neon-buttons .button {
+    flex: 0 0 auto !important;
+    min-width: 140px;
+  }
+
   /* --- P1: DL stacked layout on mobile --- */
   .md-content dt,
   .md-content dd {
@@ -753,6 +764,21 @@ details.toc a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Logo tap target */
+.logo a {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+/* Tag cards: larger touch targets on mobile */
+@media (max-width: 600px) {
+  .tag-card {
+    min-height: 44px;
+    padding: 0.55rem 0.85rem;
+  }
 }
 
 /* ===== Hero Carousel ===== */
