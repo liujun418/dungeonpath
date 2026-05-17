@@ -12,8 +12,8 @@
     {
       "@type": "HowToStep",
       "position": {{ add $i 1 }},
-      "name": {{ $step.name }},
-      "text": {{ $step.text }}
+      "name": {{ $step.name | default $step.title }},
+      "text": {{ $step.text | default $step.description }}
       {{- if $step.image }},
       "image": {{ $step.image | absURL }}
       {{- end }}
