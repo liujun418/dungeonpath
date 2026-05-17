@@ -7,18 +7,6 @@
       "master": true
     }
   },
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.dungeonpath.com"
-        }
-      ],
-      "destination": "https://dungeonpath.com/$1"
-    }
-  ],
   "redirects": [
     {
       "source": "/(.*)",
@@ -29,7 +17,7 @@
         }
       ],
       "destination": "https://dungeonpath.com/$1",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
