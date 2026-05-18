@@ -529,3 +529,7 @@ Sources:
 - [Beebom - DOORS Codes May 2026](https://beebom.com/roblox-doors-codes/)
 - [ProGameGuides - Full DOORS Great Outdoors Walkthrough](https://progameguides.com/roblox/full-doors-the-great-outdoors-walkthrough-entities-items-lotus/)
 - [r/DOORS_ROBLOX on Reddit](https://www.reddit.com/r/doors_roblox/)
+
+**Related Guides:**
+
+- [DOORS Hotel Walkthrough Guide](/posts/doors/hotel-walkthrough/)

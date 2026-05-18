@@ -1,4 +1,5 @@
 ---
+
 title: "Tower Defense Simulator Golden Towers Guide: Best Golden Skins, Crate Strategy & DPS Rankings (2026)"
 description: "Complete TDS golden towers guide covering all 6 golden skins, DPS rankings, golden crate vs daily shop strategy, best golden tower for each game mode, and how to maximize your 50,000 coin investment."
 date: 2026-05-14
@@ -18,6 +19,19 @@ faq:
     answer: "Wait for the daily shop. Golden crates (50,000 coins) give a random golden skin, meaning you can get Golden Pyromancer or Golden Soldier repeatedly and waste coins. The daily shop lets you buy the exact golden tower you want. Most veteran players recommend saving coins and buying specific golden towers from the shop rather than gambling on crates."
   - question: "Which golden tower should I get first?"
     answer: "Get Golden Minigunner first if you want the best late-game DPS tower. Get Golden Crook Boss first if you want an all-round tower that's effective from start to finish. Get Golden Scout first if your primary goal is speedrunning Fallen Mode. Avoid Golden Pyromancer as a first purchase — get it last for collection purposes only."
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Tower Defense Simulator Golden Towers Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Tower Defense Simulator"
+      text: "Open Tower Defense Simulator and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Tower Defense Simulator (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 ## How Golden Towers Work

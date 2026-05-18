@@ -1,4 +1,5 @@
 ---
+
 title: "Blade Ball Weapon & Skill Combo Guide: Best Combinations for Ranked (2026)"
 description: "Master the best weapon and ability combos in Blade Ball. Learn top-tier synergies, counter strategies, and ranked meta loadouts for 2026 competitive play."
 date: 2026-05-12
@@ -11,6 +12,15 @@ cover:
   image: "/cover-image/blade-ball-weapon-combo/cover.webp"
   alt: "Blade Ball Weapon & Skill Combo Guide"
   caption: "Best Weapon & Skill Combinations for Ranked Play"
+
+faq:
+  - question: "Is this Blade Ball guide up to date for 2026?"
+    answer: "Yes, this guide reflects the current state of Blade Ball in 2026. We track patches and updates to keep information accurate. Check the last modified date at the top of the page."
+  - question: "Where can I learn the basics of Blade Ball first?"
+    answer: "If you are completely new to Blade Ball, start with our beginner guide to learn core mechanics before diving into this specialized content. All key terms are explained in context throughout this guide."
+  - question: "Where can I find more Blade Ball guides?"
+    answer: "We maintain a full library of Blade Ball guides covering beginner basics, tier lists, strategies, and specific mechanics. Check the Related Guides section below or visit our Blade Ball hub page."
+
 ---
 
 > *Last updated: May 12, 2026. All weapon stats, ability combos, and meta rankings reflect the current 2026 competitive season.*

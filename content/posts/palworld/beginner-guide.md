@@ -280,3 +280,7 @@ Once you have a stable base, food production, and a team of level 15-20 Pals, yo
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Strategies for every boss in the game.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Where to farm everything.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Full tech tree breakdown.
+
+**Related Guides:**
+
+- [Palworld Weapon & Gear Guide](/posts/palworld/weapon-gear-guide/)

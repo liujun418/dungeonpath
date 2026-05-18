@@ -1,4 +1,5 @@
 ---
+
 title: "RIVALS Beginner Guide: Complete Walkthrough for New Players (May 2026)"
 description: "Everything you need to know to start winning in Roblox RIVALS in 2026. Learn movement mechanics, weapon loadouts, map strategies, and ranked tips for success."
 date: 2026-05-09
@@ -20,6 +21,19 @@ faq:
     answer: "Ranked mode matches you against players of similar skill. Win matches to climb the ranked ladder. Check our RIVALS Game Modes and Ranked Guide for detailed information."
   - question: "Are there codes for free rewards in RIVALS?"
     answer: "Yes, RIVALS releases codes for free coins, weapon skins, and other rewards. Check our RIVALS Codes and Rewards Guide for the latest active codes."
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete RIVALS Beginner Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in RIVALS"
+      text: "Open RIVALS and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "RIVALS (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 15, 2026. Covers RIVALS as of Season 3 (The Fame Season), including the Grapple and Spear weapons, three new Diorama maps, and the latest ranked system changes.*

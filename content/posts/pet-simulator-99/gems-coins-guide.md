@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Simulator 99 Gems and Coins Guide: Best Farming Strategies (May 2026)"
 description: "Master currency farming in Pet Simulator 99. Learn the fastest methods for earning gems, coins, and diamonds with optimized enchant loadouts and AFK farming strategies in 2026."
 date: 2026-05-13
@@ -18,6 +19,19 @@ faq:
     answer: "Equip pets with optimal farming enchants, go to your highest cleared area, and set up continuous tapping. Use auto-clicker tools if allowed, or simply leave the game running with your pets attacking breakables."
   - question: "Should I save gems or spend them in Pet Simulator 99?"
     answer: "Do not hoard gems. Spend them on progression upgrades (new areas, better eggs) and trades that improve your pet roster. Unused gems do not grow — invested gems generate more gems through faster farming."
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Pet Simulator 99 Gems and Coins Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Pet Simulator 99"
+      text: "Open Pet Simulator 99 and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Pet Simulator 99 (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 13, 2026. Currency farming strategies reflect the current meta as of Update 78.*

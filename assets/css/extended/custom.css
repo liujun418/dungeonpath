@@ -1582,3 +1582,19 @@ details.toc a:hover {
   }
 }
 
+
+/* Game back-link in post footer */
+.game-back-link {
+  margin-bottom: 12px;
+}
+.game-back-link a {
+  display: inline-block;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.game-back-link a:hover {
+  color: var(--neon-purple);
+  text-decoration: underline;
+}

@@ -1,4 +1,5 @@
 ---
+
 title: "Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)"
 description: "Complete guide to every enemy type in Tower Defense Simulator. Learn stats, abilities, boss mechanics, and wave patterns for every game mode and difficulty."
 date: 2026-05-10
@@ -11,6 +12,19 @@ draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Boss Guide", "tds tower guide", "tds mode strategy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Tower Defense Simulator Enemy and Wave Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Tower Defense Simulator"
+      text: "Open Tower Defense Simulator and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Tower Defense Simulator (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 10, 2026. This guide covers all enemy types, boss mechanics, and wave patterns in Tower Defense Simulator as of May 2026, including the latest 2026 balance update changes.*

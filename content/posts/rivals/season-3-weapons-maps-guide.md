@@ -1,4 +1,5 @@
 ---
+
 title: "RIVALS Season 3 Guide: New Weapons, Maps & Battle Pass (2026)"
 description: "Complete guide to Roblox RIVALS Season 3 — The Fame Season. Master the Grapple and Spear weapons, learn all three new maps (Westown, Museum, Studio), and optimize your Battle Pass progression."
 date: 2026-05-15
@@ -11,6 +12,15 @@ draft: false
 tags: ["RIVALS", "Roblox", "Season 3", "Weapons Guide", "Maps Guide", "FPS", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
+
+faq:
+  - question: "How long does this RIVALS event last?"
+    answer: "Most events run 2-4 weeks. Check specific dates above. Limited-time rewards are only available during the active window -- prioritize them before the event ends."
+  - question: "Are RIVALS event rewards worth the effort?"
+    answer: "Exclusive items that will not return are high priority. Time-limited cosmetics, unique gear, and special bonuses are typically worth grinding. We highlight the highest-value rewards to focus on first."
+  - question: "Will this RIVALS event return?"
+    answer: "Seasonal events (holiday-themed) typically return annually with updated rewards. Collaboration and milestone events may be one-time only. Check the event details above for return likelihood."
+
 ---
 
 > *Last updated: May 15, 2026. Covers everything in Roblox RIVALS Season 3: The Fame Season — Grapple and Spear weapons with full stats and strategies, all three Diorama maps (Westown, Museum, Studio) with loadout recommendations, Battle Pass details, Sniper nerf changes, and pro tips for climbing the ranked ladder this season.*

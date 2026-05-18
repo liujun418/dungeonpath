@@ -1,4 +1,5 @@
 ---
+
 title: "Fisch Beginner Guide: Complete Walkthrough for New Players (2026)"
 description: "Learn to play Fisch on Roblox with a complete beginner guide. Discover best fishing spots, rod upgrades, mutations, and bait strategies to catch rare fish fast."
 date: 2026-05-09
@@ -22,6 +23,19 @@ faq:
     answer: "Mutations are special attributes like Shiny, Albino, and Sparkling that randomly appear on fish. They change the fish appearance and multiply sell value. A Shiny fish sells for 1.85x normal price, and mutations can stack for even bigger multipliers."
   - question: "How do I travel between islands in Fisch?"
     answer: "Use the boat at Moosewood docks to travel to other islands. Roslit Bay is directly west of Moosewood and should be your first destination after completing the tutorial."
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Fisch Beginner Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Fisch"
+      text: "Open Fisch and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Fisch (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 9, 2026. This guide covers the latest Fisch meta as of May 2026, including all current locations, rods, mutations, and active codes.*

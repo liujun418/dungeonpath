@@ -1,4 +1,5 @@
 ---
+
 title: "Sailor Piece Beginner Guide: Complete Walkthrough for New Players (May 2026)"
 description: "Start your adventure in Roblox Sailor Piece in 2026. Learn Devil Fruits, Haki, stat builds, island progression tips, and how to unlock Sea 2 and beyond."
 date: 2026-05-09
@@ -20,6 +21,19 @@ faq:
     answer: "Haki is unlocked through quests and level progression. Armament Haki (Busoshoku) is typically the first type available. Check our Haki and Combat Guide for detailed steps."
   - question: "How do I travel between islands in Sailor Piece?"
     answer: "Use the boat at the starting dock to sail between islands. Each island is unlocked at a certain level threshold. Follow the island progression path in our guide."
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Sailor Piece Beginner Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Sailor Piece"
+      text: "Open Sailor Piece and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Sailor Piece (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 9, 2026. Covers Sailor Piece as of the Sea 2 update (April 2026) and the Anti-Magic update, including all islands, Devil Fruits, Haki systems, and the latest meta. Game has received major updates every 1-2 weeks.*

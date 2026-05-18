@@ -303,3 +303,9 @@ Remember that MSM is designed as a long-term collection game. Progress that feel
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Coins, diamonds, and shard optimization
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary Shugabush monsters
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monsters and shard production
+
+**Related Guides:**
+
+- [My Singing Monsters Composer Island Guide](/posts/my-singing-monsters/composer-island-guide/)
+- [My Singing Monsters Legendary Island Guide](/posts/my-singing-monsters/legendary-island-guide/)
+- [My Singing Monsters Tribal Island Guide](/posts/my-singing-monsters/tribal-island-guide/)

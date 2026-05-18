@@ -1,4 +1,5 @@
 ---
+
 title: "Blox Fruits Awakening Guide: How to Awaken Fruits, Best Builds & Raid Strategies (2026)"
 description: "Complete Blox Fruits awakening guide: how to unlock awakened fruits, best awakened fruit builds, raid requirements, and awakening material locations for 2026."
 date: 2026-05-12
@@ -11,6 +12,19 @@ cover:
   image: "/cover-image/blox-fruits-awakening/cover.webp"
   alt: "Blox Fruits Awakening Guide"
   caption: "How to Awaken Fruits, Best Builds & Raid Strategies"
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete Blox Fruits Awakening Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in Blox Fruits"
+      text: "Open Blox Fruits and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "Blox Fruits (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 12, 2026. All raid requirements, awakening materials, and fruit builds reflect the current 2026 game version.*

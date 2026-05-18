@@ -1,4 +1,5 @@
 ---
+
 title: "RIVALS Codes Guide: All Active Codes for May 2026 (+ Free Skins and Coins)"
 description: "Complete list of all active RIVALS codes for May 2026 on Roblox. Get free weapon skins, coins, and exclusive cosmetic items every day with new code updates."
 date: 2026-05-10
@@ -11,6 +12,19 @@ draft: false
 tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
+
+howto:
+  steps:
+    - name: "Read the Full Guide"
+      text: "Read this complete RIVALS Codes Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+    - name: "Apply Strategies in RIVALS"
+      text: "Open RIVALS and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
+    - name: "Practice and Adapt"
+      text: "Use these strategies in actual gameplay. Adapt the general advice to your playstyle. The best players customize strategies to their strengths."
+  tools:
+    - "RIVALS (latest version)"
+    - "This guide (reference while playing)"
+
 ---
 
 > *Last updated: May 10, 2026. All codes verified as working. Covers RIVALS Season 12 rewards and the latest code releases from Nosniy Games.*

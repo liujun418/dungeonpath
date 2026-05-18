@@ -1,4 +1,5 @@
 ---
+
 title: "My Singing Monsters Ethereal Island Guide: Breeding, Teleportation, and Shards (2026)"
 description: "Complete Ethereal Island guide for My Singing Monsters in 2026. Learn to breed all 5 Ethereals, teleport costs, and shard production strategies for success."
 date: 2026-05-10
@@ -11,6 +12,15 @@ draft: false
 tags: ["My Singing Monsters", "Mobile Games", "Monsters", "msm island guide", "msm events guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
+
+faq:
+  - question: "Is this My Singing Monsters guide up to date for 2026?"
+    answer: "Yes, this guide reflects the current state of My Singing Monsters in 2026. We track patches and updates to keep information accurate. Check the last modified date at the top of the page."
+  - question: "Where can I learn the basics of My Singing Monsters first?"
+    answer: "If you are completely new to My Singing Monsters, start with our beginner guide to learn core mechanics before diving into this specialized content. All key terms are explained in context throughout this guide."
+  - question: "Where can I find more My Singing Monsters guides?"
+    answer: "We maintain a full library of My Singing Monsters guides covering beginner basics, tier lists, strategies, and specific mechanics. Check the Related Guides section below or visit our My Singing Monsters hub page."
+
 ---
 
 > *Last updated: May 10, 2026. This guide covers Ethereal Island in My Singing Monsters, including how to breed every Ethereal monster, teleportation mechanics, shard production rates, and advanced strategies for building a high-output Ethereal farm.*
