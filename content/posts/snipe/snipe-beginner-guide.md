@@ -180,3 +180,5 @@ SNIPE rewards patience and deliberate practice more than most Roblox FPS games. 
 
 - [SNIPE Weapons & Abilities Guide: Best Loadouts](/posts/snipe/weapons-abilities-guide/)
 - [SNIPE Map Strategies & Advanced Tips](/posts/snipe/maps-strategies-guide/)
+- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/posts/snipe/game-modes-guide/)
+- [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)

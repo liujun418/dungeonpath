@@ -178,3 +178,6 @@ Blockade Battlefront's learning curve is steep, but the mechanical depth that ma
 **Related Guides:**
 
 - [Blockade Battlefront Titans & Upgrades: Best Builds & Cen Farming](/posts/blockade-battlefront/titans-upgrades-guide/)
+- [Blockade Battlefront Characters Guide: Best Units, Skins & Team Compositions](/posts/blockade-battlefront/characters-unit-composition-guide/)
+- [Blockade Battlefront Codes (May 2026): Free Cen, Skins & Rewards](/posts/blockade-battlefront/codes/)
+- [Blockade Battlefront Late Game Survival Guide (Waves 40-70+)](/posts/blockade-battlefront/late-game-wave-survival-guide/)

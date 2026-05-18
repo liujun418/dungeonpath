@@ -242,3 +242,5 @@ SNIPE rewards the player who moves better, not just aims better. Learn the maps,
 
 - [SNIPE Beginner Guide: Controls, Movement & Getting Started](/posts/snipe/snipe-beginner-guide/)
 - [SNIPE Weapons & Abilities Guide: Best Loadouts](/posts/snipe/weapons-abilities-guide/)
+- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/posts/snipe/game-modes-guide/)
+- [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)

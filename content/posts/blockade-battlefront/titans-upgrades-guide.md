@@ -205,3 +205,6 @@ Master your Cen spending, keep your Titans alive, and never miss a helicopter vi
 **Related Guides:**
 
 - [Blockade Battlefront Beginner Guide: Keybinds, Units & Wave Survival](/posts/blockade-battlefront/beginner-guide/)
+- [Blockade Battlefront Characters Guide: Best Units, Skins & Team Compositions](/posts/blockade-battlefront/characters-unit-composition-guide/)
+- [Blockade Battlefront Late Game Survival Guide (Waves 40-70+)](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [Blockade Battlefront Codes (May 2026): Free Cen, Skins & Rewards](/posts/blockade-battlefront/codes/)

@@ -208,3 +208,5 @@ Match your loadout to the map and mode, not just personal preference. Target dom
 
 - [SNIPE Beginner Guide: Controls, Movement & Getting Started](/posts/snipe/snipe-beginner-guide/)
 - [SNIPE Map Strategies & Advanced Tips](/posts/snipe/maps-strategies-guide/)
+- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/posts/snipe/game-modes-guide/)
+- [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)
