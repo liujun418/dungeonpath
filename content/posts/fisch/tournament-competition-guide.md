@@ -1,7 +1,7 @@
 ---
 
 title: "Fisch Tournament & Competition Guide: Event Rules, Rewards & Winning Strategies (2026)"
-description: "Complete Fisch tournament and competition guide: seasonal event rules, prize pools, best rod setups for tournaments, rare fish targets, and winning strategies."
+description: "Fisch just dropped new content."
 date: 2026-05-12
 cover:
   image: "/cover-image/fisch-tournament/cover.webp"

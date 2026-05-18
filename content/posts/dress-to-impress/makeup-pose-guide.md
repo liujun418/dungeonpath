@@ -1,6 +1,6 @@
 ---
 title: "Dress To Impress Makeup & Pose Guide: Custom Makeup, Animations & Runway Poses (2026)"
-description: "Complete Dress To Impress guide to custom makeup, all pose packs, walk animations, runway tips, and how to use hex codes and favorite poses to win more rounds on the runway."
+description: "Everything you need to know about Dress To Impress Makeup & Pose Guide. Dress To Impress custom makeup, all pose packs, walk animations, runway tips, an..."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

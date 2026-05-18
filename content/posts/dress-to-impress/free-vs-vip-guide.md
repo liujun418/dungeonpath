@@ -1,6 +1,6 @@
 ---
 title: "Dress To Impress Free vs VIP Guide: Is VIP Worth It? Full Item Comparison (2026)"
-description: "Complete Dress To Impress comparison of free items vs VIP items, VIP room exclusives, Custom Makeup vs VIP value analysis, and whether VIP is worth buying in 2026 based on the current item catalog."
+description: "Dress To Impress Free vs VIP Guide — which one should you choose? We break down the stats, costs, use cases, and hidden pros and cons to help you decide."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)"
-description: "Complete guide to all RIVALS game modes and ranked system on Roblox in 2026. Learn rules, winning strategies, and how to climb the competitive ladder fast."
+description: "Not sure which RIVALS option fits your playstyle? We compare every major choice side-by-side with specific recommendations for different goals and budgets."
 date: 2026-05-10
 cover:
   image: "/cover-image/rivals-beginner/cover.webp"

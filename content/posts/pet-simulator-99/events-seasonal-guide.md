@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Events Guide: Seasonal Updates, Limited Pets & Rewards (2026)"
-description: "Complete guide to Pet Simulator 99 seasonal events including Christmas 2025, Spring Machine, Elf on a Shelf locations, limited pets, and how to maximize event rewards."
+description: "Pet Simulator 99 just dropped new content."
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false

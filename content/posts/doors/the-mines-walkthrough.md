@@ -1,7 +1,7 @@
 ---
 
 title: "DOORS The Mines Walkthrough: Complete Floor 2 Guide with All Entities, Items, and Strategies (2026)"
-description: "Complete walkthrough for The Mines in DOORS Floor 2 on Roblox. Learn every door strategy, entity encounter, item location, and boss fight for the entire floor."
+description: "Stuck in DOORS? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-10
 cover:
   image: "/cover-image/doors-the-mines/cover.webp"

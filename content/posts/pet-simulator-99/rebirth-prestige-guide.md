@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Rebirth Guide: All Rebirths, Rewards & Prestige Strategy (2026)"
-description: "Complete guide to Pet Simulator 99 rebirth system. All 9 rebirth statue locations, permanent rewards, world unlocks, and the fastest rebirth strategy for every stage of the game."
+description: "Everything you need to know about Pet Simulator 99 Rebirth Guide. Pet Simulator 99 rebirth system. All 9 rebirth statue locations, permanent rewar..."
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false

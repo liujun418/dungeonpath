@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Best Pets Guide: Every Pet Ranked by Tier (May 2026)"
-description: "Complete Pet Simulator 99 best pets ranking for May 2026. Every pet tier list from early-game to endgame, including Huge, Titanic, and Gargantuan pets ranked by power and value."
+description: "Not sure which Pet Simulator 99 option fits your playstyle? We compare every major choice side-by-side with specific recommendations for different goals and budgets."
 date: 2026-05-13
 cover:
   image: "/cover-image/ps99-best-pets/cover.webp"

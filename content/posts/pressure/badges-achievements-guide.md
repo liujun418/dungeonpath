@@ -1,7 +1,7 @@
 ---
 
 title: "Pressure Badges & Achievements Guide: How to Unlock All 50+ Badges (2026)"
-description: "Complete guide to every badge and achievement in Roblox Pressure. Learn how to unlock all entity survival badges, escape badges, Raveyard badges, and the new Worth The Wait badges."
+description: "Everything you need to know about Pressure Badges & Achievements Guide. every badge and achievement in Roblox Pressure. Learn how to unlock all entity s..."
 date: 2026-05-15
 cover:
   image: "/cover-image/pressure-badges-achievements/cover.webp"

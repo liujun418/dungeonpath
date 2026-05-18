@@ -8,7 +8,7 @@ cover:
   caption: "Blox Fruits Bosses & Raids Guide"
 lastmod: 2026-05-10
 draft: false
-description: "Complete Blox Fruits bosses and raids guide for 2026. Every boss location across all three seas, all rare drops and spawn times, raid mechanics explained, and best strategies for every raid."
+description: "Can't beat that Blox Fruits boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
 tags: ["Blox Fruits", "Roblox", "Bosses", "Raids", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

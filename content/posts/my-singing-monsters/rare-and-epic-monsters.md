@@ -1,6 +1,6 @@
 ---
 title: "My Singing Monsters Rare and Epic Monsters: Complete Collecting Guide (2026)"
-description: "Complete guide to Rare and Epic monsters in My Singing Monsters for 2026. Learn availability windows, breeding combinations, and collection strategies inside."
+description: "Everything you need to know about My Singing Monsters Rare and Epic Monsters. Rare and Epic monsters in My Singing Monsters for 2026. Learn availability windo..."
 date: 2026-05-10
 cover:
   image: "/cover-image/msm-rare-epic/cover.webp"

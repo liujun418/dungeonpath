@@ -1,6 +1,6 @@
 ---
 title: "ST Blockade Battlefront Beginner Guide: Keybinds, Units & Wave Survival (2026)"
-description: "Complete beginner walkthrough for ST Blockade Battlefront on Roblox — master the complex keybind system, unit types, wave mechanics, helicopter upgrades, and survival strategy."
+description: "New to Blockade Battlefront? This Blockade Battlefront beginner guide covers everything from controls and core mechanics to early progression and common mistakes ."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

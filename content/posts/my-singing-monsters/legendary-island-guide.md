@@ -1,7 +1,7 @@
 ---
 
 title: "My Singing Monsters Legendary Island Guide: Breeding, Songs & Complete Walkthrough (2026)"
-description: "Complete MSM Legendary Island guide: how to unlock Legendary Island, breeding combinations for legendary monsters, song arrangements, and island management tips."
+description: "Stuck in My Singing Monsters? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one."
 date: 2026-05-12
 cover:
   image: "/cover-image/msm-legendary-island/cover.webp"

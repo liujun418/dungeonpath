@@ -1,7 +1,7 @@
 ---
 
 title: "Tower Defense Simulator Enemy and Wave Guide: All Enemy Types, Bosses, and Wave Patterns (2026)"
-description: "Complete guide to every enemy type in Tower Defense Simulator. Learn stats, abilities, boss mechanics, and wave patterns for every game mode and difficulty."
+description: "Can't beat that Tower Defense Simulator boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
 date: 2026-05-10
 cover:
   image: "/cover-image/tds-enemy-wave/cover.webp"

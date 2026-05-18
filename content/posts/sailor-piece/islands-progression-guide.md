@@ -1,7 +1,7 @@
 ---
 
 title: "Sailor Piece Islands and Progression Guide: Complete Walkthrough for Sea 1, Sea 2, and Beyond (2026)"
-description: "Complete island-by-island walkthrough for Sailor Piece in 2026. Learn boss strategies, level requirements, loot tables, and how to unlock Sea 2 to progress."
+description: "Stuck in Sailor Piece? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-10
 cover:
   image: "/cover-image/sailor-piece-islands/cover.webp"

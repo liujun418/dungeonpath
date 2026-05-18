@@ -1,6 +1,6 @@
 ---
 title: "Sailor Piece Ships & Navigation Guide: Sea Beasts, Island Routes & Sea 2 (2026)"
-description: "Complete Sailor Piece ships and navigation guide covering ship types, island progression routes, Sea Beast hunting strategies, Sea 2 unlocking steps, and how to farm Kraken and Sea Serpent efficiently."
+description: "Everything you need to know about Sailor Piece Ships & Navigation Guide. Sailor Piece ships and navigation ship types, island progression routes, Sea Bea..."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

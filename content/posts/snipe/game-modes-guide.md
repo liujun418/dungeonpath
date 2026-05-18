@@ -1,6 +1,6 @@
 ---
 title: "SNIPE Game Modes Guide: Every Match Type, Scoring & Win Conditions (2026)"
-description: "Complete SNIPE game modes guide covering FFA rules, scoring mechanics, win conditions, round structure, ability interactions per mode, and practice strategies to dominate every match type."
+description: "Everything you need to know about SNIPE Game Modes Guide. SNIPE game modes FFA rules, scoring mechanics, win conditions, round structure, ..."
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false

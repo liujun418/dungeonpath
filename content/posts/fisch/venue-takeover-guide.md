@@ -1,6 +1,6 @@
 ---
 title: "Fisch Venue Takeover Guide: All Developer Rods, Quests & NPCs (2026)"
-description: "Complete Fisch Venue Takeover event guide. How to access the Underground Music Venue, all 8 NPC questlines, Soul Reaper Rod, Remembrance Rod, Steampunk Rod, and every developer rod reward."
+description: "Everything you need to know about Fisch Venue Takeover Guide. Fisch Venue Takeover event guide. How to access the Underground Music Venue, all..."
 date: 2026-05-16
 cover:
   image: "/cover-image/fisch-venue-takeover/cover.webp"

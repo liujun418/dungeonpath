@@ -1,7 +1,7 @@
 ---
 
 title: "My Singing Monsters Wublin Island Guide: Complete Awakening and Strategy (2026)"
-description: "Complete Wublin Island guide for My Singing Monsters in 2026. Learn to power up all 20 Wublins, prioritize them, and maximize passive rewards and bonuses."
+description: "Everything you need to know about My Singing Monsters Wublin Island Guide. Wublin Island guide for My Singing Monsters in 2026. Learn to power up all 20 Wu..."
 date: 2026-05-10
 cover:
   image: "/cover-image/msm-wublin-island/cover.webp"

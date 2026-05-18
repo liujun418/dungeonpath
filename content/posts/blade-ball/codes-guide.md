@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball Codes Guide: All Active Codes for May 2026 (+ How to Redeem)"
-description: "Complete list of all active Blade Ball codes for May 2026. Get free wheel spins, sword skins, coins, and exclusive cosmetic items. Updated daily with new codes."
+description: "All active Blade Ball codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-10
 cover:
   image: "/cover-image/blade-ball-codes-guide/cover.webp"

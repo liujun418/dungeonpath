@@ -1,7 +1,7 @@
 ---
 
 title: "Palworld Weapon & Gear Guide: Best Weapons, Armor Sets & Upgrade Materials (2026)"
-description: "Complete Palworld weapon and gear guide: best weapons by tier, armor set bonuses, upgrade material farming locations, and crafting recipes for endgame equipment."
+description: "Everything you need to know about Palworld Weapon & Gear Guide. Palworld weapon and gear guide: best weapons by tier, armor set bonuses, upgrade..."
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Blockade Battlefront Titans & Upgrades Guide: Best Builds & Cen Farming (2026)"
-description: "Complete ST Blockade Battlefront Titans and upgrades guide — best Titan purchases ranked, weapon progression, Cen farming strategies for waves 25-70, and optimal upgrade priority for maximum survival."
+description: "Want more Blockade Battlefront currency without spending Robux? These are the fastest farming methods ranked by earnings per hour — from beginner-friendly to endg."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

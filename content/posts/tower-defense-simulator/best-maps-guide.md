@@ -1,7 +1,7 @@
 ---
 
 title: "Tower Defense Simulator Best Maps Guide: Every Map Strategy and Tips (2026)"
-description: "Complete guide to every TDS map in Tower Defense Simulator. Learn the best tower placements, wave strategies, and tips for every map and difficulty mode."
+description: "Can't beat that Tower Defense Simulator boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
 date: 2026-05-10
 cover:
   image: "/cover-image/tds-best-maps/cover.webp"

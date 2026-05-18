@@ -1,6 +1,6 @@
 ---
 title: "DOORS Items and Inventory Guide: Every Item, Where to Find It, and How to Use It (2026)"
-description: "Complete guide to every item in Roblox DOORS. Learn where to find items, how to use them, and which items are essential for each floor with expert strategies."
+description: "Everything you need to know about DOORS Items and Inventory Guide. every item in Roblox DOORS. Learn where to find items, how to use them, and whic..."
 date: 2026-05-10
 cover:
   image: "/cover-image/doors-beginner/cover.webp"

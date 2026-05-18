@@ -1,7 +1,7 @@
 ---
 
 title: "RIVALS Season 3 Guide: New Weapons, Maps & Battle Pass (2026)"
-description: "Complete guide to Roblox RIVALS Season 3 — The Fame Season. Master the Grapple and Spear weapons, learn all three new maps (Westown, Museum, Studio), and optimize your Battle Pass progression."
+description: "RIVALS just dropped new content."
 date: 2026-05-15
 cover:
   image: "/cover-image/rivals-season-3/cover.webp"

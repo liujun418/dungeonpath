@@ -1,6 +1,6 @@
 ---
 title: "Fisch Enchantments Guide: All Rod Enchantments, Fish Mutations & Best Combos (2026)"
-description: "Complete Fisch enchantments and mutations guide for 2026. Every rod enchantment ranked, mutation types listed, best combos for money and rare fish catching."
+description: "Everything you need to know about Fisch Enchantments Guide. Fisch enchantments and mutations guide for 2026. Every rod enchantment ranked, m..."
 date: 2026-05-10
 cover:
   image: "/cover-image/fisch-enchantments-guide/cover.webp"

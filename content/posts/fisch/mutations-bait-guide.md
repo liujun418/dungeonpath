@@ -1,6 +1,6 @@
 ---
 title: "Fisch Mutations & Bait Guide: Best Combos, Value Multipliers & Rod Synergies (2026)"
-description: "Complete Fisch mutations and bait guide with all mutation value multipliers, best bait combinations, rod-to-mutation synergies, enchantment effects, and how to maximize sell value on every catch."
+description: "Everything you need to know about Fisch Mutations & Bait Guide. Fisch mutations and bait guide with all mutation value multipliers, best bait co..."
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false

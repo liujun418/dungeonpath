@@ -1,7 +1,7 @@
 ---
 
 title: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide with All Entities and Strategies (2026)"
-description: "Complete walkthrough for The Outdoors in DOORS Floor 3 on Roblox. Learn entity encounters, environmental hazards, and survival strategies for the final floor."
+description: "Stuck in DOORS? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-10
 cover:
   image: "/cover-image/doors-the-outdoors/cover.webp"

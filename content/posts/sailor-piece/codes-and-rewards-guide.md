@@ -1,6 +1,6 @@
 ---
 title: "Sailor Piece Codes Guide: All Active Codes for May 2026 (+ Free Items and Beli)"
-description: "Complete list of all active Sailor Piece codes for May 2026 on Roblox. Get free Beli, stat resets, fruits, and exclusive items with daily updates and rewards."
+description: "All active Sailor Piece codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-10
 cover:
   image: "/cover-image/sailor-piece-codes/cover.webp"

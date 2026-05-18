@@ -1,6 +1,6 @@
 ---
 title: "Blox Fruits Races Guide: V2, V3 & V4 Awakening for All 7 Races (2026)"
-description: "Complete Blox Fruits races guide covering all 7 playable races, V2/V3/V4 awakening steps, ability breakdowns, race tier list, and the best race for PvP, grinding, and fruit builds."
+description: "Everything you need to know about Blox Fruits Races Guide. Blox Fruits races all 7 playable races, V2/V3/V4 awakening steps, ability breakd..."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

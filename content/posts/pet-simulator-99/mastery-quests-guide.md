@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Mastery & Quests Guide: Max Rank, Capes & Daily Rewards (2026)"
-description: "Complete guide to Pet Simulator 99 mastery system, all 15 mastery capes, rank quests, the Master Skill Cape, and the fastest methods to reach max rank and level 99 in every mastery category."
+description: "Everything you need to know about Pet Simulator 99 Mastery & Quests Guide. Pet Simulator 99 mastery system, all 15 mastery capes, rank quests, the Master S..."
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false

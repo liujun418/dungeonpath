@@ -7,7 +7,7 @@ cover:
   caption: "My Singing Monsters Composer Island Guide"
 lastmod: 2026-05-10
 draft: false
-description: "Complete MSM Composer Island guide. Master music creation, learn note types and instruments, explore tempo and key settings, and create amazing monster songs."
+description: "Everything you need to know about My Singing Monsters Composer Island Guide. MSM Composer Island guide. Master music creation, learn note types and instrumen..."
 tags: ["My Singing Monsters", "Mobile Games", "msm island guide", "msm beginner guide"]
 category: "Mobile Games"
 ---

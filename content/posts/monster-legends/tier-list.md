@@ -1,7 +1,7 @@
 ---
 
 title: "Monster Legends Tier List: Best Monsters for PvP, Wars, and Adventure (May 2026)"
-description: "Complete Monster Legends monster ranking for every mode in 2026. S-Tier to D-Tier rankings for PvP, Team Wars, Adventure Map, and dungeons to dominate."
+description: "Looking for the best picks in Monster Legends? We tested and ranked every option by performance, accessibility, and value."
 date: 2026-05-10
 cover:
   image: "/cover-image/monster-legends-beginner/cover.webp"

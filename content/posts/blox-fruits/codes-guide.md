@@ -7,7 +7,7 @@ cover:
   caption: "Blox Fruits Codes Guide"
 lastmod: 2026-05-10
 draft: false
-description: "Complete Blox Fruits codes list for May 2026. All active working codes for free Beli, XP boosts, stat resets, and exclusive items. Updated regularly with new codes and redemption instructions."
+description: "All active Blox Fruits codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 tags: ["Blox Fruits", "Roblox", "Codes", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

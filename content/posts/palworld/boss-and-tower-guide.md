@@ -1,7 +1,7 @@
 ---
 
 title: "Palworld Boss & Tower Guide: All Bosses, Strategies & Rewards (2026)"
-description: "Complete guide to every boss in Palworld in 2026 including tower bosses, alpha bosses, dungeon bosses, and legendary Pals with complete strategies and tips."
+description: "Can't beat that Palworld boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
 date: 2026-05-10
 cover:
   image: "/cover-image/palworld-boss-tower/cover.webp"

@@ -1,7 +1,7 @@
 ---
 
 title: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked"
-description: "Complete tier list ranking all weapons in Roblox RIVALS for 2026. Find the best primary, secondary, melee, and utility weapons for Season 3 meta and beyond."
+description: "Looking for the best picks in RIVALS? We tested and ranked every option by performance, accessibility, and value. See which ones dominate the meta and which to skip."
 date: 2026-05-09
 cover:
   image: "/cover-image/rivals-beginner/cover.webp"

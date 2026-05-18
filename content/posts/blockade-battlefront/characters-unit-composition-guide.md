@@ -1,6 +1,6 @@
 ---
 title: "Blockade Battlefront Characters Guide: Best Units, Skins & Team Compositions (2026)"
-description: "Complete ST Blockade Battlefront characters guide covering every playable unit, Mythic and Legendary skin rankings, unlock requirements, stat comparisons, and optimal team compositions for waves 1-70+."
+description: "Everything you need to know about Blockade Battlefront Characters Guide. ST Blockade Battlefront characters every playable unit, Mythic and Legendary ski..."
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false

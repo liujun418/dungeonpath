@@ -1,7 +1,7 @@
 ---
 
 title: "My Singing Monsters Ethereal Island Guide: Breeding, Teleportation, and Shards (2026)"
-description: "Complete Ethereal Island guide for My Singing Monsters in 2026. Learn to breed all 5 Ethereals, teleport costs, and shard production strategies for success."
+description: "Everything you need to know about My Singing Monsters Ethereal Island Guide. Ethereal Island guide for My Singing Monsters in 2026. Learn to breed all 5 Ethe..."
 date: 2026-05-10
 cover:
   image: "/cover-image/msm-ethereal-island/cover.webp"

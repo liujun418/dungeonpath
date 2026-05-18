@@ -1,6 +1,6 @@
 ---
 title: "SNIPE Weapons & Abilities Guide: Best Loadouts & Combos (2026)"
-description: "Complete SNIPE weapons and abilities breakdown — sniper rifle stats, knife mechanics, all 7 abilities ranked with detailed strategy, and the best loadout combinations for every playstyle."
+description: "Everything you need to know about SNIPE Weapons & Abilities Guide. SNIPE weapons and abilities breakdown — sniper rifle stats, knife mechanics, all..."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

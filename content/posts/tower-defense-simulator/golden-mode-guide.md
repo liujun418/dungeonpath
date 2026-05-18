@@ -1,7 +1,7 @@
 ---
 
 title: "Tower Defense Simulator Golden Towers Guide: Best Golden Skins, Crate Strategy & DPS Rankings (2026)"
-description: "Complete TDS golden towers guide covering all 6 golden skins, DPS rankings, golden crate vs daily shop strategy, best golden tower for each game mode, and how to maximize your 50,000 coin investment."
+description: "Can't beat that Tower Defense Simulator boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

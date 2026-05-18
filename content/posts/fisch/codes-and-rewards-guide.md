@@ -1,6 +1,6 @@
 ---
 title: "Fisch Codes and Rewards Guide: All Active Codes May 2026 (+ Rewards)"
-description: "Complete list of all active Fisch codes for May 2026 on Roblox. Get free rods, coins, bait, mutations, and exclusive items. Updated regularly with new codes."
+description: "All active Fisch codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-10
 cover:
   image: "/cover-image/fisch-codes-and-rewards-guide/cover.webp"

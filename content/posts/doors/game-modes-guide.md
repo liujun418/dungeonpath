@@ -1,6 +1,6 @@
 ---
 title: "DOORS Game Modes Guide: Rush, Endless, Chaos & Daily Runs (2026)"
-description: "Complete guide to all DOORS game modes in Roblox. Learn how Daily Runs, Chaos Mode, Rush Mode, and Endless Mode work — with strategies, rewards, and leaderboard tips."
+description: "Everything you need to know about DOORS Game Modes Guide. all DOORS game modes in Roblox. Learn how Daily Runs, Chaos Mode, Rush Mode, and..."
 date: 2026-05-15
 cover:
   image: "/cover-image/doors-game-modes/cover.webp"

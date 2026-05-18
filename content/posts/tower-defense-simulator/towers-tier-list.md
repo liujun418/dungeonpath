@@ -1,7 +1,7 @@
 ---
 
 title: "Tower Defense Simulator Towers Tier List: Every Tower Ranked (May 2026)"
-description: "Complete TDS tower tier list for May 2026. Every tower ranked from S to D tier with detailed stats, placement tips, and the best loadout combos for winning."
+description: "Which Tower Defense Simulator options are actually worth your time? We tested and ranked every option by performance, accessibility, and value."
 date: 2026-05-10
 cover:
   image: "/cover-image/tower-defense-simulator-beginner/cover.webp"

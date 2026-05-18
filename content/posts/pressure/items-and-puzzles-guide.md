@@ -1,6 +1,6 @@
 ---
 title: "Pressure Items and Puzzles Guide: Every Item, Key, and Puzzle Solution (2026)"
-description: "Complete guide to every item, keycard, and puzzle in Roblox Pressure. Learn what each item does, where to find them, and how to solve puzzles to progress."
+description: "Everything you need to know about Pressure Items and Puzzles Guide. every item, keycard, and puzzle in Roblox Pressure. Learn what each item does, w..."
 date: 2026-05-10
 cover:
   image: "/cover-image/pressure-items/cover.webp"

@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Codes Guide: All Active Codes and Rewards (May 2026)"
-description: "Complete list of all active Pet Simulator 99 codes for May 2026 with rewards, how to redeem them, and where to find new codes when they release."
+description: "All active Pet Simulator 99 codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-13
 cover:
   image: "/cover-image/ps99-codes/cover.webp"

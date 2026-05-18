@@ -1,6 +1,6 @@
 ---
 title: "Sailor Piece Crew & Ship Guide: Best Crewmates, Ship Types & Sea Navigation (2026)"
-description: "Complete Sailor Piece crew and ship guide: best crewmate combinations, ship types and upgrades, sea navigation routes, and crew management strategies."
+description: "Everything you need to know about Sailor Piece Crew & Ship Guide. Sailor Piece crew and ship guide: best crewmate combinations, ship types and upg..."
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false

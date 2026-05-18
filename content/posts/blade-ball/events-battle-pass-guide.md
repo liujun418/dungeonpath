@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball Battle Pass & Events Guide: All Seasons, Limited Items & LTMs (2026)"
-description: "Complete Blade Ball battle pass and events guide covering all 2025-2026 seasons, limited items with stock limits, ability unlocks, event strategies, and how to maximize each battle pass for exclusive rewards."
+description: "Blade Ball just dropped new content."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

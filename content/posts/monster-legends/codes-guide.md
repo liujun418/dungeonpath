@@ -1,6 +1,6 @@
 ---
 title: "Monster Legends Codes and Rewards Guide: All Active Codes and Free Rewards (May 2026)"
-description: "Complete list of working Monster Legends codes for May 2026 on mobile. Get free gems, food, gold, and exclusive monsters plus daily login rewards and gifts."
+description: "All active Monster Legends codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-10
 cover:
   image: "/cover-image/monster-legends-beginner/cover.webp"

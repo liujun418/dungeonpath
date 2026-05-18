@@ -1,6 +1,6 @@
 ---
 title: "RIVALS Maps Guide: All Maps, Callouts, and Winning Strategies (2026)"
-description: "Complete guide to every RIVALS map on Roblox in 2026. Learn map layouts, key callouts, best positions, and winning strategies for each game mode and map."
+description: "Everything you need to know about RIVALS Maps Guide. every RIVALS map on Roblox in 2026. Learn map layouts, key callouts, best positi..."
 date: 2026-05-10
 cover:
   image: "/cover-image/rivals-maps-and-strategies/cover.webp"

@@ -1,7 +1,7 @@
 ---
 
 title: "Palworld Resources & Materials Guide: Farming Every Item (2026)"
-description: "Complete guide to all resources and materials in Palworld for 2026 including wood, stone, ore, coal, sulfur, and paldium with farming locations and tips."
+description: "Want more Palworld currency without spending Robux? These are the fastest farming methods ranked by earnings per hour — from beginner-friendly to endgame optimiza."
 date: 2026-05-10
 cover:
   image: "/cover-image/palworld-resources/cover.webp"

@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 RNG Event Guide: Best Strategies for Huge & Titanic Pets (2026)"
-description: "Complete guide to the Pet Simulator 99 Void RNG Event — best dice combos, weather stacking, RNG Ultra Chest strategy, and how to maximize your Titanic Arcane Void Cat odds."
+description: "Pet Simulator 99 just dropped new content."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

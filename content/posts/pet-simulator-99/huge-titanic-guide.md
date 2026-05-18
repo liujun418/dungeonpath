@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Huge and Titanic Pets Guide: How to Get the Rarest Pets (2026)"
-description: "Complete guide to Huge, Titanic, and Gargantuan pets in Pet Simulator 99. Learn drop rates, best methods, event strategies, and how to trade for the rarest pets in May 2026."
+description: "Everything you need to know about Pet Simulator 99 Huge and Titanic Pets Guide. Huge, Titanic, and Gargantuan pets in Pet Simulator 99. Learn drop rates, best m..."
 date: 2026-05-13
 cover:
   image: "/cover-image/ps99-huge-titanic/cover.webp"

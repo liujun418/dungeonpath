@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 Fantasy World Guide: Combine-O-Matic, Time Trials & Rewards (2026)"
-description: "Complete Pet Simulator 99 Fantasy World event guide. Learn how the Combine-O-Matic works, Time Trials strategy, leaderboard rewards, and how to get Titanic Ruinous Angelus before the event ends."
+description: "Everything you need to know about Pet Simulator 99 Fantasy World Guide. Pet Simulator 99 Fantasy World event guide. Learn how the Combine-O-Matic works,..."
 date: 2026-05-16
 cover:
   image: "/cover-image/pet-simulator-99-fantasy-world/cover.webp"
