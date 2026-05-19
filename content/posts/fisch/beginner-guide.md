@@ -412,3 +412,9 @@ Sources:
 - [All Fisch Mutations and How to Get Them - Beebom](https://beebom.com/all-fisch-mutations/)
 - [How to Play Fisch Beginner Guide - Games.gg](https://games.gg/roblox/guides/roblox-fisch-beginners-guide/)
 - [Tips for Starters - Reddit r/FischRoblox](https://www.reddit.com/r/FischRoblox/comments/1hcjlb2/tips_for_starters/)
+
+**Related Guides:**
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/)
+
+- [Carbon Rod vs Steady Rod](/posts/fisch/carbon-rod-vs-steady-rod/)

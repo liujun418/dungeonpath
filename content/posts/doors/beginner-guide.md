@@ -533,3 +533,6 @@ Sources:
 **Related Guides:**
 
 - [DOORS Hotel Walkthrough Guide](/posts/doors/hotel-walkthrough/)
+
+- [DOORS vs Pressure comparison](/posts/pillar/roblox-horror-games-compared/)
+- [Hotel vs The Mines comparison](/posts/doors/hotel-vs-mines/)

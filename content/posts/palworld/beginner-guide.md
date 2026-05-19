@@ -284,3 +284,5 @@ Once you have a stable base, food production, and a team of level 15-20 Pals, yo
 **Related Guides:**
 
 - [Palworld Weapon & Gear Guide](/posts/palworld/weapon-gear-guide/)
+
+- [Jetragon vs Shadowbeak comparison](/posts/palworld/jetragon-vs-shadowbeak/)

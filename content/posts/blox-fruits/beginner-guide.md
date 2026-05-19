@@ -298,3 +298,6 @@ For more detailed guides, check out our [Fruits Tier List](/posts/blox-fruits/fr
 - [Blox Fruits Awakening Guide](/posts/blox-fruits/awakening-guide/)
 - [Blox Fruits Codes Guide](/posts/blox-fruits/codes-guide/)
 - [Blox Fruits Trading Value Guide](/posts/blox-fruits/trading-value-guide/)
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/)
+- [Buddha vs Magma comparison](/posts/blox-fruits/buddha-vs-magma/)

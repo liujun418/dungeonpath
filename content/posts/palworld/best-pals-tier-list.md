@@ -276,3 +276,7 @@ The single most impactful Pal in the game is **Frostallion** -- the only Pal tha
 - **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Use the right combat Pals for each boss.
 - **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farm materials for spheres and gear.
 - **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Leveling roadmap.
+
+**Related Guides:**
+
+- [Jetragon vs Shadowbeak](/posts/palworld/jetragon-vs-shadowbeak/)

@@ -360,3 +360,8 @@ Remember that MSM breeding is designed to take time. The thrill of finally seein
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Maximizing resources
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary monsters
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Ethereal monsters and teleportation
+
+**Related Guides:**
+
+- [My Singing Monsters Rare & Epic Monsters Guide](/posts/my-singing-monsters/rare-and-epic-monsters/)
+- [My Singing Monsters Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/)

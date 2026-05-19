@@ -309,3 +309,7 @@ Remember that MSM is designed as a long-term collection game. Progress that feel
 - [My Singing Monsters Composer Island Guide](/posts/my-singing-monsters/composer-island-guide/)
 - [My Singing Monsters Legendary Island Guide](/posts/my-singing-monsters/legendary-island-guide/)
 - [My Singing Monsters Tribal Island Guide](/posts/my-singing-monsters/tribal-island-guide/)
+
+- [My Singing Monsters Shugabush Island Guide](/posts/my-singing-monsters/shugabush-island-guide/)
+- [My Singing Monsters Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/)
+- [My Singing Monsters Seasonal Events Guide](/posts/my-singing-monsters/seasonal-events-guide/)

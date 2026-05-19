@@ -300,3 +300,7 @@ Sources:
 - [Roblox Fisch Rods Tier List 2026 - LDCloud](https://www.ldcloud.net/blog/roblox-fisch-rods-tier-list-2025)
 - [Fisch Tier List - GameRant](https://gamerant.com/roblox-fisch-best-rods-tier-list/)
 - [Best Rods Tier List in Fisch 2026 - U7BUY](https://www.u7buy.com/blog/best-rods-fisch-tier-list/)
+
+**Related Guides:**
+
+- [Carbon vs Steady rod comparison](/posts/fisch/carbon-rod-vs-steady-rod/)

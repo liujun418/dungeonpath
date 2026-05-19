@@ -281,3 +281,7 @@ The most successful teams are those that respect the monsters, watch the clock, 
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
 - [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
 - [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
+
+**Related Guides:**
+
+- [horror games comparison](/posts/pillar/roblox-horror-games-compared/)

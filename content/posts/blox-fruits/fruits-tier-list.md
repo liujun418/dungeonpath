@@ -373,3 +373,7 @@ Check our [Beginner Guide](/posts/blox-fruits/beginner-guide/) for more tips on 
 - [Blox Fruits Leveling Guide: Fast XP Method & All Island Quests](/posts/blox-fruits/leveling-guide/)
 - [Blox Fruits Bosses & Raids Guide: All Boss Locations & Raid Strategies](/posts/blox-fruits/bosses-and-raids-guide/)
 - [Blox Fruits Fighting Styles Guide: All Styles Ranked & Upgrades](/posts/blox-fruits/fighting-styles-guide/)
+
+**Related Guides:**
+
+- [Buddha vs Magma: which fruit?](/posts/blox-fruits/buddha-vs-magma/)

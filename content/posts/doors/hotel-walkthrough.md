@@ -320,3 +320,7 @@ A: No. The Crucifix works on Rush, Ambush, and several other entities, but not o
 - **[Entities Bestiary](/posts/doors/entities-bestiary/)** -- Detailed information on every entity in DOORS
 - **[Items & Inventory Guide](/posts/doors/items-and-inventory-guide/)** -- Every item, where to find it, and how to use it effectively
 - **[Achievements & Secrets](/posts/doors/achievements-and-secrets/)** -- All badges, hidden rooms, and secret content in DOORS
+
+**Related Guides:**
+
+- [Hotel vs The Mines difficulty](/posts/doors/hotel-vs-mines/)
