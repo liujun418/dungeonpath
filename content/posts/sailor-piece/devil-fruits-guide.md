@@ -1,7 +1,7 @@
 ---
 
 title: "Sailor Piece Devil Fruits Guide: All Fruits, Abilities, and How to Get Them (2026)"
-description: "Everything you need to know about Sailor Piece Devil Fruits Guide. every Devil Fruit in Sailor Piece in 2026. Learn abilities, rarity tiers, spawn ..."
+description: "Every Devil Fruit in Sailor Piece ranked and explained for 2026. Learn abilities, rarity tiers, spawn locations, awakening requirements, and the best fruit for grinding, PvP, and boss hunting."
 date: 2026-05-10
 cover:
   image: "/cover-image/sailor-piece-devil-fruits/cover.webp"

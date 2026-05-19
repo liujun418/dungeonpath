@@ -1,7 +1,7 @@
 ---
 
 title: "Dress To Impress Seasonal Events Guide: All Events, Limited Items, and How to Prepare (2026)"
-description: "Dress To Impress just dropped new content."
+description: "Dress To Impress seasonal events guide for 2026. Every limited-time theme, exclusive item, and event reward tracked. Learn which events return and how to prepare."
 date: 2026-05-10
 cover:
   image: "/cover-image/dress-to-impress-seasonal-events-guide/cover.webp"

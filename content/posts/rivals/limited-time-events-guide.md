@@ -7,7 +7,7 @@ cover:
   caption: "Roblox Rivals Events Guide"
 lastmod: 2026-05-10
 draft: false
-description: " just dropped new content."
+description: "RIVALS limited-time events guide for 2026. Track every seasonal event, exclusive weapon skin, and limited battle pass reward. Never miss time-gated content again."
 tags: ["RIVALS", "Roblox", "Events Guide", "Seasonal Events"]
 category: "Roblox Guides"
 ---

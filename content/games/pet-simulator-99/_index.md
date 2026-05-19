@@ -10,3 +10,7 @@ Pet Simulator 99 is a pet-collecting Roblox game where you hatch, trade, and upg
 - [Beginner Guide](/posts/pet-simulator-99/beginner-guide/) — Getting started from zero
 - [Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets to target
 - [Rebirth & Prestige Guide](/posts/pet-simulator-99/rebirth-prestige-guide/) — The core progression loop
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where PS99 ranks

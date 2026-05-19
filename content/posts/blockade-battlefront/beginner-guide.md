@@ -1,6 +1,6 @@
 ---
 title: "ST Blockade Battlefront Beginner Guide: Keybinds, Units & Wave Survival (2026)"
-description: "New to Blockade Battlefront? This Blockade Battlefront beginner guide covers everything from controls and core mechanics to early progression and common mistakes ."
+description: "New to Blockade Battlefront? This beginner guide covers everything from controls and core mechanics to early progression and common mistakes, all in one place."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

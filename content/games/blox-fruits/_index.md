@@ -10,3 +10,8 @@ Blox Fruits is an open-world Roblox RPG inspired by One Piece. Explore islands, 
 - [Beginner Guide](/posts/blox-fruits/beginner-guide/) — Complete new player walkthrough
 - [Fruits Tier List](/posts/blox-fruits/fruits-tier-list/) — Best Devil Fruits ranked
 - [Leveling Guide](/posts/blox-fruits/leveling-guide/) — Fastest way to max level
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where Blox Fruits ranks
+- [Buddha vs Magma: Which Fruit for Grinding?](/posts/blox-fruits/buddha-vs-magma/) — Side-by-side comparison

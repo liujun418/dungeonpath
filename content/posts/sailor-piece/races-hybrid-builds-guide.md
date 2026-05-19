@@ -1,6 +1,6 @@
 ---
 title: "Sailor Piece Races & Builds Guide: Best Races, Hybrid Setups & Endgame Meta (2026)"
-description: "Everything you need to know about Sailor Piece Races & Builds Guide. Sailor Piece races and builds guide with the latest race tier list, best hybrid ..."
+description: "Sailor Piece races and hybrid builds guide for 2026. Complete race tier list, stat bonuses per race, best hybrid combinations, and build recommendations for every playstyle from tank to speed demon."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

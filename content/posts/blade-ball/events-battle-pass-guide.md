@@ -1,6 +1,6 @@
 ---
 title: "Blade Ball Battle Pass & Events Guide: All Seasons, Limited Items & LTMs (2026)"
-description: "Blade Ball just dropped new content."
+description: "Blade Ball events and battle pass guide for 2026. Track active events, battle pass rewards, limited-time modes, and seasonal content. Learn what to prioritize and what to skip."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

@@ -10,3 +10,7 @@ Sailor Piece is a One Piece-inspired Roblox RPG. Sail the seas, unlock powerful 
 - [Beginner Guide](/posts/sailor-piece/beginner-guide/) — Setting sail for the first time
 - [Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/) — All fruits and their powers
 - [Races & Hybrid Builds](/posts/sailor-piece/races-hybrid-builds-guide/) — Optimal race and build combinations
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where Sailor Piece ranks

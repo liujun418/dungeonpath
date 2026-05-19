@@ -1,7 +1,7 @@
 ---
 
 title: "Blade Ball Game Modes Guide: Classic, 1v1, Team Mode and Event Modes (2026)"
-description: "Blade Ball just dropped new content."
+description: "Blade Ball game modes guide covering every match type in 2026. Compare Standard, Pro, Limited, and Private Server modes with mode-specific strategies and tips."
 date: 2026-05-10
 cover:
   image: "/cover-image/blade-ball-game-modes-guide/cover.webp"

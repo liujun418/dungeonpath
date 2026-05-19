@@ -1,7 +1,7 @@
 ---
 
 title: "RIVALS Season 3 Guide: New Weapons, Maps & Battle Pass (2026)"
-description: "RIVALS just dropped new content."
+description: "RIVALS Season 3 weapons and maps guide for 2026. Complete breakdown of the Grapple Hook, Spear, and every new Season 3 map with positioning and strategy tips."
 date: 2026-05-15
 cover:
   image: "/cover-image/rivals-season-3/cover.webp"

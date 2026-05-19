@@ -10,3 +10,8 @@ Pressure is an underwater survival horror game on Roblox where players descend t
 - [Beginner Guide](/posts/pressure/beginner-guide/) — Surviving your first descent
 - [Entities Guide](/posts/pressure/entities-guide/) — Every entity and how to avoid them
 - [Floors & Locations](/posts/pressure/floors-and-locations-guide/) — Facility layout and navigation
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where Pressure ranks
+- [DOORS vs Pressure: Horror Showdown](/posts/pillar/roblox-horror-games-compared/) — Which is scarier?

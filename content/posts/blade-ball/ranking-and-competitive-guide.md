@@ -7,7 +7,7 @@ cover:
   caption: "Blade Ball Ranking Guide"
 lastmod: 2026-05-10
 draft: false
-description: "Everything you need to know about Blade Ball Ranking Guide. Blade Ball ranked mode guide for 2026. Learn the MMR ranking system, every tier ..."
+description: "How does Blade Ball ranked mode work? This guide explains the MMR system, every rank tier from Bronze to Champion, point gains and losses, and the meta strategies that top-ranked players use to climb."
 tags: ["Blade Ball", "Roblox", "Competitive", "Strategy Guide"]
 category: "Roblox Guides"
 ---

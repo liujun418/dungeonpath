@@ -1,6 +1,6 @@
 ---
 title: "Pet Simulator 99 RNG Event Guide: Best Strategies for Huge & Titanic Pets (2026)"
-description: "Pet Simulator 99 just dropped new content."
+description: "Pet Simulator 99 RNG Event guide for May 2026. Master the Void RNG Event with optimal dice strategies, weather stacking, combo streaks, and RNG Ultra Chest farming."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false

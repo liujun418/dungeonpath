@@ -10,3 +10,7 @@ Lethal Company is a co-op survival horror game where crews scavenge abandoned mo
 - [Beginner Guide](/posts/lethal-company/beginner-guide/) — Your first quota run
 - [Monster Bestiary](/posts/lethal-company/monster-bestiary/) — Every creature and how to survive them
 - [Moon Guide](/posts/lethal-company/moon-guide/) — Which moons to visit and when
+
+## Explore More
+
+- [DOORS vs Pressure: Horror Showdown](/posts/pillar/roblox-horror-games-compared/) — How Lethal Company compares

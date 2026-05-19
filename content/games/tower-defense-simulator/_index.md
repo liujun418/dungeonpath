@@ -10,3 +10,7 @@ Tower Defense Simulator is a strategic Roblox game where players place and upgra
 - [Beginner Guide](/posts/tower-defense-simulator/beginner-guide/) — Your first defense
 - [Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/) — Best towers ranked
 - [Loadout Guide](/posts/tower-defense-simulator/loadout-guide/) — Optimal tower combinations
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where TDS ranks

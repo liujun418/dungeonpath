@@ -10,3 +10,7 @@ Palworld is an open-world survival crafting game where you collect, battle, and 
 - [Beginner Guide](/posts/palworld/beginner-guide/) — Surviving your first days
 - [Best Pals Tier List](/posts/palworld/best-pals-tier-list/) — Top Pals for combat and work
 - [Breeding Combinations](/posts/palworld/breeding-combinations-guide/) — Complete breeding chart
+
+## Explore More
+
+- [Jetragon vs Shadowbeak: Best Pal Compared](/posts/palworld/jetragon-vs-shadowbeak/) — Which legendary to prioritize?

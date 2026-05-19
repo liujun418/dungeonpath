@@ -10,3 +10,8 @@ RIVALS is a competitive Roblox FPS with fast-paced gunplay, unique movement mech
 - [Beginner Guide](/posts/rivals/beginner-guide/) — Your first matches
 - [Weapon Tier List](/posts/rivals/weapon-tier-list/) — Best weapons ranked
 - [Movement & Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/) — Mastering speed and positioning
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where RIVALS ranks
+- [SNIPE vs RIVALS: FPS Showdown](/posts/pillar/roblox-fps-games-compared/) — Which FPS fits you?

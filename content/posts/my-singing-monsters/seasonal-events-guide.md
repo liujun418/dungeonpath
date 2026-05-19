@@ -1,7 +1,7 @@
 ---
 
 title: "My Singing Monsters Seasonal Events Guide: Complete 2026 Calendar and Strategies"
-description: "My Singing Monsters just dropped new content."
+description: "My Singing Monsters seasonal events guide for 2026. All seasonal monsters, limited-time breeding combinations, and event island schedules in one place."
 date: 2026-05-10
 cover:
   image: "/cover-image/msm-seasonal-events/cover.webp"

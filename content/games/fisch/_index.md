@@ -10,3 +10,8 @@ Fisch is a relaxing fishing RPG on Roblox with hundreds of fish species, dynamic
 - [Beginner Guide](/posts/fisch/beginner-guide/) — Casting your first line
 - [Best Rods Tier List](/posts/fisch/best-rods-tier-list/) — Best rods ranked
 - [Fish Location Map](/posts/fisch/fish-location-map/) — Where every fish spawns
+
+## Explore More
+
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where Fisch ranks
+- [Carbon Rod vs Steady Rod](/posts/fisch/carbon-rod-vs-steady-rod/) — Which rod to buy first?

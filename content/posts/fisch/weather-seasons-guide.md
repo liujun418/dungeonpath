@@ -1,6 +1,6 @@
 ---
 title: "Fisch Weather & Seasons Guide: All Weather Effects, Time Cycles & Totems (2026)"
-description: "Fisch just dropped new content."
+description: "Fisch weather and seasons guide for 2026. How rain, fog, wind, and seasonal rotations affect fish spawns, rarity, and catch rates. Plan your fishing trips around optimal conditions."
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false

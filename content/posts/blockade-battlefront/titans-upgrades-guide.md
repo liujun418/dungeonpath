@@ -1,6 +1,6 @@
 ---
 title: "Blockade Battlefront Titans & Upgrades Guide: Best Builds & Cen Farming (2026)"
-description: "Want more Blockade Battlefront currency without spending Robux? These are the fastest farming methods ranked by earnings per hour — from beginner-friendly to endg."
+description: "Want more Cen in Blockade Battlefront without wasting hours? These are the fastest farming methods ranked by earnings per hour, from beginner-friendly to endgame optimization. Plus a complete Titan tier list and upgrade priority roadmap."
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false
