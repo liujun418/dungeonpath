@@ -149,10 +149,16 @@ Figure is the most complex entity in The Hotel. There are two encounters:
 
 **Door 100 — The Electrical Room:** Final boss. Circuit breaker memory puzzle — a pattern of switches is briefly shown, and you need to replicate it. Memorize and match the pattern.
 
-**Key tips for Figure:**
-- Always crouch-walk when Figure is active — running makes noise
-- Hide in closets when you hear it approaching
-- Hold Space to hold your breath when Figure is very close
+### How to Survive Figure in DOORS
+
+Figure is a blind entity that tracks you entirely by sound. Here's exactly how to survive both encounters:
+
+1. **Always crouch-walk (Ctrl)** — Running footsteps alert Figure to your exact position. Crouch-walking is nearly silent.
+2. **Hold Space to hold your breath** — When Figure is within a few studs, holding your breath makes you completely silent for a few seconds. Use this when Figure is investigating your area.
+3. **Hide in closets** — If Figure is actively hunting and you're near a closet, hide. Wait for the heavy breathing to fade before exiting. Exiting too early is a guaranteed death.
+4. **Use Alarm Clocks (The Mines)** — In The Nest (Door 200), place Alarm Clocks away from yourself. Figure is drawn to the noise, giving you time to activate Anchors.
+5. **Learn the patrol routes** — In The Library (Door 50), Figure follows predictable paths between bookshelves. Time your movements between patrols.
+6. **Don't panic** — Figure's breathing and footsteps are designed to make you nervous. Stay calm, move slowly, and trust the crouch-walk. Speed kills in Figure encounters.
 
 #### Dupe
 

@@ -34,13 +34,13 @@ As of May 2026, there are **no active public promo codes** for Pet Simulator 99.
 - **Merchandise codes** — one-time-use codes included with official BIG Games merchandise (plushies, collectibles) purchased from [shop.biggames.io/codes](https://shop.biggames.io/codes)
 - **Milestone rewards** — automatic bonuses given to all players when the game reaches certain visit counts
 
-> **Note:** This situation is not uncommon for Roblox games. Many games transition from frequent public codes to event-driven rewards as they mature.
+> **Note:** Pet Simulator 99 codes are released during updates, events, and milestones. Bookmark this page and check back — we update the active codes list within hours of any new release.
 
 ---
 
-## How to Redeem Codes
+## How to Redeem Pet Simulator 99 Codes
 
-When codes are available, here is how to redeem them:
+Redeeming pet simulator 99 codes is straightforward:
 
 1. **Open Pet Simulator 99** in Roblox
 2. **Click the Twitter/bird icon** in the game lobby (usually on the left side of the screen)

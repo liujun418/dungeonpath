@@ -36,7 +36,7 @@ howto:
 
 ## How Golden Towers Work
 
-Golden Towers are upgraded versions of standard towers with a permanent Golden Perk that provides significant stat boosts. They are obtained through the Golden Skincrate or the rotating Daily Shop, and each one is strictly better than its normal counterpart.
+Golden Towers are upgraded versions of standard towers with a permanent Golden Perk that provides significant stat boosts. They are obtained through the Golden Skincrate or the rotating Daily Shop. If you're searching for "golden towers tds," this guide covers every golden tower ranked by DPS, the best purchase order, and optimal loadouts for each game mode.
 
 ### How to Obtain
 

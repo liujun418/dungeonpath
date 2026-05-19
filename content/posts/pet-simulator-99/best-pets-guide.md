@@ -89,6 +89,21 @@ The late game pet hierarchy is clear:
 
 ---
 
+## What Is the Strongest Pet in Pet Simulator 99?
+
+The **Titanic Persimmony Cricket** is currently the strongest pet in Pet Simulator 99, with a value of approximately 700B and the highest damage output of any pet. For non-Huge/non-Titanic options, the strongest normal pets come from the highest-area egg available in Void World — these max-stat pets can still contribute meaningful damage when enchanted properly.
+
+If you're searching for the "best pet in pet sim 99" or "strongest pet in pet sim 99," the answer depends on your budget:
+
+| Budget | Best Pet | Why |
+|--------|----------|-----|
+| **Endgame (Billions)** | Titanic Persimmony Cricket | Highest raw damage, best trade value |
+| **Mid-Game (Millions)** | Huge pets (any variant) | Significant damage upgrade over normal pets |
+| **Budget (Thousands)** | Highest-area egg pets | Best accessible damage per coin spent |
+| **F2P Friendly** | Event reward Huge pets | Earnable without Robux during events |
+
+---
+
 ## Best Enchant Loadouts by Pet Type
 
 ### General Progression Loadout
