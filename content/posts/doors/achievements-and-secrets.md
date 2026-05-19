@@ -1,4 +1,5 @@
 ---
+
 title: "DOORS Achievements and Secrets Guide: All Achievements, Easter Eggs, and Hidden Content (2026)"
 description: "Everything you need to know about DOORS Achievements and Secrets Guide. all DOORS achievements, secret rooms, easter eggs, and hidden content in Roblox...."
 date: 2026-05-10
@@ -11,6 +12,14 @@ draft: false
 tags: ["DOORS", "Roblox", "Achievements", "Secrets"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
+faq:
+  - question: "How many achievements are there in DOORS?"
+    answer: "DOORS features 50+ achievements spanning the Hotel, Mines, and Outdoors floors. Achievements range from simple (survive Room 50) to extremely challenging (speedrun completions, modifier combinations, and secret encounters)."
+  - question: "What is the hardest achievement in DOORS?"
+    answer: "'Hotel Hell' (complete The Hotel with every modifier enabled) is widely considered the hardest achievement. 'Not Five Stars' (survive the full Hotel without taking damage) and 'Survival The Jeff The Killer' are also among the most difficult."
+  - question: "Do DOORS achievements give rewards?"
+    answer: "Most achievements are purely cosmetic or for completion tracking. Some unlock special modifiers or secret items. 'A-1000' rewards the exclusive A-1000 badge. Check individual achievement descriptions for specific rewards."
+
 ---
 
 > *Last updated: May 10, 2026. Covers all 87+ achievements, secret rooms, easter eggs, developer references, and hidden content. Updated for The Great Outdoors permanent update and Rush Mode/Endless Mode.*

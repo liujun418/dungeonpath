@@ -4,7 +4,7 @@ description: "Choosing between SNIPE and RIVALS on Roblox? We break down the dif
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false
-tags: ["Roblox", "SNIPE", "RIVALS", "FPS", "Comparison", "snipe vs rivals", "best roblox fps 2026"]
+tags: ["Roblox", "SNIPE", "RIVALS", "FPS", "Comparison", "Best", "snipe vs rivals", "best roblox fps 2026"]
 categories: ["Roblox Guides"]
 cover:
   image: "/cover-image/fps-games-compared/cover.webp"

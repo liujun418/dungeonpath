@@ -1,5 +1,6 @@
 ---
 
+
 title: "Tower Defense Simulator Co-op Guide: Multiplayer Strategies, Communication & Team Tower Placements (2026)"
 description: "Tower Defense Simulator co-op guide: multiplayer tower coordination, communication strategies, team role assignments, and optimal tower placement for group play."
 date: 2026-05-12
@@ -24,6 +25,13 @@ howto:
   tools:
     - "Tower Defense Simulator (latest version)"
     - "This guide (reference while playing)"
+faq:
+  - question: "What's the best tower combination for co-op in TDS?"
+    answer: "A balanced team runs one economy tower (Farm), two DPS towers (Ranger + Accelerator), and one support (Commander or DJ). Coordinate with teammates so you're not duplicating the same role — four DPS players with no Farm will lose to eco starvation."
+  - question: "How many players can play TDS co-op?"
+    answer: "Co-op mode supports 2-4 players. Enemy health and count scale with player count, so 4-player lobbies face the hardest waves but earn the most rewards. 2-player duo is the sweet spot for balance between difficulty and coordination."
+  - question: "Is co-op easier than solo in TDS?"
+    answer: "Co-op is generally easier than solo when playing with coordinated teammates who understand their roles. With random players, solo is often more consistent since you control the entire loadout and economy."
 
 ---
 

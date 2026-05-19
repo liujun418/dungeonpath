@@ -1,4 +1,5 @@
 ---
+
 title: "RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips (2026)"
 description: "Not sure which RIVALS option fits your playstyle? We compare every major choice side-by-side with specific recommendations for different goals and budgets."
 date: 2026-05-10
@@ -11,6 +12,14 @@ draft: false
 tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
+faq:
+  - question: "How does the ranked system work in RIVALS?"
+    answer: "Ranked mode uses an MMR (Matchmaking Rating) system. Win matches to gain MMR and climb tiers from Bronze through Diamond. Losses reduce MMR. Performance metrics (K/D/A, objective score) affect MMR gain/loss per match."
+  - question: "What's the difference between Casual and Ranked in RIVALS?"
+    answer: "Casual matches have looser skill matching, no MMR impact, and allow players to join/leave freely. Ranked matches have strict skill-based matchmaking, leaver penalties, and MMR stakes. Use Casual to warm up and test new loadouts."
+  - question: "Can I queue ranked solo in RIVALS?"
+    answer: "Yes, solo queue is available for all ranked modes. Solo players are matched with other solo players when possible. Duo and full squad queues face other pre-made teams. Solo queueing is harder but develops better individual game sense."
+
 ---
 
 > *Last updated: May 10, 2026. Covers all game modes, the ranked system, MMR mechanics, and competitive strategies as of RIVALS Season 3 (The Fame Season).*

@@ -1,4 +1,5 @@
 ---
+
 title: "Blade Ball Codes Guide: All Active Codes for May 2026 (+ How to Redeem)"
 description: "All active Blade Ball codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 date: 2026-05-10
@@ -11,6 +12,14 @@ draft: false
 tags: ["Blade Ball", "Roblox", "Codes", "Items Guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
+faq:
+  - question: "How often are new Blade Ball codes released?"
+    answer: "New codes typically release during major updates, seasonal events, and milestone celebrations. Check back every 1-2 weeks or join the official Discord for real-time announcements."
+  - question: "Do Blade Ball codes expire?"
+    answer: "Yes, most codes expire within 1-4 weeks of release. Codes tied to specific events (Halloween, Christmas) expire when the event ends. Redeem codes as soon as you find them."
+  - question: "What rewards do Blade Ball codes give?"
+    answer: "Codes typically reward free spins, coins, exclusive trails, and occasionally limited-time cosmetics. Some milestone codes grant unique sword skins that may not return."
+
 ---
 
 > *Last updated: May 10, 2026. Codes are checked regularly — if a code doesn't work, it has expired.*

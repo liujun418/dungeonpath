@@ -1,4 +1,5 @@
 ---
+
 title: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026)"
 description: "Everything you need to know about DOORS Entities Bestiary. DOORS entities bestiary for The Hotel, Mines, and Outdoors. Learn behavior, surv..."
 date: 2026-05-10
@@ -11,6 +12,14 @@ draft: false
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
+faq:
+  - question: "What is the most dangerous entity in DOORS?"
+    answer: "Figure (Door 50 and Door 100) is the most consistently run-ending entity due to its tracking ability and the complex puzzle rooms it guards. Ambush is the most lethal random encounter — its multi-pass attack pattern catches even experienced players off guard."
+  - question: "How do I counter Rush in DOORS?"
+    answer: "Listen for the audio cue: a distant rumbling that grows louder. When you hear it, immediately enter the nearest closet or hide under a bed. Wait until Rush has completely passed before exiting — exiting too early is a guaranteed death."
+  - question: "What's the difference between Rush and Ambush?"
+    answer: "Rush passes through the room once. Ambush passes through 2-6 times with a distinct screech between passes. Stay in the closet through all Ambush passes. The screen turns green during Ambush events."
+
 ---
 
 > *Last updated: May 10, 2026. Covers all entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update (expected May/June 2026).*

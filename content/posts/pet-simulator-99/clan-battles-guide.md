@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Simulator 99 Clan Battles Guide: How to Win & Earn Titanic Pets (2026)"
 description: "Master Pet Simulator 99 Clan Battles in Roblox. Learn how clan wars work, scoring methods, reward tiers, top clans, and strategies to earn Titanic and Huge pets."
 date: 2026-05-15
@@ -11,6 +12,14 @@ draft: false
 tags: ["Pet Simulator 99", "Roblox", "Clan Battles", "Titanic Pets", "Multiplayer", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]
+faq:
+  - question: "How do I join a good clan in Pet Simulator 99?"
+    answer: "Look for clans with active members, regular battle participation, and clear communication channels (Discord). Avoid clans that require paid entry — the best clans judge applicants by pet power and activity, not Robux."
+  - question: "What pets are best for Clan Battles in PS99?"
+    answer: "Huge and Titanic pets dominate Clan Battles due to their massively higher damage output. Focus on quantity over individual quality — a team of 15 Huge pets outperforms 3 Titanics in sustained battle damage."
+  - question: "How often do Clan Battles happen in PS99?"
+    answer: "Clan Battle events rotate on a seasonal schedule, typically every 2-4 weeks. Check the in-game event board or clan menu for the next battle window. Regular participation is essential for maintaining clan rank."
+
 ---
 
 > *Last updated: May 15, 2026. Covers everything about Pet Simulator 99 Clan Battles — how they work, all historical battle types, scoring mechanics, reward tiers (including Titanic and Huge pets), top clans, and proven strategies for maximizing your clan's rank.*
