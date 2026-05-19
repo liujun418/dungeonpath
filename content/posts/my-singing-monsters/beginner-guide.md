@@ -1,5 +1,5 @@
 ---
-title: "My Singing Monsters Beginner Guide: Tips, Islands, and Getting Started (2026)"
+title: "My Singing Monsters Beginner Guide: Plant Island to Your First Ethereal (2026)"
 description: "New to My Singing Monsters in 2026? This beginner guide covers islands, breeding, currencies, leveling, and pro tips to fast-track your progress every day."
 date: 2026-05-10
 cover:

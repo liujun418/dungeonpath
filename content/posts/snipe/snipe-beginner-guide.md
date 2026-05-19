@@ -1,5 +1,5 @@
 ---
-title: "SNIPE Beginner Guide: Controls, Movement & Getting Started (2026)"
+title: "SNIPE Beginner Guide: Controls, Movement & Your First 50 Eliminations (2026)"
 description: "New to SNIPE on Roblox? Master the essential controls, wall running, bunny hopping, sliding mechanics, and game modes in this complete beginner walkthrough."
 date: 2026-05-17
 lastmod: 2026-05-17

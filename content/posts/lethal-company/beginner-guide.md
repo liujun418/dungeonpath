@@ -1,5 +1,5 @@
 ---
-title: "Lethal Company Beginner Guide: Survive Your First Quota (2026)"
+title: "Lethal Company Beginner Guide: Survive Your First Week & Meet Quota (2026)"
 description: "New to Lethal Company in 2026? This beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
 date: 2026-05-10
 cover:

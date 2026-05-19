@@ -1,5 +1,5 @@
 ---
-title: "DOORS Beginner Guide (May 2026): Survive The Hotel, The Mines, and Beyond"
+title: "How to Survive DOORS: Beginner Strategy Guide for Your First Hotel Clear (2026)"
 description: "Just starting DOORS? This DOORS beginner guide covers everything from controls and core mechanics to early progression and common mistakes — all in one place."
 date: 2026-05-09
 cover:

@@ -1,6 +1,6 @@
 ---
 
-title: "Pet Simulator 99 Gems and Coins Guide: Best Farming Strategies (May 2026)"
+title: "PS99 Gems & Coins Farming Guide: Best Methods Ranked by Earnings (2026)"
 description: "Master currency farming in Pet Simulator 99. Learn the fastest methods for earning gems, coins, and diamonds with optimized enchant loadouts and AFK farming strategies in 2026."
 date: 2026-05-13
 cover:

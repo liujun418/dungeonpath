@@ -1,6 +1,6 @@
 ---
 
-title: "Blade Ball Beginner Guide: Complete Walkthrough, Abilities & Tips (2026)"
+title: "How to Play Blade Ball: Beginner's Roadmap From First Match to Pro (2026)"
 description: "Learn to play Blade Ball on Roblox with this complete beginner guide. Master abilities, blocking techniques, positioning and pro tips to win every match."
 date: 2026-05-10
 cover:

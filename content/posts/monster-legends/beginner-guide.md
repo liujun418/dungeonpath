@@ -1,6 +1,6 @@
 ---
 
-title: "Monster Legends Beginner Guide: Complete Walkthrough for New Players (2026)"
+title: "Monster Legends Beginner Guide: From Starter Island to First Legendary (2026)"
 description: "Master Monster Legends from first hatch to PvP. Learn core mechanics, best starter monsters, early priorities, and how to progress without spending money."
 date: 2026-05-10
 cover:

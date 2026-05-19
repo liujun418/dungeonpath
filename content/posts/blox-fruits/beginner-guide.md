@@ -1,6 +1,6 @@
 ---
 
-title: "Blox Fruits Beginner Guide: Complete Walkthrough for New Players (2026)"
+title: "Blox Fruits Beginner Walkthrough: From Level 1 to Third Sea (2026)"
 date: 2026-05-10
 cover:
   image: "/cover-image/blox-fruits-beginner/cover.webp"

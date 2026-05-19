@@ -1,5 +1,5 @@
 ---
-title: "Palworld Beginner's Guide: Survival, Crafting & First Pals (2026)"
+title: "Palworld Beginner Walkthrough: First Base, Best Early Pals & Survival Tips (2026)"
 description: "New to Palworld in 2026? This beginner guide covers survival basics, first Pals, base building tips, leveling strategies, and common mistakes to avoid."
 date: 2026-05-10
 cover:

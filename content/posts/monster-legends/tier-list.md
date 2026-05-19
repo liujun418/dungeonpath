@@ -1,6 +1,6 @@
 ---
 
-title: "Monster Legends Tier List: Best Monsters for PvP, Wars, and Adventure (May 2026)"
+title: "Monster Legends Tier List 2026: Best Monsters for Arena, Dungeon & Wars"
 description: "Looking for the best picks in Monster Legends? We tested and ranked every option by performance, accessibility, and value."
 date: 2026-05-10
 cover:

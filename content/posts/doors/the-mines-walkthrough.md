@@ -1,6 +1,6 @@
 ---
 
-title: "DOORS The Mines Walkthrough: Complete Floor 2 Guide with All Entities, Items, and Strategies (2026)"
+title: "DOORS The Mines Walkthrough: Every Room, Entity & Boss in Floor 2 (2026)"
 description: "Stuck in DOORS? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-10
 cover:

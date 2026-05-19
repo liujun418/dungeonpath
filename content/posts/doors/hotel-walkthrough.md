@@ -1,6 +1,6 @@
 ---
 
-title: "DOORS Hotel Walkthrough: Complete Floor 1 Guide with All Rooms, Entities & Secrets (2026)"
+title: "DOORS Hotel Walkthrough: Room-by-Room Guide to Beating Floor 1 (2026)"
 description: "Stuck in DOORS? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-12
 lastmod: 2026-05-12

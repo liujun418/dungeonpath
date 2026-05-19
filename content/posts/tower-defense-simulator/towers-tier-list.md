@@ -1,6 +1,6 @@
 ---
 
-title: "Tower Defense Simulator Towers Tier List: Every Tower Ranked (May 2026)"
+title: "TDS Tower Tier List 2026: Best Towers for Solo, Co-Op & Fallen Mode"
 description: "Which Tower Defense Simulator options are actually worth your time? We tested and ranked every option by performance, accessibility, and value."
 date: 2026-05-10
 cover:

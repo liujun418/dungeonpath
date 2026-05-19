@@ -1,6 +1,6 @@
 ---
 
-title: "DOORS The Outdoors Walkthrough: Complete Floor 3 Guide with All Entities and Strategies (2026)"
+title: "DOORS The Outdoors Walkthrough: Complete Floor 3 Survival Guide (2026)"
 description: "Stuck in DOORS? This room-by-room walkthrough covers every entity, puzzle solution, boss strategy, and survival tip you need to reach the end in one piece."
 date: 2026-05-10
 cover:

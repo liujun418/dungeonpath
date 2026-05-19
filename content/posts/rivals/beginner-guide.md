@@ -1,6 +1,6 @@
 ---
 
-title: "RIVALS Beginner Guide: Complete Walkthrough for New Players (May 2026)"
+title: "RIVALS Beginner Guide: 10-Match Roadmap to Competitive Readiness (2026)"
 description: "Everything you need to know to start winning in Roblox RIVALS in 2026. Learn movement mechanics, weapon loadouts, map strategies, and ranked tips for success."
 date: 2026-05-09
 cover:

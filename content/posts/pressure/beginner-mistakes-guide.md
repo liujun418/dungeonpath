@@ -1,6 +1,6 @@
 ---
 
-title: "Pressure Common Mistakes Guide: 15 Things New Players Get Wrong (and How to Fix Them) (2026)"
+title: "15 Pressure Mistakes That Kill New Players: What NOT to Do (2026)"
 description: "Avoid the most common mistakes new Pressure players make in 2026. Learn what not to do, why these mistakes cost runs, and how to fix them to survive longer."
 date: 2026-05-10
 cover:

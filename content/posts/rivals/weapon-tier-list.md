@@ -1,6 +1,6 @@
 ---
 
-title: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked"
+title: "RIVALS Weapon Tier List: Every Gun Ranked by Mode & Playstyle (2026)"
 description: "Looking for the best picks in RIVALS? We tested and ranked every option by performance, accessibility, and value. See which ones dominate the meta and which to skip."
 date: 2026-05-09
 cover:

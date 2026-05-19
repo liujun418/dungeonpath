@@ -1,6 +1,6 @@
 ---
 
-title: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked"
+title: "Fisch Best Rods Ranked: Every Fishing Rod Tier List by Mythic & Coin Value (2026)"
 description: "Which Fisch options are actually worth your time? We tested and ranked every option by performance, accessibility, and value."
 date: 2026-05-09
 cover:
