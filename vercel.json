@@ -18,6 +18,16 @@
       ],
       "destination": "https://dungeonpath.com/$1",
       "statusCode": 301
+    },
+    {
+      "source": "/index.php",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/:path*.php",
+      "destination": "/",
+      "statusCode": 410
     }
   ]
 }
