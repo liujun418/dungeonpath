@@ -71,7 +71,7 @@ By match 5, you should have a mental map of which keys do what, even if your exe
 
 1. Select **Endless Mode** — it's the best mode for learning and progression
 2. Press **Ready** — you'll start with a basic character
-3. As you earn Cen (in-game currency), you unlock additional characters with different stats and skill sets
+3. As you earn Cen (in-game currency), you unlock additional characters with different stats and skill sets. If you're wondering how to afford the expensive late-game Titans, our [Cen farming and economy guide](/posts/blockade-battlefront/cen-farming-guide/) breaks down exactly how much Cen each wave drops and the fastest farming methods.
 
 ### During Waves
 
@@ -145,6 +145,8 @@ The helicopter is your ONLY opportunity to buy upgrades. Miss it, and you're stu
 - Titans have cooldowns — deploy them at the START of difficult waves, not at the end
 - Don't stack Titans on top of each other — spread them across lanes
 - If a Titan dies, you lose its value. Protect Titans by drawing aggro away from them
+
+For a full ranking of every Titan from S to D tier with wave-by-wave purchase timing, see our [BBF Titans Tier List](/posts/blockade-battlefront/titans-tier-list/).
 
 ---
 

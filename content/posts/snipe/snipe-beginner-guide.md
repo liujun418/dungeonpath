@@ -60,6 +60,8 @@ Before diving into positioning and tactics, get the controls into muscle memory.
 | Activate Ability | Q | Uses equipped ability |
 | Interact | E | Pick up items, open doors |
 
+Before jumping into ranked, make sure your settings are optimized — our [SNIPE Settings & FPS Optimization Guide](/posts/snipe/settings-fps-optimization/) shows the exact graphics and sensitivity configs that Diamond+ players use for the best hit registration.
+
 ---
 
 ## Movement: The Real Skill Gap
@@ -138,6 +140,8 @@ Abilities are unlocked with in-game cash earned from eliminations and match perf
 **Thunder Dash** is the aggressive player's choice. Dash forward, leave a stunning trail behind you, and follow up with a quickscope on the stunned enemy. The trail lingers for 2 seconds and stuns anyone who walks through it.
 
 Skip **Speed** entirely — it's predictable and the movement boost is negligible compared to what wall running and b-hopping already give you.
+
+Once you're comfortable with the basics, check our [SNIPE Weapons & Abilities Tier List](/posts/snipe/weapons-tier-list/) for a full breakdown of every weapon ranked by TTK and the best ability pairings for each map.
 
 ---
 

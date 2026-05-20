@@ -234,6 +234,8 @@ Seek triggers a long, cinematic chase sequence. A massive black entity pursues y
 - The Door 100 circuit breaker pattern can be broken into smaller chunks to memorize (groups of 2-3)
 - **Never run in Figure rooms** -- even when Figure seems far away
 
+For detailed boss fight strategies including Figure's sound detection mechanics and the full Seek chase sequence, see our [DOORS Boss Attack Patterns & Weakness Guide](/posts/doors/boss-attack-patterns-guide/).
+
 ---
 
 ### Dupe
