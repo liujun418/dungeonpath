@@ -40,6 +40,8 @@ faq:
 
 This guide walks you through everything: the intimidating keyboard layout, what to buy and when, and how to consistently reach wave 40+.
 
+Once you've got the basics down, check our [BBF Game Modes guide](/posts/blockade-battlefront/game-modes-guide/) to understand the differences between Normal, Hard, and Endless — the reward multipliers and enemy scaling change your strategy significantly.
+
 ---
 
 ## The Keybind System

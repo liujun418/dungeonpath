@@ -119,7 +119,7 @@ Start with **Team Deathmatch**. Respawns mean you can experiment with movement t
 
 ## Abilities: Your First Purchases
 
-Abilities are unlocked with in-game cash earned from eliminations and match performance. You can equip one ability at a time from the abilities menu.
+Abilities are unlocked with in-game cash earned from eliminations and match performance. Before you start spending Credits, grab the free items from active codes — our [SNIPE codes list](/posts/snipe/codes-rewards-guide/) has all working codes for May 2026 including the Wall Run ability unlock. You can equip one ability at a time from the abilities menu.
 
 ### Ability Tier Overview
 

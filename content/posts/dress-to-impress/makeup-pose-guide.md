@@ -22,6 +22,8 @@ faq:
 
 Custom Makeup is one of the most impactful features in Dress To Impress. Unlike pre-made faces, custom makeup lets you design every facial feature from scratch using hex color codes, giving you precise control over your look.
 
+For the complete look, pair your makeup with the right hair — our [DTI hair combos guide](/posts/dress-to-impress/hair-makeup-combos/) covers 25 theme-specific hair + makeup pairings from Gothic to Kawaii.
+
 ### How to Access
 
 1. Purchase the **Custom Makeup Pass** (349 Robux, permanent)

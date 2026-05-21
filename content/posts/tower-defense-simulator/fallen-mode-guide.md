@@ -220,7 +220,7 @@ Each Fallen attempt teaches you about boss timing, wave composition, and tower e
 
 ### Is Fallen mode worth playing?
 
-Fallen mode offers the best rewards in TDS, including exclusive towers, skins, and achievements. It's the endgame content for serious players.
+Fallen mode offers the best rewards in TDS, including exclusive towers, skins, and achievements. It's the endgame content for serious players. Wondering how Fallen compares to Golden and Hardcore for coin farming? Our [TDS mode comparison](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/) breaks down the exact coin-per-hour rates and which mode to grind based on your level.
 
 ### How many players do I need for Fallen?
 

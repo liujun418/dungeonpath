@@ -294,6 +294,8 @@ My Singing Monsters is a game of patience, strategy, and collection. The early g
 
 Remember that MSM is designed as a long-term collection game. Progress that feels slow at first accelerates dramatically once you have a stable base of coin-producing monsters, active Wishing Torches from friends, and a working Wublin Island generating passive resources.
 
+When you're ready for the endgame, our [Amber Island & Colossingum guide](/posts/my-singing-monsters/amber-island-colossingum-guide/) explains the vessel system, Relic farming, and tournament strategy.
+
 ## Related Guides
 
 - [Complete Breeding Guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) -- All breeding combinations and mechanics
