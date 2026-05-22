@@ -181,6 +181,8 @@ The Hadal Blacksite generates rooms procedurally, but there are recognizable roo
 
 For a complete catalog of all items, keycards, and puzzle solutions, see the [Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/).
 
+Once you know the basics, check our [Pressure Items & Loadout Tier List](/posts/pressure/items-loadout-tier-list/) for the best 5-slot loadouts for Hotel and Blacksite, plus which items are noob traps.
+
 ### Essential Items
 
 | Item | Function | Priority |

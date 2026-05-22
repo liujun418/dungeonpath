@@ -438,6 +438,8 @@ Complete daily tasks every session for consistent Key income. These are quick an
 | **Onyx** | Elite | Near-perfect mechanics and game sense |
 | **Nemesis** | Top of the ladder | Best of the best |
 
+If 1v1s are your focus, our [RIVALS 1v1 Duel Strategies guide](/posts/rivals/1v1-duel-strategies-guide/) covers the peek timings, movement patterns, and mind games that win duels at Diamond+.
+
 ### Tips for Climbing
 
 1. **Master one loadout** before experimenting — consistency is key to climbing

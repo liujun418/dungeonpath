@@ -177,6 +177,8 @@ For a complete ranking of every fruit with detailed stats, awakening guides, and
 | **B** | Buddha, Invisible, Light, Magma | Situational but viable with proper stat investment |
 | **C** | Dark | Outclassed by higher-tier fruits |
 
+Not sure which fruit to eat? Our [Sailor Piece Devil Fruits Tier List](/posts/sailor-piece/devil-fruits-tier-list/) ranks all 23 fruits by PvP, grinding, and boss DPS so you don't waste a good fruit.
+
 ### Fruit Awakening
 
 Fruits can be **awakened** for stronger movesets and higher damage. This requires specific materials found in later seas (Sea 2+). Don't worry about awakening in your early game — focus on getting a decent fruit first.

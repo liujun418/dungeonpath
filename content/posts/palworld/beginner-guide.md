@@ -257,6 +257,8 @@ Here is a level-by-level roadmap from spawn to level 25:
 
 Pals eat from the **Feed Box** in your base. They auto-feed when hungry. Higher-quality food keeps Sanity high.
 
+Feeding your Pals properly makes a huge difference — our [Palworld Food Recipes & Feeding Guide](/posts/palworld/food-recipes-feeding-guide/) explains the best foods for combat buffs, base worker efficiency, and SAN management.
+
 | Food Type | Best For | Sanity Restoration |
 |-----------|----------|-------------------|
 | Raw Berries | Emergency only (low Sanity gain) | Minimal |

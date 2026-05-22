@@ -57,6 +57,8 @@ Use this to identify your egg before hatching:
 
 ## Breeding Pairs for Top Legendary Monsters
 
+For proven combinations with exact success rates, see our [Monster Legends Legendary Breeding Recipes](/posts/monster-legends/legendary-breeding-recipes/) — it covers the easiest first Legendary to breed and how to push success rates above 30%.
+
 ### Fire-Legendary Breeding Pool
 
 | Target Monster | Parent 1 | Parent 2 | Approx. Breed Time | Notes |
