@@ -236,6 +236,8 @@ When multiple monsters occupy the same area:
 | **Looters** | Clear rooms while monsters are distracted |
 | **Operator** | Monitor radar, warn about patrol routes |
 
+Playing alone changes every rule — our [Lethal Company Solo Survival Guide](/posts/lethal-company/solo-survival-guide/) covers the specific enemy counters, moon choices, and loadouts that work when you have no teammates to back you up.
+
 ## The Ship Operator Role
 
 A dedicated ship operator dramatically increases survival rates. This is not a "lesser" role — it requires skill and constant attention.

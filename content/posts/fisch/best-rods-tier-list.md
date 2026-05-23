@@ -233,6 +233,8 @@ Masterline Rod (FREE — Completion Reward)
 | **Best Value** | Resourceful Rod | Lucky Rod | Doubles bait effects — saves coins long-term |
 | **Best All-Rounder** | Rod of the Depths | Trident Rod | Good stats across the board, no major weaknesses |
 
+Once you have the right rod, target specific rare and Mythic fish with our [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — it covers the exact bait, weather, and time conditions for every high-value catch.
+
 ---
 
 ## Tips for Choosing Your Next Rod

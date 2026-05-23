@@ -346,6 +346,8 @@ Not all expensive moons are worth it every time. Calculate your expected return:
 - **Quota 450-700:** Add March, occasionally Rend
 - **Quota 700+:** Titan becomes viable, Rend and Dine for backup days
 
+For a profit-focused ranking of every moon by scrap value, risk, and credits per minute, see our [Lethal Company Moons Profit Tier List](/posts/lethal-company/moons-profit-tier-list/).
+
 ## Conclusion
 
 Moon selection is the foundation of every successful Lethal Company run. Match the moon to your team's skill level, equipment, and quota needs. Never pay for a moon you cannot extract value from, and never underestimate how much weather can increase difficulty.

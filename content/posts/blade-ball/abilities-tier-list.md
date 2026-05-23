@@ -131,6 +131,8 @@ For a full breakdown of Classic, 1v1, and Team Mode strategies, see our [Game Mo
 | 2 | Force Field | Backup defense |
 | 3 | Dash | Repositioning to help teammates |
 
+Two individually strong abilities don't always work together — our [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/) shows which pairings actually win matches and why cooldown overlap matters.
+
 ---
 
 ## Ability Upgrade Priority

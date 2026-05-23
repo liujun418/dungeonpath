@@ -228,6 +228,8 @@ Do not waste Beli on cosmetic items early on. Your Beli is better spent on:
 - Raid chips (100k Beli each)
 - Stat reset if needed (20k Beli at the Stat Refund NPC)
 
+Accessories boost your damage, energy, and survivability significantly — check our [Blox Fruits Accessories Tier List](/posts/blox-fruits/accessories-tier-list/) for the best rings, capes, and masks for every playstyle.
+
 ### 4. Group Your Enemies
 
 Do not fight enemies one at a time. Run through a group of NPCs to gather aggro, then use your AOE abilities to kill them all at once. This is the fastest way to level. Buddha fruit makes this strategy significantly easier thanks to its massive hitbox multiplier.
