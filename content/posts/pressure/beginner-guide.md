@@ -245,6 +245,8 @@ Pressure supports multiplayer, and coordinating with other players significantly
 
 **Why it works:** Coordination multiplies your survival chances. A 4-player team with good communication can handle encounters that would kill a solo player.
 
+Badges are Pressure's achievement system and some unlock exclusive items — our [Pressure Badges & Farming Guide](/posts/pressure/badges-farming-guide/) ranks every badge by difficulty and the optimal order to farm them.
+
 ---
 
 ## Common Beginner Mistakes

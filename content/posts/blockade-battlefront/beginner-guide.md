@@ -36,7 +36,7 @@ faq:
     answer: "Buy the G36K rifle first — it's a reliable early-game weapon that carries you through the first 15 waves. Save remaining Cen for Titan Cameraman, which dramatically increases your damage output and survivability from wave 10 onward."
 ---
 
-**ST: Blockade Battlefront** (also known as *DaFuq!? Boom!*) is one of Roblox's most mechanically dense wave-defense shooters, drawing from the Skibidi Toilet universe. With **104 million visits** and a dedicated player base, it's popular — but its complex keybind system and deep upgrade mechanics mean most new players die before wave 10.
+**ST: Blockade Battlefront** (also known as *DaFuq!? Boom!*) is one of Roblox's most mechanically dense wave-defense shooters, drawing from the Skibidi Toilet universe. With **104 million visits** and a dedicated player base, it's popular — but its complex keybind system and deep upgrade mechanics mean most new players die before wave 10. New players tend to make the same costly mistakes — our [BBF Beginner Mistakes guide](/posts/blockade-battlefront/beginner-mistakes-guide/) covers the 10 most common Cen traps and positioning errors that keep players stuck before wave 30.
 
 This guide walks you through everything: the intimidating keyboard layout, what to buy and when, and how to consistently reach wave 40+.
 

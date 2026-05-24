@@ -202,7 +202,7 @@ The knife is more than a last resort. Master it and you'll win close-quarter enc
 
 ---
 
-Match your loadout to the map and mode, not just personal preference. Target dominates on Cargo where angles are everywhere. Thunder Dash rules on tight maps where enemies cluster. Forcefield is the 1v1 Duel king. And if you don't know what to pick — pick Dash. It's never the worst choice.
+Match your loadout to the map and mode, not just personal preference. Target dominates on Cargo where angles are everywhere. Thunder Dash rules on tight maps where enemies cluster. Forcefield is the 1v1 Duel king. And if you don't know what to pick — pick Dash. It's never the worst choice. Ready to put your loadout to the test? Our [SNIPE Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/) breaks down the RP system, optimal queue times, and the best loadouts for climbing through every rank tier.
 
 **Related Guides:**
 

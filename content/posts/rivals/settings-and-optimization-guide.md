@@ -207,6 +207,8 @@ In a fast-paced FPS like RIVALS, frame rate and visual clarity are more importan
 | Use gyroscope aiming | Enable device gyro for fine aim adjustments | More precise aiming |
 | Practice in training mode | Spend 10 minutes adapting to your layout before ranked | Reduced in-match adjustment time |
 
+On controller or console? The settings are different — our [RIVALS Controller & Console Optimization Guide](/posts/rivals/controller-console-guide/) covers sensitivity curves, aim assist types, button layouts, and console-specific tweaks.
+
 ---
 
 ## Audio Settings for Competitive Advantage

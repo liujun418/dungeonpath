@@ -80,6 +80,8 @@ Don't just collect pets — **upgrade them**. Golden pets give 4x stats and Rain
 
 > **Pro tip:** Quality over quantity. One fully upgraded Golden pet is worth far more than dozens of base-level common pets.
 
+Learning which pets to equip for each activity makes a huge difference — our [PS99 Team Compositions guide](/posts/pet-simulator-99/team-compositions-guide/) shows the exact 5-pet setups for coin farming, clan battles, events, and gem grinding.
+
 ### Step 5: Complete Quests Early
 
 Quests give boosts, items, and progression rewards that significantly accelerate your progress. Talk to every NPC with a quest marker and complete their objectives before moving on to farming.
