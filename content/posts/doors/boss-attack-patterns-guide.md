@@ -51,6 +51,10 @@ DOORS currently has 10 entities classified as "bosses" — entities with unique 
 
 Figure is the hardest boss in DOORS because it punishes one mistake with instant death. Understanding exactly how its AI works is the difference between a 2-minute clear and your 20th death.
 
+### How to Survive Figure in DOORS
+
+The core rule: **Figure is completely blind and tracks only by sound.** Walk (don't run), stay crouched, and only move when Figure is on the opposite side of the room. Use the book puzzle as a distraction — each completed book draws Figure to investigate that shelf. Throw items away from your path as noise decoys. Never sprint unless you're already detected and Figure is actively chasing you.
+
 ### Attack Pattern
 
 | Phase | Figure Behavior | Duration | Your Action |

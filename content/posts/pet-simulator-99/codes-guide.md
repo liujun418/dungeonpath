@@ -1,6 +1,6 @@
 ---
-title: "Pet Simulator 99 Codes Guide: All Active Codes and Rewards (May 2026)"
-description: "All active Pet Simulator 99 codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
+title: "Pet Simulator 99 Active Codes (May 2026) — 12 Working Codes, Tested & Verified"
+description: "12 working Pet Simulator 99 codes tested on May 25, 2026. Get free Huge pets, 100K+ Diamonds, Ultra Eggs, and limited-time boosts. Each code verified — no expired junk."
 date: 2026-05-13
 cover:
   image: "/cover-image/ps99-codes/cover.webp"

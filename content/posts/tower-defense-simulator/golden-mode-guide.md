@@ -1,7 +1,7 @@
 ---
 
-title: "Tower Defense Simulator Golden Towers Guide: Best Golden Skins, Crate Strategy & DPS Rankings (2026)"
-description: "Can't beat that Tower Defense Simulator boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
+title: "Best Golden Towers in TDS (2026) — Every Golden Skin Ranked, DPS & Crate Strategy"
+description: "Which golden tower should you unlock first in TDS? We crunched the DPS numbers on all 8 golden skins. Golden Minigunner vs Golden Scout vs Golden Soldier — here's the exact unlock order and how many crates you need."
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false

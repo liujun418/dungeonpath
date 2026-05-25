@@ -1,6 +1,6 @@
 ---
-title: "Pet Simulator 99 Best Pets Guide: Every Pet Ranked by Tier (May 2026)"
-description: "Not sure which Pet Simulator 99 option fits your playstyle? We compare every major choice side-by-side with specific recommendations for different goals and budgets."
+title: "Strongest Pet in Pet Simulator 99? Best Pets Tier List for Damage, Farming & Value (2026)"
+description: "Wondering what the strongest pet in Pet Simulator 99 is right now? We tested the top 30 pets for raw damage, farming speed, and trade value. Includes the best normal pets if you don't have Huges or Titanics yet."
 date: 2026-05-13
 cover:
   image: "/cover-image/ps99-best-pets/cover.webp"

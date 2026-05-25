@@ -1,6 +1,6 @@
 ---
-title: "How to Survive DOORS: Beginner Strategy Guide for Your First Hotel Clear (2026)"
-description: "Just starting DOORS? This DOORS beginner guide covers everything from controls and core mechanics to early progression and common mistakes — all in one place."
+title: "How to Play DOORS — Beginner Guide: First Hotel Clear, Entity Counters & Tips (2026)"
+description: "New to DOORS and dying before Room 10? Learn the core mechanics in 5 minutes — how to hide from Rush, counter Screech, survive Seek's chase, and clear the Hotel on your first day. No fluff, just what works."
 date: 2026-05-09
 cover:
   image: "/cover-image/doors-beginner/cover.webp"
