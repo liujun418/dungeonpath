@@ -176,6 +176,8 @@ Once you're comfortable with the basics, check our [SNIPE Weapons & Abilities Ti
 | Ignoring abilities | You're playing at a disadvantage | Buy Target as soon as you can afford it |
 | Sprinting everywhere | Loud footsteps telegraph your position | Walk (no Shift) when approaching corners |
 
+Most new SNIPE players make the same mistakes in their first week — our [SNIPE Beginner Mistakes guide](/posts/snipe/beginner-mistakes-guide/) covers the 10 most common errors from crosshair placement to ability waste and how to fix each one fast.
+
 ---
 
 SNIPE rewards patience and deliberate practice more than most Roblox FPS games. Spend your first session drilling movement, your second session learning abilities, and by your third, you'll be the one other players complain about in chat.

@@ -224,6 +224,8 @@ Here is a level-by-level roadmap from spawn to level 25:
 
 ## Common Mistakes New Players Make
 
+Don't make the mistakes most players do — our [Palworld Beginner Mistakes guide](/posts/palworld/beginner-mistakes-guide/) covers base placement, Pal assignment, breeding priorities, and the 10 errors that cost new players hours of wasted time.
+
 | Mistake | Why It Hurts | How to Avoid |
 |---------|-------------|-------------|
 | Building on a slope | Pals get stuck, pathfinding breaks | Build on completely flat terrain |

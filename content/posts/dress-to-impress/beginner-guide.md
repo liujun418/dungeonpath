@@ -263,6 +263,8 @@ You vote on every player. Be honest but understand that your votes affect who wi
 
 Not all themes are equal. According to the 2026 community consensus, **Gothic** is the most reliable theme for earning 5-star votes because the color palette and style are well-defined. Themes like "Dark or Light" are harder because they're ambiguous.
 
+Gothic and Dark themes appear constantly — our [DTI Gothic, Dark & Horror Theme Master Guide](/posts/dress-to-impress/gothic-dark-theme-guide/) has 8 complete outfits with exact pieces, colors, and makeup recipes that consistently win these categories.
+
 ---
 
 ## Frequently Asked Questions

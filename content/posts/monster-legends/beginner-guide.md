@@ -117,6 +117,8 @@ The Adventure Map is your main PvE content. Each map has multiple nodes with ene
 - **Monster cells** — for ranking up monsters
 - **Runes** — equipable stat boosts (don't worry about these yet)
 
+When you're ready for PvE content, our [Monster Legends Dungeons & Adventure Map Guide](/posts/monster-legends/dungeon-adventure-guide/) covers elemental advantages, stamina management, and the best dungeon team compositions.
+
 Clear as far as you can with your current team. You'll unlock better farming nodes as you progress.
 
 ---

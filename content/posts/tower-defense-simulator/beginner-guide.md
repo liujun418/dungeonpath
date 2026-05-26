@@ -74,6 +74,8 @@ Every game starts with a limited number of coins. Your spending priority should 
 | 4 | Add a Buffer/Support tower | Buff towers amplify all your damage dealers |
 | 5 | Save for Level 3-4 upgrades | Late-game towers carry you through boss waves |
 
+Once you know the basics, maximize your income with our [TDS Coin & Gem Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/) — it breaks down the exact coin-per-hour rates for every mode and the best farming maps.
+
 ### Step 3: Learn Tower Types
 
 Towers in TDS fall into four main categories:
