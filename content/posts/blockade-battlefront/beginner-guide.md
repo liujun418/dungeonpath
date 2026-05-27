@@ -65,6 +65,8 @@ Don't try to memorize all 13+ keys at once. Your first 3 matches should be purel
 
 By match 5, you should have a mental map of which keys do what, even if your execution isn't clean yet.
 
+Default keybinds slowing you down? Our [BBF Settings & Controls Guide](/posts/blockade-battlefront/settings-controls-guide/) shows the optimized keybinds, graphics, and camera settings that top players use.
+
 ---
 
 ## Core Gameplay Loop

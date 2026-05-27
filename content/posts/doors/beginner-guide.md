@@ -436,6 +436,8 @@ DOORS has **87+ badges/achievements**. For the complete list with unlock require
 
 ### Common Beginner Mistakes
 
+Keep dying to the same entities? Our [DOORS Beginner Mistakes guide](/posts/doors/beginner-mistakes-guide/) identifies the 10 most common ways new players die — from Rush timing to Figure encounters — and how to fix each one.
+
 | Mistake | Consequence | Fix |
 |---------|------------|-----|
 | Running during Figure encounters | Figure hears you and attacks | Crouch-walk, hold breath when close |

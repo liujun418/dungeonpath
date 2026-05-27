@@ -170,6 +170,8 @@ Wall Run enables horizontal movement that breaks opponents' crosshair placement.
 
 The higher you climb, the more the meta narrows. In Diamond+, 77% of players run sniper primaries.
 
+Whether you play alone or with a team changes your best loadout — our [SNIPE Solo vs Squad Guide](/posts/snipe/solo-vs-squad-guide/) breaks down the best weapons and abilities for each mode.
+
 ---
 
 ## Related Guides

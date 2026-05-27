@@ -455,6 +455,8 @@ The most common and valuable sea event.
 
 Sea Beast Drops are essential materials for several upgrades including God Human (10 needed), Dark Blade V3 (10 needed), and various V2 fighting styles.
 
+For open-world sea content, our [Blox Fruits Sea Events & Raids Guide](/posts/blox-fruits/sea-events-raids-guide/) covers Sea Beast farming, Rumbling Waters, Factory Raid rewards, and all world boss drop tables.
+
 ## Optimal Boss Farming Routes
 
 ### For Materials (Leveling a Fighting Style)

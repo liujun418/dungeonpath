@@ -179,6 +179,8 @@ Knowing the ship interior is critical. The ship serves as your hub and safe zone
 
 ## Common Beginner Mistakes
 
+Most new crews make the same fatal errors — our [Lethal Company Beginner Mistakes guide](/posts/lethal-company/beginner-mistakes-guide/) covers the 10 mistakes that wipe crews and exactly how to avoid them.
+
 ### 1. Making Too Much Noise
 
 Lethal Company has proximity-based audio that monsters react to. Running everywhere, slamming doors, talking loudly on voice chat, and using the boombox recklessly all attract monsters. **Eyeless Dogs are completely blind but have excellent hearing.** Walk instead of run when possible, especially outdoors.

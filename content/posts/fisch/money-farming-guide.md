@@ -314,6 +314,8 @@ For a detailed breakdown of every quest and NPC, see our [Fisch Quests and NPCs 
 
 ## Trading Strategies
 
+For player-to-player trading, our [Fisch Trading Values & Economy Guide](/posts/fisch/trading-values-guide/) covers current fish prices, mutation multipliers, and strategies to build wealth through smart trades.
+
 The player-to-player trading system in Fisch can be one of the fastest ways to accumulate coins, especially if you catch rare or mutated fish.
 
 ### Trading Fundamentals
