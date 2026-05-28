@@ -67,6 +67,8 @@ The five natural islands form the backbone of the game. Each introduces the same
 | Sanctum | Level 35+ | Mythical monster island |
 | The Colossingum | Level 10 | Monster battling arena |
 
+For the endgame islands, our [Gold Island, Fire Haven & Magical Sanctum Guide](/posts/my-singing-monsters/gold-island-fire-haven-magical-sanctum/) explains each specialty island's currency, best monsters to place, and purchase priority.
+
 ## Your First Monsters
 
 When you start Plant Island, you begin with a few basic monsters and quickly unlock the ability to purchase and breed more.
@@ -226,6 +228,8 @@ Wishing Torches are a social feature that increases your chances of breeding rar
 6. **Save relics** for seasonal monsters you want
 
 ## Common Mistakes to Avoid
+
+New to MSM? Avoid the most common pitfalls with our [MSM Beginner Mistakes guide](/posts/my-singing-monsters/beginner-mistakes-guide/) — 10 errors that waste Diamonds and slow your island progression.
 
 ### Mistake 1: Wasting Diamonds on Speed-ups
 

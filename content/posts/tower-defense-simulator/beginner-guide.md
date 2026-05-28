@@ -248,6 +248,8 @@ For detailed map-by-map strategies with optimal tower placements, see the [TDS B
 | **Achievements** | Complete specific milestones | Special reward towers |
 | **Crates** | Open crates with coins or gems | Random tower drops |
 
+Past TDS events have introduced exclusive towers like Gladiator and Executioner — our [TDS Event Towers & Limited-Time Content Guide](/posts/tower-defense-simulator/event-towers-guide/) ranks every past event tower and explains how to prepare for the next one.
+
 ### Priority Unlock Order for Beginners
 
 1. **Golden Scout** — best early game tower

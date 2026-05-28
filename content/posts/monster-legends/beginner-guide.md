@@ -107,6 +107,8 @@ Gold is your primary resource in the early game. The more monsters you have in h
 | Water Habitat | Water | Mersnake, any bred Water monsters | Medium |
 | Magic Habitat | Magic | Genie, any bred Magic monsters | Medium |
 
+Maximize your gold production with our [Monster Legends Habitats & Island Layout Guide](/posts/monster-legends/habitats-island-layout/) — it covers the best habitat placement, adjacency bonuses, and upgrade ROI for efficient island design.
+
 ### Step 5: Start the Adventure Map
 
 The Adventure Map is your main PvE content. Each map has multiple nodes with enemies to defeat. Rewards include:

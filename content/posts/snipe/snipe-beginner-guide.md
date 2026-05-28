@@ -143,6 +143,8 @@ Skip **Speed** entirely — it's predictable and the movement boost is negligibl
 
 Once you're comfortable with the basics, check our [SNIPE Weapons & Abilities Tier List](/posts/snipe/weapons-tier-list/) for a full breakdown of every weapon ranked by TTK and the best ability pairings for each map.
 
+Limited-time events drop exclusive skins and charms you can't get anywhere else — our [SNIPE Events & Seasonal Rewards Guide](/posts/snipe/events-seasonal-guide/) covers past events, upcoming predictions, and how to prepare for the next drop.
+
 ---
 
 ## Your First 10 Matches: A Roadmap

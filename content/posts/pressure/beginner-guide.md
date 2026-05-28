@@ -247,6 +247,8 @@ Pressure supports multiplayer, and coordinating with other players significantly
 
 Badges are Pressure's achievement system and some unlock exclusive items — our [Pressure Badges & Farming Guide](/posts/pressure/badges-farming-guide/) ranks every badge by difficulty and the optimal order to farm them.
 
+Ready to clear the Hotel faster? Our [Pressure Speedrun Guide](/posts/pressure/speedrun-guide/) covers the optimal routes, item loadouts, and per-floor time benchmarks that top speedrunners use.
+
 ---
 
 ## Common Beginner Mistakes
