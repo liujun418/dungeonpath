@@ -1,289 +1,90 @@
 ---
-title: "Lethal Company Beginner Guide: Survive Your First Week & Meet Quota (2026)"
-description: "New to Lethal Company in 2026? This beginner guide covers the core game loop, first quota tutorial, essential survival tips, and common mistakes to avoid."
-date: 2026-05-10
-cover:
-  image: "/cover-image/lethal-company-beginner/cover.webp"
-  alt: "Lethal Company Beginner Guide Cover"
-  caption: "Lethal Company Beginner Guide"
-lastmod: 2026-05-10
+title: "Lethal Company Beginner Guide — Survive Your First Quota, Day by Day (2026)"
+description: "Your first quota is 130 credits and you have 3 days. Here's exactly what to do on each day — which moon to land on, what to buy, when to run back to the ship, and how to avoid the Day 1 wipe that ends 50% of new player runs."
+date: 2026-05-30
+lastmod: 2026-05-30
 draft: false
 tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+cover:
+  image: "/cover-image/lethal-company-beginner/cover.webp"
+  alt: "Lethal Company Beginner Guide Cover"
+  caption: "Lethal Company Beginner Guide"
 faq:
-  - question: "Is Lethal Company free to play?"
-    answer: "No, Lethal Company is a paid game on Steam. It is relatively inexpensive and supports up to 4-player co-op multiplayer."
-  - question: "How many players can play Lethal Company together?"
-    answer: "Lethal Company supports 1-4 players in co-op multiplayer. Playing with friends significantly improves your chances of survival and makes the game much more fun."
-  - question: "What happens if I don't meet the quota in Lethal Company?"
-    answer: "If your team fails to meet the quota by the deadline, the Company will deduct credits from your account. If your total credits go below zero, you lose the game and must start over."
-  - question: "What are the most important items for beginners in Lethal Company?"
-    answer: "The Flashlight is essential for seeing in dark facilities. The Walkie-Talkie helps coordinate with teammates. The Shovel can be used for self-defense against monsters."
+  - question: "What should I buy before my first landing in Lethal Company?"
+    answer: "Buy 2 Flashlights (30 credits) and 1 Shovel (30 credits). That's 60 credits — leave the remaining 100 credits in the bank for next quota. The Flashlights are non-negotiable (interiors are pitch black without them). The Shovel lets you fight Thumpers and Bunker Spiders instead of dying to them. Skip the Walkie-Talkie for your very first run — learn to stay together as a group before adding the complexity of split communication."
+  - question: "When should I leave the facility and return to the ship?"
+    answer: "Return by 5 PM in-game time — no later. At 5 PM, outdoor enemies (Eyeless Dogs, Forest Keepers) begin spawning and the walk back becomes lethal. A good internal alarm: when your inventory is 3/4 full or the in-game clock shows 4 PM, start heading back. Losing 20 credits of scrap in your inventory because you died at 6 PM is worse than leaving 20 credits of scrap in the facility because you left early."
 ---
 
-> *Last updated: May 10, 2026. This guide covers Lethal Company v50+ on Steam. Whether you are playing solo or with friends, this beginner tutorial walks you through everything you need to survive your first quota and beyond.*
+## Your First 3 Days: A Day-by-Day Walkthrough
 
-## What Is Lethal Company?
+Your quota is 130 credits. You have 60 credits in the bank. You have 3 days. Here's exactly what to do.
 
-Lethal Company is a co-op horror game developed by Zeekerss and released on Steam in 2023. It exploded in popularity for its unique blend of tense horror exploration, comedic physics, and teamwork-driven gameplay. You play as a contracted worker for **The Company**, a mysterious corporate entity that sends you to abandoned, monster-infested moons to collect scrap metal and valuables.
+### Day 1 — Learning the Basics (Land on Assurance)
 
-The core premise is simple: **land on a moon, collect enough scrap to meet your quota, return alive, and repeat.** Fail to meet the quota and you are fired — permanently, deleting your save file.
+**Before landing:** Buy 2 Flashlights and 1 Shovel (60 credits total). Pick Assurance as your moon (free, C-tier hazard, manageable enemies).
 
-### Game Overview
+**The landing:** You land at 8 AM. The facility entrance is the large metal door. Everyone enters together. The ship operator stays on the terminal — and NO, the ship operator is not the player who "doesn't want to play." The ship operator is the most important role: they watch radar for red dots (enemies) and yellow dots (scrap), guide the team around danger, and control the teleporter.
 
-| Feature | Detail |
-|---------|--------|
-| **Developer** | Zeekerss |
-| **Release Date** | October 2023 (Early Access) |
-| **Genre** | Co-op Horror, Survival |
-| **Platform** | PC (Steam) |
-| **Player Count** | 1-4 (recommended: 3-4) |
-| **Average Run Time** | 30-60 minutes per quota cycle |
-| **Price** | $9.99 USD |
+**Inside the facility:** Stay together as a group of 3. Clear 3-4 rooms near the entrance. Grab EVERYTHING — at this stage, even tattered metal sheets (12 credits) matter. One player carries scrap to the entrance and drops it. Don't carry scrap all the way to the ship yet — dropping at the entrance makes the final ferry trip one clean run.
 
-## The Core Game Loop
+**When to leave:** When the ship operator says "it's 4 PM, come back" — come back. Don't negotiate. Don't say "one more room." The ship operator's job includes enforcing the return time.
 
-The game operates on a day-by-day cycle. Each "day" you fly your ship to a moon, scavenge during the daylight hours, and must return to the ship before midnight. Here is the loop broken down:
+**Day 1 result:** You should have 80-150 credits of scrap delivered. Combined with unsold starting credits, you're at 90-160 total — close to or past your 130 quota. If you're short, don't panic. Day 2 fills the gap.
 
-1. **Select a Moon** — Use the ship terminal to pick a moon to land on. You start with three free moons available.
-2. **Gear Up** — Buy equipment from the terminal store or use what you have.
-3. **Scavenge** — Leave the ship, explore indoor facilities, and collect scrap.
-4. **Return by Midnight** — Get back to the ship before the clock hits 12:00 AM. Anyone left outside dies.
-5. **Sell Scrap** — Use the terminal to sell your collected scrap to The Company.
-6. **Meet Quota** — If total scrap value meets or exceeds quota, you survive and get a new, higher quota. If not, game over.
+### Day 2 — Building Surplus (Land on March or Assurance)
 
-| Phase | Time Limit | Key Activity |
-|-------|-----------|--------------|
-| Morning | 6:00 AM - 12:00 PM | Buy equipment, plan route |
-| Daylight | 6:00 AM - 8:00 PM | Scavenge safely (monsters weaker) |
-| Evening | 8:00 PM - 12:00 AM | Higher danger, retreat to ship |
-| Midnight | 12:00 AM | Deadline — anyone outside dies |
-| Selling | Post-midnight | Sell scrap at terminal |
+**Before landing:** If Day 1 went well (no deaths, 100+ scrap collected), buy a Walkie-Talkie (12 credits) and another Shovel (30 credits) if you have 3+ players. If Day 1 was rough (someone died, scrap is low), save your credits.
 
-## First Quota Tutorial
+**The moon choice:** If Day 1 scrap covered 80%+ of quota, play it safe with Assurance again. If Day 1 was great and you're already past quota, try March (free, C-tier, better scrap pool). March has a fire exit — the ship operator can guide players to it for faster extraction.
 
-Your first quota is **130 credits**. This is very achievable with two or three successful scavenging trips to **Experimentation** or **Assurance**, the two easiest moons.
+**Inside the facility:** Same strategy as Day 1: clear 4-5 rooms near the entrance, carry scrap to entrance, leave by 5 PM. The only difference: you should now recognize Bracken rooms (they're dimly lit, with a single light source, and feel unsettling before you see the Bracken). If a room gives you that feeling, ship operator checks radar for red dots before the team enters.
 
-### Step 1: Understand the Terminal
+**Day 2 result:** Combined with Day 1, you should have 200-350 credits of scrap. Quota is met with surplus carrying into the next quota.
 
-The ship has a terminal at the front. Approach it and press **E** to interact. Type `help` to see available commands. The most important commands for beginners:
+### Day 3 — Cleanup or Crisis
 
-| Command | Function |
-|---------|----------|
-| `moons` | Lists all available moons and their costs |
-| `store` | Opens the equipment shop |
-| `bestiary` | View information about scanned monsters |
-| `scan` | Shows the current scrap value on the moon |
-| `confirm` | Confirms a moon landing or store purchase |
+**If quota is already met:** Sell only what you need to reach quota exactly. Save the rest for the next quota (which will be higher). Day 3 is a free day — optionally land on Offense (40 credits, good scrap) to build next-quota surplus, or skip the day entirely.
 
-### Step 2: Land on Experimentation
-
-Experimentation is the safest moon. It costs nothing to travel to and has the fewest and weakest monsters. Type `Experimentation` at the terminal, then type `confirm` to land.
-
-### Step 3: Equip Yourself
-
-Before leaving the ship, grab a **Flashlight** from the wall rack (or buy one from the store for 15 credits if none is available). Each player should have a walkie-talkie for communication — buy one from the store for **12 credits**.
-
-### Step 4: Use Your Scanner
-
-Press **Q** (default keybind) to scan. Your scanner reveals:
-- The value of scrap items (in credits)
-- The name of monsters and their danger level
-- The location of the main entrance to the facility
-- The ship's exit door
-
-**Scan everything.** It is your most important tool.
-
-### Step 5: Learn the Map Layout
-
-Facilities have a main entrance and sometimes a fire exit. The interior consists of rooms connected by hallways. Look for:
-
-| Landmark | What It Means |
-|----------|--------------|
-| Main Entrance | Large door, always present |
-| Fire Exit | Small door, leads to different outdoor location |
-| Ship Door | Orange, shows where you came in |
-| Lockers | Can contain scrap or monsters, check carefully |
-| Vents | Monsters can spawn from these during the day |
-
-### Step 6: Collect Scrap
-
-Walk up to any scrap item and press **E** to pick it up. One-handed items let you carry something else in your other hand. Two-handed items require both hands. Bring scrap back to the ship and drop it in the storage area. For a complete database of all scrap items, value ranges, and sell priorities, see our [Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/).
-
-### Step 7: Sell Before Midnight
-
-Back on the ship, use the terminal, type `sell` followed by the items you want to sell, or type `sell all` to sell everything that was scanned on the ship. The value goes toward your quota.
-
-### Step 8: End the Day
-
-Once everyone is on the ship and the scrap is sold, you can type `stop` at the terminal to end the day. If your total sold scrap meets the quota, you advance to the next quota cycle.
-
-## Basic Survival Rules
-
-### 1. Never Split Up Alone
-
-Always travel with at least one other person. Solo players who encounter a Bracken or Coil-Head rarely survive. The buddy system saves lives. For optimal team composition and communication, see our [Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/).
-
-### 2. Watch Your Stamina
-
-Running depletes stamina rapidly. When the breathing icon appears in the corner of your screen, stop running briefly to recover. Reserve stamina for emergencies — you do not want to be winded when a Thumper starts chasing you.
-
-### 3. Listen to Audio Cues
-
-Lethal Company is a game where sound matters more than visuals. Wear headphones. Each monster makes a distinct sound:
-
-| Sound | Meaning |
-|-------|---------|
-| Loud breathing nearby | Bracken is close |
-| Metallic clicking | Coil-Head approaching |
-| Heavy footsteps | Thumper or Forest Keeper |
-| Barking | Eyeless Dog nearby |
-| Music box melody | Jester winding up — run |
-| Static on walkie | Ghost Girl targeting you |
-
-### 4. Close Doors Behind You
-
-Many monsters can open doors. Closing doors slows them down and buys you precious seconds. The ship door is your safest haven — monsters cannot enter the ship.
-
-### 5. Check Corners
-
-Always look up before entering a room (**Snare Fleas** drop from ceilings). Check behind doors (**Brackens** love hiding there). Scan corners before committing to a hallway.
-
-### 6. Manage Inventory Space
-
-You have two hands. Plan what you carry:
-
-| Item | Hands Used | Priority |
-|------|-----------|----------|
-| Scrap | 1-2 hands | High |
-| Flashlight | 1 hand | Essential |
-| Walkie-Talkie | 1 hand | Essential |
-| Shovel | 1 hand | High |
-| Weapon (Stop Sign) | 1 hand | Medium |
-
-Pro tip: Flashlights can be dropped on the ground and remain on. Create "light caches" in safe rooms.
-
-## Ship Controls Reference
-
-Knowing the ship interior is critical. The ship serves as your hub and safe zone.
-
-| Location | Function |
-|----------|----------|
-| Terminal (front) | Moon travel, store, sell, bestiary |
-| Monitor (left) | Camera view of team and radar |
-| Door Control (monitor) | Open/close ship door remotely |
-| Lever (right of terminal) | Start ship engine / end day |
-| Storage (back) | Store scrap between trips |
-| Charging Station (wall) | Recharge flashlights and walkie-talkies |
-
-## Common Beginner Mistakes
-
-Most new crews make the same fatal errors — our [Lethal Company Beginner Mistakes guide](/posts/lethal-company/beginner-mistakes-guide/) covers the 10 mistakes that wipe crews and exactly how to avoid them.
-
-### 1. Making Too Much Noise
-
-Lethal Company has proximity-based audio that monsters react to. Running everywhere, slamming doors, talking loudly on voice chat, and using the boombox recklessly all attract monsters. **Eyeless Dogs are completely blind but have excellent hearing.** Walk instead of run when possible, especially outdoors.
-
-### 2. Wasting Credits Early
-
-It is tempting to buy a Jetpack (700 credits) or Zap Gun (400 credits) immediately. Do not. Early credits are better spent on:
-
-| Purchase Priority | Item | Cost | Why |
-|------------------|------|------|-----|
-| 1st | Walkie-Talkie (per player) | 12 | Communication saves lives |
-| 2nd | Flashlight / Pro-Flashlight | 15-25 | You need to see |
-| 3rd | Shovel | 30 | Defense against Snare Fleas and Thumpers |
-| 4th | Stun Grenade | 30 | Emergency escape tool |
-
-### 3. Ignoring Weather Warnings
-
-The terminal tells you weather conditions before you land. Beginners should avoid:
-
-| Weather | Effect | Beginner? |
-|---------|--------|-----------|
-| Clear | No effect | Safe |
-| Foggy | Reduced visibility | Manageable |
-| Flooded | Water indoors slows you down | Manageable |
-| Stormy | Lightning strikes outdoors, metal attracts | Skip |
-| Eclipsed | Monsters spawn outside, extreme danger | **AVOID** |
-| Dusty | Reduced visibility outdoors | Skip if possible |
-
-### 4. Not Checking Ceilings
-
-Snare Fleas cling to ceilings and drop onto players passing below. They latch onto your head, slowly suffocating you while you struggle. **Always look up when entering a new room.** A flashlight scan of the ceiling takes one second and can save your life.
-
-### 5. Hoarding Scrap Outside the Ship
-
-Dropping scrap outside the ship to "sort it later" is a death sentence. Monsters patrol outdoors, Eyeless Dogs roam, and Forest Keepers appear on certain moons. **Bring scrap directly into the ship.** The ship is the only safe place on the moon.
-
-### 6. Forgetting to Close the Ship Door
-
-An open ship door lets monsters inside (though they cannot enter the ship cabin itself, they can camp the doorway). Close the door behind you when entering or leaving. The designated **ship operator** should manage the door.
-
-### 7. Running Past Monsters
-
-Panic-running past monsters often triggers their chase AI. **Brackens** will snap your neck if you stare at them and run — you need to look away and back away slowly. **Coil-Heads** only move when you are not looking, so staring while backing away is the correct play. Learn each monster's behavior before you face it at speed.
-
-### 8. Ignoring the Clock
-
-The day-night cycle is unforgiving. Around 8:00 PM, monster spawns increase and danger escalates. **Start heading back to the ship by 10:00 PM at the latest.** It is better to return with partial scrap than to die with a full inventory at midnight.
-
-### 9. Not Using Ship Radar
-
-The ship monitor shows a top-down view of the outdoor area. A player on monitor duty can:
-- Track teammate positions
-- Spot monsters near the ship
-- Guide lost players back
-- Warn about approaching enemies
-
-## Solo Play Tips
-
-Playing Lethal Company solo is significantly harder but possible. Key differences:
-
-- Monsters focus entirely on you (no splitting aggro)
-- You cannot be saved by teammates
-- You must manage all roles alone
-- **The ship door stays wherever you left it** (no door control without mods)
-
-| Solo Strategy | Effectiveness | Notes |
-|--------------|--------------|-------|
-| Rush small scrap | High | Grab small items, return frequently |
-| Use radar boosters | Medium | Place near entrance as marker |
-| Play on Experimentation | Highest | Easiest moon, fewer monsters |
-| Avoid mansions | Low | Too dangerous solo |
-
-## When to Advance to Harder Moons
-
-Once your quota exceeds 300 credits, Experimentation and Assurance may not provide enough scrap. That is your signal to try **Vow** (medium difficulty, free travel) and eventually **Offense** (medium-hard).
-
-| Quota Range | Recommended Moons |
-|-------------|-------------------|
-| 130-200 | Experimentation, Assurance |
-| 200-400 | Vow, Offense |
-| 400-700 | March, Rend (if you can afford travel) |
-| 700+ | Titan (best loot, highest danger) |
-
-For advanced quota scaling strategies, weather survival tactics, and max-efficiency routing, see our [Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/).
-
-## Conclusion
-
-Lethal Company has a steep learning curve, but mastering the basics outlined in this guide will see you through your first quota and well beyond. Remember: **communication, caution, and teamwork** are more important than any piece of equipment.
-
-The most successful teams are those that respect the monsters, watch the clock, and always have an exit plan. Stay safe out there, and may your scrap piles be heavy.
+**If you're short by 50-100 credits:** Land on Assurance. Rush-clear 3 rooms near the entrance. Sell everything. Don't risk deep exploration — you need guaranteed scrap, not maximum scrap.
 
 ---
 
-### Related Guides
+## The 3 Sounds You Must Learn on Day 1
 
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
-- [Lethal Company Moons Guide: Complete Moon Rankings and Strategies](/posts/lethal-company/moon-guide/)
-- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
-- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
-- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
+Half of Lethal Company deaths happen because you didn't hear the warning. Learn these three sounds before your first landing:
 
-**Related Guides:**
+| Sound | Entity | What to Do |
+|-------|--------|-----------|
+| High-pitched, clean screech getting louder | **Rush** | Hide in nearest closet IMMEDIATELY |
+| Gurgling growl, low-pitched | **Thumper** | Stand your ground with Shovel, backpedal while hitting |
+| Heavy footsteps, no other sound | **Bracken** | Glance briefly (under 0.5s), look away, back away slowly |
 
-- [horror games comparison](/posts/pillar/roblox-horror-games-compared/)
+If you hear a sound you don't recognize, assume it's dangerous and move toward the exit. You can learn the full bestiary later. Day 1 is about survival.
+
+---
+
+## What Kills New Players (And How to Prevent It)
+
+**Death: Your crew split up and someone got picked off alone.**
+Prevention: Never send fewer than 2 players into the facility together. The ship operator counts as 1 player for radar support but can't help a solo player who gets cornered.
+
+**Death: No one bought a Shovel.**
+Prevention: A Thumper costs 30 credits to counter (one Shovel) and 200+ credits to lose (all your scrap on a dead teammate). Buy the Shovel.
+
+**Death: You went back for one more item at 7 PM.**
+Prevention: When the ship operator says "leave now," you leave now. Greed kills more crews than monsters.
+
+**Death: The ship operator wasn't watching radar.**
+Prevention: The radar shows red dots (monsters) in real time. A ship operator who's watching TikTok while the team explores is the single biggest liability in the game. Choose your ship operator wisely.
+
+---
+
+## Related Guides
+
+- [Lethal Company Moons Profit Tier List — Best Moons for Scrap](/posts/lethal-company/moons-profit-tier-list/)
+- [Lethal Company Quota Crisis Guide — Emergency Scrap Strategies](/posts/lethal-company/quota-crisis-guide/)
+- [Lethal Company Beginner Mistakes — 10 Crew-Wiping Errors](/posts/lethal-company/beginner-mistakes-guide/)
+- [Lethal Company Equipment Guide — Best Tools & Upgrades](/posts/lethal-company/equipment-guide/)
