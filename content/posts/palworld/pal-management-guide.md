@@ -12,55 +12,116 @@ cover:
   alt: "Palworld Pal Management Guide Cover"
   caption: "Palworld Pal Management"
 faq:
-  - question: "Should I keep Pals with bad traits?"
-    answer: "Only if they're the ONLY Pal you have with a required work suitability for your base (e.g., your only Kindling 3+ Pal). Otherwise, no. A Pal with the Slacker trait (-30% Work Speed) assigned to your base is actively slowing your production. Either condense it into a better Pal of the same species, sell it to a merchant, or butcher it for materials (if the species drops valuable resources). The Palbox space is more valuable than a bad-trait Pal."
-  - question: "When should I start condensing Pals?"
-    answer: "Start condensing the moment you have 4+ copies of the same Pal species. Each condensed copy permanently upgrades the base Pal's Partner Skill by one level. A max-condensed Pal (4 stars) has 20-40% more effective Partner Skills. Prioritize condensing your main mount (speed boost per level) and your main combat Pal (damage boost per level). Condensing 4 copies takes you to 1 star. You need 64 total copies for 4 stars — use breeding to generate the volume."
+  - question: "Should I keep Pals with bad traits like Slacker or Destructive?"
+    answer: "Almost never. A Pal with Slacker (-30% Work Speed) assigned to your base is actively slowing your production more than an empty slot would. The only exception: if it's literally the only Pal you own with a required work suitability for your base — for example, your sole Kindling 3+ Pal. In that case, keep it temporarily but prioritize catching or breeding a replacement. The moment you have a better Pal of the same species, condense the bad-trait one into the good one. The Palbox space you free up is worth more than a bad Pal you'll never deploy."
+  - question: "How many copies of a Pal species should I keep?"
+    answer: "Keep exactly ONE of each species as your 'best copy' — the one with the best traits you've found or bred. Condense all other copies into that best copy. The only exception: if a species has multiple roles (e.g., Anubis is both the best Handiwork Pal AND a strong combat Pal), you might keep two copies — one bred for work traits (Artisan, Serious, Work Slave) and one bred for combat traits (Musclehead, Ferocious, Lucky). Never keep more than two copies of any species."
 ---
 
-## The Palbox Problem
+## Your Palbox Is a Graveyard of Deferred Decisions
 
-Open your Palbox. How many Pals are in there? 100? 200? How many have you actually used in the last 10 hours of gameplay? Probably 10-15.
+Open your Palbox right now. Count how many Pals are in there. 150? 200? Now count how many you've actually deployed in the last 10 hours of gameplay. It's probably 12-18.
 
-The Palbox is where Pals go to be forgotten. You caught them because "this might be useful" and then never deployed them. Every Pal in your box is a decision you deferred. Here's the framework for making those decisions now.
+Every Pal in that box represents a decision you didn't make. "I might need this later." "This one has one good trait, maybe I'll breed it someday." "I caught this at level 2 and now I'm level 40, but I'm attached to it."
 
----
+This isn't just clutter. It's actively hurting your progression. Every time you scroll through 200 Pals looking for the one you need, you're wasting time. Every Pal with a negative trait that you keep "just in case" is crowding out space for a better Pal. And every duplicate of a species that's sitting in your box could have been condensed into your main copy, permanently making it stronger.
 
-## The 4-Fate Framework
-
-Every Pal in your box goes to one of four fates:
-
-| Fate | Best For | Worst For |
-|------|----------|----------|
-| **Keep & Deploy** | Pals with good traits for base work or combat, high suitability levels | Pals with negative traits, low suitability |
-| **Condense** | Duplicate species, Pals with bad traits but right species for condensation | Unique Pals you only have one of |
-| **Sell** | Common Pals with no good traits, low-value species | Rare Pals (merchant price is a fraction of actual value) |
-| **Butcher** | Species that drop valuable materials (Anubis, Jormuntide, Blazehowl) | Common species that drop only basic materials |
+Here's a decision framework that turns every Pal in your box into one of four actions: keep, condense, sell, or butcher. No exceptions. No "maybe later."
 
 ---
 
-## Keep & Deploy: The Trait Test
+## The 15-Second Decision Test
 
-A Pal is worth keeping if it passes ONE of these tests:
+For any Pal in your box, ask these questions in order:
 
-**Base Worker Test:** Does it have a work suitability of 3+ in a task your base needs? AND does it have no negative work traits (Slacker, Destructive, etc.)? If yes: deploy to base. If it has a negative trait but high suitability: condense it into a better Pal of the same species.
+**Test 1: Have I deployed this Pal in the last 10 hours?**
+If yes → keep it. Go to the next Pal.
+If no → continue to Test 2.
 
-**Combat Test:** Does it have 2+ positive combat traits (Musclehead, Ferocious, Lucky, Sadist, etc.)? If yes: keep for your combat team. If only 1 positive trait: it's breeding fodder — breed it with another combat Pal to pass the trait.
+**Test 2: Does this Pal have a work suitability of 3+ in a task my base currently needs?**
+If yes AND it has no negative work traits → keep it, but assign it to your base right now. If you're not going to assign it, it fails this test.
+If no → continue to Test 3.
 
-**Mount Test:** Is it a species with a fast or useful mount ability? Does it have Swift or Runner traits? If yes: keep as your mount. Speed traits on a non-mount species are wasted.
+**Test 3: Do I have 4+ copies of this species?**
+If yes → condense the 3 worst copies into the best one. Keep the best one.
+If no → continue to Test 4.
 
-**Fail all three tests?** The Pal goes to one of the other three fates.
+**Test 4: Is this a species that drops valuable materials when butchered?**
+This includes Anubis (Large Pal Souls), Jormuntide (Pal Fluids), Blazehowl (Flame Organs), and any Alpha/Boss Pal. If yes → butcher it. If no → sell it to a merchant.
+
+That's it. Four tests. Every Pal gets a decision. Your Palbox goes from 200 to 40 in about 15 minutes of sorting.
 
 ---
 
-## Condense: The Duplicate Rule
+## The Condense Priority: Who Gets the Dupes First?
 
-If you have 4+ copies of the same species, condense them into your best copy. Don't think about it — just do it. A condensed Partner Skill is permanently more powerful, and you're never going to deploy 4 identical Cattivas.
+You caught 8 Lamballs. Six of them have terrible traits. Two are decent. Which one gets condensed into which?
 
-**Condensing priority:**
-1. Your main mount (movement speed is the most-used Partner Skill in the game)
-2. Your main combat Pal (damage output)
-3. Key base workers (Anubis, Jormuntide, Blazehowl — Pals you'll use the entire game)
+The rule: condense the worst copies into the best copy. The "best" is the Pal whose traits align with its role. A Lamball is a base worker (Transporting, Handiwork). The best Lamball is the one with Artisan, Serious, Work Slave, or Swift — traits that make it work faster or move faster. The Lamball with Musclehead and Ferocious (combat traits) is worse for a base worker role. Condense the combat Lamball into the worker Lamball.
+
+**Condensing priority across your entire Palbox:**
+
+1. **Your main mount** — Every condensed level on your mount increases its movement speed. You use your mount more than any other Pal in the game. A 4-star mount is 20-30% faster than a 0-star mount. This is the single highest-impact use of condensing.
+
+2. **Your main combat Pal** — Every condensed level increases Partner Skill damage. Your combat Pal determines how fast you clear bosses, towers, and dungeons.
+
+3. **Your key base workers** — Anubis (Handiwork/Mining), Jormuntide (Watering), Blazehowl (Kindling). These are Pals you'll use for the entire game. A 4-star Anubis builds structures 40% faster than a 0-star.
+
+---
+
+## The "But I Might Breed This Later" Trap
+
+You have a Cattiva with Lucky (+15% Work Speed, +15% Attack). Lucky is a good trait. You also have a Cattiva with Artisan (+50% Work Speed). You're keeping both because "maybe I'll breed Lucky onto an Artisan offspring someday."
+
+Are you actually going to do that? Be honest. If you were going to set up a breeding chain for Cattiva, you'd have done it by now. Cattiva is a starter Pal. By level 25, you've moved on to better species.
+
+The "might breed later" category is the #1 source of Palbox bloat. Unless you have a specific breeding plan that you're actively executing — with the Cake in the Breeding Farm RIGHT NOW — condense or sell. Plans you "might do eventually" don't count.
+
+---
+
+## When to Butcher Instead of Sell
+
+Selling a Pal to a merchant gives you gold. Butchering gives you materials. Most Common Pals drop only basic materials worth less than the gold you'd get from selling — sell them.
+
+But some species drop materials that are genuinely scarce:
+
+| Species | Butcher Drops | Why It's Worth Butchering |
+|---------|-------------|-------------------------|
+| Anubis | Large Pal Souls (2-4) | Large Pal Souls are the bottleneck for endgame Pal upgrades. They're scarce from any other source. |
+| Jormuntide / Jormuntide Ignis | Pal Fluids (15-25) | Pal Fluids are needed in bulk for cement (endgame crafting). One Jormuntide butcher = 20+ fluids. |
+| Blazehowl / Blazehowl Noct | Flame Organs (10-15) | Needed for ammo and heat-resistant gear. |
+| Alpha Pals / Boss Pals | Ancient Civilization Parts | Exclusive to boss drops and butchering. Critical for endgame technology. |
+| Mozzarina | Milk (3-5), High Quality Pal Oil | Milk is needed for cakes (breeding). Butchering is faster than ranching. |
+| Sibelyx | High Quality Cloth (2-4) | Cloth is always in demand for armor repairs. |
+
+**The butcher rule:** If the species is on this list, butcher it. If not, sell it. The only exception is if you're specifically farming gold — then sell everything.
+
+---
+
+## The After-Sort: What a Clean Palbox Looks Like
+
+After running the 15-second test on your entire Palbox, you should have:
+
+- 15-25 deployed Pals (base workers across 2-3 bases + combat team + mount)
+- 10-15 breeding stock Pals (one best copy of each species you actively breed with)
+- 5-10 "in progress" Pals (leveling up, waiting for a saddle, waiting for a specific breeding outcome)
+- Zero "maybe later" Pals
+- Zero duplicates of non-breeding species
+- Zero Pals with negative traits
+
+Total: 30-50 Pals. Not 200. Every Pal in the box has a current purpose. You can find any Pal in under 5 seconds. Your game runs smoother because the Palbox UI doesn't lag loading 200 models.
+
+---
+
+## The "Emotional Attachment" Problem
+
+There's a Cattiva in your box named "First Buddy." You caught it at level 2. It has no good traits. Its work suitabilities are terrible. It does 8 damage per hit. You haven't deployed it since level 10.
+
+But you can't bring yourself to get rid of it because it was your first Pal.
+
+This is normal. Every Palworld player has at least one Pal they're irrationally attached to. Here's the compromise: keep ONE sentimental Pal. Put it in a display cage at your base. It's now a decoration, not a wasted Palbox slot.
+
+But one. Not five. Not "this one was my first, this one was my first Alpha kill, this one was my first breed..." Pick one. The rest get sorted through the framework. Your first Pal won't be offended. It's code. It doesn't have feelings. And you'll never deploy it again regardless of how long it sits in the box. A display cage at least lets you see it. A Palbox slot just buries it deeper with every new catch.
 
 ---
 
