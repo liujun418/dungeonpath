@@ -68,6 +68,51 @@ Second Sea enemies have 2-3x First Sea HP. Your Legendary fruit that carried you
 
 ---
 
+## How to Actually Get These Fruits (Without Spending Robux)
+
+Tier lists tell you WHAT to use. They rarely tell you HOW to get it. Here's the reality at each price tier:
+
+### Legendary Logia (50,000 - 100,000 Beli)
+The Black Market dealer on Starter Island sells one random fruit every 2 hours. Check back every 2 hours until a Legendary Logia appears. Don't buy Common or Rare fruits from the dealer — they're a waste of Beli. Boss drops from Shell Island and Marine Fortress bosses have a 5-10% Legendary drop rate. Server-hop between boss spawns for faster farming.
+
+### Buddha (1,500,000 - 2,500,000 Beli)
+This is the first "expensive" fruit most players target. You need roughly 2 million Beli. At level 200, farming NPCs at Prison Island nets about 100,000-150,000 Beli per hour. That's about 15-20 hours of grinding. Don't try to save 2 million Beli all at once — you'll burn out. Save 500,000, buy a Legendary Logia as a temporary upgrade, then save the remaining 1.5 million with your improved grinding speed.
+
+### Mythical Fruits (5,000,000 - 50,000,000+ Beli)
+These are the fruits you DON'T buy from the dealer. The price is absurd and the dealer might not even stock them. Mythicals come from:
+- Sea Beast drops (2-5% chance, server-hop between spawns)
+- Boss Raids (Factory Raids in Second Sea have a Mythical chance)
+- Trading (if you have other valuable items to offer)
+- Sheer luck (random fruit spawns on the ground every hour — check fruit spawn maps)
+
+**The reality check:** If you're under level 500, don't worry about Mythicals. The Beli you'd spend buying one could max out your accessories, fighting style, and Haki — all of which make a bigger difference at your level than a Mythical fruit's 15% damage advantage over a Legendary.
+
+---
+
+## The "I Spent All My Beli on a Fruit" Aftermath
+
+A player at level 250 spent 2 million Beli on Buddha. They had zero Beli left. No money for accessories. No money for fighting style upgrades. No money for Haki. They had Buddha — and couldn't afford the Ghoul Mask or Swan Glasses that make Buddha's grinding speed actually pay off.
+
+**The right way:** When you buy a fruit, keep at least 30% of your total Beli in reserve. If you have 2 million, spend 1.4 million on the fruit and keep 600,000 for accessories, fighting styles, and emergency funds. A fruit without supporting gear is half as effective.
+
+---
+
+## The Fruit You Already Have vs. The Fruit You Want
+
+Here's the most common dilemma in Blox Fruits: you're level 200 with Flame. You've saved 1.5 million Beli. Buddha costs 2 million. You can see the finish line — but it's still 25% away.
+
+Do you keep grinding with Flame for another 4-5 hours to reach 2 million? Or do you buy something now to speed up the remaining grind?
+
+**The math says:** If you spend 500,000 Beli now on accessories and fighting style upgrades, your grinding speed improves by roughly 20-30% immediately. At your current rate of ~125,000 Beli/hour, the upgrades pay for themselves in about 3 hours. The remaining 1.5 million for Buddha takes about 10 hours instead of 12.
+
+If you save every Beli for Buddha, you reach 2 million in about 12 hours at your current unimproved rate, then buy Buddha, then start the mastery grind from zero. Total time to "Buddha operational": roughly 18 hours (12 hours saving + 6 hours mastery).
+
+If you invest in accessories first, then save, then Buddha: 3 hours to earn back the accessory investment, then 10 hours to save the remaining 1.5 million, then 6 hours mastery. Total: 19 hours. Essentially the same — but you spent those 19 hours with better accessories instead of grinding at base speed.
+
+**Neither path is wrong. Both take about the same total time.** The difference is how you want to spend those hours: grinding at full speed toward a distant goal, or enjoying incremental upgrades along the way.
+
+---
+
 ## Related Guides
 
 - [Blox Fruits Beginner Guide — First Fruit, First Sea](/posts/blox-fruits/beginner-guide/)
