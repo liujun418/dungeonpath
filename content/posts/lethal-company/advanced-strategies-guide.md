@@ -1,416 +1,106 @@
 ---
-title: "Lethal Company Advanced Strategies Guide: Late-Game, Quota Scaling, and Max-Efficiency (2026)"
-description: "Master late-game Lethal Company with advanced strategies and tips. Learn quota scaling math, weather tactics, max-efficiency loot routes, and pro techniques."
-date: 2026-05-10
+title: "Lethal Company Advanced Strategies — Quota Scaling Math, Moon Rotations & Pro Techniques (2026)"
+description: "You've survived your first 5 quotas. Now the game gets serious. Here's how quota scaling actually works, which moon rotation maximizes profit, and the advanced techniques — Cruiser jumps, item juggling, and entity manipulation — that experienced crews use."
+date: 2026-06-05
+lastmod: 2026-06-05
+draft: false
+tags: ["Lethal Company", "Advanced", "Strategy", "Quota", "lc-advanced"]
+categories: ["Game Guides"]
+games: ["Lethal Company"]
 cover:
   image: "/cover-image/lethal-company-advanced-strategies/cover.webp"
   alt: "Lethal Company Advanced Strategies Guide Cover"
-  caption: "Lethal Company Advanced Strategies Guide"
-lastmod: 2026-05-10
-draft: false
-tags: ["Lethal Company", "PC Games", "Advanced Guide", "Strategy Guide", "Survival"]
-categories: ["PC Games"]
-games: ["Lethal Company"]
+  caption: "LC Advanced Strategies"
+faq:
+  - question: "How does quota scaling actually work in Lethal Company?"
+    answer: "Each quota is roughly 1.3x the previous one, with a random variance of ±20%. The formula is: next quota ≈ current quota × (1.1 to 1.5, average 1.3). This means quota 5 (~500) becomes quota 6 (~650), quota 7 (~850), quota 8 (~1,100). By quota 10, you need roughly 2,000-2,500 credits every 3 days. The scaling eventually outpaces what's possible to collect from moons — the game is designed to eventually kill you. The goal isn't to survive forever. It's to survive as many quotas as possible."
 ---
 
-> *Last updated: May 10, 2026. This guide is for experienced Lethal Company players who have survived multiple quotas and are ready for late-game challenges. We cover quota scaling math, weather survival, max-efficiency routing, and advanced team tactics.*
+## You've Mastered the Basics. Now the Game Changes.
 
-## Understanding Quota Scaling
+You can clear your first 3-5 quotas consistently. You know the moons, the entities, the items. You think you've figured out Lethal Company.
 
-The quota system in Lethal Company is not random — it follows a formula that increases based on your performance. Understanding this math lets you plan ahead.
+Then quota 6 hits. You need 750 credits. Your usual route — Assurance, March, Offense — barely scrapes together 600. You fail the quota. You lose. You don't understand what changed.
 
-### The Quota Formula
+What changed is the quota scaling curve. The early game teaches you to collect 200-400 scrap per run. The mid-game demands 600-800. The late game asks for 1,200+. Your strategy needs to evolve with each quota tier. Here's how.
 
-The game calculates your next quota based on:
+---
 
-1. **Base Quota:** Starts at 130 credits
-2. **Days Spent:** How many days you took to meet the previous quota
-3. **Random Multiplier:** A random factor between 0.5 and 1.5
+## Quota Tiers: How Your Moon Choices Must Evolve
 
-The simplified formula:
+| Quota Tier | Required Scrap/Day | Viable Moons | New Risk |
+|-----------|-------------------|-------------|----------|
+| **1-3 (Beginner)** | 50-100 | Assurance, March | Almost none — these moons are free and safe |
+| **4-6 (Intermediate)** | 150-250 | Offense, March, Rend (cautiously) | Rend introduces Coil-Head risk |
+| **7-9 (Advanced)** | 300-450 | Rend, Dine, Titan (if crew is experienced) | Titan has S+ hazard — Jesters, Coil-Heads, Ghost Girl |
+| **10+ (Expert)** | 500+ | Titan, Artifice | Artifice costs 1,200 to land — a wipe costs you a full quota |
 
-```
-Next Quota = Previous Quota + (Random(50, 200) × (Days_Spent / 3 + 1))
-```
+**The transition that kills most crews:** moving from Tier 1-3 to Tier 4-6. The free moons can no longer provide enough scrap to meet quota. You MUST start landing on paid moons. But crews that have spent 15 hours only on free moons haven't learned paid-moon survival — they've been playing in the kiddie pool and now the game throws them in the deep end.
 
-Where `Random(50, 200)` is a random integer between 50 and 200.
+**The fix:** Start landing on Offense (40 credits, C hazard) by quota 3, not quota 5. Use the early quotas — when the scrap requirement is low — to practice paid-moon survival. A wipe on quota 3 costs you almost nothing. A wipe on quota 7 costs you the run.
 
-### Quota Scaling Examples
+---
 
-| Previous Quota | Days Taken | Range of Next Quota | Typical Next Quota |
-|---------------|------------|--------------------|--------------------|
-| 130 | 2 | 180-330 | ~250 |
-| 250 | 3 | 300-450 | ~380 |
-| 400 | 3 | 500-650 | ~580 |
-| 600 | 4 | 700-1,000 | ~850 |
-| 850 | 3 | 950-1,100 | ~1,030 |
-| 1,000 | 3 | 1,100-1,250 | ~1,180 |
+## Entity Manipulation: Turning Threats Into Tools
 
-### Key Insights on Quota Scaling
+Experienced crews don't just avoid entities. They use them.
 
-| Insight | Explanation |
-|---------|-------------|
-| **Faster is slightly better** | Completing quotas in fewer days results in lower next quotas |
-| **But not by much** | The random factor (50-200) matters more than days spent |
-| **Overshooting is smart** | Exceeding quota by 50%+ gives you a comfortable buffer |
-| **Quota 500-700 is the wall** | This is where Experimentation becomes insufficient |
-| **Quota 1,000+ is endgame** | You need Titan or perfect Rend/Dine runs |
+### Bracken as a Room Scanner
 
-### Optimal Quota Pacing
+Bracken's presence in a room means something: Bracken rooms have high-value scrap more often than empty rooms. The Bracken IS the indicator. If you enter a room and see Bracken, glance briefly (under 0.5 seconds!) then look away and BACK OUT slowly. Note the room number. Come back 2 minutes later — Bracken patrols and leaves rooms temporarily. The room it guarded usually has above-average loot.
 
-| Strategy | Approach | Best For |
-|----------|----------|----------|
-| **Speed Clear** | Max scrap in 1-2 days, meet quota fast | Low quotas, experienced teams |
-| **Over-earn** | Stay an extra day to bank credits | Medium quotas, building buffer |
-| **Bank Run** | Multiple trips to higher moons before deadline | High quotas, maximizing income |
+### Eyeless Dogs as Perimeter Alarms
 
-## Weather Survival Guide
+Dogs howl when they detect sound. A howl from the direction of your ship entrance means something — or someone — is outside near your extraction path. Experienced crews use Dog howls as free radar: "Dog howled from the left side of the ship. Someone's on the left approach. Take the right path."
 
-The weather system dramatically changes how you approach each moon. Some weather conditions are run-enders if unprepared.
+### Hoarding Bugs as Scrap Aggregators
 
-### Clear Weather
+Hoarding Bugs collect scrap and pile it in their nest. If you find a Bug nest (pile of random scrap in a corner), you've found 5-10 items in one location. Clear the Bug (Shovel, 3 hits), collect the pile. One Bug nest often contains more scrap than 3 rooms of regular looting.
+---
 
-**No modifiers.** Standard gameplay. Focus on efficient looting.
+## The Day-by-Day Moon Rotation (Quotas 4-8)
 
-### Foggy Weather
+Here's a proven three-day rotation for mid-to-late-game quotas:
 
-| Effect | Counter-Strategy |
-|--------|-----------------|
-| Reduced visibility outdoors | Use Pro-Flashlights constantly |
-| Hard to spot Eyeless Dogs | Walk slowly, listen for barks |
-| Disoriented navigation | Place Radar Boosters at key landmarks |
-| Ship hard to find from distance | Mark ship location with a Radar Booster |
+**Day 1:** Rend (550 credits to land, B-tier hazard). Average scrap: 800-1,100. Goal: collect 700+ scrap. Leave by 4 PM. Rend's scrap density is the best in the game for its hazard level. One good Rend run funds half your quota.
 
-**Foggy Strategy:** Reduce your outdoor time. Make fewer, longer trips inside the facility rather than running back and forth. Stay close to your teammates so you do not lose each other.
+**Day 2:** March or Offense (free or 40 credits). Lower risk, lower reward. Goal: collect 300-500 scrap. You're filling the gap, not carrying the quota. If Day 1 went exceptionally well (1,000+ scrap), you can skip Day 2 entirely or use it as a Titan practice run.
 
-### Flooded Weather
+**Day 3:** Assess the gap. If you need under 200 to meet quota: Offense. If you need 200-400: Rend again. If you need 400+: Titan (if crew is experienced) or double-run Rend (do two quick runs — enter at 8 AM, clear 3-4 rooms near entrance, leave, sell, re-enter for the afternoon).
 
-| Effect | Counter-Strategy |
-|--------|-----------------|
-| Water indoors slows movement | Avoid deep water rooms |
-| Some rooms partially submerged | Prioritize dry rooms |
-| Facilities can be completely flooded on some moons | Consider skipping flooded moons |
-| Electronics may malfunction | Walkie-talkies may cut out |
+**The mistake:** Running Titan on Day 1 because "we always run Titan." Titan on Day 1 is a gamble. If you wipe, you're behind on Day 2 AND Day 3. Rend on Day 1 is the safe play. Titan is for when you're already ahead and can afford the risk.
 
-**Flooded Strategy:** Flooded conditions make you significantly slower. Monster chases that you would normally outrun become deadly. Avoid flooded runs on moons with tight corridors (Offense, March). Flooded Vow is especially dangerous due to the ravine filling with water.
-
-**Flooded Danger Level by Moon:**
-
-| Moon | Flooded Risk | Notes |
-|------|-------------|-------|
-| Experimentation | Low | Small facility, manageable |
-| Assurance | Medium | Ravine areas flood |
-| Vow | High | Ravine becomes a death trap |
-| Offense | Medium-High | Complex layouts + water |
-| March | High | Mansion + water = disorienting |
-| Rend | Very High | Snow + water = extreme |
-| Dine | Very High | Same as Rend |
-| Titan | Extreme | Largest facility, most water |
-
-### Stormy Weather
-
-| Effect | Counter-Strategy |
-|--------|-----------------|
-| Lightning strikes outdoor areas | Drop metal items during storms |
-| Thunder masks monster sounds | Walk more carefully |
-| Lightning attracts Eyeless Dogs | Stay indoors as much as possible |
-| Metal items attract lightning | Do not carry metal in open areas |
-
-**Metal Items That Attract Lightning:**
-
-| Item | Type |
-|------|------|
-| Large Axle | Scrap (metal) |
-| V-Type Engine | Scrap (metal) |
-| Cash Register | Scrap (metal) |
-| Yield Sign | Scrap (metal) |
-| Stop Sign | Equipment |
-| Shovel | Equipment |
-| Zap Gun | Equipment |
-| Shotgun | Equipment/Scrap |
-
-**Stormy Strategy:** The lightning mechanic is simple — if you are outdoors during a storm with a metal item in your hand, you can be struck by lightning. The strike deals massive damage and can kill you instantly.
-
-- If you must go outside, drop metal items before leaving cover
-- Pick them up and sprint to the ship quickly
-- Use the ship operator to time your runs between lightning strikes
-- Lightning strikes roughly every 10-15 seconds during a storm
-
-### Eclipsed Weather
-
-| Effect | Counter-Strategy |
-|--------|-----------------|
-| Monsters spawn OUTSIDE the facility | **Avoid this weather** |
-| Eyeless Dogs spawn near ship exit | Almost guaranteed death |
-| Forest Keepers patrol near main entrance | Inescapable |
-| Monster spawn rate increased globally | Extreme danger |
-
-**Eclipsed Strategy:** There is only one strategy for eclipsed weather: **do not go to that moon.** Pick a different moon. If you are desperate:
-1. Use the Inverse Teleporter to skip outdoor areas entirely
-2. Accept that you will likely take damage getting to the ship
-3. Do not bother trying to return to the ship multiple times — stay inside until you are ready to leave for good
-
-### Dusty Weather
-
-Only appears on certain moons (Experimentation, Assurance, Vow, Offense, March).
-
-| Effect | Counter-Strategy |
-|--------|-----------------|
-| Dust reduces outdoor visibility | Similar to foggy strategy |
-| Particles can obscure indoor windows | Minor inconvenience |
-| No gameplay mechanic changes | Treat as clear weather with visual effects |
-
-## Max-Efficiency Loot Routes
-
-Optimizing your loot route can double your scrap income per day. Here are proven routes for each moon.
-
-### The "Two-Trip" Method (All Moons)
-
-| Trip | Objective | Time |
-|------|-----------|------|
-| Trip 1 (Scout) | Enter facility, check monster spawns, scout loot locations | 6:00-7:30 AM |
-| Trip 2 (Haul) | All players enter, grab everything, return | 7:30-10:00 PM |
-
-### Speed-Running Factory Moons
-
-For Experimentation, Assurance, Vow, and Offense (factory layouts):
-
-| Step | Action |
-|------|--------|
-| 1 | All players enter main entrance together |
-| 2 | Split into pairs at first junction |
-| 3 | Each pair clears one wing |
-| 4 | Meet at apparatus room, grab apparatus |
-| 5 | Everyone carries 1-2 scrap items back |
-| 6 | Repeat until facility is empty |
-
-### Mansion Route (Rend, Dine, March)
-
-Mansion layouts require a different approach:
-
-| Step | Action |
-|------|--------|
-| 1 | Enter main entrance, scout the entrance hall |
-| 2 | Find the fire exit (mark with spray paint if available) |
-| 3 | Clear upper floor first (loot spawns are richer upstairs) |
-| 4 | Drop loot at a central "safe room" (preferably near stairs) |
-| 5 | Clear lower floor |
-| 6 | Haul all loot from safe room to exit |
-| 7 | Use fire exit if main entrance is camped by monsters |
-
-### Titan Speed Run
-
-For experienced teams with Inverse Teleporter:
-
-| Step | Action |
-|------|--------|
-| 1 | All players use Inverse Teleporter (take fall damage) |
-| 2 | Immediately heal and group up |
-| 3 | Scout all accessible rooms within 5 minutes |
-| 4 | Identify apparatus room location |
-| 5 | Collect high-value scrap first (Apparatus, Gold Bar, V-Type Engine) |
-| 6 | Exit through main entrance or fire exit |
-| 7 | Make a final trip for the apparatus |
-
-## Handling Multiple Monster Spawns
-
-The deadliest situations involve multiple monster types simultaneously. Here is how to handle common combinations. For detailed information on every entity's behavior and counters, see our [Monster Bestiary](/posts/lethal-company/monster-bestiary/).
-
-| Monster Combo | Danger | Strategy |
-|--------------|--------|----------|
-| Bracken + Coil-Head | Extreme | One player kites Coil-Head, another watches for Bracken |
-| Thumper + Eyeless Dogs (outdoor) | Very High | Stay inside until both are clear |
-| Jester + Any | Very High | Evacuate facility immediately |
-| Nutcracker + Hoarding Bug | Medium | Kill Nutcracker, ignore the bug |
-| Ghost Girl + Anything | Extreme | Haunted player leaves facility now |
-| Snare Flea + Thumper | High | Check ceiling first, then worry about Thumper |
-
-### The "Kite and Contain" Strategy
-
-When multiple monsters occupy the same area:
-
-| Role | Action |
-|------|--------|
-| **Kiter** | Aggro the most dangerous monster, lead it away from the facility |
-| **Containment** | Close doors to slow monster movement |
-| **Looters** | Clear rooms while monsters are distracted |
-| **Operator** | Monitor radar, warn about patrol routes |
-
-Playing alone changes every rule — our [Lethal Company Solo Survival Guide](/posts/lethal-company/solo-survival-guide/) covers the specific enemy counters, moon choices, and loadouts that work when you have no teammates to back you up.
-
-## The Ship Operator Role
-
-A dedicated ship operator dramatically increases survival rates. This is not a "lesser" role — it requires skill and constant attention.
-
-### Ship Operator Responsibilities
-
-| Task | Priority | Frequency |
-|------|----------|-----------|
-| Door control (open/close for teammates) | Critical | Constant |
-| Radar monitoring | Critical | Constant |
-| Monster tracking | High | As needed |
-| Ping Radar Boosters to lure monsters | Medium | As needed |
-| Communicate weather changes | Medium | Periodic |
-| Sell scrap from ship | Low | End of day |
-
-### Door Control Protocol
-
-| Situation | Action |
-|-----------|--------|
-| Team leaving ship | Open door, wait until all leave, close door |
-| Team returning with scrap | Open door, wait until all enter, close door |
-| Monster near ship door | Keep door CLOSED, warn team |
-| Player being chased | Open door, close immediately after they enter |
-| Team using Inverse Teleporter | Open door, wait for teleport, close door |
-
-### Advanced Radar Reading
-
-| Radar Signature | Meaning |
-|-----------------|---------|
-| Slow-moving dot approaching ship | Eyeless Dog or Forest Keeper |
-| Multiple small dots near entrance | Eyeless Dog pack |
-| Dot circling the facility | Bracken patrolling |
-| Fast-moving dot toward player | Thumper in chase mode |
-| Dot that flickers | Ghost Girl (appears/disappears) |
-
-## Dead Player Strategies
-
-Death is not the end in Lethal Company. Dead players become **spectators** and can still contribute.
-
-### Spectator Capabilities
-
-| Ability | How It Helps |
-|---------|-------------|
-| See all monster positions | Can track monsters and warn alive players |
-| Hear walkie-talkie transmissions | Can relay information |
-| See all player positions | Can guide lost players |
-| Ping radar boosters at terminal | Can distract monsters |
-
-### Spectator Communication Protocol
-
-| Information | How to Communicate |
-|-------------|-------------------|
-| Monster following a player | "Bracken is behind you, 10 meters, in the hallway" |
-| Clear path ahead | "Left corridor is clear, go now" |
-| Eyeless Dog positions | "Two dogs outside the main entrance, wait 30 seconds" |
-| Loot locations | "There is a Gold Bar in the side room you just passed" |
-
-### The "Ghost Operator"
-
-If the ship operator dies, a dead player can take over operator duties by using the terminal as a spectator. They can:
-- Control the ship door
-- Use the radar
-- Ping radar boosters
-- Communicate with alive players
-
-## Inverse Teleporter Strategies
-
-The Inverse Teleporter is the most powerful tool for late-game efficiency. Master these techniques.
-
-### Solo Teleport
-
-| Step | Action |
-|------|--------|
-| 1 | Drop all items in the ship |
-| 2 | Activate Inverse Teleporter |
-| 3 | Take fall damage (~20 HP) |
-| 4 | Scavenge for loot inside |
-| 5 | Exit through main entrance or fire exit |
-
-### Team Teleport (Coordinated)
-
-| Step | Action |
-|------|--------|
-| 1 | All players drop items in ship |
-| 2 | Activate Inverse Teleporter one at a time (3-second gap) |
-| 3 | First player scouts immediate area for threats |
-| 4 | Second player confirms safe zone |
-| 5 | Third and fourth players teleport in |
-| 6 | Group up and move together |
-
-### Teleport + Exit Strategy
-
-| Phase | Action |
-|-------|--------|
-| Teleport In | Take fall damage, heal up |
-| Clear Floor | Eliminate nearby threats (Snare Fleas, Hoarding Bugs) |
-| Loot Floor | Collect scrap from the floor you landed on |
-| Find Exit | Locate the nearest exit |
-| Exit and Repeat | Drop loot at ship, teleport again |
-
-**Important:** The Inverse Teleporter can send players to different locations. It is possible for one player to end up on floor 1 while another ends up on floor 3. Walkie-talkies are essential for regrouping.
+---
 
 ## When to Abandon a Run
 
-Knowing when to cut losses is a mark of an experienced player.
+Experienced crews know when to cut losses. Not every facility entry needs to end with scrap delivered. If two crew members die within the first 5 minutes, the remaining two should return to the ship immediately. The scrap those two dead players were carrying is gone. The hazard level hasn't changed. You're now running a 2-player operation on a moon balanced for 4. Leave. Sell what you have. Try again on a different moon.
 
-### Abandon Triggers
-
-| Situation | Action |
-|-----------|--------|
-| Team wipe before 8:00 PM | Scrap the day, try again tomorrow |
-| Jester winding up with no escape route | Abandon facility immediately |
-| Multiple deaths and quota is still achievable | Salvage what you can, leave |
-| Quota is mathematically impossible | **Scrap the entire save and start over** |
-| All four players die | The day resets, players respawn — but loot is lost |
-| Two players dead, quota near deadline | Surviving players must prioritize self-preservation |
-
-### Calculating Whether to Abandon
-
-Use this decision tree:
-
-```
-Is the quota achievable with remaining days?
-  ├── YES → Keep playing
-  └── NO → Is the quota close?
-       ├── YES → One more risky run
-       └── NO → Abandon run
-```
-
-### Mathematical Quota Check
-
-```
-Required Daily Income = (Quota - Current Scrap) / Remaining Days
-```
-
-If this number exceeds the moon's average loot potential (see Moon Guide), consider abandoning.
-
-| Remaining Days | Quota Gap 300 | Quota Gap 500 | Quota Gap 800 |
-|---------------|---------------|---------------|---------------|
-| 3 | 100/day (Easy) | 167/day (Easy) | 267/day (Medium) |
-| 2 | 150/day (Easy) | 250/day (Medium) | 400/day (Hard) |
-| 1 | 300/day (Medium) | 500/day (Hard) | 800/day (Titan req.) |
-
-## Late-Game Economy
-
-As your quota climbs, your spending strategy must evolve.
-
-| Quota Range | Equipment Budget per Day | Moons to Play |
-|-------------|-------------------------|---------------|
-| 130-300 | 0-50 credits | Experimentation, Assurance |
-| 300-500 | 50-100 credits | Vow, Offense |
-| 500-800 | 100-200 credits | March, Offense |
-| 800-1,200 | 200-300 credits | Rend, Dine, Titan |
-| 1,200+ | 300-500 credits | Titan only |
-
-### The 50% Rule
-
-Never spend more than 50% of your current scrap value on equipment. If you have 400 credits of scrap on the ship, do not spend more than 200 on gear. You need the rest for the quota.
-
-## Conclusion
-
-Advanced Lethal Company play is about risk assessment, efficiency, and teamwork. Master the quota scaling math to know when to push and when to save. Respect weather conditions — they can turn an easy moon into a death trap. Use the Inverse Teleporter and ship operator role to maximize safety and loot collection.
-
-The difference between a team that survives 10 quotas and a team that wipes on quota 3 is not luck — it is strategy. Plan your routes, communicate constantly, and always have an exit plan.
+The crews that survive 10+ quotas aren't the ones that play perfectly. They're the ones that recognize a losing run and extract before it becomes a wipe. The difference between quota 8 and quota 12 isn't skill — it's knowing when a moon entry has gone bad and having the discipline to call it. The best call in Lethal Company is often "everyone back to the ship, we're leaving." Not because you're scared. Because you're smart enough to live to collect scrap another day. The difference between a crew that survives 10 quotas and one that dies at 6 isn't mechanical skill. It's the willingness to abort a bad run on Day 1 instead of forcing it and losing two crew members, their scrap, and their equipment.
 
 ---
 
-### Related Guides
+## Item Juggling: The 5th Inventory Slot
 
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
-- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
-- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
-- [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)
-- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
-- [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
+When your hands are full (4 items in inventory) and you find a 5th valuable item, you can "juggle" it — pick it up, throw it forward, walk to it, pick it up, throw it forward, repeat. This lets you transport a 5th item without an inventory slot, at the cost of moving at throwing speed instead of walking speed.
+
+**When to juggle:** The item is worth 60+ credits AND you're within 3 rooms of the exit AND no entities are currently active. Juggling a 120-credit Laser Pointer 2 rooms from the exit is worth the extra 45 seconds. Juggling a 30-credit Tattered Metal Sheet 5 rooms deep is not — the time cost exceeds the scrap value.
+
+**When not to juggle:** During entity activity. A juggled item on the floor when Rush screeches is a lost item. During fog or storm weather — outdoor visibility is too low to track where you threw the item. In multiplayer with a full crew — have someone else carry it instead of juggling. Item juggling is a solo-player desperation technique, not a standard strategy. If you have teammates, use them as inventory slots before you start throwing scrap down hallways.
+
+---
+
+## Related Guides
+
+---
+
+## Related Guides
+
+---
+
+## Related Guides
+
+- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Quota Crisis Guide — Emergency Scrap Strategies](/posts/lethal-company/quota-crisis-guide/)
+- [Lethal Company Best Moons for Profit Tier List](/posts/lethal-company/moons-profit-tier-list/)
+- [Lethal Company Beginner Mistakes — 10 Crew-Wiping Errors](/posts/lethal-company/beginner-mistakes-guide/)
