@@ -112,7 +112,7 @@ menu:
       url: "/about/"
       weight: 5
     - name: "Contact"
-      url: "mailto:jzerov@live.com"
+      url: "/contact/"
       weight: 6
 
 # SEO / Taxonomy
