@@ -1,8 +1,8 @@
 ---
 title: "Fisch Fish Location Map — Where to Find Every Species by Level, Season & Condition (2026)"
-description: "You're fishing at the right spot but the fish won't bite because you're there at the wrong time. Here's every Fisch species mapped to its location WITH the season, time, and weather conditions that actually put it in your catch pool."
-date: 2026-06-08
-lastmod: 2026-06-08
+description: "You're fishing at the right spot but the fish won't bite because you're there at the wrong time. Here's every major Fisch species mapped to its location WITH the season, time, and weather conditions that actually put it in your catch pool — plus the 30-second pre-session condition check that prevents wasted fishing time."
+date: 2026-06-10
+lastmod: 2026-06-10
 draft: false
 tags: ["Fisch", "Roblox", "Location", "Map", "Fish", "fisch-location-map"]
 categories: ["Roblox Guides"]
@@ -12,72 +12,29 @@ cover:
   alt: "Fisch Fish Location Map Cover"
   caption: "Fisch Location Map"
 faq:
-  - question: "How do I use the fish location map to find what I'm looking for?"
-    answer: "Don't start with the fish — start with your current conditions. Check season, time of day, and weather. Then cross-reference which high-value fish are active RIGHT NOW at your unlocked locations. That's your target for this session. Fishing for a specific fish without checking conditions first is gambling. Fishing what's actually active right now is strategy."
+  - question: "How do I use the fish location map?"
+    answer: "Start with your current conditions, not with the fish you want. Check season on your HUD, time of day, and weather at the Weather Station. Then cross-reference which high-value fish are active right now at your unlocked locations. Go where the most active high-value fish are. Fishing for a specific fish without checking its conditions first is gambling. Fishing what's actually active right now is strategy."
 ---
 
-## The Map Shows Where. It Doesn't Show When.
+A traditional location map says "Phantom Ray: Haunted Shipwreck." You go to the Shipwreck. You fish. Nothing bites. The map omitted three words: Autumn, Night, Foggy. Those three words are the difference between the Phantom Ray being in your catch pool and the Phantom Ray not existing on that server for that cast. The location tells you where. The conditions tell you when. A map without both is half the information you need.
 
-A traditional location map says "Phantom Ray: Haunted Shipwreck." You go to the Shipwreck. You fish. Nothing. The map omitted the three conditions — Autumn, Night, Foggy — that actually determine whether the fish exists in your catch pool.
+Starter fish at Moosewood cap at Rare rarity. Sardines, Carp, Goldfish — you'll catch these for your first hour and then never need them again. Moosewood Pond, where the tutorial places you, never spawns a Legendary or Mythic under any conditions. The moment you can afford the Carbon Rod at 2,000 C$ and the Rowboat for travel, leave Moosewood behind.
 
-This map includes the conditions. For every species worth catching: the location, the season, the time window, the weather, and the minimum rod. Because "where" without "when" is half the information.
+Roslit Bay covers levels 15 through 40. Clownfish at Rare and Angelfish at Legendary in the Reef during daytime with clear weather. Golden Carp at Legendary in the Bay during rain. Grouper at Rare and Snapper at Legendary in the Deep section. No season gates. No weather requirements on most species. Roslit Bay is the most accessible mid-game location.
 
----
+Deep Ocean is your default fishing spot from level 40 onward. Megalodon is the gateway Mythic — the only Mythic in Fisch with absolutely zero condition requirements. No season lock. No weather requirement. No time restriction. Just a boat ride to Deep Ocean and a Steady Rod or better. If you want your first Mythic, this is the target. The Deep Trench variant, Abyssal Anglerfish, requires night and a submarine.
 
-## Starter Fish (Levels 1-15, Moosewood Region)
+Winter Village requires level 50. The Eternal Frostwhale at Frozen Lake requires a Blizzard — without one, the lake produces the same Commons as Moosewood Pier. Never fish Frozen Lake without an active Blizzard. The Ice Cave produces Glacier Trout at Legendary in any weather.
 
-| Species | Rarity | Location | Best Time | Best Weather | Min Rod |
-|---------|--------|----------|----------|-------------|---------|
-| Sardine | Common | Moosewood Pier | Day | Any | Flimsy |
-| Carp | Uncommon | Moosewood Pond | Day | Rain | Flimsy |
-| Goldfish | Rare | Moosewood Pond | Day | Rain | Carbon |
+Haunted Shipwreck is where Phantom Ray lives — Autumn plus Night plus Foggy, all three conditions required simultaneously. The Shadowfin at the Shipwreck Deck is easier: Night plus any weather except Clear. The Shipwreck is the most productive location in Fisch for roughly 15% of the time and a dead zone for the other 85%.
 
-**The starter trap:** Moosewood Pond is where the tutorial puts you. It's also where you'll catch nothing above Rare for your entire career. The pond spawns no Legendaries or Mythics. Ever. The moment you can afford the Carbon Rod and the Rowboat, leave Moosewood and never fish the pond again. The pier is better but still capped at Rare.
-
----
-
-## Mid-Game Fish (Levels 20-60)
-
-| Species | Rarity | Location | Best Time | Best Weather | Min Rod |
-|---------|--------|----------|----------|-------------|---------|
-| Clownfish | Rare | Roslit Reef | Day | Clear | Carbon |
-| Angelfish | Legendary | Roslit Reef | Day | Clear | Steady |
-| Grouper | Rare | Roslit Deep | Any | Any | Carbon |
-| Megalodon | Mythic | Deep Ocean | Any | Any | Steady |
-| Golden Carp | Legendary | Roslit Bay | Day | Rain | Steady |
-
-**Megalodon is the gateway Mythic.** No season requirement. No weather requirement. No time requirement. Just a boat trip to Deep Ocean and a Steady Rod (25,000C$). If you want your first Mythic, this is the target.
-
----
-
-## End-Game Fish (Level 60+)
-
-| Species | Rarity | Location | Season | Best Time | Best Weather | Min Rod |
-|---------|--------|----------|--------|----------|-------------|---------|
-| Phantom Ray | Mythic | Haunted Shipwreck Hold | Autumn | Night | Foggy | Mythical |
-| Eternal Frostwhale | Mythic | Frozen Lake | Winter | Any | Blizzard | Mythical |
-| Celestial Koi | Mythic | Sky Lake | Any | Dawn (4-7AM) | Clear | Mythical |
-| Abyssal Anglerfish | Mythic | Deep Trench | Any | Night | Any | Mythical |
-| Volcanic Serpent | Mythic | Volcano Caldera | Any | Any | Any | Mythical + Lava Rod |
+Before every fishing session, run the 30-second condition checker. Check your season. Check the time. Check the weather. Cross-reference with the fish you can actually catch right now. Go where the fish are active, not where you're comfortable. This 30-second habit is the difference between "I fished for 2 hours and caught nothing" and "I caught 2 Legendaries in 45 minutes." Same rod, same bait, same player. Different preparation.
 
 ---
 
 ## Related Guides
 
 - [Fisch Beginner Guide — Rods, Bait & First Catch](/posts/fisch/beginner-guide/)
-- [Fisch Location Strategy — Not WHERE But WHEN](/posts/fisch/fish-location-strategy-guide/)
 - [Fisch Complete Location Map — Every Species & Condition](/posts/fisch/complete-location-map/)
+- [Fisch Location Strategy — Not WHERE But WHEN](/posts/fisch/fish-location-strategy-guide/)
 - [Fisch Weather, Time & Seasons — Hidden Spawn Mechanics](/posts/fisch/weather-time-season-guide/)
-
----
-
-## Using This Map Mid-Session
-
-You're already fishing. A weather change notification pops up: "Weather changing to Fog in 2 minutes." Here's what to do:
-
-1. Immediately check this map for Fog-gated fish.
-2. If Phantom Ray (Haunted Shipwreck, Autumn + Night + Fog) or Shadowfin (Haunted Shipwreck, Night + Fog) is currently in season AND it's nighttime: drop everything. Travel to Haunted Shipwreck. This is a high-value window.
-3. If it's daytime or wrong season: stay where you are. Fog doesn't help if you can't catch the fish that need it.
-
-The map is useless if you only check it before sessions. Check it when conditions CHANGE. A weather shift from Clear to Fog while you're already at Deep Ocean is a signal — but only if you know what the Fog unlocks.
-
