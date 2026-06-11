@@ -1,5 +1,14 @@
-{{- /* Featured Carousel — 3 most recent articles with responsive covers */}}
-{{- $featured := where site.RegularPages "Type" "in" (slice "posts") | first 3 }}
+{{- /* Featured Carousel — 3 recent articles, each from a different game */}}
+{{- $allPosts := where site.RegularPages "Type" "in" (slice "posts") }}
+{{- $featured := slice }}
+{{- $seenGames := slice }}
+{{- range $allPosts }}
+  {{- $game := index .Params.games 0 }}
+  {{- if and (lt (len $featured) 3) (not (in $seenGames $game)) }}
+    {{- $featured = $featured | append . }}
+    {{- $seenGames = $seenGames | append $game }}
+  {{- end }}
+{{- end }}
 
 <section class="hero-carousel" aria-label="Featured guides">
   <div class="carousel-track">
