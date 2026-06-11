@@ -7,5 +7,33 @@
       "Bash(ls -la C:/Users/jun/ai-toolbox/ 2>/dev/null | head -20)",
       "Read(//c/Users/jun/ai-toolbox/**)"
     ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /c/Users/jun/dungeonpath/.claude/quality-check.sh",
+            "timeout": 120,
+            "statusMessage": "Running v3 quality gate..."
+          }
+        ],
+        "if": "Bash(git *commit*)"
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /c/Users/jun/dungeonpath/.claude/quality-check.sh",
+            "timeout": 120,
+            "statusMessage": "Running v3 quality gate..."
+          }
+        ],
+        "if": "Bash(vercel deploy*)"
+      }
+    ]
   }
 }
