@@ -1,8 +1,8 @@
 ---
-title: "Blockade Battlefront Beginner Guide — Your First 10 Waves, First Titans & How to Stop Dying at Wave 25 (2026)"
-description: "You're placing Titans randomly, buying everything you can afford, and dying at wave 25. Here's exactly what to do in your first 10 waves, which Titans to buy and skip, and why wave 25 is the filter that separates players who understand scaling from those who don't."
-date: 2026-06-02
-lastmod: 2026-06-02
+title: "Blockade Battlefront Beginner Guide — Your First 10 Waves, First Titans & Why Wave 25 Ends Every New Player (2026)"
+description: "You are placing Titans randomly, buying everything you can afford, and dying at wave 25. Here is exactly what to do in your first 10 waves, the only two Titans worth buying before the mid-game, where to position them, and the recovery protocol for when a Titan dies mid-wave."
+date: 2026-06-12
+lastmod: 2026-06-12
 draft: false
 tags: ["Blockade Battlefront", "Roblox", "Tower Defense", "Beginner Guide"]
 categories: ["Roblox Guides"]
@@ -13,95 +13,31 @@ cover:
   caption: "BBF Beginner Guide"
 faq:
   - question: "Why do I always die around wave 25 in BBF?"
-    answer: "Because wave 25 is where the game checks if you understand economy or not. If you bought 5 base Titans by wave 20, you have zero Cen saved, and wave 25's boss and swarm density will overwhelm your unupgraded Titans. The fix: buy exactly TWO base Titans (Titan Cameraman at 350 Cen, Titan Speakerman at 900 Cen), then save every Cen for Upgraded Cameraman (2,500 Cen). Two upgraded Titans beat six base Titans every time. Wave 25 is an economy check, not a DPS check."
+    answer: "Wave 25 is the economy check. If you bought 5 base Titans by wave 20, you have zero Cen saved, and wave 25's boss and swarm density will overwhelm your unupgraded units. The fix: buy exactly TWO base Titans — Titan Cameraman at 350 Cen and Titan Speakerman at 900 Cen — then save every single Cen until you can afford Upgraded Cameraman at 2,500 Cen. Two upgraded Titans beat six base Titans every single time. Wave 25 is an economy check, not a DPS check. Pass the economy check and the wave is manageable. Fail it and you wipe."
 ---
 
-## Your First Match: What's About to Happen
+Your first match plays out like every beginner's first match. You buy Small Cameraman for 50 Cen. Wave 1 starts. You kill some enemies. You buy another Small Cameraman. Then a Brown Cameraman. Then a Blue Speakerman. By wave 10, you have six units deployed and 47 Cen in the bank. You feel like you are doing great. You are building an army. Wave 25 hits. Your six base units are dealing almost no damage to enemies with 5 times the HP of wave 1 enemies. You cannot afford upgrades because you spent everything on base units. Your Titans die one by one. You die. The run ends. This is the universal BBF beginner experience. The game taught you to buy Titans but never taught you that not all Titans are worth buying.
 
-You load into BBF. The tutorial mentions Cen, Titans, and waves, then drops you in. You buy Small Cameraman for 50 Cen. Wave 1 starts. You kill some enemies. You buy another Small Cameraman. Then a Brown Cameraman. Then a Blue Speakerman. By wave 10, you have 6 units deployed and 47 Cen in the bank. You feel like you're doing great.
+The only two Titans you should purchase before wave 25 are Titan Cameraman at 350 Cen and Titan Speakerman at 900 Cen. That is it. Nothing else. Titan Cameraman's beam attack hits both lanes from the center position and it is the single most cost-efficient early-game unit in the game. Titan Speakerman's rapid fire clears swarms that Cameraman's single-target beam cannot handle. Together, these two Titans carry you through the first 25 waves. Every other base Titan — Small Cameraman, Small Speakerman, Brown Cameraman, Blue Speakerman, Large Cameraman, Large Speakerman — is filler that does negligible damage past wave 10. The Cen you spend on them is permanently lost. Every 100 Cen spent on a base unit is 100 Cen you will not have for the Upgraded Cameraman upgrade you need at wave 25.
 
-Wave 25 hits. Your 6 base units are doing almost no damage to enemies with 5x the HP of wave 1 enemies. You can't afford upgrades because you spent everything on base units. Your Titans die one by one. You die. The run ends.
+Waves 1 through 10 are the setup phase. Waves 1-3: your starting units can handle these alone. Do not buy anything. Save Cen. Waves 4-5: by now you should have roughly 400 Cen. Buy Titan Cameraman at 350 Cen. Place it in the center of the map where its beam covers both lanes. This single Titan will carry you through wave 12. Waves 6-10: save for Titan Speakerman at 900 Cen. Do not buy anything else. If enemies start leaking through, move your Titan Cameraman slightly forward — it has enough damage for these waves, but bad positioning makes it miss enemies on the lane edges. The center position, slightly elevated if possible, is optimal.
 
-This is the universal BBF beginner experience. The game taught you to buy Titans but never taught you that not all Titans are worth buying. Here's what to do instead.
+Waves 11 through 25 are the saving phase. You have both Titans deployed. They are handling enemies. The shop has tempting options — Large Cameraman at 650 Cen, Plunger Cameraman at 1,800 Cen, Jetpack Plunger at 2,200 Cen. Every single one is a trap at this stage. You have 1,800 Cen. Jetpack Plunger looks amazing — it flies, it shoots, it is mobile. You buy it. Now you have zero Cen. At wave 22, you cannot afford Upgraded Cameraman at 2,500 Cen. You lose at wave 25. The right move: do nothing. Let your two Titans work. Collect Cen drops. Watch the bank grow. When you hit 2,500 Cen, immediately buy Upgraded Cameraman. Then save for Upgraded Speakerman at 3,200 Cen. The saving phase is a test of discipline, not skill. Pass the test.
 
----
+Where to position your Titans. Titan Cameraman goes in the center of the map, elevated if possible. The center position lets its beam hit both lanes — one Titan covering the intersection where enemies split is worth two Titans each covering one lane. Titan Speakerman goes near the spawn point on the central lane. Its rapid fire tags enemies as they spawn before they spread out. A Speakerman at the back of the map is wasted because enemies have already spread by the time they reach it. The best position for both is at a chokepoint where enemies funnel through a narrow path. One Titan at the chokepoint hits everything. Two Titans at the endpoints each miss half the enemies.
 
-## The Only Two Titans You Should Buy (Until Wave 25)
+What to do when a Titan dies mid-wave. Wave 18. Your Titan Speakerman just died to a surprise boss cleave. You have 1,500 Cen. The wave is still going. Do not panic-buy a replacement. A newly placed Titan has a 3-second deploy animation where it does zero damage and takes full damage. In a live wave, that is a death sentence. Instead, shift your surviving Titan to cover both lanes temporarily. After the wave ends, assess. If you lost your core Titan (Cameraman), replace it with the upgraded version directly at 2,500 Cen. If you lost your secondary Titan (Speakerman), prioritize the Cameraman upgrade first, then replace Speakerman later. The upgraded replacement is always worth the wait over an immediate base replacement that will die again in 20 seconds.
 
-| Titan | Cost | Buy When | Keep Until | Notes |
-|-------|------|----------|-----------|-------|
-| **Titan Cameraman** | 350 Cen | Wave 3-5 | Wave 25+ (as upgraded) | Best early-game value. Beam attack hits both lanes. |
-| **Titan Speakerman** | 900 Cen | Wave 8-12 | Wave 30+ (as upgraded) | Rapid fire clears swarms that Cameraman's single-target beam can't handle. |
+The most common reaction after a wave-25 wipe is to immediately queue another run and make the exact same mistakes. "I just need to position my Titans better." Positioning is not the problem. The problem is you bought six base Titans instead of two. Until you fix the purchasing error, no amount of positioning optimization will save you at wave 25. The two-Titan rule — Titan Cameraman at 350 Cen and Titan Speakerman at 900 Cen, nothing else before wave 25 — is not a suggestion. It is a mathematical requirement. Six base Titans cost roughly 2,400 Cen combined and deal 30 percent of the damage of two upgraded Titans that cost the same amount. The math is not close. Two upgraded Titans at wave 25 survive. Six base Titans die. Every time.
 
-**Do not buy:** Small Cameraman, Small Speakerman, Brown Cameraman, Blue Speakerman, Large Cameraman, Large Speakerman. These are filler units that do negligible damage past wave 10 and the Cen you spend on them is permanently lost. Every 100 Cen spent on a base unit is 100 Cen you won't have for the Upgraded Cameraman you need at wave 25.
 
----
-
-## Waves 1-10: The Setup
-
-**Wave 1-3:** Your starting units can handle these alone. Don't buy anything. Save Cen.
-
-**Wave 4-5:** By now you should have ~400 Cen. Buy Titan Cameraman (350 Cen). Place it in the center of the map where its beam covers both lanes. This single Titan will carry you through wave 12.
-
-**Wave 6-10:** Save for Titan Speakerman (900 Cen). Don't buy anything else during these waves. If enemies start leaking through, move your Titan Cameraman slightly forward — it has enough damage for waves 6-10, but bad positioning makes it miss enemies on the edges.
-
----
-
-## The Wave 25 Wall
-
-At wave 25, enemy HP spikes roughly 3x from wave 20. If you entered wave 25 with base Titans, you die. If you have Upgraded Cameraman (2,500 Cen) deployed by wave 22, you survive.
-
-The original 2,500 Cen for the upgrade should come from waves 12-22 of saving — after buying Titan Cameraman and Titan Speakerman, spend NOTHING until you can afford the upgrade.
-
----
-
-## Waves 11-25: The Saving Phase
-
-This is the most boring and most important 15 waves of the match. You have Titan Cameraman and Titan Speakerman deployed. They're handling enemies. The shop has tempting options — Large Cameraman (650 Cen), Plunger Cameraman (1,800 Cen), Jetpack Plunger (2,200 Cen). Every one of these is a trap.
-
-**The temptation:** You have 1,800 Cen. Jetpack Plunger Cameraman looks amazing — it flies, it shoots, it's mobile. You buy it. Now you have 0 Cen. At wave 22, you can't afford Upgraded Cameraman (2,500 Cen). You lose at wave 25.
-
-**The right move:** Do nothing. Let your two Titans work. Collect Cen drops. Watch the bank grow. When you hit 2,500 Cen, immediately buy Upgraded Cameraman. Then save for Upgraded Speakerman (3,200 Cen). The saving phase is a test of discipline, not skill.
-
----
-
-## Where to Actually Place Your Titans
-
-Random placement works through wave 10. Past wave 15, it gets you killed.
-
-| Titan | Best Position | Why | Common Placement Mistake |
-|-------|-------------|-----|------------------------|
-| Titan Cameraman | Center of map, elevated if possible | Beam hits both lanes from center. Elevation extends beam range. | Putting it at the front — it gets swarmed and dies early. |
-| Titan Speakerman | Near spawn point, central lane | Rapid fire tags enemies as they spawn before they spread out. | Putting it at the back — it's too far from spawn to be effective. |
-| Upgraded Cameraman | Same center position | Higher damage, same coverage pattern. Keep it where the base version was. | Moving it to a new position after upgrading — it already had the best spot. |
-
-**The lane coverage rule:** One Titan covering the intersection where enemies split into two lanes is worth two Titans each covering one lane. A single Titan at the chokepoint hits everything. Two Titans at the endpoints each miss half the enemies because they're too far apart.
-
----
-
-## What to Do When a Titan Dies Mid-Wave
-
-Wave 18. Your Titan Speakerman just died to a surprise boss cleave. You have 1,500 Cen. The wave is still going.
-
-**What most players do:** Panic-buy a replacement Titan immediately. They buy a base Titan Speakerman (900 Cen) in the same spot. The base version has 1/3 the DPS. It dies again in 20 seconds. Now you're down 900 Cen AND still have a hole in your defense.
-
-**The recovery protocol:** Don't replace mid-wave. A newly placed Titan has a 3-second deploy animation where it does zero damage. In a live wave, that's a death sentence. Instead, shift your surviving Titan to cover both lanes temporarily. After the wave ends, assess: if you lost your core Titan (Cameraman), replace it with the UPGRADED version directly (2,500 Cen). If you lost your secondary Titan (Speakerman), prioritize the Cameraman upgrade first, then replace Speakerman later.
-
----
-
-## When to Move from Normal to Hard Mode
-
-The game offers Hard mode from the start, and it's tempting — 1.5x Cen multiplier! More rewards! Better drops!
-
-Do not play Hard mode until you can consistently reach wave 70 in Normal mode. Hard mode increases enemy HP by 40%, enemy damage by 25%, and brings shielded enemies at wave 15 instead of wave 30. A player who dies at wave 40 in Normal will die at wave 20 in Hard — and earn LESS Cen per hour because they're spending more time in the lobby than in the game.
-
-**The readiness test:** Play three Normal mode runs. If you reach wave 70+ in all three without losing a single Titan before wave 45, you're ready for Hard. If you lose even one Titan before wave 45 in any run, you're not ready. One early Titan death in Normal becomes a full wipe in Hard. The 1.5x Cen multiplier means nothing if your Titans are dying at wave 20 — you earn zero Cen from wave 20 to wave 90 because you're dead. Master Normal first. You need to be able to reach wave 70+ consistently before Hard mode's 1.5x Cen multiplier actually earns you more per hour than Normal mode. Hard mode isn't going anywhere. Take your time learning the basics. The worst thing you can do is build bad habits in Hard mode that you then have to unlearn when you go back to Normal to actually progress.
+The difference between a player who clears wave 90 on their tenth attempt and a player who is still dying at wave 25 on their thirtieth attempt is not talent. It is not reaction speed. It is discipline. The disciplined player bought two Titans and saved. The undisciplined player bought six. Both had the same information. One followed it.
 
 ---
 
 ## Related Guides
 
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
+- [BBF Boss Wave Protocol — Every Boss Pattern & Counter](/posts/blockade-battlefront/boss-wave-protocol/)
 - [BBF Cen Farming Guide — How to Maximize Income](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Mid-Game Survival Playbook — Waves 30-50](/posts/blockade-battlefront/mid-game-survival-guide/)
 - [BBF Beginner Mistakes — 10 Cen Traps & Fixes](/posts/blockade-battlefront/beginner-mistakes-guide/)
