@@ -1,282 +1,164 @@
 ---
-
-title: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026)"
-description: "Comprehensive Palworld tier list ranking the best Pals for combat, mounts, and base work in 2026. S/A/B/C tier rankings with detailed reasoning for each Pal."
+title: "Palworld Best Pals Tier List — Not 'Which Pal Is Best' But 'Which Pal Should YOU Get Next' (2026)"
+description: "You're following a tier list and it says get Frostallion — but you're level 18 with a wooden base. The real tier list isn't about raw stats. It's about what your account needs right now. Here's the conditional ranking that actually helps."
 date: 2026-05-10
-cover:
-  image: "/cover-image/palworld-best-pals/cover.webp"
-  alt: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026)"
-  caption: "Palworld Best Pals Tier List: Combat, Mounts & Work (2026) Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-16
 draft: false
-tags: ["Palworld", "PC Games", "Tier List", "Survival", "Ranking"]
+tags: ["Palworld", "PC Games", "Tier List", "Combat", "Mounts", "Base Work", "Progression"]
 categories: ["PC Games"]
 games: ["Palworld"]
+cover:
+  image: "/cover-image/palworld-best-pals/cover.webp"
+  alt: "Palworld Best Pals Tier List — Which Pal Should YOU Get Next"
+  caption: "Stop following generic tier lists — get the Pal YOUR account needs"
 
 faq:
-  - question: "What is the best option in Palworld for beginners?"
-    answer: "Start with easily accessible options in the A-Tier that offer strong performance without requiring rare resources. Check each tier's beginner-friendly picks for budget recommendations that still perform well."
-  - question: "How often does this Palworld tier list change?"
-    answer: "Rankings shift with major updates, balance patches, and new content. We update this tier list when significant meta changes occur -- typically every 1-2 months. Check the last modified date above for freshness."
-  - question: "Are S-Tier options always the best choice in Palworld?"
-    answer: "Not always. S-Tier reflects overall power, but specific situations, playstyles, or budget constraints may make lower-tier options optimal for you. Read individual breakdowns to find what matches your needs."
+  - question: "What's the best Pal in Palworld?"
+    answer: "There is no single 'best' Pal. Frostallion is the most versatile (S-tier in combat, mount, and work), but at level 18 it's irrelevant to you. The best Pal is the one that solves your current bottleneck: can't craft fast enough? Breed Anubis. Can't travel fast? Catch a Nitewing. Base keeps burning down? Get Jormuntide Ignis. Match the Pal to your problem, not the tier list."
+  - question: "Should I follow this tier list or the one on [another site]?"
+    answer: "This tier list is different from every other one because it's conditional — it tells you which Pal to get based on your current level and what you're struggling with. Most tier lists just rank raw stats without context. Both are useful, but this one actually tells you what to do next."
+  - question: "How do I get Anubis early if I can't catch it?"
+    answer: "Breed it. Penking + Bushi = Anubis. Both are catchable before level 20. Penking spawns at the Sealed Realm of the Frozen Wings (northwest). Bushi spawns at the Sealed Realm of the Swordmaster (southwest of starting area). Catch both, put them in the Breeding Farm, and you'll have Anubis by level 19."
 
 ---
 
-> *Last updated: May 10, 2026. This tier list evaluates every major Pal across combat effectiveness, mount utility, and base work efficiency. Rankings are based on the current game meta including all updates through 2026.* See also: [Breeding Guide](/posts/palworld/breeding-guide/), [Boss & Tower Guide](/posts/palworld/boss-and-tower-guide/).
+> *Last updated: June 16, 2026. This is a conditional tier list — rankings change based on your level, your current bottleneck, and what your base needs right now. Raw stat rankings are included, but the real value is the "You need X if Y" framework.*
 
-## How Tiers Are Determined
+## The Scene: You Have a Frostallion and Your Base Is Still Terrible
 
-Each Pal is ranked in one or more categories based on its performance. The tier system works as follows:
+You watched the YouTube video. "Frostallion is S-tier in ALL categories. Get it ASAP." So you grinded to level 48, crafted Ultimate Spheres, trekked to the Absolute Zero fast travel, and — after 15 sphere throws and a near-death experience — you caught it.
 
-| Tier | Meaning | 
-|------|---------|
-| **S-Tier** | Best in class -- game-changing performance, no better alternative |
-| **A-Tier** | Excellent -- top-tier performance with minor limitations |
-| **B-Tier** | Good -- solid performance, fills specific niches |
-| **C-Tier** | Average -- usable but outclassed in its role |
+Then you flew back to your base and realized: your production lines are still slow. Your farms take forever. Your ingots pile up unprocessed. You have the "best Pal in the game" and your base is exactly as inefficient as it was at level 20.
 
-We evaluate Pals in four categories:
+**The problem with every Palworld tier list: it ranks Pals by their maximum potential, not by what your account actually needs at your current level.** A level-50 Frostallion is incredible. A level-20 Anubis that you can breed TODAY transforms your entire gameplay experience more than any legendary ever will.
 
-1. **Combat** -- Damage output, survivability, active skills, and partner skills in battle
-2. **Mount** -- Speed, stamina, special abilities while mounted (double jumps, triple jumps, gliding, swimming)
-3. **Work** -- Work suitability levels, efficiency at base tasks, passive utility
-4. **Hybrid Value** -- Overall usefulness across multiple roles
+Here's the tier list that actually answers "what should I get next?"
 
-## Combat Pals Tier List
+## The Conditional Tier System
 
-Combat Pals are evaluated on base stats (HP, Attack, Defense), active skill pool, partner skills that boost combat performance, and overall boss-killing capability.
+Instead of one universal ranking, Pals are ranked by which problem they solve at which stage of the game.
 
-### S-Tier Combat Pals
+- **"Crafting takes forever"** (Handiwork 4): Anubis → 19 (breedable)
+- **"Can't fly yet"** (Flying mount): Nitewing → 15
+- **"Farms are slow"** (Watering 4): Jormuntide → 25 (catchable)
+- **"Ore takes forever to mine"** (Mining 4): Astegon → 40+
+- **"Need to travel faster"** (Speed mount): Jetragon → 50
+- **"Boss fights are impossible"** (Combat carry): Frostallion → 48+
+- **"Pals keep getting sick"** (Medicine): Lyleen → 30+
+- **"Base keeps burning down"** (Kindling 4): Jormuntide Ignis → 40+
+- **"Can't hold enough stuff"** (Carry capacity): Cattiva (early) / Wumpo (late) → 1 / 40+
 
-| Pal | Type | HP (Lv50) | Attack (Lv50) | Defense (Lv50) | Why It's S-Tier |
-|-----|------|-----------|---------------|----------------|-----------------|
-| Frostallion | Ice | 4200 | 1100 | 850 | Legendary stats, Ice AoE devastates Dragon/Grass types, mountable flying combat, unique partner skill does massive ice damage on approach |
-| Jetragon | Dragon/Fire | 3900 | 1300 | 750 | Highest raw attack in the game, incredibly fast flying mount lets you dodge anything, Dragon/Fire coverage hits most types, rocket launcher partner skill |
-| Necromus | Dark | 4100 | 1200 | 800 | Dark-type nuke damage, double-jump mount, hits Neutral and Dark types for super-effective, brutal partner skill |
-| Paladius | Neutral | 4300 | 1050 | 880 | Highest base defense in the game, excellent defensive typing, triple-jump mount, strong Neutral damage |
-| Shadowbeak | Dark | 4000 | 1250 | 720 | Dark Laser skill is one of the highest single-hit damage moves, excellent coverage, high speed |
 
-### A-Tier Combat Pals
+**The counter-intuitive truth:** For the first 30 levels, the Pals that improve your life the most aren't legendaries. They're work Pals. A single Anubis in your base at level 19 cuts your crafting time by 70%. That's more impactful than any combat Pal until level 40+.
 
-| Pal | Type | Why It's A-Tier |
-|-----|------|----------------|
-| Blazamut | Fire | Highest Fire-type attack, excellent vs Grass/Ice/Normal, slightly slower than S-tier options |
-| Jormuntide Ignis | Fire/Dragon | Excellent type coverage, massive AoE fire attacks, but slow speed |
-| Anubis | Ground | Fast attack speed, Ground moves beat Electric/Fire, less raw stats than S-tier |
-| Lyleen | Grass | Best Grass-type for combat, healing moves, effective vs Water/Ground |
-| Grizzbolt | Electric | High-damage Electric attacks, good vs Water, minigun partner skill |
-| Orserk | Electric/Dragon | Excellent coverage, fights well against most types, electric DoT |
-| Suzaku | Fire | Fast flying combat, good Fire damage, but squishy |
-| Cryolinx | Ice | Strong Ice attacks, good bulk, great vs Dragon types |
+## Combat Pals: The Tier List That Changes With Your Level
 
-### B-Tier Combat Pals
+### What "S-Tier Combat" Actually Means
 
-| Pal | Type | Why It's B-Tier |
-|-----|------|----------------|
-| Faleris | Fire | Decent combat stats, overshadowed by better Fire Pals |
-| Beakon | Electric | Good Electric damage, fast but fragile |
-| Warsect | Ground | Tanky but low damage output |
-| Relaxaurus | Dragon | High HP but mediocre attack, early-game option |
-| Elphidran | Dragon | Balanced stats but no specialization |
-| Katress | Dark | Solid mid-game Dark type, outclassed by Shadowbeak/Necromus |
-| Menasting | Ground/Dark | Good defense but awkward typing |
+- **Frostallion** (1100): Boss fights, tower bosses, endgame → Levels 1-45 (you can't catch it)
+- **Jetragon** (1300): Endgame exploration, boss speed kills → Levels 1-48 (uncatchable before then)
+- **Shadowbeak** (1250): Mid-late game boss fights → Levels 1-35
+- **Anubis** (950): Levels 19-50 (breedable early, stays relevant) → Pure endgame boss fights (outclassed by legendaries)
 
-### C-Tier Combat Pals
 
-| Pal | Type | Why It's C-Tier |
-|-----|------|----------------|
-| Bushi | Fire | Outclassed by every Fire S/A tier, too fragile |
-| Sweepa | Ice | Low attack stats, better used for base cooling |
-| Chikipi | Neutral | Combat? Technically possible. Do not do this. |
-| Lamball | Neutral | Use for wool, not war |
-| Vixy | Neutral | Ranch pet, not a fighter |
+**The real S-tier at every stage:**
 
-## Mount Pals Tier List
+- **1-15**: Foxsparks (Fire) or Tanzee (Grass) | Catch in starting area
+- **15-25**: Nitewing + Direhowl | Catch Nitewing at Lv15, Direhowl in grasslands
+- **25-35**: Anubis (breed) + Faleris | Penking + Bushi = Anubis; catch Faleris at Sanctuary No.3
+- **35-45**: Shadowbeak + Blazamut | Shadowbeak at Sanctuary No.2; Blazamut at Scorching Mines
+- **45-50**: Frostallion + Jetragon + Paladius | Legendary hunting in endgame zones
 
-Mount Pals are evaluated on movement speed, stamina pool, special traversal abilities, and combat utility while mounted.
 
-### S-Tier Mounts
+## Mount Pals: Speed Is Not the Only Stat
 
-| Pal | Type | Speed | Stamina | Special Ability | Why S-Tier |
-|-----|------|-------|---------|----------------|------------|
-| Jetragon | Dragon/Fire | 3300 | 350 | Rocket boost dash | Fastest Pal in the game by a wide margin, rocket dash covers enormous distances, can outrun anything |
-| Frostallion | Ice | 2800 | 420 | Ice trail AoE | Second fastest flying mount, Ice trail damages enemies below, excellent stamina pool |
-| Paladius | Neutral | 1500 | 500 | Triple jump | Triple jump gives unmatched vertical mobility, can climb most mountains without dismounting |
-| Necromus | Dark | 1600 | 480 | Double jump | Double jump ground mount, fastest ground Pal, excellent for ground exploration |
+Everyone ranks mounts by top speed. But speed only matters if you can actually reach your destination without falling off.
 
-### A-Tier Mounts
+### The Mount Decision Framework
 
-| Pal | Type | Speed | Stamina | Special Ability | Why A-Tier |
-|-----|------|-------|---------|----------------|------------|
-| Faleris | Fire | 2600 | 350 | None (fast flyer) | Third fastest flying mount, easy to catch, no special gimmick |
-| Shadowbeak | Dark | 2400 | 380 | Dark laser while mounted | Good flight speed with combat utility |
-| Nitewing | Flying | 1800 | 300 | None | First flying mount most players get, decent speed for early game |
-| Suzaku | Fire | 2500 | 320 | None | Fast fire bird, area denial when flying |
-| Ragnahawk | Fire | 2200 | 350 | None | Fast fire flyer with good stamina |
-| Rayhound | Electric | 1700 | 480 | Ground speed boost | Fastest non-legendary ground Pal |
-| Direhowl | Dark | 1400 | 400 | None | Fast early ground mount, easy to find |
-| Eikthyrdeer | Neutral | 1300 | 450 | Double jump | Ground Pal with double jump, excellent in forest terrain |
+- **First flyer** (Nitewing): 1800 → Available at Lv15. Everything faster requires Lv34+ saddle.
+- **Ground exploration** (Direhowl): 1400 → Fastest ground mount you can catch before Lv25.
+- **Mountain climbing** (Eikthyrdeer): 1300 → Double jump bypasses cliffs. Faster than flying for vertical terrain.
+- **Water traversal** (Jormuntide): N/A (swimming) → Only Pal that moves fast in water. Surfent is the budget option.
+- **Long-distance flight** (Jetragon): 3300 → Twice as fast as the next-best flyer. Worth the Lv50 grind.
+- **Combat flight** (Frostallion): 2800 → Ice trail damages ground enemies. Faster than Faleris, more useful than Jetragon for combat.
 
-### B-Tier Mounts
 
-| Pal | Type | Speed | Why B-Tier |
-|-----|------|-------|------------|
-| Beakon | Electric | 1900 | Decent flying speed but outclassed |
-| Pyrin | Fire | 1500 | Average flying speed |
-| Surfent | Water | N/A | Good water traversal but useless on land |
-| Jormuntide | Water | N/A | Best water mount but slow on land |
-| Rushoar | Ground | 1000 | Slow ground mount, early game only |
-| Melpaca | Neutral | 1050 | Slightly faster than Rushoar, early game |
+### The Stamina Reality Check
 
-### C-Tier Mounts
+- **Nitewing** (300): ~45 seconds → One biome
+- **Faleris** (350): ~55 seconds → Two biomes
+- **Frostallion** (420): ~70 seconds → Three biomes
+- **Jetragon** (350): ~50 seconds (rocket boost drains) → Two biomes (but much faster)
 
-| Pal | Type | Speed | Why C-Tier |
-|-----|------|-------|------------|
-| Chillet | Dragon/Ice | 800 | Very slow, but easy to get early for ice traversal |
-| Grintale | Neutral | 900 | Cute but slow |
-| Dinossom | Grass | 950 | Slow, better used for farming |
 
-## Work Pals Tier List (Base Automation)
+**The surprising fact:** Frostallion has the longest flight duration, not Jetragon. Jetragon's rocket boost drains stamina rapidly. For long exploration trips where you can't land frequently, Frostallion is actually the better mount.
 
-Work Pals are ranked by their work suitability levels, speed, and the importance of their role in an automated base.
+## Work Pals: The Ones That Actually Transform Your Base
 
-### S-Tier Work Pals
+### The Handiwork Hegemony
 
-| Pal | Work Skills | Level | Why S-Tier |
-|-----|-------------|-------|------------|
-| Anubis | Handiwork, Mining, Transport | Handiwork 4, Mining 3 | Best handiwork Pal in the game -- crafts items at lightning speed, also mines, easy to breed |
-| Jormuntide | Watering | Watering 4 | Best watering Pal, irrigates entire farm in seconds |
-| Jormuntide Ignis | Kindling | Kindling 4 | Best kindling Pal, smelts and cooks instantly |
-| Frostallion | Cooling | Cooling 4 | Best cooling Pal, keeps entire base food preserved |
-| Lyleen | Medicine, Planting | Medicine 3, Planting 3 | Heals other Pals, excellent planting speed |
-| Astegon | Mining | Mining 4 | Best mining Pal, destroys ore nodes in one hit |
-| Wumpo | Cooling, Lumbering, Transport | Cooling 3, Lumbering 3, Transport 4 | Ultimate transport Pal, carries massive loads |
-| Blazamut | Mining, Kindling | Mining 3, Kindling 3 | Dual mining + kindling, great for smelting + mining bases |
+Handiwork is the single most impactful work stat. Every time you craft a sphere, a weapon, armor, or a structure — Handiwork determines how long it takes.
 
-### A-Tier Work Pals
+- **Anubis** (4): 4x → Breed Penking + Bushi (Lv19)
+- **Orserk** (3): 3x → Wildlife Sanctuary No.3 (Lv35+)
+- **Katress** (2): 2x → Catch in nighttime forests (Lv20+)
+- **Cattiva** (1): 1x → Starting area
 
-| Pal | Work Skills | Level | Why A-Tier |
-|-----|-------------|-------|------------|
-| Orserk | Handiwork, Transport, Generating | Handiwork 3, Generating 4 | Best electricity generation, good handiwork backup |
-| Grizzbolt | Handiwork, Transport, Generating | Generating 3, Handiwork 2 | Solid electric generator |
-| Petallia | Planting, Medicine, Gathering | Planting 3, Medicine 2 | Great planter, healing |
-| Warsect | Lumbering, Planting, Transport | Lumbering 3, Planting 2 | Strong lumberjack and planter |
-| Mossanda | Lumbering, Transport | Lumbering 3, Transport 3 | Good lumberjack, carries a lot |
-| Helzephyr | Transport | Transport 3 | Flying transport never gets stuck |
-| Faleris | Kindling, Transport | Kindling 3, Transport 3 | Kindling + air transport combo |
-| Reptyro | Kindling, Mining | Kindling 2, Mining 3 | Good mining/kindling hybrid for mid-game |
 
-### B-Tier Work Pals
+**A level-19 Anubis (Handiwork 4) crafts items 4x faster than a Cattiva.** What takes 60 seconds with Cattiva takes 15 seconds with Anubis. Over hundreds of crafting sessions, this saves literal hours.
 
-| Pal | Work Skills | Why B-Tier |
-|-----|-------------|------------|
-| Foxsparks | Kindling 1 | Best early game kindling, quickly outclassed |
-| Pengullet | Watering 1, Cooling 1, Transport 1 | Jack of all trades, master of none |
-| Tanzee | Planting 1, Handiwork 1, Lumbering 1 | Good early worker, replaced mid-game |
-| Cattiva | Handiwork 1, Transport 1, Mining 1 | Early workhorse, plus carrying capacity buff |
-| Digtoise | Mining 3 | Fast mining but only for ore, poor transport |
-| Penking | Watering 2, Cooling 2, Handiwork 2 | Solid mid-game water/handiwork |
-| Katress | Handiwork 2, Medicine 2 | Decent handiwork and medicine |
-| Beegarde | Farming (Honey) 1, Comb 1 | Passive honey production, essential for breeding |
+### The "Always Have These in Base" List
 
-### C-Tier Work Pals
+- **Kindling** (Jormuntide Ignis (4)): Blazamut (3), Faleris (3) → Without Kindling, you can't smelt ingots. No ingots = no spheres, no ammo.
+- **Watering** (Jormuntide (4)): Penking (2) → Without Watering, your farms produce nothing. No food = starving Pals.
+- **Planting** (Lyleen (3)): Petallia (3), Tanzee (1) → Seeds need planting. Without it, Watering is useless.
+- **Mining** (Astegon (4)): Anubis (3), Digtoise (3) → Ore and coal are the backbone of mid-game crafting.
+- **Handiwork** (Anubis (4)): Orserk (3), Katress (2) → Crafting speed. Affects everything.
+- **Transport** (Wumpo (4)): Helzephyr (3), Mossanda (3) → Moves items from production to storage. Without it, stations clog.
+- **Cooling** (Frostallion (4)): Cryolinx (2), Pengullet (1) → Preserves food. Without it, your 200 berries rot overnight.
+- **Medicine** (Lyleen (3)): Katress (2) → Sick Pals don't work. Medicine cures them.
+- **Generating** (Orserk (4)): Grizzbolt (3) → Powers assembly lines. Required for mid-game production.
 
-| Pal | Work Skills | Why C-Tier |
-|-----|-------------|------------|
-| Chikipi | Farming (Eggs) 1 | Egg production only |
-| Lamball | Farming (Wool) 1 | Wool production only |
-| Vixy | Farming (Coins/Arrows) 1 | Passive coin farm, but replaces nothing critical |
-| Mozzarina | Farming (Milk) 1 | Milk production only |
-| Melpaca | Farming (Wool) 1 | Inferior to Lamball for wool |
 
-## Hybrid Value Tier List
+### The Work Pal Priority Order (by level)
 
-Some Pals excel in multiple roles simultaneously. These are the most valuable Pals in the game.
+- **1** (1-15): Cattiva (Handiwork 1) + Foxsparks (Kindling 1) → First crafting + cooking
+- **2** (15-19): Penking (Watering 2) + Tanzee (Planting 1) → Food production starts
+- **3** (19): **Breed Anubis** (Handiwork 4) → Crafting speed revolution
+- **4** (25-30): Digtoise (Mining 3) + Beegarde (Honey) → Ore mining + cake ingredients
+- **5** (30-35): Jormuntide (Watering 4) + Lyleen (Medicine 3) → Full farm automation
+- **6** (40+): Jormuntide Ignis (Kindling 4) + Astegon (Mining 4) → Endgame production speed
+- **7** (45+): Frostallion (Cooling 4) + Wumpo (Transport 4) → Food preservation + logistics
 
-### S-Tier Hybrids (Excellent in 2+ Roles)
 
-| Pal | Combat | Mount | Work | Why It's S-Tier |
-|-----|--------|-------|------|-----------------|
-| Frostallion | S | S | S (Cooling) | The only Pal that is S-tier in ALL three categories. Legendary combat stats, fastest ice mount, and best base cooler. A single Frostallion replaces three Pals. |
-| Jetragon | S | S | C | Best combat + fastest mount. You will use Jetragon for everything outside your base. |
-| Anubis | A | C | S (Handiwork) | S-tier base worker and A-tier fighter. Easy to breed. Build your base around Anubis. |
-| Jormuntide Ignis | A | C | S (Kindling) | S-tier kindling and A-tier fire combat. Can also be used as a water mount (swimming). |
-| Lyleen | A | C | A (Planting/Medicine) | Heals Pals, plants farms, and fights well. Indispensable in any base. |
-| Paladius | S | S | C | Elite combat with triple-jump utility. Less useful in base but dominates exploration and fighting. |
+## Hybrid Value: The Pals You Build Your Account Around
 
-### A-Tier Hybrids
+Some Pals do multiple jobs. These are the ones worth investing resources into.
 
-| Pal | Combat | Mount | Work | Why A-Tier |
-|-----|--------|-------|------|------------|
-| Orserk | A | C | A (Generating) | Fights well, powers your base. The perfect mid-game all-rounder. |
-| Necromus | S | S | C | Elite combat and ground mount. Paladius's counterpart, slightly less tanky. |
-| Jormuntide | B | B (Water) | S (Watering) | S-tier watering plus decent water mount. |
-| Faleris | B | A | B (Kindling/Transport) | Fast flyer, decent kindling, okay in combat. Good all-rounder. |
-| Shadowbeak | S | A | C | Top combat with good flight. No base utility but dominates outside. |
+- ****Anubis**** (A-tier until Lv40, C): S (Handiwork, Mining) — **Highest overall impact.** Breed it at Lv19. Use it for 30+ levels.
+- ****Frostallion**** (S, S): S (Cooling) — Best single Pal in the game — but only obtainable at Lv48+.
+- ****Jormuntide Ignis**** (A, C): S (Kindling) — Transforms your smelting. Also fights well.
+- ****Lyleen**** (A, C): A (Planting, Medicine) — Keeps your base healthy and fed.
+- ****Orserk**** (A, C): A (Generating) — Powers everything + fights. The best mid-game all-rounder.
 
-### B-Tier Hybrids
 
-| Pal | Combat | Mount | Work | Why B-Tier |
-|-----|--------|-------|------|------------|
-| Beakon | B | B | B (Generating) | Average at everything, excels at nothing |
-| Cryolinx | A | C | B (Cooling/Lumbering) | Good combat, some base use, no mount |
-| Nitewing | C | B | C | First flyer, quickly outclassed |
-| Direhowl | B | B | C | Fast ground mount with okay combat |
+## The "Don't Waste Your Time" List
 
-## Tier List Summary: Best Pals to Prioritize
+Some Pals look good on paper but aren't worth the effort.
 
-For exact spawn locations of every Pal mentioned below, see the [Pal Locations Guide](../palworld/pal-locations-guide.md).
+- **Warsect**: Tanky but low damage output. Fights take forever. | Anubis — faster kills, also crafts
+- **Relaxaurus**: High HP but terrible attack. "Dragon type" sounds good, performs poorly. | Jormuntide Ignis — actual dragon damage
+- **Bushi**: Outclassed by every other Fire type. | Blazamut or Faleris
+- **Sweepa**: "Ice type for Dragon bosses" — but dies in 3 hits. | Cryolinx — actually survives
+- **Chillet**: Cute, early-game accessible. Stats are terrible past Lv20. | Direhowl — ground mount that stays relevant
 
-### Early Game (Levels 1-20)
 
-| Pal | Why |
-|-----|-----|
-| Foxsparks | Kindling 1, first fire Pal, cooks food and smelts ore |
-| Cattiva | Carrying capacity buff + handiwork/transport/mining |
-| Tanzee | Planting + gathering, food production |
-| Nitewing | First flying mount at level 15 saddle |
-| Penking | Watering + cooling + handiwork, versatile mid-game Pal |
+## Related Guides
 
-### Mid Game (Levels 20-35)
-
-| Pal | Why |
-|-----|-----|
-| Digtoise | Mining 3, smashes ore nodes fast |
-| Beegarde | Honey production for cakes (breeding) |
-| Anubis (breed or catch) | S-tier handiwork, will transform your base |
-| Faleris | Fast flying mount, level 35 saddle |
-| Orserk | Electric generation + combat powerhouse |
-| Jormuntide | Watering 4, transform your farms |
-
-### End Game (Levels 35-50+)
-
-| Pal | Why |
-|-----|-----|
-| Frostallion | S-tier in 3 categories, the ultimate Pal |
-| Jetragon | Fastest everything, best combat mount |
-| Astegon | Mining 4, destroys everything |
-| Jormuntide Ignis | Kindling 4, best fire worker |
-| Lyleen | Medicine + planting, base healer |
-| Paladius / Necromus | Legendary combat duo |
-| Wumpo | Transport 4, moves everything |
-
-## Final Thoughts
-
-The "best" Pal depends on what you need right now. If you are base-building, Anubis and Jormuntide are your priorities. If you are exploring, Jetragon or Frostallion should be your target. If you are boss-hunting, Paladius and Shadowbeak will carry you through.
-
-The single most impactful Pal in the game is **Frostallion** -- the only Pal that is S-tier in combat, mount, and work simultaneously. Every player should prioritize obtaining one (either by catching at level 50 or breeding). For a complete guide on farming the materials needed to craft spheres, food, and gear, see the [Resources & Materials Guide](../palworld/resources-and-materials-guide.md).
-
-### Continue Reading
-
-- **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start your journey here.
-- **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- How to breed Anubis, Frostallion, and other top Pals.
-- **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Optimize your base with the right Pals.
-- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to find every Pal mentioned in this tier list.
-- **[Palworld Boss & Tower Guide](../palworld/boss-and-tower-guide.md)** -- Use the right combat Pals for each boss.
-- **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farm materials for spheres and gear.
-- **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Leveling roadmap.
-
-**Related Guides:**
-
-- [Jetragon vs Shadowbeak](/posts/palworld/jetragon-vs-shadowbeak/)
+- [Palworld Beginner Guide](/posts/palworld/beginner-guide/) — Where to build, first Pals to catch
+- [Palworld Breeding Guide](/posts/palworld/breeding-guide/) — How to breed Anubis, Frostallion, and other top Pals
+- [Palworld Base Building Guide](/posts/palworld/base-building-guide/) — Optimize your base layout
+- [Palworld Pal Locations Guide](/posts/palworld/pal-locations-guide/) — Where to find every Pal
+- [Palworld Boss & Tower Guide](/posts/palworld/boss-and-tower-guide/) — Use the right combat Pals
+- [Jetragon vs Shadowbeak](/posts/palworld/jetragon-vs-shadowbeak/) — Which endgame mount to prioritize
