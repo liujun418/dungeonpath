@@ -1,8 +1,8 @@
 # Hugo 生成缓存 — Vercel 会重新构建
 resources/
 
-# PNG 源图 — 模板读的是 assets/cover-image/，cover-image/ 根目录的 PNG 不需要上传
-cover-image/
+# PNG 源图 — 只排除根目录 cover-image/，保留 assets/cover-image/ 和 static/cover-image/
+/cover-image/
 
 # 开发文件
 docs/
