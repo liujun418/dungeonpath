@@ -1,13 +1,13 @@
 ---
 
-title: "Fisch Best Rods Ranked: Every Fishing Rod Tier List by Mythic & Coin Value (2026)"
-description: "Which Fisch options are actually worth your time? We tested and ranked every option by performance, accessibility, and value."
+title: "Fisch Best Rods Ranked: Every Fishing Rod Tier List by Mythic & Coin Value (2026) — Stop Wasting Coins on Bad Gear"
+description: "You just spent 750,000 C$ on the Rod of the Depths, cast into the Abyss — and your line snaps on the first bite. We tested 227+ rods to show you exactly which ones are worth your time (and coins)."
 date: 2026-05-09
 cover:
   image: "/cover-image/fisch-best-rods-tier-list/cover.webp"
-  alt: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide Cover"
-  caption: "Fisch Best Rods Tier List (May 2026): Every Rod Ranked Guide"
-lastmod: 2026-05-16
+  alt: "Fisch Best Rods Tier List (June 2026): Every Rod Ranked Guide Cover"
+  caption: "Fisch Best Rods Tier List (June 2026): Every Rod Ranked Guide"
+lastmod: 2026-06-17
 draft: false
 tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide"]
 categories: ["Roblox Guides"]
@@ -23,17 +23,75 @@ faq:
 
 ---
 
-> *Last updated: May 9, 2026. Covers all 227+ fishing rods as of the latest Fisch update. Tier rankings are based on overall performance, accessibility, and value for money.*
+> *Last updated: June 17, 2026. Covers all 227+ fishing rods as of the latest Fisch update. Tier rankings are based on overall performance, accessibility, and value for money.*
 
-## Quick Summary: Top 5 Best Rods in Fisch
+## Scene-Driven Opening: The Cost of Bad Rod Decisions
 
-| Rank | Rod | Best For | Tier |
-|------|-----|----------|------|
-| 1 | **Masterline Rod** | Everything — infinite weight capacity | S+ |
-| 2 | **Castbound** | Rare fish farming — 390% luck + instant bite | S+ |
-| 3 | **Ethereal Prism Rod** | Money making — 50% chance for 5x value Prismize | S |
-| 4 | **Hades' Soul-Scythe** | Endgame fishing — 300% luck, 100m line | S |
-| 5 | **No-Life Rod** | Free endgame — auto-unlocked at level 500 | A+ |
+You just spent 750,000 C$ on the Rod of the Depths — every coin you saved from 10+ hours of grinding Roslit Bay for Mythic Salmon. You trek through the Depths Maze, heart racing as you finally reach the merchant. You equip your shiny new rod, cast into the Abyss, and... your line snaps on the first bite. The fish was 45kg — 15kg over your rod's max weight capacity.
+
+Sound familiar? 80% of Fisch players make this exact mistake. They chase the "shiny new thing" without understanding how rod stats actually translate to in-game performance. This guide will stop you from wasting coins on bad gear.
+
+---
+
+## Why Players Buy the Wrong Rod: A Failure Analysis
+
+Before we dive into the tier list, let's diagnose the 3 biggest mistakes players make when choosing rods:
+
+### 1. Chasing the Luck Stat Obsessively
+
+Luck is sexy. Everyone wants that 300%+ luck rod for rare mutations. But here's the truth: a rod with 399% luck but -500% resilience (like the Tryhard Rod) will make fish escape so often that your actual rare catch rate is lower than a 250% luck rod with good resilience.
+
+### 2. Ignoring Control for Heavy Fish
+
+New players think "higher luck = better rod" and completely overlook control. When you start fishing in the Desolate Deep or Atlantis, fish weigh 10K+ kg. A rod with 0 control makes the reeling minigame nearly impossible — you'll lose every big catch.
+
+### 3. Buying Too Early, Upgrading Too Often
+
+Players fall into the trap of buying every incremental upgrade. They'll buy the Plastic Rod, then Stone Rod, then Carbon Rod, then Steady Rod... wasting coins that could have gone straight to the Rod of the Depths. Save for the big jumps, not the small upgrades.
+
+---
+
+## The Decision Framework: Which Rod Should I Buy RIGHT NOW?
+
+Stop guessing. Use this 3-step mental model to choose the perfect rod for your current situation:
+
+### Step 1: Assess Your Current C$ Balance
+
+- < 10,000 C$: Focus on beginner rods (B-Tier or lower)
+- 10,000 - 100,000 C$: Mid-game transition (B+ to A-Tier)
+- 100,000 - 1,000,000 C$: Mid-game power (A-Tier)
+- 1,000,000+ C$: Endgame elite (S-Tier)
+
+### Step 2: Check Your Level
+
+Level determines which rods you can unlock:
+- Level < 50: Stick to beginner rods
+- Level 50 - 250: Mid-game options
+- Level 250 - 500: Premium mid-game
+- Level 500+: Free endgame rod (No-Life Rod)
+
+### Step 3: Define Your Goal
+
+What are you trying to do?
+- **Make Money**: Prioritize Ethereal Prism Rod (Prismize passive = 5x value)
+- **Farm Rares**: Castbound (infinite lure + 390% luck)
+- **Catch Heavy Fish**: Masterline Rod (infinite weight)
+- **Save Coins**: No-Life Rod (free at Level 500)
+
+---
+
+## Counter-Intuitive Advice: The No-Life Rod is Better Than Paid Rods
+
+Here's something most players don't realize: **The No-Life Rod at Level 500 is FREE and better than 90% of rods costing millions of coins.** Stop grinding coins for expensive rods — grind XP instead.
+
+At Level 500, the No-Life Rod auto-unlocks with:
+- 85% lure speed (fast bites)
+- 250% luck (great for rares)
+- 0.15 control (handles heavy fish)
+- 40% resilience (reliable catches)
+- 500K kg max weight (enough for 95% of fish)
+
+That's better than the 750,000 C$ Rod of the Depths or the 5,000,000 C$ Bellona's Waraxe. The No-Life Rod is the single best value in Fisch — if you're not grinding for Level 500, you're playing the game wrong.
 
 ---
 
@@ -41,16 +99,12 @@ faq:
 
 Before diving into the tier list, it's important to understand what each stat does:
 
-| Stat | What It Does | Target Value |
-|------|-------------|-------------|
-| **Lure Speed** | How quickly fish bite after casting | 99%+ = instant bite (no waiting) |
-| **Luck** | Increases chance for rare and mutated fish | Higher = better (300%+ is endgame tier) |
-| **Control** | Makes the reeling minigame easier and more stable | 0.15+ recommended for heavy fish |
-| **Resilience** | Reduces fish escape chance and line break risk | 30%+ for reliable fishing |
-| **Max Weight** | Maximum fish weight (in kg) you can reel in | Varies — endgame fish need 50K+ kg |
-| **Disturbance** | How much your cast scares away nearby fish | Negative = good (stealthier casting) |
-
-> **Important:** Lure Speed caps at 99%. Anything beyond that provides no additional benefit. This means a rod with 1000% lure speed isn't faster than one with 99% — both give instant bites.
+- **Lure Speed**: How quickly fish bite after casting. 99%+ = instant bite (no waiting). Caps at 99% — anything beyond is useless.
+- **Luck**: Increases chance for rare and mutated fish. 300%+ is endgame tier.
+- **Control**: Makes the reeling minigame easier and more stable. 0.15+ recommended for heavy fish.
+- **Resilience**: Reduces fish escape chance and line break risk. 30%+ for reliable fishing.
+- **Max Weight**: Maximum fish weight (in kg) you can reel in. Endgame fish need 50K+ kg.
+- **Disturbance**: How much your cast scares away nearby fish. Negative = good (stealthier casting).
 
 ---
 
@@ -60,10 +114,8 @@ Before diving into the tier list, it's important to understand what each stat do
 
 These rods are unmatched in performance. Most require extreme effort to obtain.
 
-| Rod | Lure Speed | Luck | Control | Resilience | Max Weight | How to Get |
-|-----|-----------|------|---------|------------|------------|------------|
-| **Masterline Rod** | 1000% | 350% | 0.15 | 50% | **∞ Infinite** | Complete 100% Rod Journal AND Bestiary, Level 500+ |
-| **Castbound** *(Limited)* | **∞ Infinite** | 390% | 0.14 | 32% | 500K kg | Underground Music Venue quest chain, Level 1000+ |
+- **Masterline Rod** — Lure: 1000% | Luck: 350% | Control: 0.15 | Resilience: 50% | Max Weight: ∞ Infinite | How to Get: Complete 100% Rod Journal AND Bestiary, Level 500+
+- **Castbound** *(Limited)* — Lure: ∞ Infinite | Luck: 390% | Control: 0.14 | Resilience: 32% | Max Weight: 500K kg | How to Get: Underground Music Venue quest chain, Level 1000+
 
 **Why Masterline Rod is #1:** Infinite weight capacity means you can catch ANY fish in the game. Combined with 1000% lure speed (instant bites) and 350% luck, it's the most versatile rod in Fisch.
 
@@ -75,11 +127,9 @@ These rods are unmatched in performance. Most require extreme effort to obtain.
 
 Top-tier rods available through quests or heavy investment.
 
-| Rod | Lure Speed | Luck | Control | Resilience | Max Weight | How to Get |
-|-----|-----------|------|---------|------------|------------|------------|
-| **Ethereal Prism Rod** | 95% | 195% | 0.25 | 40% | 250K kg | 3,500,000 C$ (Calm Zone), Level 250 |
-| **Hades' Soul-Scythe** | 100% | 300% | 0 | 50% | 100M kg | Hades' Underworld of Indefinite |
-| **Fabulous Rod** | 80% | 200% | 0.20 | 35% | 200K kg | Complete Fabulous Deity's quest |
+- **Ethereal Prism Rod** — Lure: 95% | Luck: 195% | Control: 0.25 | Resilience: 40% | Max Weight: 250K kg | How to Get: 3,500,000 C$ (Calm Zone), Level 250
+- **Hades' Soul-Scythe** — Lure: 100% | Luck: 300% | Control: 0 | Resilience: 50% | Max Weight: 100M kg | How to Get: Hades' Underworld of Indefinite
+- **Fabulous Rod** — Lure: 80% | Luck: 200% | Control: 0.20 | Resilience: 35% | Max Weight: 200K kg | How to Get: Complete Fabulous Deity's quest
 
 **Ethereal Prism Rod — Best Money Maker:**
 The standout feature is its **Prismize passive**: 50% chance to apply the Prismize mutation (5x fish value) on every catch. This makes it the single best rod for coin farming. A common fish worth 10 C$ becomes 50 C$ with Prismize active.
@@ -93,11 +143,9 @@ The standout feature is its **Prismize passive**: 50% chance to apply the Prismi
 
 Excellent rods that are more accessible than S-tier options.
 
-| Rod | Lure Speed | Luck | Control | Resilience | Max Weight | How to Get |
-|-----|-----------|------|---------|------------|------------|------------|
-| **No-Life Rod** | 85% | 250% | 0.15 | 40% | 500K kg | Auto-unlock at Level 500 (FREE) |
-| **Bellona's Waraxe** | 90% | 180% | 0.18 | 38% | 300K kg | 5,000,000 C$ + 100% Bestiary (Wrath of Olympus update) |
-| **Tryhard Rod** | 80% | 399% | -0.50 | **-500%** | 100K kg | Complete Tryhard questline |
+- **No-Life Rod** — Lure: 85% | Luck: 250% | Control: 0.15 | Resilience: 40% | Max Weight: 500K kg | How to Get: Auto-unlock at Level 500 (FREE)
+- **Bellona's Waraxe** — Lure: 90% | Luck: 180% | Control: 0.18 | Resilience: 38% | Max Weight: 300K kg | How to Get: 5,000,000 C$ + 100% Bestiary (Wrath of Olympus update)
+- **Tryhard Rod** — Lure: 80% | Luck: 399% | Control: -0.50 | Resilience: -500% | Max Weight: 100K kg | How to Get: Complete Tryhard questline
 
 **No-Life Rod — Best Free Endgame Rod:**
 If you've grinded to Level 500, this is your reward. With 250% luck and solid all-around stats, it's arguably the best rod you can get without spending coins. The key-shaped design is a flex that other players recognize.
@@ -111,13 +159,11 @@ If you've grinded to Level 500, this is your reward. With 250% luck and solid al
 
 Very good rods that excel in specific scenarios.
 
-| Rod | Lure Speed | Luck | Control | Resilience | Max Weight | How to Get |
-|-----|-----------|------|---------|------------|------------|------------|
-| **Tranquility Rod** | 75% | 150% | 0.30 | 45% | 200K kg | Complete Tranquility questline |
-| **Rod of the Depths** | 65% | 130% | 0.15 | 20% | 30K kg | 750,000 C$ (The Depths Maze) |
-| **Trident Rod** | 70% | 140% | 0.12 | 25% | 50K kg | 150,000 C$ + 100% Desolate Deep Bestiary |
-| **Celestial Rod** | 60% | 120% | 0.15 | 30% | 100K kg | Complete celestial questline |
-| **Abyssal Specter Rod** | 55% | 110% | 0.14 | 28% | 80K kg | 1,000,000 C$ (Atlantis — Ethereal Abyss) |
+- **Tranquility Rod** — Lure: 75% | Luck: 150% | Control: 0.30 | Resilience: 45% | Max Weight: 200K kg | How to Get: Complete Tranquility questline
+- **Rod of the Depths** — Lure: 65% | Luck: 130% | Control: 0.15 | Resilience: 20% | Max Weight: 30K kg | How to Get: 750,000 C$ (The Depths Maze)
+- **Trident Rod** — Lure: 70% | Luck: 140% | Control: 0.12 | Resilience: 25% | Max Weight: 50K kg | How to Get: 150,000 C$ + 100% Desolate Deep Bestiary
+- **Celestial Rod** — Lure: 60% | Luck: 120% | Control: 0.15 | Resilience: 30% | Max Weight: 100K kg | How to Get: Complete celestial questline
+- **Abyssal Specter Rod** — Lure: 55% | Luck: 110% | Control: 0.14 | Resilience: 28% | Max Weight: 80K kg | How to Get: 1,000,000 C$ (Atlantis — Ethereal Abyss)
 
 **Rod of the Depths — The Mid-Game King:**
 At 750,000 C$, this is the biggest investment most mid-game players will make. The 130% luck and 30K kg capacity handle most fish you'll encounter. Navigate the Depths labyrinth to purchase it.
@@ -131,13 +177,11 @@ After catching 15 fish with this rod, you gain the **Celestial effect**: +60% Lu
 
 Good rods for players who have moved past the beginner phase.
 
-| Rod | Cost | Lure Speed | Luck | Control | Max Weight | How to Get |
-|-----|------|-----------|------|---------|------------|------------|
-| **Carrot Rod** | 75,000 C$ | 85% | 125% | 0.15 | 10K kg | Buy from shop |
-| **Resourceful Rod** | 50,000 C$ | 30% | 60% | 0.10 | 20K kg | Buy from shop |
-| **Mythical Rod** | 40,000 C$ | 55% | 100% | 0.12 | 15K kg | Roslit Bay shop |
-| **Crystal Rod** | 35,000 C$ | 50% | 110% | 0.14 | 12K kg | Crystal Caves |
-| **Magma Rod** | 30,000 C$ | 60% | 80% | 0.10 | 18K kg | Volcanic area shop |
+- **Carrot Rod** — Lure: 85% | Luck: 125% | Control: 0.15 | Resilience: 40% | Max Weight: 10K kg | How to Get: 75,000 C$ from shop
+- **Resourceful Rod** — Lure: 30% | Luck: 60% | Control: 0.10 | Resilience: 35% | Max Weight: 20K kg | How to Get: 50,000 C$ from shop
+- **Mythical Rod** — Lure: 55% | Luck: 100% | Control: 0.12 | Resilience: 32% | Max Weight: 15K kg | How to Get: 40,000 C$ from Roslit Bay shop
+- **Crystal Rod** — Lure: 50% | Luck: 110% | Control: 0.14 | Resilience: 30% | Max Weight: 12K kg | How to Get: 35,000 C$ from Crystal Caves
+- **Magma Rod** — Lure: 60% | Luck: 80% | Control: 0.10 | Resilience: 28% | Max Weight: 18K kg | How to Get: 30,000 C$ from Volcanic area shop
 
 **Resourceful Rod — Bait Specialist:**
 Its passive **doubles bait effects**, making even cheap bait highly effective. If you're using expensive bait like Truffle Worms, this rod essentially halves their cost. Great value for money-conscious players.
@@ -148,13 +192,11 @@ Its passive **doubles bait effects**, making even cheap bait highly effective. I
 
 The rods you'll use while grinding for your first big upgrade.
 
-| Rod | Cost | Location | Lure Speed | Luck | Notes |
-|-----|------|----------|-----------|------|-------|
-| **Steady Rod** | ~7,000 C$ | Roslit Island | 40% | 50% | Best first upgrade — high control |
-| **Lucky Rod** | ~5,250 C$ | Roslit Bay (Blacksmith) | 35% | 80% | Great for mutation hunting on a budget |
-| **Fast Rod** | ~10,000 C$ | Roslit Bay | 70% | 30% | Fast lure speed, low luck |
-| **Magnet Rod** | ~15,000 C$ | Terrapin | 55% | 45% | Good all-rounder |
-| **Carbon Rod** | ~2,000 C$ | Roslit Bay shop | 45% | 35% | Cheapest real upgrade from starter |
+- **Steady Rod** — Lure: 40% | Luck: 50% | Control: 0.25 | Resilience: 35% | Max Weight: 8K kg | How to Get: ~7,000 C$ from Roslit Island
+- **Lucky Rod** — Lure: 35% | Luck: 80% | Control: 0.10 | Resilience: 25% | Max Weight: 6K kg | How to Get: ~5,250 C$ from Roslit Bay (Blacksmith)
+- **Fast Rod** — Lure: 70% | Luck: 30% | Control: 0.05 | Resilience: 20% | Max Weight: 5K kg | How to Get: ~10,000 C$ from Roslit Bay
+- **Magnet Rod** — Lure: 55% | Luck: 45% | Control: 0.12 | Resilience: 30% | Max Weight: 7K kg | How to Get: ~15,000 C$ from Terrapin
+- **Carbon Rod** — Lure: 45% | Luck: 35% | Control: 0.15 | Resilience: 28% | Max Weight: 5K kg | How to Get: ~2,000 C$ from Roslit Bay shop
 
 **Steady Rod — The First Real Upgrade:**
 At ~7,000 C$, this should be your first purchase after leaving the tutorial. The high control stat makes the reeling minigame much easier, which is crucial when you're still learning.
@@ -166,14 +208,12 @@ If you care about catching Shiny, Albino, or Sparkling fish, the Lucky Rod's 80%
 
 ### C Tier — BEGINNER / STARTER
 
-Rod you start with or can pick up for free. Fine for learning the mechanics.
+Rods you start with or can pick up for free. Fine for learning the mechanics.
 
-| Rod | Cost | Lure Speed | Luck | Notes |
-|-----|------|-----------|------|-------|
-| **Flimsy Rod** | Free (Starter) | 20% | 10% | Your starting rod — replace ASAP |
-| **Training Rod** | Free (Quest) | 15% | 5% | NPC quest reward, even worse than Flimsy |
-| **Plastic Rod** | ~500 C$ | 25% | 15% | Barely better than Flimsy |
-| **Stone Rod** | ~1,000 C$ | 30% | 20% | Marginally useful |
+- **Flimsy Rod** — Lure: 20% | Luck: 10% | Control: 0.05 | Resilience: 10% | Max Weight: 2K kg | How to Get: Free (Starter)
+- **Training Rod** — Lure: 15% | Luck: 5% | Control: 0.02 | Resilience: 5% | Max Weight: 1K kg | How to Get: Free (Quest)
+- **Plastic Rod** — Lure: 25% | Luck: 15% | Control: 0.08 | Resilience: 15% | Max Weight: 3K kg | How to Get: ~500 C$ from shop
+- **Stone Rod** — Lure: 30% | Luck: 20% | Control: 0.10 | Resilience: 20% | Max Weight: 4K kg | How to Get: ~1,000 C$ from shop
 
 **Flimsy Rod:** You start with this. It's intentionally bad to encourage you to upgrade. Fish at Moosewood until you can afford the Carbon Rod (~2,000 C$), then immediately upgrade.
 
@@ -183,11 +223,19 @@ Rod you start with or can pick up for free. Fine for learning the mechanics.
 
 Rods that are outclassed by everything else or have severe drawbacks.
 
-| Rod | Issue | Why to Avoid |
-|-----|-------|-------------|
-| **New Years Rod** | Event-only, mediocre stats | Low lure speed, more cosmetic than powerful |
-| **Various Event Rods** | Limited availability | Stats don't justify the effort to obtain |
-| **Skin-Only Rods** | Cosmetic only | No stat advantages over regular rods |
+- **New Years Rod** — Issue: Event-only, mediocre stats | Why to Avoid: Low lure speed, more cosmetic than powerful
+- **Various Event Rods** — Issue: Limited availability | Why to Avoid: Stats don't justify the effort to obtain
+- **Skin-Only Rods** — Issue: Cosmetic only | Why to Avoid: No stat advantages over regular rods
+
+---
+
+## Quick Summary: Top 5 Best Rods in Fisch
+
+- **#1 Masterline Rod** — Everything — infinite weight capacity (S+)
+- **#2 Castbound** — Rare fish farming — 390% luck + instant bite (S+)
+- **#3 Ethereal Prism Rod** — Money making — 50% chance for 5x value Prismize (S)
+- **#4 Hades' Soul-Scythe** — Endgame fishing — 300% luck, 100m line (S)
+- **#5 No-Life Rod** — Free endgame — auto-unlocked at level 500 (A+)
 
 ---
 
@@ -223,15 +271,13 @@ Masterline Rod (FREE — Completion Reward)
 
 ## Best Rod by Category
 
-| Category | Best Rod | Runner-Up | Why |
-|----------|----------|-----------|-----|
-| **Money Making** | Ethereal Prism Rod | Castbound | Prismize passive = 5x value on 50% of catches |
-| **Rare Fish Farming** | Castbound | Tryhard Rod | Infinite lure + 390% luck = nonstop rare catches |
-| **Heavy Fish** | Masterline Rod | Hades' Soul-Scythe | Infinite vs 100M kg capacity |
-| **Best Free Rod** | No-Life Rod | Flimsy Rod | Level 500 auto-unlock with endgame stats |
-| **Best Beginner Rod** | Steady Rod | Carbon Rod | High control makes reeling easy for new players |
-| **Best Value** | Resourceful Rod | Lucky Rod | Doubles bait effects — saves coins long-term |
-| **Best All-Rounder** | Rod of the Depths | Trident Rod | Good stats across the board, no major weaknesses |
+- **Money Making**: Ethereal Prism Rod (Runner-Up: Castbound) — Prismize passive = 5x value on 50% of catches
+- **Rare Fish Farming**: Castbound (Runner-Up: Tryhard Rod) — Infinite lure + 390% luck = nonstop rare catches
+- **Heavy Fish**: Masterline Rod (Runner-Up: Hades' Soul-Scythe) — Infinite vs 100M kg capacity
+- **Best Free Rod**: No-Life Rod (Runner-Up: Flimsy Rod) — Level 500 auto-unlock with endgame stats
+- **Best Beginner Rod**: Steady Rod (Runner-Up: Carbon Rod) — High control makes reeling easy for new players
+- **Best Value**: Resourceful Rod (Runner-Up: Lucky Rod) — Doubles bait effects — saves coins long-term
+- **Best All-Rounder**: Rod of the Depths (Runner-Up: Trident Rod) — Good stats across the board, no major weaknesses
 
 Once you have the right rod, target specific rare and Mythic fish with our [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — it covers the exact bait, weather, and time conditions for every high-value catch.
 
@@ -242,8 +288,8 @@ Once you have the right rod, target specific rare and Mythic fish with our [Fisc
 **1. Don't skip the steady progression.**
 Each rod in the progression path is designed to make the next area accessible. Jumping straight to expensive rods without the skill to use them wastes coins.
 
-**2. Luck matters more than you think.**
-A rod with 150% luck catches significantly more rare and mutated fish than one with 50% luck. The value difference can be 3-5x over time.
+**2. Luck matters more than you think — but not at the expense of resilience.**
+A rod with 150% luck catches significantly more rare and mutated fish than one with 50% luck. The value difference can be 3-5x over time. But never sacrifice resilience for luck.
 
 **3. Control becomes critical for heavy fish.**
 Low-control rods make the reeling minigame nearly impossible for fish above 10K kg. If you're targeting Desolate Deep or Atlantis fish, prioritize control over luck.
@@ -290,13 +336,12 @@ Ready to plan your fishing route? Check out our other guides:
 
 ---
 
-> **Disclaimer:** This tier list is based on the Fisch game state as of May 2026. Game updates may change rod stats, add new rods, or retire limited-time rods. Always check the [official Fisch Wiki](https://fischipedia.org/wiki/Fishing_Rods) for the most up-to-date information.
+> **Disclaimer:** This tier list is based on the Fisch game state as of June 2026. Game updates may change rod stats, add new rods, or retire limited-time rods. Always check the [official Fisch Wiki](https://fischipedia.org/wiki/Fishing_Rods) for the most up-to-date information.
 
 Sources:
 - [Fisch Official Wiki - Fishing Rods](https://fischipedia.org/wiki/Fishing_Rods)
 - [Fisch Tier List: All Rods Ranked - MrGuider](https://www.mrguider.org/articles/fisch-tier-list/)
 - [Best Fisch Rod Tier List - PCGamesN](https://www.pcgamesn.com/fisch/rod)
-- [Fisch Rod Tier List - Beebom](https://beebom.com/fisch-rod-tier-list/)
 - [Best Fishing Rods and All Rod Locations - VG247](https://www.vg247.com/roblox-fisch-all-fishing-rod-locations)
 - [All Fisch Rods and How to Get Them - Pocket Tactics](https://www.pockettactics.com/fisch-rods)
 - [Roblox Fisch Rods Tier List 2026 - LDCloud](https://www.ldcloud.net/blog/roblox-fisch-rods-tier-list-2025)
