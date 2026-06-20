@@ -1,13 +1,13 @@
 ---
 
-title: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026)"
-description: "Everything you need to know about DOORS Entities Bestiary. DOORS entities bestiary for The Hotel, Mines, and Outdoors. Learn behavior, surv..."
+title: "DOORS Entities Bestiary — Why You're Still Dying to Ambush After 50 Runs"
+description: "You've memorized every entity name, you know Rush = closet, Seek = run. But Ambush still kills you on its third pass, Figure still corners you at Door 100, and you still can't tell the difference between Screech and Timothy audio cues. The problem isn't knowledge — it's that knowing WHAT an entity does isn't the same as knowing HOW to survive it in real time. Here's the entity-by-entity survival playbook."
 date: 2026-05-10
 cover:
   image: "/cover-image/doors-beginner/cover.webp"
-  alt: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026) Guide Cover"
-  caption: "DOORS Entities Bestiary: Every Entity, How to Survive, and What They Drop (2026) Guide"
-lastmod: 2026-05-10
+  alt: "DOORS Entities Bestiary — Why You're Still Dying to Ambush After 50 Runs Guide Cover"
+  caption: "DOORS Entities Bestiary — Entity-by-Entity Survival Playbook"
+lastmod: 2026-06-19
 draft: false
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival"]
 categories: ["Roblox Guides"]
@@ -22,32 +22,88 @@ faq:
 
 ---
 
-> *Last updated: May 10, 2026. Covers all entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update (expected May/June 2026).*
+> *Last updated: June 19, 2026. Covers entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update window.*
 
-## What Are Entities in DOORS?
+You hear the rumble before you see anything.
 
-**Entities** are the monsters, anomalies, helpers, and environmental hazards you encounter while navigating through DOORS. Each entity has its own unique behavior patterns, warning signs, and survival mechanics. Some are hostile and will kill you on sight. Others are helpful and guide you to safety. A few are purely cosmetic or atmospheric.
+The room lights stutter once, then again, then the whole hallway starts breathing green. You know this one. Not Rush. Too long. Too warped. Ambush.
 
-Understanding every entity is the single most important skill for surviving DOORS. Unlike many horror games where you simply run from monsters, DOORS requires you to **recognize specific audio and visual cues** and respond with the correct survival action within seconds. Misidentifying a Rush as an Ambush (or vice versa) is the difference between a clean run and a game over.
+You do the “right” thing. You dive into the nearest closet before the sound reaches full volume. The screen shakes. Ambush tears through the room like a train made of static. The whoosh fades. Your hands are already on the exit key because you have survived Rush a hundred times and your brain wants the closet gone.
 
-This comprehensive bestiary covers every known entity across all floors, organized by location and threat level. For a general introduction to the game, see our [DOORS Beginner Guide](/posts/doors/beginner-guide/).
+You step out.
+
+For half a second, the hallway is quiet. Then the sound comes back from behind you. Louder. Faster. Wrong direction. You try to re-enter the closet, but the prompt does not save you in time. Ambush makes its third pass and your run ends because you treated a multi-pass entity like a one-pass entity.
+
+That death is the whole problem with DOORS entities in one moment. You knew the name. You knew the general rule. You even recognized the cue. But knowing “Ambush = hide” was not specific enough. The real rule was: **Ambush = hide, count passes, fight the urge to leave early, and only move after the room has been quiet for several seconds.**
+
+This bestiary is not just a list of monsters. It is an entity-by-entity survival playbook: what you hear, what you see, what mistake kills players, and what action actually keeps you alive.
+
+For the full game flow, floor basics, and beginner route planning, start with our [DOORS Beginner Guide](/posts/doors/beginner-guide/). Use this page when you are dying to specific entities and need the reaction pattern drilled into your head.
+
+---
+
+## Why Memorizing Names Doesn't Save You
+
+Most DOORS players do not die because they have never heard of Rush, Ambush, Seek, or Figure. They die because the encounter happens while they are looting, panicking, typing, checking a door number, or following a teammate who is also panicking.
+
+The gap looks like this:
+
+- **Name knowledge:** “Rush means hide.”
+- **Run knowledge:** “The lights flickered while I was two rooms behind my friend, the nearest closet is across the room, and I need to stop looting now.”
+- **Name knowledge:** “Figure is blind.”
+- **Run knowledge:** “Figure is blind, but my sprint key, item pickups, code lock interactions, and panic jumps are all noise.”
+- **Name knowledge:** “Screech whispers.”
+- **Run knowledge:** “In a dark room, I need to rotate the camera immediately without running into Eyes, Snare, or a wrong Dupe door.”
+- **Name knowledge:** “Timothy is a spider.”
+- **Run knowledge:** “Timothy has no meaningful pre-warning. Do not overreact to drawer scares and burn your health or position for no reason.”
+
+The best DOORS players are not calm because they know more entity names. They are calm because they have turned each entity into a short response script.
+
+That is how you should read this guide. Do not ask, “What is this entity?” Ask:
+
+- What is the first cue I can trust?
+- What is the fastest safe response?
+- What mistake does this entity bait me into making?
+- How long do I need to wait before moving again?
+- What changes in multiplayer, The Mines, The Outdoors, Rush Mode, or Endless Mode?
+
+---
+
+## The Counter-Intuitive Rule: Stop Reacting Instantly to Everything
+
+Common DOORS advice says “react fast.” That is true for Rush, Seek, Screech, and falling hazards. But it is also incomplete.
+
+A lot of deaths happen because players react **too early** after the first correct action:
+
+- You hide fast from Ambush, then leave early.
+- You sprint away from Figure, creating the exact sound that brings it to you.
+- You hear something in a dark room and whip the camera so hard you walk into Eyes or the wrong door.
+- You see multiple doors and choose quickly instead of checking the number.
+- You rush through The Outdoors because the path looks clear, then step on grass in the Groundskeeper's sightline.
+
+The better rule is: **react fast to danger, then slow down before the second decision.**
+
+Get into the closet fast. Then wait.
+
+Start the Seek chase fast. Then read the arrows.
+
+Crouch when Figure is active. Then choose the next book, switch, Fuse, or Anchor only when Figure is moving away.
+
+This sounds slower, but it saves more runs. DOORS punishes blind speed as much as hesitation.
 
 ---
 
 ## Entity Classification System
 
-Before diving into individual entities, it helps to understand how they are categorized:
+Instead of memorizing a huge table, group entities by the skill they test.
 
-| Classification | Description | Example Entities |
-|---------------|-------------|-----------------|
-| **Rush-Type** | Sweeps through rooms in a straight line with audio/visual warning | Rush, Ambush, Hide |
-| **Hunter-Type** | Actively hunts players using sound or sight | Figure, Grumble |
-| **Ambush-Type** | Appears under specific conditions or when players look away | Screech, Eyes, Snare, Dupe |
-| **Environmental** | Hazards tied to specific rooms, objects, or areas | Timothy, Giggle, Gloombats, Mandrake |
-| **Boss** | Major encounters with multi-stage puzzle mechanics | Seek, Figure (Doors 50/100/200), World Lotus |
-| **Helper** | Friendly entities that assist players | Guiding Light |
-| **Anomaly** | Rare or glitch-like entities that warp reality | Void, Glitch, Jack, Shadow |
-| **Minor** | Low-threat cosmetic or nuisance entities | Sally, Timothy, Caws |
+- **Rush-type sweepers:** Rush, Ambush, Hide, A-90, A-120. These test audio recognition, closet timing, and patience after the first pass.
+- **Hunters:** Figure, Grumble, Groundskeeper. These test movement discipline. You survive by controlling sound, line of sight, or forbidden zones.
+- **Ambush and trap entities:** Screech, Eyes, Snare, Dupe. These test camera control, room reading, and not autopiloting through doors.
+- **Environmental hazards:** Timothy, Giggle, Gloombats, Mandrake, Surge. These test awareness while you are doing something else.
+- **Boss encounters:** Seek, Figure, World Lotus. These test route execution under pressure.
+- **Helpers and anomalies:** Guiding Light, Void, Glitch, Jack, Shadow, Sally. These are not always “threats,” but they can still cause mistakes if they startle you or distort the room.
+- **Minor or achievement entities:** Caws, Timothy, Sally, Jack, Shadow. Usually low threat, but they can interrupt your attention at a bad time.
 
 ---
 
@@ -55,449 +111,340 @@ Before diving into individual entities, it helps to understand how they are cate
 
 ### Rush
 
-**The first entity you meet and the most common throughout every run.**
+**The first real test of whether you can stop looting on command.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Rush-Type |
-| **First Encounter** | Door 2-4 (tutorial area) |
-| **Spawn Rate** | Very high -- appears in nearly every run, often multiple times |
-| **Warning Signs** | Room lights flicker and dim rapidly; loud whooshing sound builds |
-| **Survival Method** | Hide in the nearest **closet** or behind a **bed** |
-| **Damage if Caught** | ~30 HP (can kill if already damaged) |
-| **Difficulty Rating** | ★★☆☆☆ |
+Rush is the most common sweep entity. The cue is simple: lights flicker and a rushing whoosh builds from the forward direction. The survival method is also simple: hide in the nearest valid hiding spot, usually a closet or bed, and wait for the sound to pass.
 
-**Detailed Behavior:**
+The part that kills players is not confusion. It is greed. They want one more drawer, one more coin pile, one more item check before hiding. Rush does not give you that extra second.
 
-Rush moves through rooms at extremely high speed. It originates from the direction of the next door and sweeps through the current room before exiting through the previous door. The entire encounter lasts only 2-3 seconds from warning to completion.
+Survival script:
 
-**Survival Strategy:**
+- The moment lights flicker, stop looting.
+- Identify the closest hiding spot, not the most comfortable one.
+- Enter it quickly.
+- Wait for the whoosh to pass completely.
+- Exit only after the room has returned to normal.
 
-1. When lights begin flickering, **immediately identify the closest hiding spot** -- do not waste time searching for the "best" one
-2. Run to it and enter -- **speed matters more than perfection**
-3. Wait for the whooshing sound to pass and the lights to return to normal
-4. Exit and continue
+Important notes:
 
-**Important Notes:**
-- Rush always comes from the *forward* direction (the direction you are heading)
-- In rooms with multiple hiding spots, pick the closest one
-- Rush can appear back-to-back with other entities or even other Rushes
-- In Rush Mode, all entities take Rush's appearance and sound
+- Rush usually comes from the direction you are heading.
+- In a room with multiple closets, choose the closest one. Running across the room for a “better” closet is how easy Rushes become deaths.
+- Rush can chain with other threats, especially if teammates are moving at different speeds.
+- In Rush Mode, entities can look and sound like Rush, so treat the cue seriously even if you think you know what should spawn next.
+
+Difficulty: ★★☆☆☆. Rush is predictable, but it punishes distracted players forever.
 
 ---
 
 ### Ambush
 
-**The multi-pass entity that kills more beginners than any other.**
+**The entity that exposes whether you actually waited.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Rush-Type (variant) |
-| **First Encounter** | Door ~10-20 |
-| **Spawn Rate** | High -- appears multiple times per run |
-| **Warning Signs** | Lights flicker for a **significantly longer duration** than Rush; deeper, more distorted sound |
-| **Survival Method** | Hide in a closet/locker and **stay hidden through ALL passes** |
-| **Damage if Caught** | ~30 HP per hit |
-| **Difficulty Rating** | ★★★☆☆ |
+Ambush looks like Rush advice on paper: flicker, hide, survive. In practice, Ambush is different because it returns. It can pass multiple times, and each pass baits you into thinking the room is safe.
 
-**Detailed Behavior:**
+The reliable cue is the extended warning. The lights flicker longer, the sound is more distorted, and the whole encounter feels less clean than Rush. If you are unsure whether it is Rush or Ambush, assume Ambush. That assumption costs a few seconds. The wrong assumption costs the run.
 
-Ambush functions similarly to Rush but with a critical difference: it **bounces back and forth multiple times** before departing. The number of passes varies (typically 2-6 passes), and each pass is announced by the same flickering lights and sound cue.
+Survival script:
 
-**Survival Strategy:**
+- Hide as soon as the extended flicker starts.
+- Count the passes if you can, but do not rely on reaching a specific number.
+- Stay hidden through the first return pass.
+- Stay hidden through the second return pass.
+- Only exit after the sound is fully gone and the room has been calm for several seconds.
 
-1. On the extended light flicker, recognize this is Ambush (not Rush) and hide immediately
-2. **Do not exit between passes** -- this is the #1 cause of death to Ambush
-3. Count the passes if possible; expect 2-6 total
-4. Only exit when lights are completely normal and no sound is heard for several seconds
+The mistake:
 
-**Why Ambush Is So Deadly:**
+- Leaving immediately after the first pass.
+- Re-entering the closet late after hearing the return.
+- Trusting a teammate who jumps out early.
 
-The extended flicker warning is the main clue that distinguishes Ambush from Rush. If you hide and then peek out after the first pass thinking it is over, Ambush will hit you on the second pass. **Always assume there will be at least 2 passes.** In multiplayer, coordinate so nobody exits early and draws Ambush's attention.
+In multiplayer, Ambush becomes a discipline check. One player leaving early can cause chaos, body-blocking, or panic movement. If you are leading, call “wait” or simply stay hidden long enough that others copy you.
+
+Difficulty: ★★★☆☆. Mechanically simple, mentally cruel.
 
 ---
 
 ### Screech
 
-**The invisible parasite that lurks in dark rooms.**
+**The dark-room parasite that punishes tunnel vision.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Ambush-Type |
-| **First Encounter** | Dark rooms throughout The Hotel |
-| **Spawn Rate** | Medium -- only in unlit or dimly lit rooms |
-| **Warning Signs** | Distinctive whispering/voice sound; a "shhh" noise in your ear |
-| **Survival Method** | **Look around rapidly** by moving your camera/mouse in all directions |
-| **Damage if Caught** | ~10 HP per bite (cumulative) |
-| **Difficulty Rating** | ★☆☆☆☆ |
+Screech appears in dark or dim rooms and announces itself with a whispering “psst” or close ear cue. The counter is to look around quickly until you find it and stop the bite. A light source can prevent or reduce the problem, but you should still be ready to react.
 
-**Detailed Behavior:**
+Survival script:
 
-Screech attaches itself to players in dark rooms. It is invisible and cannot be seen or fought directly. When you hear the whispering sound, Screech has latched onto you and begins biting, dealing small but cumulative damage.
+- In dark rooms, expect Screech before it happens.
+- When you hear the whisper, stop staring forward.
+- Sweep your camera left, right, up, and behind you.
+- Keep rotating until the cue stops or Screech is dealt with.
+- Resume movement only after you know where the doors, obstacles, and other hazards are.
 
-**Survival Strategy:**
+The Screech vs Timothy confusion:
 
-1. The moment you hear whispering, **spin your camera in all directions quickly**
-2. Keep moving your view until the whispering sound stops and you hear a hiss
-3. If you have a light source (flashlight, lighter), turn it on to prevent Screech from spawning
+- Screech has a clear close whisper cue and requires camera movement.
+- Timothy is a drawer jumpscare with tiny damage and no reliable pre-warning.
+- If you hear a cue while walking through darkness, treat it as Screech.
+- If something jumps from a drawer, do not spiral. Take the small damage, keep looting if the room is safe, and move on.
 
-**Pro Tip:** Screech can attach to you while you are hiding in a closet if the room is dark. Always keep moving your camera even when hidden. Keeping a light source on at all times is the best prevention.
+Pro tip: Screech can pressure you while you are already dealing with something else. Do not spin so wildly that you walk into Eyes, choose a Dupe door, or lose your path in a dark room.
+
+Difficulty: ★☆☆☆☆ alone, higher when stacked with darkness, Dupe, or low health.
 
 ---
 
 ### Seek
 
-**The chase entity that triggers a high-speed hallway sequence.**
+**The chase entity where hiding stops mattering.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Boss |
-| **First Encounter** | Door 50 (The Library) and Door ~100 (The Rooms/Archives) |
-| **Spawn Rate** | Fixed -- once per run at specific doors |
-| **Warning Signs** | Cutscene triggers; doors slam shut; a massive chase begins |
-| **Survival Method** | Run through the hallway; follow **glowing arrows and hands**; **jump over furniture** (Space) |
-| **Damage if Caught** | Instant kill |
-| **Difficulty Rating** | ★★★★☆ |
+Seek triggers a cinematic chase. Once it starts, the only correct response is movement. You follow glowing arrows and hands, jump over furniture, crouch or slide through low obstacles, and choose the indicated path when hallways split.
 
-**Detailed Behavior:**
+Survival script:
 
-Seek triggers a long, cinematic chase sequence. A massive black entity pursues you through a procedurally generated series of hallways, doors, and obstacles. The chase is not about hiding -- it is about **movement, navigation, and quick reactions**.
+- When the cutscene ends, move immediately.
+- Keep your camera centered enough to read arrows and hands.
+- Do not oversteer into walls or furniture.
+- Jump obstacles instead of trying to route around them.
+- In rooms with multiple exits, trust the glowing indicators.
+- At the final door, open the hand-covered exit and keep moving.
 
-**Survival Strategy:**
+Seek kills players who panic-jump, look backward, or try to be clever with routes. The chase is not about improvising. It is about obeying the visual language fast enough.
 
-1. When the cutscene triggers, **start running immediately**
-2. Follow the **glowing white arrows** on the floor for direction
-3. Look for **floating white hands** pointing the correct way
-4. **Press Space to jump** over fallen furniture and obstacles
-5. In rooms with multiple exits, Seek's hands will point to the correct door
-6. At the end of the chase, you will reach a room with a door covered in hands -- open it to escape
+Key obstacles to expect:
 
-**Key Obstacles During the Chase:**
+- Fallen furniture: jump cleanly; do not run around it.
+- Wrong doors: ignore anything not marked by hands or arrows.
+- Forks: follow the indicated route, not the door that “looks” closer.
+- Crawl sections: crouch/slide on time.
+- Mines variants: jumping sections and gaps can be more punishing, so keep momentum but do not spam jump blindly.
 
-| Obstacle | How to Handle |
-|----------|--------------|
-| Fallen furniture | Jump (Space) -- do not try to go around |
-| Wrong doors | Follow glowing hands/arrows; ignore unmarked doors |
-| Hand-covered doors | Open the correct door (guided by Guiding Light) |
-| Long corridor with debris | Sprint and weave; stay centered |
-| Fork in the path | Follow the arrows; the wrong path is a dead end |
-| Crawling sections | Press C to crouch and slide under obstacles |
-| Jumping sections (Mines) | Time your jumps carefully; gaps are punishing |
+Difficulty: ★★★★☆ because mistakes are often instant death.
 
 ---
 
-### Figure (Hotel -- Doors 50 & 100)
+### Figure (Hotel — Doors 50 & 100)
 
-**The blind hunter boss -- the most complex entity in The Hotel.**
+**The blind hunter that turns your keyboard into a liability.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Hunter-Type / Boss |
-| **Encounters** | Door 50 (The Library), Door 100 (Electrical Room) |
-| **Warning Signs** | Heavy breathing sound; low growling; environmental distortion |
-| **Survival Method** | **Crouch-walk** (C) to stay quiet; **hide in closets** when it is close; **hold breath** (hold Space) |
-| **Damage if Caught** | Instant kill (grabs and kills) |
-| **Difficulty Rating** | ★★★★☆ (Door 50), ★★★★★ (Door 100) |
+Figure is blind, but that does not mean it is harmless. It hunts by sound. Running, jumping, interacting, opening locks, grabbing books, flipping switches, and panic movement can all put you on its route.
 
-**Figure is blind.** It hunts purely by sound. Every footstep, every interaction, every run creates noise that Figure can hear. This makes Figure the most mechanically complex entity in DOORS.
+Door 50 — The Library:
 
-**Door 50 -- The Library Encounter:**
+- Enter The Library and immediately switch into quiet movement.
+- Search shelves for books with shape symbols.
+- Find the code chart that maps shapes to numbers.
+- Translate the collected symbols into the correct code.
+- Approach the lock only when Figure is not close.
+- Enter the code and leave without sprinting into danger.
 
-| Step | Action | Sound Risk |
-|------|--------|-----------|
-| 1 | Enter The Library; Figure spawns and begins hunting by sound | High |
-| 2 | Search the room for **books with shape symbols** on shelves | Medium (interaction noise) |
-| 3 | Find the **code chart** on the wall (shapes mapped to numbers) | Low |
-| 4 | Translate the book shapes into numbers | None (mental) |
-| 5 | Approach the door's **code lock** and enter the combination | Medium (interaction noise) |
-| 6 | Door opens -- sprint to the exit | Low |
+Door 100 — The Electrical Room:
 
-**Door 100 -- The Electrical Room (Final Hotel Boss):**
+- Enter the area and listen before moving.
+- Locate the circuit breaker box.
+- Read the displayed switch pattern.
+- Break the pattern into small chunks instead of trying to memorize everything at once.
+- Flip switches when Figure is away.
+- Submit and exit only when the route is clear.
 
-| Step | Action | Sound Risk |
-|------|--------|-----------|
-| 1 | Enter the Electrical Room; Figure hunts by sound | High |
-| 2 | Find the **circuit breaker box** | Medium |
-| 3 | A pattern of switches is **briefly displayed** in the box | None |
-| 4 | **Memorize the pattern** -- empty = OFF, filled = ON | None (mental) |
-| 5 | Replicate the pattern by flipping switches to match | Medium (interaction noise) |
-| 6 | Submit the correct pattern to open the exit door | Low |
+Figure survival rules:
 
-**Figure Survival Tips:**
+- Crouch-walk whenever Figure is active.
+- Hide when it is close, but do not treat closets as permanent safety.
+- Hold breath when required and do not panic-release.
+- Do not sprint just because Figure is on the other side of the room.
+- Time item interactions for moments when Figure is moving away.
+- In multiplayer, split tasks only if everyone can stay quiet. Four loud players are worse than two disciplined ones.
 
-- **Always crouch-walk** (hold C) when Figure is active -- running creates loud noise
-- **Hide in closets** when you hear Figure approaching
-- **Hold Space to hold your breath** when Figure is very close to you
-- Figure is blind -- it hunts purely by sound, not sight
-- Interacting with items (picking up books, flipping switches) makes noise -- time these when Figure is far away
-- If you are playing with others, coordinate to split up and find items faster
-- The Door 100 circuit breaker pattern can be broken into smaller chunks to memorize (groups of 2-3)
-- **Never run in Figure rooms** -- even when Figure seems far away
+For deeper boss routing, Figure sound behavior, and Seek patterns, use the [DOORS Boss Attack Patterns & Weakness Guide](/posts/doors/boss-attack-patterns-guide/).
 
-For detailed boss fight strategies including Figure's sound detection mechanics and the full Seek chase sequence, see our [DOORS Boss Attack Patterns & Weakness Guide](/posts/doors/boss-attack-patterns-guide/).
+Difficulty: ★★★★☆ at Door 50, ★★★★★ at Door 100 when you are low health or playing with noisy teammates.
 
 ---
 
 ### Dupe
 
-**The fake door entity that punishes the inattentive.**
+**The fake door that punishes autopilot.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Ambush-Type |
-| **First Encounter** | Door ~15-25 |
-| **Spawn Rate** | Medium-high -- appears frequently |
-| **Warning Signs** | Multiple doors in a room; each displays a room number |
-| **Survival Method** | Only enter the door with the **correct number** matching your current door count |
-| **Damage if Caught** | ~20 HP per wrong door |
-| **Difficulty Rating** | ★★☆☆☆ |
+Dupe creates rooms with multiple numbered doors. Only the correct sequential number is safe. The wrong door triggers damage and a scare.
 
-**Detailed Behavior:**
+Survival script:
 
-Dupe creates a room with multiple doors, each displaying a different number. Only one door is correct -- the one that matches your current door count (or the next sequential number). Entering the wrong door triggers damage and spawns Dupe to attack.
+- Track your current door number as you move.
+- When a room presents multiple doors, stop before committing.
+- Read every visible number.
+- Choose the next correct number, not the door that is centered, closest, or opened by another player.
+- If you are unsure, backtrack mentally: “What door did we just enter?”
 
-**Survival Strategy:**
+The mistake is moving with group momentum. If a teammate runs into a door, many players follow without checking. Dupe farms that habit.
 
-1. **Count your current door number** before entering the room
-2. Look at the numbers displayed on each door
-3. Only enter the door with the **correct sequential number**
-4. If unsure, wait a moment -- the correct door sometimes has subtle visual differences (slightly brighter number)
-
-**Pro Tip:** In rooms with Dupe, always check the door numbers before committing. A wrong door costs HP and wastes time. With 3+ doors, the correct number is often in the middle position, but do not rely on this -- always verify.
+Difficulty: ★★☆☆☆. Easy when you count, annoying when you are tired.
 
 ---
 
 ### Halt
 
-**The entity that makes you go backward to go forward.**
+**The hallway where forward is the trap.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Environmental |
-| **First Encounter** | Long hallways throughout The Hotel |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Glitching visuals; hallway appears to stretch infinitely; screen distortion |
-| **Survival Method** | **Run BACKWARD** (turn around and retreat) the way you came, then the hallway resets |
-| **Damage if Caught** | Slowly drains HP if you continue forward |
-| **Difficulty Rating** | ★★☆☆☆ |
+Halt distorts a hallway and pressures you to keep moving forward. That instinct is wrong. The counter is to turn around and retreat until the hallway resets, then continue.
 
-**Detailed Behavior:**
+Survival script:
 
-Halt traps you in a hallway that appears to stretch infinitely forward. The visual cue is that the hallway looks "wrong" -- glitchy textures, impossible perspective, or a general sense that something is off. The walls may appear to pulse or the floor may look distorted.
+- Notice the glitchy, stretched, “wrong” hallway feel.
+- Do not keep pushing forward just because the exit appears ahead.
+- Turn around and move back the way you came.
+- Once the reset happens, continue normally.
 
-**Survival Strategy:**
+Why Halt kills: DOORS trains you to go door-to-door quickly, then Halt asks you to reverse that habit. If you treat every hallway like a speedrun corridor, Halt drains your health while you insist you are almost through.
 
-1. Recognize the glitchy hallway -- something feels "off" about the perspective
-2. **Turn around and run backward** the way you came (do not just walk -- run)
-3. After retreating far enough (about halfway back), the hallway resets to normal
-4. Continue forward through the now-normal hallway
-
-**Why Halt Kills:** The counterintuitive mechanic catches many players. Pushing forward in a Halt hallway slowly drains your health until you die. The instinct to keep moving forward is exactly what kills you.
+Difficulty: ★★☆☆☆.
 
 ---
 
 ### Eyes
 
-**The floating eyeballs that damage on contact.**
+**The visible hazard that still catches players looking at everything except the floor.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Ambush-Type |
-| **First Encounter** | Door 2-8 (early game) |
-| **Spawn Rate** | Low-Medium |
-| **Warning Signs** | Multiple floating eyeballs visible in the room |
-| **Survival Method** | Walk around them; do not touch them |
-| **Damage if Caught** | ~10 HP per contact |
-| **Difficulty Rating** | ★☆☆☆☆ |
+Eyes spawns as floating eyeballs in a room. They are not complicated: avoid touching them. The problem is that they often appear while you are focused on a door, drawer, or teammate.
 
-**Detailed Behavior:**
+Survival script:
 
-Eyes spawns multiple floating eyeballs scattered throughout a room. They are stationary obstacles that damage you if you walk into them. They are clearly visible and pose no threat if you pay attention to your surroundings.
+- Scan the room before sprinting through.
+- Path around the eyeballs.
+- Use a light source in dark rooms so you do not brush into them.
+- Do not chase loot through a tight cluster unless you have enough health to risk contact.
 
-**Survival Strategy:**
-
-- Simply navigate around the eyeballs
-- They are clearly visible, so this is more about awareness than reflexes
-- In dark rooms, use a light source to see them clearly
-- Eyes can sometimes block your path to containers -- plan your route
+Difficulty: ★☆☆☆☆ by itself.
 
 ---
 
 ### Jack
 
-**The jumpscare entity that hides in plain sight.**
+**The harmless jumpscare that can still make you misplay.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Anomaly |
-| **First Encounter** | Throughout The Hotel (rare) |
-| **Spawn Rate** | Rare |
-| **Warning Signs** | None -- appears randomly when opening containers or lockers |
-| **Survival Method** | No action needed; it is a pure jumpscare with no damage |
-| **Damage** | **None** -- cosmetic only |
-| **Difficulty Rating** | ☆☆☆☆☆ |
+Jack appears randomly when opening containers, lockers, or doors. It does no damage. The danger is your reaction: jerking the camera, backing into an entity, leaving a safe spot, or making noise in a Figure room.
 
-**Detailed Behavior:**
+Survival script:
 
-Jack is a creepy face that appears when you open certain containers, lockers, or doors. It is purely cosmetic -- it startles you but causes no damage. Some players consider it an easter egg entity rather than a true threat.
+- Treat Jack as cosmetic.
+- Do not sprint after the scare.
+- Re-center your camera and continue the original plan.
 
-**Note:** Jack does not affect gameplay in any way. It is simply a scare. However, the jumpscare can cause you to make mistakes (like running into the open during a Figure encounter), so stay calm.
+Difficulty: ☆☆☆☆☆, unless it startles you into a real mistake.
 
 ---
 
 ### Shadow
 
-**The mysterious silhouette that appears briefly.**
+**The rare silhouette that is atmosphere, not a command.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Anomaly |
-| **First Encounter** | Rare, throughout The Hotel |
-| **Spawn Rate** | Very rare |
-| **Warning Signs** | Brief shadow figure visible in room corners or doorways |
-| **Survival Method** | No action needed -- cosmetic only |
-| **Damage** | **None** |
-| **Difficulty Rating** | ☆☆☆☆☆ |
+Shadow appears briefly as a dark figure in corners or doorways. It vanishes quickly and does not require a survival action.
 
-**Detailed Behavior:**
+Survival script:
 
-Shadow appears as a brief, dark humanoid figure in corners or doorways. It vanishes almost instantly. Like Jack, it is purely cosmetic and does not affect gameplay. Some community theories suggest Shadow may be connected to the game's lore.
+- Notice it if you want the scare/lore moment.
+- Do not change your route because of it.
+- Keep listening for actual entity cues.
+
+Difficulty: ☆☆☆☆☆.
 
 ---
 
 ### Guiding Light (Friendly Entity)
 
-**The helpful blue light that guides and protects players.**
+**The blue help system players forget to use.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Helper |
-| **First Encounter** | Can appear at any point; most commonly around puzzle rooms |
-| **Spawn Rate** | Conditional -- triggered by camping or specific conditions |
-| **Appearance** | Blue light beams and glowing indicators |
-| **Effect** | Heals players, provides hints, highlights items, revives dead teammates |
-| **Danger** | None -- purely helpful |
-| **Difficulty Rating** | N/A (helpful) |
+Guiding Light highlights important items, points toward solutions, helps with puzzle clarity, and can support dead teammates in multiplayer. It is not dangerous. It is a reminder that DOORS sometimes gives you help if you stop brute-forcing.
 
-**Detailed Behavior:**
+How to use it:
 
-Guiding Light is the only consistently friendly entity in the game. It appears as streams of blue light that point to important items, highlight the correct path, and can heal or revive players.
+- If you are stuck before a puzzle, wait instead of rushing.
+- Watch for blue beams or highlighted objects.
+- Use the guidance around Door 50, Door 100, keys, fuses, books, and other required items.
+- In multiplayer, give slower players time to read the hints instead of dragging the group forward.
 
-**How to Trigger Guiding Light:**
-
-- **Camp (wait) for 3-4 minutes** in a room before entering a puzzle area
-- It commonly appears before **Door 50 (The Library)** and **Door 100 (Electrical Room)**
-- In multiplayer, it can revive dead players who are lying on the ground
-- It highlights important items like keys, fuses, and books with a blue glow
-
-**Pro Tip:** If you are struggling with a puzzle, camp before the room to summon Guiding Light. It will highlight the solution path and make the encounter significantly easier.
+Difficulty: helpful.
 
 ---
 
 ### Void
 
-**The existential entity that exists between rooms.**
+**The rare anomaly where the room stops behaving like a room.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Anomaly |
-| **First Encounter** | Between rooms or during transitions |
-| **Spawn Rate** | Very rare |
-| **Warning Signs** | Room textures disappear; you see an infinite void below |
-| **Survival Method** | No guaranteed method -- typically transitions back to normal on its own |
-| **Damage if Caught** | Can be lethal if you fall into it |
-| **Difficulty Rating** | ★★★☆☆ |
+Void can make geometry feel broken or reveal an impossible empty space. There is no normal combat counter. The safest response is controlled movement.
 
-**Detailed Behavior:**
+Survival script:
 
-Void is a rare anomaly where the room's geometry seems to disappear, revealing an infinite dark void beneath. It is more of an atmospheric/horror element than a mechanical threat, but falling into the void can kill you. Stay near the center of the room and wait for it to resolve.
+- Stop sprinting.
+- Stay near stable-looking floor and room centerlines.
+- Avoid edges, missing textures, and suspicious gaps.
+- Wait for the room state to resolve if possible.
+
+Difficulty: ★★★☆☆ because unpredictability is the threat.
 
 ---
 
 ### Sally
 
-**The environmental decoration entity.**
+**A small atmospheric entity with no real survival demand.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Minor |
-| **First Encounter** | Various rooms in The Hotel |
-| **Spawn Rate** | Rare |
-| **Warning Signs** | Small figure visible in room |
-| **Survival Method** | No action needed |
-| **Damage** | **None** |
-| **Difficulty Rating** | ☆☆☆☆☆ |
+Sally appears as a small figure in some rooms. It does not interact with the player or require a counter. Treat it as environmental storytelling.
 
-**Detailed Behavior:**
+Survival script:
 
-Sally is a small decorative entity that appears in certain rooms. It does not interact with the player and has no gameplay effect. It adds to the atmosphere and lore of The Hotel.
+- Do not panic.
+- Do not waste resources.
+- Continue checking for real threats.
+
+Difficulty: ☆☆☆☆☆.
 
 ---
 
 ### Timothy
 
-**The drawer spider that provides a cheap scare.**
+**The drawer spider that hurts less than your reaction to it.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Minor |
-| **First Encounter** | Door 2-8 (any room with drawers) |
-| **Spawn Rate** | Low -- random chance (~5-10%) when opening drawers |
-| **Warning Signs** | None -- appears when opening a drawer |
-| **Survival Method** | No prevention possible |
-| **Damage** | ~5 HP (very minor) |
-| **Difficulty Rating** | ☆☆☆☆☆ |
+Timothy jumps from drawers and deals minor damage. You cannot reliably prevent it. The correct decision is usually to keep opening drawers anyway because items and gold matter more than the small health loss.
 
-**Detailed Behavior:**
+Survival script:
 
-Timothy is a tiny spider that jumps out of drawers when you open them. It is purely a jumpscare with minimal damage. The "Meet Timothy" achievement is earned by encountering him. Check every drawer anyway -- the loot is worth the tiny risk.
+- Open drawers when the room is otherwise safe.
+- If Timothy appears, accept the tiny damage.
+- Do not stop looting the entire run because of one scare.
+- Do not confuse Timothy with Screech: Timothy is tied to drawer interaction, not a dark-room whisper cue.
+
+Difficulty: ☆☆☆☆☆.
 
 ---
 
 ### Glitch
 
-**The game-breaking entity that warps reality.**
+**The anomaly that can skip, distort, or break normal expectations.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Anomaly |
-| **First Encounter** | Rare, random occurrence |
-| **Spawn Rate** | Extremely rare |
-| **Warning Signs** | Screen glitches, distorted textures, game behaves oddly; doors may skip numbers |
-| **Survival Method** | No player action -- either triggers or does not |
-| **Damage if Caught** | Potentially lethal (can skip rooms or cause soft-locks) |
-| **Difficulty Rating** | ★★☆☆☆ |
+Glitch is rare and unpredictable. It may distort visuals, skip rooms, affect door numbering, or create strange transitions. Because the player cannot force a clean counter, the best strategy is to stabilize your decisions.
 
-**Detailed Behavior:**
+Survival script:
 
-Glitch is a rare anomaly that causes the game to behave unexpectedly. It may skip rooms, distort visuals, change door numbers, or cause other unusual effects. It is largely uncontrollable from the player's perspective. Some players report that Glitch can be beneficial (skipping difficult rooms) or harmful (soft-locking progress).
+- Stop assuming the room number is normal after a glitch event.
+- Re-check door numbers before Dupe rooms.
+- Regroup in multiplayer if players were separated.
+- Do not sprint blindly after a visual distortion.
+
+Difficulty: ★★☆☆☆ most of the time, higher if it disrupts routing.
 
 ---
 
 ### Snare
 
-**The disguised door trap.**
+**The trap door that punishes players who never inspect textures.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Ambush-Type |
-| **First Encounter** | Door ~10-30 |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | A door with **subtly distorted or different texture** compared to normal doors |
-| **Survival Method** | Do not walk through suspicious-looking doors; inspect before entering |
-| **Damage if Caught** | ~25 HP |
-| **Difficulty Rating** | ★★☆☆☆ |
+Snare disguises itself through subtle door distortion or texture differences. It is not a reflex test as much as a habit test.
 
-**Detailed Behavior:**
+Survival script:
 
-Snare disguises itself as a normal door. When you walk through the affected door, Snare triggers and deals damage. The visual cue is subtle -- the door texture may look slightly wrong, warped, or have a different color palette.
+- Pause for a split second before suspicious doors.
+- Look for warped textures, odd colors, unusual shine, or anything that feels off.
+- In dark rooms, use a light source before committing.
+- If a teammate is ahead, do not blindly copy them through a suspicious door.
 
-**Survival Strategy:**
-
-1. Before walking through any door, **inspect it visually** for a split second
-2. Look for texture distortions, unusual colors, or anything that seems "off"
-3. If a door looks suspicious, find an alternative path or wait for a teammate to check first
-4. Snare doors may have a slightly different sheen or reflection -- train your eye to spot it
+Difficulty: ★★☆☆☆.
 
 ---
 
@@ -505,226 +452,160 @@ Snare disguises itself as a normal door. When you walk through the affected door
 
 ### Figure (The Mines Variant)
 
-**The Mines version of Figure is significantly more dangerous and appears multiple times.**
+**Figure with more space, more objectives, and more ways to get greedy.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Hunter-Type / Boss |
-| **Encounters** | Door 101 (The Adit), various generator rooms, Door 200 (The Nest) |
-| **Warning Signs** | Heavy breathing; low growling; figure's footsteps; environmental sounds |
-| **Survival Method** | Crouch-walk; hide in closets; use **Alarm Clocks** to distract |
-| **Damage if Caught** | Instant kill |
-| **Difficulty Rating** | ★★★★☆ (Adit), ★★★★★ (The Nest) |
+The Mines version of Figure appears in larger areas and objective-heavy rooms. It is still sound-based, but the scale makes routing harder. Alarm Clocks become important because they let you pull Figure away from your route.
 
-**The Adit (Door 101):**
+The Adit (Door 101):
 
-Figure appears immediately but is **blind and less aggressive** initially. You must find 2 Fuses for the generator while Figure patrols the area. This serves as an introduction to Mines Figure mechanics.
+- Figure appears early as an introduction to Mines pressure.
+- Find the required Fuses while staying quiet.
+- Do not treat the first Mines Figure like a harmless tutorial. It still punishes sprinting.
 
-**Generator Rooms:**
+Generator rooms:
 
-Figure may spawn during generator room encounters. You need to find Fuses and install them while Figure hunts by sound. Crouch-walking is essential.
+- Locate Fuses or objectives before making noise-heavy interactions.
+- Crouch-walk by default.
+- If Figure is close, delay the interaction instead of forcing it.
 
-**The Nest (Door 200) -- Final Mines Boss:**
+The Nest (Door 200):
 
-| Step | Action |
-|------|--------|
-| 1 | Enter The Nest; Figure hunts by sound in a large area |
-| 2 | Locate and activate **5-6 Anchors** scattered throughout the area |
-| 3 | Use **Alarm Clocks** to distract Figure -- place them away from your position before activating |
-| 4 | Crouch-walk between Anchors -- never run |
-| 5 | Plan your route before starting -- memorize Anchor positions |
-| 6 | Activate all Anchors to defeat Figure and complete The Mines |
+- Plan the route before activating objectives.
+- Locate 5-6 Anchors and think in segments.
+- Use Alarm Clocks away from your real path.
+- Crouch-walk between Anchors.
+- Activate objectives only when Figure is distracted or moving away.
+- In multiplayer, assign directions instead of having everyone chase the same Anchor.
 
-**Mines Figure vs Hotel Figure:**
+Mines Figure differs from Hotel Figure in four big ways:
 
-| Difference | Hotel Figure | Mines Figure |
-|-----------|-------------|-------------|
-| Area size | Confined rooms | Large open areas |
-| Aggression | Moderate | High -- more persistent |
-| Distraction | No items available | Alarm Clocks available |
-| Puzzle complexity | Code/Memory | Multi-objective (5-6 Anchors) |
-| Time pressure | Moderate | High -- Figure patrols constantly |
+- The area is larger, so you can get lost while being quiet.
+- The objectives are spread out, so panic routing is costly.
+- Alarm Clocks create a distraction layer that does not exist in the same way in Hotel boss rooms.
+- Time pressure feels higher because Figure patrols constantly while you search.
+
+Difficulty: ★★★★☆ to ★★★★★ depending on room and team discipline.
 
 ---
 
 ### Giggle
 
-**The ceiling-dropping rock entity.**
+**The ceiling threat that attacks players who only scan forward.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Environmental |
-| **First Encounter** | Door ~105-120 |
-| **Spawn Rate** | High -- common in Mines rooms |
-| **Warning Signs** | Low growl or ping sound; visual cue from ceiling |
-| **Survival Method** | **Look up** -- rocks fall from the ceiling and deal damage; move away from falling debris |
-| **Damage if Caught** | ~15 HP per rock hit |
-| **Difficulty Rating** | ★★☆☆☆ |
+Giggle is tied to falling rock hazards in The Mines. You hear a low growl, ping, or ceiling cue, then rocks can drop into your path.
 
-**Detailed Behavior:**
+Survival script:
 
-Giggle causes rocks to fall from the ceiling of Mines rooms. The entity itself is not visible, but its presence is announced by audio cues. Multiple rocks can fall simultaneously, creating a hazard zone.
+- When you hear the cue, look up immediately.
+- Move away from falling debris; do not freeze under it.
+- Watch for shadows or ceiling movement.
+- In Mines rooms, add ceiling checks to your normal scan pattern.
+- Do not loot directly under suspicious ceiling areas if you are already low health.
 
-**Survival Strategy:**
-
-1. Listen for the low growl/ping sound
-2. **Immediately look up at the ceiling**
-3. Move away from falling rocks -- do not stand still
-4. Keep checking the ceiling regularly in The Mines
-5. Rocks leave a brief shadow before falling -- use this to dodge
+Difficulty: ★★☆☆☆.
 
 ---
 
 ### Gloombats
 
-**The light-sensitive bat swarm.**
+**The darkness tax of The Mines.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Environmental |
-| **First Encounter** | Dark areas of The Mines |
-| **Spawn Rate** | High in unlit rooms |
-| **Warning Signs** | Buzzing sounds in dark areas |
-| **Survival Method** | Use a **light source** (flashlight, glowstick, Bulklight) to ward them off |
-| **Damage if Caught** | ~10 HP per bat hit (cumulative) |
-| **Difficulty Rating** | ★★☆☆☆ |
+Gloombats attack in dark Mines areas and are repelled by light. They are not hard if you manage resources, but they are brutal when your team burns light items too early.
 
-**Detailed Behavior:**
+Survival script:
 
-Gloombats are swarms of bats that attack players in dark areas of The Mines. They are repelled by any light source. The darkness of The Mines makes Gloombats significantly more threatening than their Hotel counterparts.
+- Keep a light source ready before entering dark Mines rooms.
+- Use flashlights, glowsticks, Bulklight, or other reliable light tools.
+- Move quickly through darkness if you have no light, but do not sprint into traps.
+- Share light coverage in multiplayer instead of everyone wasting separate resources.
+- Remember that prevention is better than reacting after the swarm starts.
 
-**Survival Strategy:**
-
-- Always keep a light source active in dark Mines rooms
-- **Glowsticks** are especially effective (AoE light that covers a larger area)
-- If you do not have a light source, move through dark areas quickly
-- **Bulklight** from Jeff's Shop provides the strongest and longest-lasting light
-- Gloombats cannot spawn in lit rooms -- prevention is the best strategy
+Difficulty: ★★☆☆☆.
 
 ---
 
 ### Grumble
 
-**The wandering hunter of The Mines.**
+**The hunter that can actually see you.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Hunter-Type |
-| **First Encounter** | Door ~120-140 |
-| **Spawn Rate** | Medium-High |
-| **Warning Signs** | Wandering sounds; entity moving through rooms; low growling |
-| **Survival Method** | Break line of sight; hide behind walls or objects; sneak past |
-| **Damage if Caught** | ~25 HP |
-| **Difficulty Rating** | ★★★☆☆ |
+Grumble is not Figure. It does not only care about sound. It searches and pressures you through line of sight, so hiding behind physical cover matters.
 
-**Detailed Behavior:**
+Survival script:
 
-Grumble wanders through The Mines rooms actively searching for players. Unlike Figure, Grumble **can see you**, so hiding in dark spots is not enough -- you need to break its line of sight by using physical obstacles.
+- Listen for wandering sounds or low growling.
+- Break line of sight with walls, pillars, furniture, and corners.
+- Move when Grumble is looking elsewhere.
+- Do not stand in open space hoping darkness saves you.
+- Avoid unnecessary running; speed is useful only if it gets you behind cover.
 
-**Survival Strategy:**
-
-1. When you hear Grumble approaching, **find cover behind walls or objects**
-2. Break its line of sight by moving behind obstacles
-3. Sneak past when it is looking in another direction
-4. Do not run -- running attracts attention
-5. Use the environment (pillars, walls, furniture) as cover
+Difficulty: ★★★☆☆.
 
 ---
 
 ### Hide
 
-**The entity that forces you to stay in hiding longer than usual.**
+**The Rush-like event that asks you to stay put longer.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Rush-Type variant |
-| **First Encounter** | Throughout The Mines |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Lights flicker (like Rush); but the flickering is **extended** |
-| **Survival Method** | Hide in a closet and **stay hidden significantly longer than a normal Rush** |
-| **Damage if Caught** | ~30 HP if caught leaving early |
-| **Difficulty Rating** | ★★★☆☆ |
+Hide uses the same “hide now” instinct as Rush, but the danger is leaving too early. Its flicker cue is extended, though not always as obvious as Ambush for nervous players.
 
-**Detailed Behavior:**
+Survival script:
 
-Hide functions similarly to Rush but requires players to stay hidden for an extended period. The key difference from Rush is that leaving your hiding spot too early triggers damage. The flicker warning is longer than Rush but shorter than Ambush.
+- Hide when the flicker starts.
+- Assume you need to wait longer than a normal Rush.
+- Count several seconds after the room seems safe.
+- If unsure whether it was Rush or Hide, treat it as Hide.
 
-**Survival Strategy:**
-
-- When lights flicker, hide as you would for Rush
-- **Wait longer than you think** before exiting -- at least 5-10 seconds after lights return to normal
-- If you are unsure whether it was Rush or Hide, treat it as Hide and wait extra
+Difficulty: ★★★☆☆ because the counter is patience, not speed.
 
 ---
 
 ### Snare (Mines Variant)
 
-**The Mines version of the door trap entity.**
+The Mines version of Snare works like the Hotel version, but darkness makes inspection harder.
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Ambush-Type |
-| **First Encounter** | Throughout The Mines |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Door with subtly distorted texture |
-| **Survival Method** | Inspect doors for distorted textures before walking through |
-| **Damage if Caught** | ~25 HP |
-| **Difficulty Rating** | ★★☆☆☆ |
+Survival script:
 
-The Mines Snare works identically to the Hotel version. Inspect doors before walking through them. The Mines' darker environment can make Snare doors harder to spot, so keep your light source active.
+- Use a light source before questionable doors.
+- Inspect texture, color, and shape.
+- Slow down at door clusters and low visibility transitions.
+- Do not let Mines pressure make you skip the half-second check.
+
+Difficulty: ★★☆☆☆.
 
 ---
 
 ### A-90
 
-**The fast Rooms-style entity.**
+**The fast Rooms-style sweeper.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Rush-Type |
-| **First Encounter** | Rare in The Mines |
-| **Spawn Rate** | Low-Medium |
-| **Warning Signs** | Audio cue similar to Rush; **red visual distortion**; arrives very fast |
-| **Survival Method** | Hide in closet/locker; expect multiple passes |
-| **Damage if Caught** | ~30-40 HP |
-| **Difficulty Rating** | ★★★☆☆ |
+A-90 gives less warning time and uses red visual distortion. Treat it as a fast multi-pass sweeper, not a normal Rush.
 
-**Detailed Behavior:**
+Survival script:
 
-A-90 is an entity inspired by the classic Roblox game *Rooms*. It sweeps through rooms at high speed with multi-pass mechanics similar to Ambush. The "90" indicates its approximate speed -- it is fast and gives little warning time.
+- Red distortion means react immediately.
+- Hide fast.
+- Expect more than one pass.
+- Do not leave just because the first hitbox passed.
+- Re-center before moving, because the speed of the event often leaves players disoriented.
 
-**Survival Strategy:**
-
-- Treat it like Ambush -- hide and expect multiple passes
-- A-90 arrives faster than Ambush, giving less warning time
-- The red visual distortion is the key identifier
-- Red warning time means you need to react faster than for Ambush
+Difficulty: ★★★☆☆.
 
 ---
 
 ### A-120
 
-**The slow Rooms-style entity with more passes.**
+**The slower Rooms-style sweeper that wins by testing patience.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Rush-Type |
-| **First Encounter** | Rare in The Mines |
-| **Spawn Rate** | Low-Medium |
-| **Warning Signs** | Audio cue; **red visual distortion**; slower approach than A-90 |
-| **Survival Method** | Hide in closet/locker; expect **more passes** than A-90 |
-| **Damage if Caught** | ~30-40 HP |
-| **Difficulty Rating** | ★★★☆☆ |
+A-120 approaches slower than A-90 but can demand more waiting. The danger is that the slower rhythm makes players think the event is done.
 
-**Detailed Behavior:**
+Survival script:
 
-A-120 is similar to A-90 but slower and with potentially more passes. The "120" indicates it is slower than A-90. The combination of speed and pass count makes it dangerous in a different way.
+- Hide on the red/audio cue.
+- Expect more passes than you want to wait for.
+- Do not count one or two passes and assume safety.
+- Exit only after a clear quiet window.
 
-**Survival Strategy:**
-
-- Hide and expect more passes than A-90 (potentially 4-8 passes)
-- The slower approach gives more warning but the extra passes demand patience
-- Do not exit early -- A-120 is known for lulling players into false security
+Difficulty: ★★★☆☆.
 
 ---
 
@@ -732,349 +613,376 @@ A-120 is similar to A-90 but slower and with potentially more passes. The "120" 
 
 ### Groundskeeper
 
-**The lawn-patrolling entity that enforces the grass rule.**
+**The strictest rule in The Outdoors: grass can be death.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Hunter-Type |
-| **First Encounter** | The Outdoors (requires 10 Stardust to unlock) |
-| **Spawn Rate** | Always active in garden areas |
-| **Warning Signs** | Entity points at monuments; visible patrolling garden areas |
-| **Survival Method** | **DO NOT STEP ON GRASS** -- stay on paved paths at all times |
-| **Damage if Caught** | Instant kill if it sees you on grass |
-| **Difficulty Rating** | ★★★★★ |
+Groundskeeper patrols garden areas and punishes stepping on grass when it can see you. This is one of the most dangerous mechanics because the rule is simple, instant, and easy to violate while navigating.
 
-**Detailed Behavior:**
+Survival script:
 
-The Groundskeeper patrols the garden areas of The Outdoors. Its primary mechanic is simple but deadly: if you step on grass while the Groundskeeper can see you, you die instantly.
+- Stay on paved paths by default.
+- Before crossing grass, locate the Groundskeeper.
+- Use monuments and structures to block sightlines.
+- Move only when its attention is elsewhere or it is far enough away.
+- Do not follow another player onto grass unless you personally checked the angle.
 
-**Survival Strategy:**
-
-1. **Always stay on paved paths** -- this is the golden rule of The Outdoors
-2. If you must cross grass, wait until the Groundskeeper is looking away or is far enough
-3. Use monuments and structures for cover when crossing open areas
-4. The Groundskeeper points at monuments as its patrol behavior -- use this to track its attention
+Difficulty: ★★★★★ because the mistake can be instant death.
 
 ---
 
 ### Mandrake
 
-**The screaming plant that must be contained.**
+**The screaming plant that turns time into damage.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Environmental |
-| **First Encounter** | The Outdoors |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Screaming sound from plants |
-| **Survival Method** | **Return the Mandrake to its hole** before the scream kills you |
-| **Damage if Caught** | Escalating damage from the scream (can kill if ignored) |
-| **Difficulty Rating** | ★★★☆☆ |
+Mandrake starts screaming when disturbed, and the scream becomes more dangerous the longer you ignore it. You need to return it to its hole quickly.
 
-**Detailed Behavior:**
+Survival script:
 
-When a Mandrake is disturbed, it begins screaming. The scream deals escalating damage over time. You must find the Mandrake and return it to its designated hole to stop the screaming.
+- When the scream starts, locate the Mandrake.
+- Pick it up and identify the correct hole.
+- Return it quickly before damage escalates.
+- In multiplayer, one player handles Mandrake while others watch for pathing threats.
+- Do not let everyone chase the same plant and abandon awareness.
 
-**Survival Strategy:**
-
-1. When you hear the scream, locate the Mandrake quickly
-2. Pick it up and carry it to its hole
-3. Place it back in the hole to silence the scream
-4. Act quickly -- the scream's damage escalates rapidly
-5. In multiplayer, coordinate so one player handles the Mandrake while others watch for other threats
+Difficulty: ★★★☆☆.
 
 ---
 
 ### Monument
 
-**The pillar-like entity that can possess players.**
+**The pillar-like threat where uncertainty is part of the danger.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Hunter-Type |
-| **First Encounter** | The Outdoors |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Pillar-like structures that may activate with a glow |
-| **Survival Method** | Avoid activation zones; run if possessed state begins |
-| **Damage if Caught** | Varies -- possession can be lethal |
-| **Difficulty Rating** | ★★★☆☆ |
+Monuments can activate, glow, or interact with players in ways that are still less predictable than core Hotel entities. The safe habit is avoidance until you understand the active zone.
 
-**Detailed Behavior:**
+Survival script:
 
-Monuments are tall pillar structures that can activate and potentially possess or control players. The exact mechanics are still being explored by the community, but avoiding activation zones and staying alert is the best strategy.
+- Treat glowing or active pillars as danger zones.
+- Do not stand near them while checking inventory or typing.
+- Move out if possession-like effects begin.
+- Use the surrounding layout to keep escape routes open.
+
+Difficulty: ★★★☆☆.
 
 ---
 
 ### Surge
 
-**The energy-based entity of The Outdoors.**
+**The electrical hazard that asks you to find safety, not speedrun through damage.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Environmental |
-| **First Encounter** | The Outdoors |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Energy surges visible in the environment; electrical crackling |
-| **Survival Method** | Hide or find safe zones during surge events |
-| **Damage if Caught** | Significant -- can deal heavy damage |
-| **Difficulty Rating** | ★★★☆☆ |
+Surge creates energy-based danger in The Outdoors. Bright effects and crackling sounds are your cue to stop treating the area like normal terrain.
 
-**Detailed Behavior:**
+Survival script:
 
-Surge creates energy-based hazards in The Outdoors. When a surge event occurs, you need to find safe zones or shelter to avoid the electrical damage. The visual cues are bright energy effects and crackling sounds.
+- Recognize crackling and bright surge effects.
+- Find safe zones or shelter.
+- Do not cross open hazard areas just because the exit is visible.
+- Wait out the dangerous moment if the route is unclear.
+
+Difficulty: ★★★☆☆.
 
 ---
 
 ### Caws
 
-**The bird entities that can be fed for achievements.**
+**Harmless birds with an achievement hook.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Minor |
-| **First Encounter** | The Outdoors |
-| **Spawn Rate** | Medium |
-| **Warning Signs** | Bird sounds/cawing |
-| **Survival Method** | Feed **Bread** to them for the "Feed The Birds" achievement |
-| **Damage** | None |
-| **Difficulty Rating** | ☆☆☆☆☆ |
+Caws are not a survival threat. They can be fed Bread for the “Feed The Birds” achievement.
 
-**Detailed Behavior:**
+Survival script:
 
-Caws are bird-like entities that wander The Outdoors. They are harmless and can be fed Bread for an achievement. Finding Bread in The Outdoors is part of the exploration challenge.
+- Listen for bird sounds.
+- Feed Bread if you are achievement hunting.
+- Do not waste critical survival focus on them during active threats.
+
+Difficulty: ☆☆☆☆☆.
 
 ---
 
 ### World Lotus
 
-**The final entity of The Outdoors hedge maze.**
+**The Outdoors objective boss built around exploration and completion.**
 
-| Attribute | Details |
-|-----------|---------|
-| **Type** | Boss |
-| **First Encounter** | Center of the Hedge Maze in The Outdoors |
-| **Spawn Rate** | Once per Outdoors run |
-| **Warning Signs** | Vines cover the exit; lotus-themed environment; hedge maze |
-| **Survival Method** | Collect **8 Lotus Petals** scattered throughout The Outdoors to craft a Lotus Flower |
-| **Damage if Caught** | Varies -- vine entanglement can be lethal |
-| **Difficulty Rating** | ★★★★☆ |
+World Lotus is tied to the hedge maze and Lotus Petal collection. You need 8 Lotus Petals to craft a Lotus Flower and progress the Outdoors storyline.
 
-**Detailed Behavior:**
+Survival script:
 
-The World Lotus is the final challenge of The Outdoors. Located at the center of the hedge maze, it requires you to collect 8 Lotus Petals scattered throughout The Outdoors to craft a Lotus Flower. The Lotus Flower can be used for revival or to escape.
+- Explore carefully and track which areas you have cleared.
+- Collect all 8 Lotus Petals.
+- Solve required pathing or puzzle steps instead of wandering randomly.
+- Craft the Lotus Flower at the correct location.
+- Keep normal entity awareness while petal hunting; objective focus can make you ignore threats.
 
-**Survival Strategy:**
-
-1. Explore The Outdoors thoroughly to find all 8 Lotus Petals
-2. Each petal is hidden in different locations -- some require puzzle-solving
-3. Once all 8 are collected, craft the Lotus Flower at the designated location
-4. Use the Lotus Flower to complete The Outdoors storyline
+Difficulty: ★★★★☆ because the challenge is long-form execution, not one quick dodge.
 
 ---
 
-## ENTITY QUICK REFERENCE TABLES
+## Essential Entity Stat Reference
+
+These are the only stats worth keeping as a table: quick cue, action, and danger. For actual play, read the survival scripts above.
 
 ### The Hotel Entities
 
-| Entity | Warning Sign | Survival Method | Danger |
-|--------|-------------|-----------------|--------|
-| **Rush** | Lights flicker, whoosh | Hide in closet/bed | ★★ |
-| **Ambush** | Extended flicker | Hide through ALL passes | ★★★ |
-| **Screech** | Whispering | Spin camera rapidly | ★ |
-| **Seek** | Cutscene trigger | Run, follow arrows, jump | ★★★★ |
-| **Figure (Door 50)** | Heavy breathing | Crouch-walk, hide, hold breath | ★★★★ |
-| **Figure (Door 100)** | Heavy breathing | Crouch-walk, memorize circuit breaker | ★★★★★ |
-| **Dupe** | Multiple numbered doors | Enter correct numbered door | ★★ |
-| **Halt** | Glitchy hallway | Run backward | ★★ |
-| **Eyes** | Floating eyeballs | Walk around them | ★ |
-| **Jack** | Random (opening containers) | No action needed (cosmetic) | ☆ |
-| **Shadow** | Brief silhouette | No action needed (cosmetic) | ☆ |
-| **Guiding Light** | Blue light beams | Follow its guidance | Helpful |
-| **Void** | Room disappears | Stay put, wait for reset | ★★ |
-| **Sally** | Small figure | No action needed | ☆ |
-| **Timothy** | Opening drawers | No prevention (minor damage) | ☆ |
-| **Glitch** | Screen glitches | No player control | ★★ |
-| **Snare** | Distorted door texture | Inspect doors before entering | ★★ |
+| Entity | First cue to trust | Immediate action | Danger |
+|---|---|---|---|
+| Rush | Short light flicker + whoosh | Hide in nearest closet/bed | ★★ |
+| Ambush | Extended flicker + distorted sound | Hide and wait through all passes | ★★★ |
+| Screech | Close whisper/“psst” in darkness | Sweep camera fast | ★ |
+| Seek | Cutscene, music, slamming doors | Run, follow arrows/hands | ★★★★ |
+| Figure (Door 50) | Heavy breathing in Library | Crouch, collect books quietly | ★★★★ |
+| Figure (Door 100) | Heavy breathing near breaker puzzle | Crouch, memorize switches, time interactions | ★★★★★ |
+| Dupe | Multiple numbered doors | Check the correct next number | ★★ |
+| Halt | Glitchy stretched hallway | Turn around and retreat | ★★ |
+| Eyes | Floating eyeballs | Path around them | ★ |
+| Jack / Shadow / Sally | Jumpscare or brief figure | Stay calm; no counter needed | ☆ |
+| Timothy | Drawer jumpscare | Accept tiny damage, continue | ☆ |
+| Snare | Distorted door texture | Inspect before entering | ★★ |
 
-### The Mines Entities
+### The Mines and Outdoors Entities
 
-| Entity | Warning Sign | Survival Method | Danger |
-|--------|-------------|-----------------|--------|
-| **Figure (The Adit)** | Heavy breathing | Crouch-walk, find Fuses quietly | ★★★★ |
-| **Figure (The Nest)** | Heavy breathing | Crouch-walk, use Alarm Clocks, activate 5-6 Anchors | ★★★★★ |
-| **Giggle** | Low growl/ping | Look up, avoid falling rocks | ★★ |
-| **Gloombats** | Buzzing in dark | Use light source | ★★ |
-| **Grumble** | Wandering sounds | Break line of sight, hide behind cover | ★★★ |
-| **Hide** | Extended flicker | Stay hidden longer than Rush | ★★★ |
-| **Snare** | Distorted door texture | Inspect doors | ★★ |
-| **A-90** | Red distortion, fast arrival | Hide through multiple passes (fast) | ★★★ |
-| **A-120** | Red distortion, slow arrival | Hide through MORE passes (patient) | ★★★ |
-
-### The Outdoors Entities
-
-| Entity | Warning Sign | Survival Method | Danger |
-|--------|-------------|-----------------|--------|
-| **Groundskeeper** | Points at monuments | **Never step on grass** | ★★★★★ |
-| **Mandrake** | Screaming sound | Return to hole quickly | ★★★ |
-| **Monument** | Pillar activation | Avoid activation zones | ★★★ |
-| **Surge** | Energy visual effects | Find safe zones | ★★★ |
-| **Caws** | Bird sounds | Feed Bread (achievement) | ☆ |
-| **World Lotus** | Vines, hedge maze | Collect 8 Lotus Petals | ★★★★ |
+| Entity | First cue to trust | Immediate action | Danger |
+|---|---|---|---|
+| Mines Figure | Heavy breathing/footsteps | Crouch, route objectives, use Alarm Clocks | ★★★★★ |
+| Giggle | Ceiling growl/ping | Look up and dodge rocks | ★★ |
+| Gloombats | Buzzing in darkness | Use light source | ★★ |
+| Grumble | Wandering growl/movement | Break line of sight | ★★★ |
+| Hide | Extended Rush-like flicker | Hide longer than normal | ★★★ |
+| A-90 | Red distortion, fast arrival | Hide immediately, expect passes | ★★★ |
+| A-120 | Red distortion, slower rhythm | Hide and wait longer | ★★★ |
+| Groundskeeper | Visible patrol / grass rule | Stay on paths, block sightlines | ★★★★★ |
+| Mandrake | Screaming plant | Return to hole quickly | ★★★ |
+| Monument | Active/glowing pillar | Avoid activation zone | ★★★ |
+| Surge | Electrical crackle/effects | Find safe zone | ★★★ |
+| Caws | Bird sounds | Feed Bread if needed | ☆ |
+| World Lotus | Vines, hedge maze, petal objective | Collect 8 Lotus Petals | ★★★★ |
 
 ---
 
-## ENTITY DIFFICULTY RANKING
+## Difficulty Ranking: What Actually Ends Runs
 
-Ranked from easiest to hardest based on community consensus and mechanical complexity:
+Rank lists can be misleading because “hardest” depends on floor, health, team, and modifiers. A better way to rank entities is by the kind of mistake they punish.
 
-| Rank | Entity | Reason |
-|------|--------|--------|
-| 1 | Timothy | Minor damage, purely cosmetic scare |
-| 2 | Jack | No damage, jumpscare only |
-| 3 | Shadow | No damage, cosmetic only |
-| 4 | Sally | No interaction with player |
-| 5 | Caws | Harmless, feed for achievement |
-| 6 | Guiding Light | Helpful entity |
-| 7 | Eyes | Easy to avoid with awareness |
-| 8 | Screech | Simple counter (spin camera) |
-| 9 | Dupe | Simple counter (check numbers) |
-| 10 | Halt | Simple counter (go backward) |
-| 11 | Giggle | Avoidable with ceiling awareness |
-| 12 | Gloombats | Solved with light source |
-| 13 | Snare | Requires visual inspection |
-| 14 | Rush | Predictable, common, easy to counter |
-| 15 | Hide | Like Rush but longer wait |
-| 16 | A-90 | Fast multi-pass rush, less warning |
-| 17 | A-120 | Slower but more passes |
-| 18 | Ambush | Multiple passes kill beginners |
-| 19 | Grumble | Active hunter, line-of-sight mechanics |
-| 20 | Mandrake | Requires quick action and item handling |
-| 21 | Figure (Door 50 Library) | Sound-based hunting + puzzle under pressure |
-| 22 | Figure (Door 100 Electrical) | Sound hunting + memory puzzle |
-| 23 | Figure (The Nest) | Large area, multiple objectives, constant sound hunting |
-| 24 | Surge | Environmental hazard requiring situational awareness |
-| 25 | Monument | Possession mechanics are unpredictable |
-| 26 | Seek | Fast chase, instant death, no room for error |
-| 27 | World Lotus | Complex petal collection + boss encounter |
-| 28 | Groundskeeper | Instant death on grass, strict rules |
-| 29 | Void | Unpredictable, no reliable counter |
+Low-pressure scares and harmless entities:
 
----
+- Timothy: minor damage from drawers; keep looting if safe.
+- Jack: no damage, but can startle you into bad movement.
+- Shadow: rare visual scare, no counter needed.
+- Sally: atmospheric, no gameplay threat.
+- Caws: harmless unless you are achievement hunting.
+- Guiding Light: helpful, not harmful.
 
-## ENTITY SPAWN CONDITIONS
+Awareness checks:
 
-Understanding when entities spawn helps you prepare mentally and positionally:
+- Eyes: easy if you scan before moving.
+- Screech: simple counter, but dangerous in dark stacked rooms.
+- Dupe: easy if you count doors.
+- Halt: easy if you override the instinct to push forward.
+- Giggle: punishes players who never look up.
+- Gloombats: solved by light, dangerous without resources.
+- Snare: punishes autopilot and poor visibility.
 
-| Entity | Spawn Conditions | Frequency |
-|--------|-----------------|-----------|
-| **Rush** | Random, very frequent; always from forward direction | Every 3-5 rooms |
-| **Ambush** | Random, frequent; always from forward direction | Every 5-8 rooms |
-| **Screech** | Only in dark/unlit rooms | Conditional |
-| **Seek** | Fixed -- Door 50 (chase sequence) | Once per run |
-| **Figure (Door 50)** | Fixed -- The Library puzzle room | Once per run |
-| **Figure (Door 100)** | Fixed -- The Electrical Room | Once per run |
-| **Dupe** | Random; rooms with multiple doors | Every 5-10 rooms |
-| **Halt** | Random; long hallways | Every 10-15 rooms |
-| **Eyes** | Random; appears in rooms with scattered eyeballs | Every 15-20 rooms |
-| **Timothy** | Random chance when opening drawers (~5-10%) | Per drawer opened |
-| **Jack** | Random chance when opening containers/lockers (~3-5%) | Per container opened |
-| **Snare** | Random; appears as a disguised door | Every 10-15 rooms |
-| **Guiding Light** | Conditional -- camping before puzzle rooms (3-4 min wait) | On demand |
-| **Gloombats** | Dark areas in The Mines | Frequent in unlit areas |
-| **Giggle** | Random in The Mines rooms | Every 5-8 rooms |
-| **Grumble** | Random in The Mines | Every 10-15 rooms |
-| **A-90** | Rare in The Mines | Every 20-30 rooms |
-| **A-120** | Rare in The Mines | Every 25-35 rooms |
-| **Figure (Mines)** | Generator rooms, The Adit, The Nest | Multiple per Mines run |
-| **Groundskeeper** | Always active in The Outdoors garden areas | Constant |
-| **Mandrake** | Random in The Outdoors when disturbing plants | Every 5-10 rooms |
-| **Void** | Between rooms or during transitions | Extremely rare |
-| **Glitch** | Random, uncontrollable | Extremely rare |
+Timing and patience checks:
+
+- Rush: common, predictable, punishes greed.
+- Hide: punishes leaving too early.
+- A-90: punishes slow reaction.
+- A-120: punishes impatience.
+- Ambush: punishes the exact habit Rush teaches — leaving after one pass.
+
+Hunter and boss checks:
+
+- Grumble: line-of-sight pressure.
+- Mandrake: quick objective handling under damage pressure.
+- Figure (Door 50): sound control plus puzzle solving.
+- Figure (Door 100): sound control plus memory under pressure.
+- Figure (The Nest): large-area routing, Anchors, Alarm Clocks, and constant patrol pressure.
+- Surge: environmental awareness under route pressure.
+- Monument: unpredictable activation or possession risk.
+- Seek: fast chase with little recovery from mistakes.
+- World Lotus: long objective chain in a dangerous area.
+- Groundskeeper: instant-death positional rule.
+- Void: rare, unpredictable, and hard to counter reliably.
+
+If you are trying to improve quickly, practice the middle group first. Most players lose more runs to “I left early,” “I forgot the door number,” or “I sprinted near Figure” than to rare anomalies.
 
 ---
 
-## ENTITY AUDIO CUE REFERENCE
+## Spawn Conditions You Should Prepare For
 
-Learning audio cues is the most important survival skill in DOORS:
+You do not need exact spawn math to survive. You need expectation windows.
 
-| Entity | Sound Cue | What to Do |
-|--------|-----------|------------|
-| **Rush** | Lights flicker + whooshing sound builds | Hide immediately in nearest closet |
-| **Ambush** | Lights flicker (longer) + deeper whooshing | Hide; expect 2-6 passes |
-| **Figure** | Heavy breathing + low growling | Crouch-walk; hide in closets |
-| **Screech** | Whispering/"shhh" in ear | Spin camera rapidly |
-| **Gloombats** | Buzzing in dark areas | Use light source immediately |
-| **Giggle** | Low growl/ping from ceiling | Look up; dodge falling rocks |
-| **Grumble** | Wandering sounds + low growling | Break line of sight; hide |
-| **Seek** | Cutscene music + doors slamming | Start running; follow arrows |
-| **Hide** | Lights flicker (extended) | Hide; wait 5-10 seconds after lights return |
-| **Mandrake** | Screaming sound | Find and return to hole |
-| **Caws** | Bird cawing | Feed Bread (optional, for achievement) |
+The Hotel:
+
+- Rush can appear frequently and should be expected whenever lights flicker.
+- Ambush appears less predictably but often enough that extended flickers should always be treated seriously.
+- Screech belongs to dark rooms. Enter darkness with your camera ready.
+- Seek and Figure are fixed major encounters in the Hotel flow.
+- Dupe appears in multi-door rooms, so door counting matters throughout the run.
+- Halt tends to be tied to strange hallway behavior.
+- Eyes is visible and avoidable, but can combine with low light or panic.
+- Timothy and Jack are tied to opening containers, drawers, lockers, or doors.
+- Snare is tied to suspicious doors and visibility checks.
+- Guiding Light appears around help states, puzzle pressure, or waiting behavior.
+
+The Mines:
+
+- Figure appears in The Adit, generator-style areas, and The Nest.
+- Gloombats are a dark-area resource check.
+- Giggle is a ceiling-awareness check.
+- Grumble appears as an active hunter and requires cover.
+- A-90 and A-120 are rarer but should be treated as serious red-distortion events.
+- Mines Snare is harder to see because the environment is darker.
+
+The Outdoors:
+
+- Groundskeeper is always a positional concern in garden areas.
+- Mandrake becomes urgent once the scream starts.
+- Monument and Surge require caution around active visual effects.
+- Caws are harmless and achievement-related.
+- World Lotus is the final hedge-maze objective chain.
+
+Anomalies:
+
+- Void and Glitch are rare enough that you cannot route around them consistently.
+- When they happen, slow down, re-check door numbers, and stabilize the team.
 
 ---
 
-## ENTITY DROP TABLE
+## Audio Cue Reference Without the Noise
 
-Most entities do not "drop" items in the traditional sense. However, certain entities are associated with specific items or loot:
+Audio is the real language of DOORS. Visuals matter, but your ears often give the first reliable warning.
 
-| Entity | Associated Items | Notes |
-|--------|-----------------|-------|
-| **Figure (Door 50)** | Safe code books | Books contain shape-to-number translations |
-| **Figure (Door 100)** | Circuit breaker access | Box with switch pattern |
-| **Figure (The Nest)** | Anchors (5-6) | Must be activated to defeat Figure |
-| **Guiding Light** | Item highlights, healing | Points to hidden items |
-| **Timothy** | Drawer contents | Spiders guard loot -- open drawers anyway |
-| **Caws** | Bread (required) | Feed bread for achievement |
-| **World Lotus** | Lotus Petals (8) | Collect all to craft Lotus Flower |
-| **Groundskeeper** | Monument interactions | Points at monuments for navigation |
+Rush:
+
+- Cue: short flicker and building whoosh.
+- Action: hide now.
+- Do not: finish looting first.
+
+Ambush:
+
+- Cue: longer flicker, deeper or more distorted rush sound.
+- Action: hide and wait through repeated passes.
+- Do not: leave after the first pass.
+
+Figure:
+
+- Cue: heavy breathing, growling, footsteps.
+- Action: crouch-walk, reduce interactions, hide when close.
+- Do not: sprint because it is “blind.”
+
+Screech:
+
+- Cue: close whisper or “psst” in dark rooms.
+- Action: sweep camera until handled.
+- Do not: confuse it with Timothy or spin into another hazard.
+
+Timothy:
+
+- Cue: drawer interaction, sudden spider scare.
+- Action: absorb the tiny damage and continue if safe.
+- Do not: treat every drawer sound like Screech.
+
+Gloombats:
+
+- Cue: buzzing in darkness.
+- Action: use light.
+- Do not: burn all light resources separately in multiplayer.
+
+Giggle:
+
+- Cue: ceiling growl/ping.
+- Action: look up and dodge.
+- Do not: keep staring at the next door.
+
+Grumble:
+
+- Cue: wandering movement and growling.
+- Action: break line of sight.
+- Do not: hide in plain sight and hope darkness is enough.
+
+Seek:
+
+- Cue: cutscene music, doors slamming, chase framing.
+- Action: run and read the route indicators.
+- Do not: look backward.
+
+Mandrake:
+
+- Cue: screaming plant.
+- Action: return it to its hole.
+- Do not: let the whole team abandon other threats.
+
+Caws:
+
+- Cue: bird cawing.
+- Action: feed Bread if achievement hunting.
+- Do not: confuse harmless birds with urgent threats.
+
+---
+
+## Entity “Drops,” Objectives, and Associated Items
+
+Most DOORS entities do not drop loot like RPG monsters. The practical question is what item or objective the entity is tied to.
+
+- **Figure (Door 50):** Books contain shape symbols that help solve the Library code.
+- **Figure (Door 100):** The circuit breaker puzzle requires switch memory and safe timing.
+- **Figure (The Nest):** Anchors are the real objective, and Alarm Clocks are the key distraction tool.
+- **Guiding Light:** Highlights items, paths, and puzzle-critical objects.
+- **Timothy:** Appears from drawers, but the drawer loot is still worth checking.
+- **Caws:** Bread is used for the bird-feeding achievement.
+- **World Lotus:** Requires 8 Lotus Petals to craft the Lotus Flower.
+- **Groundskeeper:** Monument behavior and pathing are tied to navigation and sightline control.
+
+For a broader breakdown of tools, shop priorities, and resource decisions, see the [DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/).
 
 ---
 
 ## FAQ
 
 **Q: What is the deadliest entity in DOORS?**
-A: **Figure at Door 200 (The Nest)** is widely considered the deadliest. You must activate 5-6 Anchors in a large area while Figure actively hunts you by sound. The **Groundskeeper** in The Outdoors is equally dangerous due to its instant-death mechanic if you step on grass.
+A: It depends on what kills you most often. Figure at Door 200/The Nest is one of the hardest because it combines a large area, multiple objectives, sound discipline, and distraction timing. Groundskeeper is also terrifying because stepping on grass in its sightline can be instant death. For random Hotel deaths, Ambush is the classic run-ender because it punishes leaving early.
 
 **Q: Can I fight entities in DOORS?**
-A: No, DOORS does not have combat mechanics. You must avoid, hide from, or solve puzzles related to entities. The only exception is the new **shooting mechanic in Rush Mode**, where you can shoot Rush-like entities with a gun.
+A: In normal DOORS play, survival is based on hiding, avoiding, routing, or solving mechanics. You are not meant to fight most entities directly. Rush Mode changes the feel with shooting mechanics, but the core entity lesson remains: identify the cue and execute the correct response.
 
 **Q: How do I know if an entity is Rush or Ambush?**
-A: The warning duration is the key difference. Rush has a short flicker. Ambush has a **significantly longer** flicker. Always assume it is Ambush and stay hidden through multiple passes to be safe.
+A: Treat the warning duration as the clue. Rush is shorter and cleaner. Ambush has a longer, more distorted warning and multiple passes. If you are unsure, assume Ambush. Waiting too long is safer than stepping out into a return pass.
+
+**Q: Why do I still die to Ambush even though I know how it works?**
+A: Because Ambush does not test whether you know the name. It tests whether you can resist leaving after the first safe-looking moment. Hide, count passes if possible, and wait for a real quiet window before moving.
 
 **Q: What entities are purely cosmetic and cannot hurt me?**
-A: **Jack, Shadow, Sally, and Guiding Light** are entirely harmless. **Timothy** deals only ~5 HP. **Caws** are harmless birds. All other entities can deal damage or kill.
+A: Jack, Shadow, Sally, Guiding Light, and Caws are harmless in direct damage terms. Timothy deals only minor damage. The indirect danger is panic: a harmless jumpscare can still make you run, misclick, or leave cover during a real threat.
 
 **Q: Do entities change behavior in multiplayer?**
-A: Entity spawn rates can increase with more players. Some entities become easier with coordinated teamwork (e.g., splitting up to find Figure's books), while others become harder due to increased noise from multiple players running and interacting.
+A: The biggest multiplayer change is not just spawn pressure; it is team noise and bad copying. Figure becomes harder when teammates run or interact at the wrong time. Dupe becomes easier to fail when everyone follows the first player. Ambush becomes harder when one person exits too early and causes panic.
 
 **Q: Are there any entities exclusive to Rush Mode?**
-A: In Rush Mode, all entities **look and sound like Rush**, and Figure/Seek are significantly faster. The new shooting mechanic is exclusive to Rush Mode. No entirely new entities are added, but existing ones are visually and mechanically altered.
+A: Rush Mode mainly alters the presentation and pressure of existing entities, including making entities look and sound like Rush and speeding up major threats like Figure or Seek. The shooting mechanic changes how the mode feels, but you still need cue recognition and clean reactions.
 
 **Q: How does Figure hunt players?**
-A: Figure is blind and hunts **purely by sound**. Running, jumping, and interacting with objects all create noise. Crouch-walking (hold C) is silent. Holding your breath (hold Space) prevents breathing sounds when Figure is very close.
+A: Figure is blind and hunts by sound. Running, jumping, object interactions, lock inputs, books, switches, and panic movement can attract it. Crouch-walking and timed interactions are the foundation of surviving Figure rooms.
 
 **Q: What is the rarest entity to encounter?**
-A: **Glitch** and **Void** are the rarest entities, as they are anomaly-based and trigger under very specific or random conditions. **Jack** is also quite rare as a container-opening jumpscare.
+A: Glitch and Void are among the rarest because they are anomaly-style events rather than regular room threats. Jack is also rare compared with common run threats like Rush, Dupe, Screech, or Ambush.
 
 **Q: Can Guiding Light be summoned on demand?**
-A: Not exactly on demand, but **camping (waiting) for 3-4 minutes** in a room before entering a puzzle area significantly increases the chance of Guiding Light appearing. It most commonly appears before Door 50 and Door 100.
+A: Not exactly, but waiting before difficult puzzle states can increase the chance of helpful guidance. The important part is to actually use the blue highlights and hints instead of rushing past them.
 
 **Q: What is the best strategy for The Nest (Door 200)?**
-A: (1) Enter with multiple Alarm Clocks, (2) Plan your route and memorize Anchor positions, (3) Place Alarm Clocks away from your position before activating Anchors, (4) Always crouch-walk, (5) Coordinate with teammates to split Anchor activation, (6) Use the Barrel of Starlight as a last resort if Figure gets too close.
+A: Enter with Alarm Clocks if possible, scout Anchor positions, move in planned segments, place distractions away from your true route, crouch-walk by default, and coordinate in multiplayer. Do not sprint between Anchors unless you are already forced into an emergency.
 
 ---
 
 ## Next Steps
 
-Ready to master DOORS? Explore our other comprehensive guides:
+Ready to master DOORS? Use these next depending on what is killing your runs:
 
-- **[DOORS Beginner Guide](/posts/doors/beginner-guide/)** -- Complete walkthrough for new players covering all floors, codes, and basic strategies
-- **[DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/)** -- Every item, where to find it, and how to use it effectively
-- **[DOORS Achievements and Secrets Guide](/posts/doors/achievements-and-secrets/)** -- All 87+ achievements, secret rooms, easter eggs, and hidden content
+- **[DOORS Beginner Guide](/posts/doors/beginner-guide/)** — Complete walkthrough for new players covering floors, codes, and basic survival flow.
+- **[DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/)** — Every item, where to find it, and how to use it effectively.
+- **[DOORS Achievements and Secrets Guide](/posts/doors/achievements-and-secrets/)** — Achievements, secret rooms, easter eggs, and hidden content.
 
 ---
 
-> **Disclaimer:** This bestiary is based on the DOORS game state as of May 2026. The Archives update is expected May/June 2026 and will add significant new entities and content to The Rooms subfloor. Always verify information with official sources for the most current game state.
+> **Disclaimer:** This bestiary reflects the DOORS game state covered by this guide's update window. DOORS can change with patches, modifiers, and floor updates, especially around event modes and new subfloors. Always verify edge-case mechanics with current in-game behavior if you are routing challenge runs.
 
 Sources:
 - [DOORS Wiki - List of Entities](https://doors-game.fandom.com/wiki/List_of_Entities)

@@ -1,442 +1,173 @@
 ---
-title: "Lethal Company Equipment Guide: Best Items, Costs, and Loadouts (2026)"
-description: "Everything you need to know about Lethal Company Equipment Guide. equipment guide for Lethal Company with real item costs, best early purchases, t..."
+title: "Lethal Company Equipment Guide — Why Your 'Optimal' Loadout Keeps Getting Your Whole Team Killed"
+description: "You bought 4 flashlights, 4 walkies, and a shovel. Your team wiped on the first moon because nobody brought a stun grenade for the Giant. The store has 15+ items and you're buying the same 3 every run. Here's the loadout decision framework that matches equipment to moons, team size, and threat types."
 date: 2026-05-10
 cover:
   image: "/cover-image/lethal-company-equipment/cover.webp"
   alt: "Lethal Company Equipment Guide Cover"
   caption: "Lethal Company Equipment Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-20
 draft: false
 tags: ["Lethal Company", "PC Games", "Equipment Guide", "Loadout Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers every purchasable item in Lethal Company with exact credit costs, practical use cases, team loadout strategies, and which items are worth your hard-earned scrap money.*
+## The Rend Wipe That Should Have Taught You Everything
 
-## The Shop System
+Your ship hits Rend at 9 AM. The fog is so thick you can't see the main entrance from the landing pad. Everyone has the standard kit: Pro-Flashlight, Walkie-Talkie, and one shovel between two of you. You've cleared Experimentation, Assurance, and Offense with this exact loadout, so why change?
 
-The Company Store is accessible from the ship terminal. Type `store` to view available items. Each day at 6:00 AM, the shop refreshes its inventory. Items are delivered to the ship's storage immediately upon purchase.
+Three minutes in, your scout pings on the walkie: *"There's something big out here, I can hear stomping."* Then silence. Not a scream — silence. A Forest Keeper just picked him up and ate him whole. Your second teammate sprints toward the entrance, and the Keeper grabs her too. Two players gone, no body to recover, no scrap returned to the ship. The shovel does 1 HP per hit and the Keeper has 8 HP. You'd need to swing eight times while it's chewing on your face. You don't.
 
-### Store Interface Reference
+The remaining two of you panic-loot the entrance, lose another to a Bracken in the corridor because nobody had a flashlight pointed at it, and reach the ship with 47 credits of scrap. Quota is 350. You fail. The crew gets fired into space.
 
-| Command | Function |
-|---------|----------|
-| `store` | List all available items |
-| `buy [item name]` | Purchase an item |
-| `store [page number]` | Browse additional pages |
+The wipe wasn't bad luck. It was a loadout problem. You brought Experimentation gear to a Rend moon. Forest Keepers don't care about your shovel. The fix wasn't more flashlights — it was a single 30-credit Stun Grenade in the scout's pocket. The flash-bang stuns the Keeper for 5 seconds, long enough for everyone to break line-of-sight and reach cover. One item. The whole run lives.
 
-Items are not always available — the shop rotates its stock daily. If an item you want is not in stock, check again the next day.
+This is what the store actually is: a threat-counter system. The reason your team keeps dying with "the optimal loadout" is that there is no optimal loadout. There are loadouts that match the moon's threat profile and loadouts that don't.
 
----
+## Why the Standard Loadout Fails
 
-## Complete Item Database
+The default Lethal Company loadout — flashlight, walkie, shovel — is built around a fantasy where the only threats are Snare Fleas, Hoarding Bugs, and Thumpers. On Experimentation and Assurance, that fantasy is mostly true. On every other moon, it falls apart.
 
-### Essential Tools
+Here's why the "buy 4 flashlights, 4 walkies, 1 shovel" approach gets you killed:
 
-#### 1. Flashlight (15 Credits)
+- **It assumes melee is a viable answer.** It isn't, against half the bestiary. Brackens kill you in one neck-snap. Forest Keepers swallow you whole. Coil-Heads are invincible. Jesters can't be stopped by a shovel. A team with five shovels and zero stun tools has zero answers to roughly 60% of the monsters past Tier 2.
+- **It assumes vision is the bottleneck.** It isn't. Information is. A walkie tells you a Bracken is in the corner; a Pro-Flashlight only helps if you already know where to point it. Teams that buy three flashlights and zero Radar Boosters are over-investing in light and under-investing in coordination.
+- **It assumes every player needs the same kit.** They don't. The ship operator doesn't need a shovel. The scout doesn't need a heavy haul tool. Identical loadouts waste credits and slot space.
+- **It ignores the moon.** Titan needs an Inverse Teleporter. Rend needs Stun Grenades. Dine needs Lockpickers. The "standard loadout" pretends all moons are interchangeable. They aren't — and the store rotates daily specifically so you have to plan ahead.
 
-The most basic light source. Essential for navigating dark facility interiors.
+The framework that works: read the moon's dominant threat type, pick 1–2 hard counters for that threat, and only then fill out generic gear with whatever credits remain. Below is what that looks like in practice.
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 15 credits |
-| **Hands** | 1 |
-| **Battery Life** | ~5 minutes continuous use |
-| **Range** | Short-Medium |
-| **Floodlight** | No |
-| **Rechargeable** | Yes (ship charger) |
+## Threat-Profile Loadouts
 
-**Verdict:** Buy one immediately if the ship does not have a free one. The battery is short but recharges quickly. Carry a backup.
+### Experimentation, Assurance, Offense (free moons, low threat)
 
-#### 2. Pro-Flashlight (25 Credits)
+These moons are dominated by Snare Fleas, Hoarding Bugs, Thumpers, and the occasional Bracken. Shovels actually work here. Don't overthink it.
 
-An upgraded flashlight with a wider beam and longer battery life.
+- One Pro-Flashlight per two players (sharing is fine on small maps)
+- Walkie for every single player, no exceptions
+- One shovel for the team — the lead corridor-clearer holds it
+- Skip Stun Grenades, skip Zap Guns, skip the Inverse Teleporter
+- Total team cost: roughly 80–110 credits
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 25 credits |
-| **Hands** | 1 |
-| **Battery Life** | ~10 minutes continuous use |
-| **Range** | Medium-Long |
-| **Floodlight** | Yes (wide beam) |
-| **Rechargeable** | Yes (ship charger) |
+If you're spending more than 110 credits on Experimentation gear, you're throwing money away. Save it for the day the shop has a Stun Grenade in stock and you're heading to Rend.
 
-**Verdict:** The Pro-Flashlight is one of the best value items in the game. For only 10 more credits than the basic flashlight, you get double battery life and better visibility. Prioritize buying 2-3 for the team.
+### Vow and March (mid-tier, mixed threats)
 
-#### 3. Walkie-Talkie (12 Credits)
+Vow and March introduce Eyeless Dogs outdoors and bigger monster variety indoors. The threat profile shifts from "melee everything" to "avoid the dogs, then melee the small stuff."
 
-Handheld communication device. Allows voice chat across the entire moon.
+- Two Pro-Flashlights for the indoor team
+- Walkie for everyone (still non-negotiable)
+- One shovel for the indoor lead
+- One Boombox or Radar Booster for the outdoor traversal — to lure or distract dogs
+- Optional: one Stun Grenade if a Forest Keeper spawns
+- Total team cost: roughly 130–180 credits
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 12 credits |
-| **Hands** | 1 |
-| **Range** | Unlimited (full moon) |
-| **Battery Life** | Very long |
-| **Rechargeable** | Yes |
+The Boombox is a controversial pick because it attracts everything, but on Vow and March it's the cheapest dog-distraction tool you'll find. Drop it 40 meters from the ship door and Eyeless Dogs will path toward it instead of toward you.
 
-**Verdict:** The single most important item in the game. Every single player must have a walkie-talkie. At 12 credits each, there is no excuse to go without. Dead players can still hear walkie transmissions, making it useful even after death.
+### Rend, Dine, Titan (high tier, must-counter threats)
 
-**Pro Tip:** Use walkie-talkies to communicate monster locations without alerting sound-based enemies. Speak quietly into your microphone — walkie transmissions are quieter than voice chat proximity.
+This is where the standard loadout gets your whole team killed. Rend has Forest Keepers and Eyeless Dogs. Dine has both plus heavy mansion interiors. Titan is a meat grinder of dogs, Coil-Heads, Jesters, and Nutcrackers.
 
-### Melee Weapons
+- Pro-Flashlight per player — visibility is now critical
+- Walkie per player
+- Two shovels minimum (Nutcrackers alone soak 4 hits)
+- One Stun Grenade per player — the cheapest insurance in the game at 30 credits
+- One or two Lockpickers for mansion doors (Dine, Rend)
+- One Inverse Teleporter on Titan (essential, not optional)
+- One Zap Gun for the support player on Titan
+- Two Radar Boosters for navigation and bait
+- Total team cost: 800–1,200 credits
 
-#### 4. Shovel (30 Credits)
+The cost looks scary until you realize a single failed Titan run costs you the entire ship — which is far more than 1,200 credits in lost scrap and a crew dismissal.
 
-The standard melee weapon. Can kill most monsters with enough hits.
+## The Counter-Intuitive Truth Nobody Tells You About Shovels
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 30 credits |
-| **Hands** | 1 |
-| **Damage** | 1 HP per hit |
-| **Hit Speed** | Moderate |
-| **Range** | Short |
-| **Durability** | Infinite |
+Every Lethal Company guide tells you to buy two shovels for your team. Most of them are wrong. The shovel is the most over-bought item in the game.
 
-**Verdict:** Essential purchase. The shovel is your primary defense against Snare Fleas, Hoarding Bugs, Thumpers, and Brackens. Every team should have at least 2 shovels. It also doubles as a tool to push items and knock things down.
+Here's the math nobody runs:
 
-| Monster | Hits to Kill |
-|---------|-------------|
-| Snare Flea | 1 |
-| Hoarding Bug | 2 |
-| Thumper | 3 |
-| Nutcracker | 4 |
-| Bracken | 5 |
-| Eyeless Dog | 5 |
-| Forest Keeper | 8 |
+- The shovel does 1 HP per hit
+- It takes 5–8 hits to kill anything bigger than a Hoarding Bug
+- Each hit takes about 1 second
+- During those 5–8 seconds, the monster is hitting you back
+- Most monsters that take 5+ hits to kill will kill you first
 
-#### 5. Stop Sign (30 Credits)
+The shovel only "works" against Snare Fleas (1 hit), Hoarding Bugs (2 hits), and Thumpers if you have wall-cover (3 hits). Against everything else, swinging a shovel is a slower form of dying. Brackens snap your neck before hit four. Forest Keepers eat you whole, ignoring damage entirely. Coil-Heads cannot be killed.
 
-A larger, slower melee weapon with the same damage profile as the shovel.
+The counter-intuitive truth: **on harder moons, replace your second shovel with a Stun Grenade.** A 30-credit grenade trades zero damage for 5 seconds of total monster lockdown — including invincible monsters. That's enough time for the whole team to reach the ship. A 30-credit shovel only kills monsters you could already outrun.
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 30 credits |
-| **Hands** | 1 |
-| **Damage** | 1 HP per hit |
-| **Hit Speed** | Slow |
-| **Range** | Medium |
-| **Durability** | Infinite |
-
-**Verdict:** Identical cost to the shovel but slower. The shovel is objectively better due to its faster swing speed. Only buy the Stop Sign if the shovel is out of stock.
-
-### Ranged Tools
-
-#### 6. Zap Gun (400 Credits)
-
-A ranged weapon that fires an electric tether. Stuns monsters on contact.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 400 credits |
-| **Hands** | 2 |
-| **Ammo** | Infinite (cooldown-based) |
-| **Range** | Medium |
-| **Stun Duration** | ~3 seconds |
-| **Damage** | None |
-| **Cooldown** | ~2 seconds |
-
-**Verdict:** Powerful but expensive. The Zap Gun can stun-lock a single monster indefinitely, making it excellent for saving teammates. However, at 400 credits, it costs more than most new players should spend. Buy it only for late-game Titan runs.
-
-**Best Use Cases:**
-- Stunning a Bracken mid-neck-snap to save a teammate
-- Holding a Coil-Head in place while the team escapes
-- Stunning an Eyeless Dog that is blocking the ship door
+Most experienced teams run one shovel total, two on Titan, and pour the saved credits into Stun Grenades and Radar Boosters. Try this for one quota cycle. Your survival rate will jump.
 
-#### 7. Stun Grenade (30 Credits)
+## Items Worth Buying (Quick Reference)
 
-A throwable explosive that emits a bright flash and loud bang, stunning all monsters in range.
+Cost and weight reference for the items that actually carry their weight in your inventory:
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 30 credits |
-| **Hands** | 1 |
-| **Effect Radius** | ~15 meters |
-| **Stun Duration** | ~5 seconds |
-| **Damage** | None |
-| **Consumable** | Yes (single use) |
+| Item | Cost | Hands | Best Used For |
+|------|------|-------|---------------|
+| Walkie-Talkie | 12 | 1 | Every player, every run |
+| Pro-Flashlight | 25 | 1 | Indoor navigation, all moons |
+| Shovel | 30 | 1 | Snare Fleas, Hoarding Bugs only |
+| Stun Grenade | 30 | 1 | Forest Keepers, Brackens, Jesters |
+| Radar Booster | 60 | 1 | Dog bait, dead-player guidance |
+| Lockpicker | 20 | 1 | Mansion runs (Rend, Dine, Titan) |
+| Inverse Teleporter | 375 | N/A | Titan, situational on Rend/Dine |
+| Zap Gun | 400 | 2 | Late-game stun-lock support |
 
-**Verdict:** Excellent value. At 30 credits per grenade, these are cheap lifesavers. Carry one per person on harder moons. The stun affects ALL monsters in range, including invincible ones like the Jester and Coil-Head.
+Everything else in the store is either redundant (Stop Sign vs. Shovel), niche (Extension Ladder), or genuinely a trap (covered below).
 
-**Best Use Cases:**
-- Escaping a Jester after it winds up
-- Saving a teammate being chased by a Thumper
-- Running past a cluster of Eyeless Dogs
-- Setting up an easy kill on a Nutcracker
+## How to Read Each Item's Real Value
 
-### Utility Items
+Below is the loadout-builder's decision logic for the items most teams misuse.
 
-#### 8. Radar Booster (60 Credits)
+**Walkie-Talkie (12 credits).** Buy one for every player on every run, period. Dead players can still hear and speak through walkies, which means a dead scout can still warn the living about a Coil-Head around the corner. At 12 credits, this is the single most efficient credit-to-survival ratio in the game.
 
-A deployable device that shows up on the ship's radar. Can be pinged from the terminal.
+**Pro-Flashlight (25 credits) over basic Flashlight (15 credits).** The basic flashlight is a trap purchase disguised as a budget option. The Pro doubles the battery life and widens the beam for only 10 more credits. If you're already spending 15 on a flashlight, the extra 10 is the highest-value upgrade in the store.
 
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 60 credits |
-| **Hands** | 1 |
-| **Battery Life** | Infinite |
-| **Range** | Unlimited (radar visibility) |
-| **Pingable** | Yes |
-| **Reusable** | Yes (retrievable) |
+**Stun Grenade (30 credits).** The most under-bought item in the game. Affects every monster including invincible ones. One per player on Rend, Dine, and Titan. Half your team will never use them, which means they come home and you didn't spend the 30 credits to die.
 
-**Verdict:** Highly underrated. Radar Boosters serve multiple strategic purposes:
+**Radar Booster (60 credits).** Reusable. Place at facility entrance, ping from terminal to lure Eyeless Dogs away, hand to dead players who can ping it to guide the living, mark high-value scrap caches you couldn't carry. Most teams buy one and forget about it. Buy two.
 
-| Use Case | How It Works |
-|----------|-------------|
-| **Landmark** | Place at facility entrance so the ship operator can guide you |
-| **Eyeless Dog Bait** | Drop it and ping it from terminal — dogs investigate the sound |
-| **Dead Player Guide** | Dead players can watch the radar and ping boosters to guide alive players |
-| **Loot Marker** | Mark the location of high-value scrap you need to return for |
+**Inverse Teleporter (375 credits).** Bypasses the outdoor section entirely on Titan. The outdoor area on Titan is where 80% of Titan deaths happen. Worth every credit on Titan, situational elsewhere.
 
-#### 9. Boombox (60 Credits)
-
-A portable music player. Plays a selection of songs that can be heard by all players and monsters.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 60 credits |
-| **Hands** | 2 |
-| **Battery Life** | ~15 minutes |
-| **Range** | Very loud (attracts monsters globally) |
-| **Tracks** | 6 songs |
-| **Reusable** | Yes |
-
-**Verdict:** A situational tool that is both useful and dangerous. The Boombox is the best Eyeless Dog lure in the game — drop it somewhere and turn it on, then all dogs on the map will investigate the sound. However, it also attracts other monsters. Use with caution.
-
-**Strategic Uses:**
-| Scenario | Action |
-|----------|--------|
-| Eyeless Dogs near ship | Drop Boombox away from ship, lure dogs away |
-| Need quiet looting | Do NOT use — it attracts everything |
-| Trolling teammates | Fun but costly |
-
-#### 10. TZP-Inhalant (120 Credits)
-
-A consumable inhalant that increases player move speed and stamina regeneration for a limited time.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 120 credits |
-| **Hands** | 1 |
-| **Effect Duration** | ~15 seconds |
-| **Speed Boost** | +50% move speed |
-| **Stamina Regen** | Greatly increased |
-| **Consumable** | Yes (single use) |
-
-**Verdict:** Overpriced for what it does. The speed boost lasts only 15 seconds, which is barely enough for one escape. Only buy this for specific high-risk situations, like a Titan run where you need to sprint from the main entrance to the ship with valuable scrap.
-
-#### 11. Lockpicker (20 Credits)
-
-A device that can open locked doors without a key.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 20 credits |
-| **Hands** | 1 |
-| **Uses** | 1 (single door) |
-| **Time to Open** | ~5 seconds |
-| **Skill Check** | Yes (timing-based mini-game) |
-
-**Verdict:** Excellent value on mansion moons. Mansion interiors have many locked doors, and finding the key wastes valuable time. Buy 2-3 for a Rend, Dine, or Titan run. Note that failing the skill check wastes the lockpicker.
-
-**Pro Tip:** Time your click to match the moving indicator in the center zone. Practice makes perfect.
-
-#### 12. Extension Ladder (60 Credits)
-
-A deployable ladder that extends upward, allowing access to elevated areas.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 60 credits |
-| **Hands** | 2 |
-| **Length** | ~10 meters |
-| **Reusable** | Yes (can be picked up) |
-| **Deploy Time** | ~3 seconds |
-
-**Verdict:** Niche utility. The ladder is useful on moons with elevated terrain (Vow, Assurance) where it can create shortcuts. However, it takes two hands to carry, making it impractical during scrap runs. Buy only for specific cheese strategies.
-
-#### 13. Spray Paint (50 Credits)
-
-A can of paint that marks surfaces. Comes in various colors.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 50 credits |
-| **Hands** | 1 |
-| **Capacity** | ~50 sprays |
-| **Reusable** | Yes (until empty) |
-
-**Verdict:** Useful for marking paths in mansion interiors. Spray arrows on walls to navigate confusing layouts. The cost is reasonable for teams that struggle with navigation.
-
-### High-End Equipment
-
-#### 14. Jetpack (700 Credits)
-
-A wearable jetpack that allows flight. Provides immense mobility but is extremely dangerous.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 700 credits |
-| **Hands** | Back slot |
-| **Fuel** | Limited (~10 seconds of flight) |
-| **Speed** | Fast |
-| **Height** | Very high |
-| **Explosion Risk** | High |
-
-**Verdict:** The most controversial item in the game. The Jetpack is incredibly fun and can be useful, but it has a significant chance of exploding when landing or taking damage. If it explodes, the player dies and the Jetpack is destroyed (700 credits gone forever).
-
-| Risk Factor | Probability |
-|-------------|-------------|
-| Explosion on hard landing | ~30% (estimated) |
-| Explosion when hit by monster | ~50% (estimated) |
-| Explosion when struck by lightning (stormy) | ~90% |
-
-**Who should buy it:** Experienced players with credits to spare who want to speed up outdoor traversal on Titan.
-
-**Who should NOT buy it:** Beginners, anyone on a tight budget, anyone who cannot afford to lose 700 credits.
-
-#### 15. Inverse Teleporter (375 Credits)
-
-A ship upgrade installed on the wall next to the main door. When activated, it teleports a player to a random location inside the facility.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 375 credits |
-| **Hands** | N/A (ship upgrade) |
-| **Cooldown** | None (per player per day) |
-| **Destination** | Random interior location |
-| **Damage on Arrival** | ~20 HP (fall damage) |
-| **One-Way** | Yes (must exit normally) |
-
-**Verdict:** A game-changing upgrade for experienced teams. The Inverse Teleporter bypasses the dangerous outdoor areas and drops you directly inside the facility. This is especially valuable on Titan, where the outdoor area is swarming with Eyeless Dogs.
-
-| Moon | Inverse Teleporter Value |
-|------|-------------------------|
-| Experimentation | Not worth it |
-| Assurance | Not worth it |
-| Vow | Situational |
-| Offense | Low value |
-| March | Medium value |
-| Rend | High value |
-| Dine | High value |
-| Titan | **Essential** |
-
-**Pro Tip:** Drop all scrap at the ship before using the Inverse Teleporter. You will take fall damage on arrival, so bring a flashlight and heal up before looting.
-
-### Consumables and Ammunition
-
-#### 16. Shotgun Shells (50 Credits per 2)
-
-Ammunition for the shotgun dropped by Nutcrackers. Can also be purchased from the store.
-
-| Attribute | Value |
-|-----------|-------|
-| **Cost** | 50 credits (per 2 shells) |
-| **Hands** | 1 |
-| **Damage per Shot** | ~3 HP (most monsters) |
-| **Range** | Medium |
-
-**Verdict:** Only buy these if you already have a shotgun from a Nutcracker kill. The shotgun deals massive damage but is loud and attracts monsters.
-
----
-
-## Optimal Equipment Loadouts
-
-### Budget Starter Loadout (First Quota)
-
-For a team of 4, budget 100 credits total:
-
-| Player | Items | Cost |
-|--------|-------|------|
-| Player 1 | Walkie-Talkie, Shovel | 42 |
-| Player 2 | Walkie-Talkie, Pro-Flashlight | 37 |
-| Player 3 | Walkie-Talkie | 12 |
-| Player 4 | Walkie-Talkie | 12 |
-| **Total** | | **103** |
-
-### Standard Loadout (Mid-Game, Quota 200-500)
-
-| Player | Items | Cost |
-|--------|-------|------|
-| Player 1 (Hauler) | Walkie, Pro-Flash, Shovel | 67 |
-| Player 2 (Scout) | Walkie, Pro-Flash, Stun Grenade | 67 |
-| Player 3 (Support) | Walkie, Pro-Flash, Shovel | 67 |
-| Player 4 (Ship Operator) | Walkie | 12 |
-| **Shared** | 2x Radar Booster | 120 |
-| **Total** | | **373** |
-
-### Titan Endgame Loadout (Quota 700+)
-
-| Player | Items | Cost |
-|--------|-------|------|
-| Player 1 (Hauler) | Walkie, Pro-Flash, Shovel, Stun Grenade | 97 |
-| Player 2 (Scout) | Walkie, Pro-Flash, Shovel, Stun Grenade | 97 |
-| Player 3 (Support) | Walkie, Pro-Flash, Zap Gun | 437 |
-| Player 4 (Ship Operator) | Walkie, 2x Radar Booster | 132 |
-| **Shared** | Inverse Teleporter, 2x Lockpicker | 415 |
-| **Total** | | **1,178** |
-
----
+**Zap Gun (400 credits).** Stun-locks any single monster indefinitely. The support player holds it and locks down the Bracken or Coil-Head while the rest of the team loots. Late-game only.
 
 ## Items That Are Traps
 
-Not every item is worth buying. Here are items that seem useful but often waste credits:
+These items look good in the store. They aren't.
 
-| Item | Cost | Why It Is a Trap |
-|------|------|------------------|
-| **Jetpack** | 700 | Explodes randomly. Great entertainment, terrible investment. |
-| **TZP-Inhalant** | 120 | 15 seconds of speed for 120 credits. Not cost-effective. |
-| **Extension Ladder** | 60 | Two-handed, heavy, niche utility. Rarely worth the slot. |
-| **Boombox** | 60 | Attracts ALL monsters, not just dogs. Can end runs. |
-| **Spray Paint** | 50 | Only useful if you get lost constantly. Learn layouts instead. |
+- **Jetpack (700 credits)** — Roughly 30% chance to explode on hard landings, 50% if a monster hits you mid-flight, near-100% in stormy weather. You will lose a Jetpack and a player on the same trip. Fun, but not a credit investment.
+- **TZP-Inhalant (120 credits)** — 15 seconds of +50% speed. By the time you've decided you need it, you're already dead. The credits buy four Stun Grenades, which actually save runs.
+- **Extension Ladder (60 credits)** — Two-handed, heavy, blocks scrap-carrying slots. Niche cheese strategy on Vow only. Skip it.
+- **Boombox (60 credits)** — Useful as dog-bait on Vow/March, but attracts every monster on harder moons. The "lure" turns into a "summon."
+- **Spray Paint (50 credits)** — Only helps if your team gets lost. Learn the mansion and facility layouts instead. Twenty hours of practice replaces every spray-paint can you'll ever buy.
+- **Stop Sign (30 credits)** — Identical damage to the shovel, slower swing. The shovel is strictly better. Only buy if shovels are out of stock.
 
-## Equipment Combos
+## Day-to-Day Spending Rules
 
-Some items work synergistically:
+These rules keep your credit pool healthy across a quota cycle:
 
-| Combo | Items | Effect |
-|-------|-------|--------|
-| **The Stun Lock** | Zap Gun + Stun Grenade | Perma-stun any monster while team kills it |
-| **The Lure** | Boombox + Radar Booster | Lure Eyeless Dogs away, track them on radar |
-| **The Escape Package** | TZP-Inhalant + Stun Grenade | Stun nearby monsters, then sprint past |
-| **The Scout Kit** | Pro-Flashlight + Walkie + Radar Booster | Map interior, mark key locations |
+- Never spend more than 30% of your current quota on equipment in any single day. The rest funds emergencies and shop refreshes.
+- Buy walkies first, every time, before anything else.
+- One shovel per two players for easy moons; two total for hard moons. Resist the urge to over-buy.
+- Recharge flashlights and walkies between trips at the ship's charging station.
+- Always pick up Radar Boosters before lift-off. They are reusable, and leaving one behind is a 60-credit loss.
+- Save Stun Grenade purchases for the day before a Rend, Dine, or Titan run — not the day before Experimentation.
 
-## Team Loadout Strategy
+## Equipment Combos That Actually Win Runs
 
-### Equipment Distribution Priority
+These are the synergies that turn equipment from solo-survival tools into team-survival systems:
 
-| Priority | Item | Reason |
-|----------|------|--------|
-| 1 | Walkie-Talkie (all players) | Communication is life |
-| 2 | Pro-Flashlight (3 players) | Vision is essential |
-| 3 | Shovel (2 players) | Defense against common threats |
-| 4 | Stun Grenade (2 players) | Emergency escape |
-| 5 | Radar Booster (2) | Navigation and safety |
-| 6 | Inverse Teleporter | Endgame moons |
-| 7 | Zap Gun | Late-game monster control |
-
-### Day-to-Day Spending Rules
-
-| Rule | Explanation |
-|------|-------------|
-| Never spend more than 30% of your quota | You need the rest to survive |
-| Buy walkies before anything else | 12 credits each, game-changing |
-| One shovel per two players | Sufficient for early game |
-| Recharge equipment between trips | Especially flashlights |
-| Return unused Radar Boosters | They are reusable, do not leave them |
-
----
+- **Stun Grenade + Shovel.** Throw the grenade, swing the shovel during the 5-second window. Bracken dies in 5 hits with zero damage taken.
+- **Zap Gun + Team Melee.** One player holds the Zap Gun on a Bracken or Forest Keeper, two others hit it with shovels. The fastest safe kill in the game.
+- **Boombox + Radar Booster (outdoor).** Drop both 50 meters from the ship in opposite directions. Eyeless Dogs split between the two sound sources, neither reaches the door.
+- **Inverse Teleporter + Pro-Flashlight + Stun Grenade.** Standard Titan opener. Teleport in, light up the dropzone, grenade anything that's already chasing.
 
 ## Conclusion
 
-Smart equipment purchasing is a core skill in Lethal Company. Walkie-talkies and flashlights are essential for every player on every run. Shovels provide critical defense against common monsters. As your quota grows, add specialized tools like the Inverse Teleporter, Radar Boosters, and Zap Guns to handle harder moons.
+The reason your team keeps wiping isn't that you're under-equipped — it's that you're equipped wrong for the moon you're on. A 200-credit loadout matched to the threat profile beats a 1,000-credit loadout that ignores it. Walkies for everyone, Pro-Flashlights over basics, one shovel until you really need two, and Stun Grenades on every harder moon. Skip the trap items. Read the moon before you read the shop.
 
-Avoid the trap items — the Jetpack, TZP-Inhalant, and Extension Ladder are rarely worth their cost. Prioritize items that give your team **survivability** over items that give you **convenience**.
-
-A well-equipped team with 200 credits of gear is far more effective than a poorly equipped team with 1,000 credits of gear. Buy smart, survive longer, and meet those quotas.
+Next time you land on Rend in heavy fog, you'll have the grenade in your pocket. The Forest Keeper will still come — but this time, the run lives.
 
 ---
 
