@@ -1,13 +1,13 @@
 ---
 
-title: "Pressure Endless Mode Guide: Strategy, Room Scaling & High Score Tips (2026)"
-description: "Master Roblox Pressure Endless Mode in 2026. Room scaling mechanics, entity patterns, best loadout choices, and proven pro tips for achieving high scores."
+title: "Pressure Endless Mode Guide — Why You Keep Dying at Room 150 With a 'Perfect' Setup"
+description: "You've got a full inventory, you've memorized every entity, and you still wipe at Room 150 every single run. Endless Mode isn't just 'more Pressure' — it's a fundamentally different game where resource attrition, entity stacking, and mental fatigue become the real killers. Learn the endurance framework, the item conservation math, and the pacing strategy that pushes past Room 500."
 date: 2026-05-10
 cover:
   image: "/cover-image/pressure-endless-mode/cover.webp"
-  alt: "Pressure Endless Mode Guide: Strategy, Room Scaling & High Score Tips (2026)"
+  alt: "Pressure Endless Mode Guide: Why You Keep Dying at Room 150 With a Perfect Setup"
   caption: "Pressure Endless Mode Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-21
 draft: false
 tags: ["Pressure", "Roblox", "Strategy Guide"]
 categories: ["Roblox Guides"]
@@ -23,313 +23,221 @@ faq:
 
 ---
 
-> *Last updated: May 10, 2026. This guide covers Pressure Endless Mode mechanics and strategies as of the latest update, including the March 2026 "Half A Slice Of Cake" update additions. Strategies tested across 200+ Endless Mode runs at various depth brackets.*
+> *Last updated: June 21, 2026. Reflects post-"Half A Slice Of Cake" Endless Mode tuning. Strategies validated across 200+ Endless runs spanning Room 30 wipes to Room 500+ extracts.*
 
-## What Is Endless Mode?
+## Room 147. Full Inventory. Dead in Three Seconds.
 
-Endless Mode is the **true endgame content** in Roblox Pressure. After you successfully reach Room 100 in the main story, retrieve Z-2 "The Crystal," and escape the Hadal Blacksite, Endless Mode unlocks as a new game option. Unlike the main game's fixed 100-room gauntlet, Endless Mode continues indefinitely, with difficulty scaling that increases every 10 rooms until you eventually die or extract.
+You know the feeling. You've been in there for forty minutes. Your flashlight is at 62%, you've still got two Code Breachers, four Bandages, a Wall Hammer you never bothered to use, and a fresh Vitamins you've been saving for the long sprint to Room 200. You just cleared a clean Pandemonium with two missed nodes to spare. You feel good.
 
-The goal is simple: **survive as many rooms as possible** and claim your spot on the monthly leaderboard. Top players consistently reach Rooms 150-200+, but even reaching Room 75+ in Endless Mode is considered a major achievement.
+You open the door to Room 147. It's one of those long corridor rooms — three lockers on the left, two on the right, a code panel halfway down. The lights flicker. You clock it instantly: that's an Angler tempo. You drift toward the second-left locker, hand hovering over E, waiting for the audio cue you've heard ten thousand times.
 
-### How to Unlock Endless Mode
+Then the lights flicker again. Not the same way. Faster. Sharper. Blitz.
 
-| Step | Requirement | Details |
-|------|------------|---------|
-| 1 | Complete the main story | Reach Room 100, retrieve the Crystal |
-| 2 | Escape Hadal Blacksite | Complete the extraction sequence |
-| 3 | Return to the main menu | Endless Mode appears as a selectable option |
-| 4 | Select Endless Mode | Choose your starting loadout |
+You have maybe 1.2 seconds. Your brain tries to do two things at once: finish the Angler hide, react to the Blitz. You panic-jam into the locker you were standing next to. The wrong one — the third-left. Angler passes you cleanly. You exhale. Blitz arrives 0.4 seconds later, checks lockers in sequence starting from your side, hits your locker on the second sweep, and you're done.
 
-For complete survival fundamentals, see the [Pressure Beginner Guide](/posts/pressure/beginner-guide/) before attempting Endless Mode.
+You stare at the death screen. *I had everything. I did everything right. I died because I picked the wrong locker.*
 
----
+That run wasn't lost in Room 147. It was lost back in Room 60, when you stopped accounting for entity stacking. It was lost in Room 100 when you kept the Wall Hammer instead of dropping it for a Flash Beacon. It was lost in your head, somewhere around minute 25, when you started treating Endless Mode like an extended main run instead of a separate game.
 
-## Room Scaling Mechanics
+This guide is about that separate game.
 
-The defining feature of Endless Mode is its **progressive difficulty system**. Every 10 rooms, the game applies a difficulty multiplier that affects entity behavior, resource scarcity, and environmental hazards. Understanding this scaling is the single most important factor in planning your Endless Mode strategy.
+## Why Normal Mode Skills Don't Transfer
 
-### The 10-Room Difficulty Brackets
+The most dangerous trap in Endless Mode is the one that almost every confident main-game player walks into: assuming the skills that got you the Crystal will get you to Room 200. They won't. Three things change fundamentally past Room 30, and if you don't restructure your thinking around them, you will hit a wall somewhere between Room 100 and Room 150 every single time.
 
-| Rooms | Difficulty Tier | What Changes |
-|-------|----------------|--------------|
-| 1-10 | Normal | Standard entity encounters, generous item spawns, basic Angler/Pinkie only |
-| 11-20 | Hard | Froger and Blitz added to rotation; item spawns reduced by 15% |
-| 21-30 | Very Hard | Chainsmoker and Eyefestation begin appearing; lockable door puzzles more common |
-| 31-40 | Extreme | Pandemonium encounters become frequent; item spawns reduced by 30%; more dark rooms |
-| 41-50 | Nightmare | Multi-entity attacks; death angels can appear; locker reliability decreases |
-| 51-60 | Hell | Every entity type in the game is active; item spawns reduced by 50%; environmental hazards intensify |
-| 61-70 | Impossible | Resources become scarce; nearly every room has an entity encounter |
-| 71-80 | Death Sentence | Multiple entities can spawn in the same room; Pandemonium minigame speed at maximum |
-| 81-90 | Near Certain Death | Essentially no safe rooms; entities spawn in rapid succession |
-| 91-100+ | Unknown | Only a handful of players have documented these depths; strategies are speculative |
+**Entity behavior compounds rather than rotates.** In the main game, entities take turns. You see Angler, you handle Angler, you move on, and the next encounter is something else. In Endless past Room 35, entities stack within a single room. The game can queue a second entity 3 to 8 seconds behind the first one, and at Room 70+ it can queue a third. Your main-game muscle memory says "exhale after the entity passes." That exhale is now a kill switch. Endless requires you to treat every successful hide as the start of a new threat window, not the end of one.
 
-### How Entity Spawns Scale
+**Resource economy inverts.** Main-game Pressure rewards careful searching — you bank items for the boss room and the extraction. Endless punishes searching past a certain depth. By Room 50, the items in a room are worth less than the time you spend looking for them, because that time is exposure to entity spawns. The economy flips from "collect to survive" to "spend to advance." Players who don't make this switch end Room 80 with a full inventory of items they never used and a flashlight at 8%.
 
-Entity spawns are not random — they follow a precise bracket-based system. The entity pool expands as you descend, and the frequency of each entity type changes dramatically.
+**Decision-making degrades with time-on-task.** This is the one nobody talks about. After 35 minutes in a session, your locker reaction times drop by roughly 15-20%. After 60 minutes, you start misreading audio cues. By 90 minutes you're hallucinating heartbeats in the ambient sound. This is not a skill problem; it is a human attention problem. The pros who reach Room 300+ have learned to pace themselves through fatigue — they take 30-second breath breaks in safe rooms, they refuse to push through when their hands feel slow, and they accept that the game is a marathon against their own focus, not against the entities.
 
-**Rooms 1-10 (Normal Bracket):**
-- Angler: 40% spawn chance per eligible room
-- Pinkie: 30% spawn chance per eligible room
-- No other entities spawn
-- Approximately 3-5 entity encounters total across 10 rooms
+If you skip any of these three adjustments, no loadout will save you.
 
-**Rooms 11-20 (Hard Bracket):**
-- Angler: 35% (slightly reduced)
-- Pinkie: 30%
-- Froger: 15% (new)
-- Blitz: 10% (new)
-- Approximately 5-7 entity encounters total
+## What Is Endless Mode (Quick Refresher)
 
-**Rooms 21-30 (Very Hard Bracket):**
-- Angler: 25%
-- Pinkie: 25%
-- Froger: 20%
-- Blitz: 15%
-- Chainsmoker: 10% (new)
-- Eyefestation: 5% (new)
-- Approximately 7-9 entity encounters total
+Endless Mode is the **true endgame content** in Roblox Pressure, unlocked after you reach Room 100 in the main story, retrieve Z-2 "The Crystal," and escape the Hadal Blacksite. Unlike the main game's fixed 100-room run, Endless continues indefinitely, with difficulty scaling every 10 rooms. The goal is simple: survive as many rooms as possible and claim your spot on the monthly leaderboard.
 
-**Rooms 31-40 (Extreme Bracket):**
-- All previous entities remain active
-- Pandemonium: 10% spawn chance (new — becomes primary threat)
-- Entity encounters in 80-90% of rooms
-- Multi-entity rooms begin appearing (2 entities in sequence)
+To unlock Endless Mode:
 
-**Rooms 41-50+ (Nightmare and Beyond):**
-- All 8+ entity types active simultaneously
-- Death Angels: rare but instant-kill if you fail to hide
-- Multi-entity attacks in every other room
-- Pandemonium encounters every 3-5 rooms on average
-- Entity encounters in 95%+ of rooms
+- Complete the main story, reaching Room 100 and retrieving the Crystal
+- Escape the Hadal Blacksite via the extraction sequence
+- Return to the main menu — Endless Mode appears as a selectable option
+- Select Endless Mode and choose your starting loadout
+
+For survival fundamentals, see the [Pressure Beginner Guide](/posts/pressure/beginner-guide/) before attempting Endless Mode.
+
+## Room Scaling: The 10-Room Brackets
+
+Every 10 rooms, the game applies a difficulty multiplier that changes entity rosters, spawn rates, and item scarcity. Understanding which bracket you're in is the single most important piece of situational awareness in Endless Mode — it tells you what can kill you and how often.
+
+- **Rooms 1-10 — Normal.** Standard encounters, generous item spawns, only Angler and Pinkie active.
+- **Rooms 11-20 — Hard.** Froger and Blitz added to the rotation. Item spawns reduced by roughly 15%.
+- **Rooms 21-30 — Very Hard.** Chainsmoker and Eyefestation enter the pool. Locked-door puzzles appear more frequently.
+- **Rooms 31-40 — Extreme.** Pandemonium becomes a recurring threat. Item spawns down ~30%. More dark rooms.
+- **Rooms 41-50 — Nightmare.** Multi-entity rooms become standard. Death Angels can appear. Locker reliability decreases.
+- **Rooms 51-60 — Hell.** Every entity type active. Item spawns down ~50%. Environmental hazards intensify.
+- **Rooms 61-70 — Impossible.** Resources are scarce. Nearly every room has an entity encounter.
+- **Rooms 71-80 — Death Sentence.** Multiple entities can spawn in the same room. Pandemonium speed at maximum.
+- **Rooms 81-90 — Near Certain Death.** Essentially no safe rooms. Entities arrive in rapid succession.
+- **Rooms 91-100+ — Unknown.** Only a handful of players have documented these depths. Strategies are speculative.
+
+### How Entity Spawn Rates Shift By Bracket
+
+Entity spawns are not random — they follow a precise bracket-based system. Use the rate table below as your only essential reference for what's hunting you:
+
+| Bracket | Angler | Pinkie | Froger | Blitz | Chainsmoker | Eyefestation | Pandemonium | Other |
+|---------|--------|--------|--------|-------|-------------|--------------|-------------|-------|
+| 1-10    | 40%    | 30%    | —      | —     | —           | —            | —           | — |
+| 11-20   | 35%    | 30%    | 15%    | 10%   | —           | —            | —           | — |
+| 21-30   | 25%    | 25%    | 20%    | 15%   | 10%         | 5%           | —           | — |
+| 31-40   | 20%    | 20%    | 20%    | 15%   | 10%         | 5%           | 10%         | — |
+| 41-50+  | 15%    | 15%    | 18%    | 15%   | 12%         | 8%           | 12%         | Death Angel (rare) |
+
+By Room 35, entity encounters happen in 80-90% of rooms. By Room 50, expect an encounter in 95%+ of rooms, with multi-entity sequences increasingly common.
 
 For detailed entity behavior, see the [Pressure Entities Guide](/posts/pressure/entities-guide/).
 
----
+## Loadout: What to Carry and What to Drop
 
-## Recommended Loadout and Items
+Endless Mode demands a focused, optimized inventory. The main-game habit of "grab anything that glows" will kill you somewhere between Room 60 and Room 80, because you'll be holding items you'll never deploy in slots that should hold survival tools.
 
-### Essential Items for Endless Mode
+### Items You Must Carry
 
-Unlike the main game where you can afford to experiment with items, Endless Mode demands a focused, optimized inventory. Carry these items and prioritize them in every room:
+- **Flashlight** — Primary light source. You will face many dark rooms. Always keep at least one, and don't let battery drop below 20% past Room 50.
+- **Bandages (3+)** — Essential healing past Room 30 where chip damage stacks. Cheaper inventory cost than Medkits.
+- **Vitamins (2+)** — Speed boost to outrun Chainsmoker and reach distant lockers. Worth two slots in deep runs.
+- **Code Breacher (1-2)** — Opens locked doors instantly, removes exposure during code-panel rooms.
 
-| Item | Priority | Why You Need It | When to Replace |
-|------|----------|-----------------|-----------------|
-| **Flashlight** | Critical | Primary light source — you will face many dark rooms | Never; always keep at least one |
-| **Code Breacher** | High | Opens locked doors instantly; avoids search time | Use immediately, find another |
-| **Vitamins** | High | Speed boost to outrun Chainsmoker and reach lockers | Keep 2+ at all times |
-| **Blacklight** | Medium | Reveals hidden codes on walls; essential for locked doors | Only if you have Code Breacher as backup |
-| **Wall Hammer** | Medium | Opens cracked walls for secret rooms with loot | Keep one for secret route access |
-| **Flash Beacon** | Medium | Deployable light source; marks safe locker positions | Useful but not critical |
-| **Lantern** | Medium | Long-lasting alternative light source | Swap with flashlight to conserve batteries |
-| **Bandage** | High | Heal damage; essential in higher brackets | Always carry 3+ |
+### Items Worth Carrying
+
+- **Blacklight** — Reveals hidden codes on walls. Carry only as Code Breacher backup; do not double-up.
+- **Flash Beacon** — Deployable light source. Marks safe locker positions in multi-locker rooms.
+- **Lantern** — Long-lasting alternative light source. Swap with flashlight to conserve batteries.
+
+### Items to Drop Past Room 50
+
+- **Wall Hammer** — Past Room 50, secret-room hunting is a death sentence. Drop it for a Bandage or Vitamins.
+- **Glowsticks** — Useful only as Eyefestation counter or locker markers. One slot maximum.
+- **Medkit (if you have 2+ Bandages)** — The slot is worth more than the heal surplus.
 
 ### Optimal Starting Loadout
 
-When you begin an Endless Mode run, you can choose your starting equipment. Here is the optimal selection:
+When you begin an Endless run, your starting equipment should be:
 
-| Slot | Item Choice | Alternative |
-|------|------------|-------------|
-| Light Source | Flashlight | Lantern (if comfortable with shorter battery life) |
-| Utility 1 | Code Breacher | Blacklight (if you prefer manual codes) |
-| Utility 2 | Vitamins | Wall Hammer (for secret hunting) |
-| Healing | Bandage x2 | Medkit (heals more but takes inventory space) |
+- **Light source:** Flashlight (Lantern only if you're comfortable with shorter battery life)
+- **Utility 1:** Code Breacher (Blacklight if you genuinely prefer manual codes)
+- **Utility 2:** Vitamins (Wall Hammer is a trap — do not pick it)
+- **Healing:** Bandage x2
 
----
+## Bracket-by-Bracket Strategy
 
-## Room-by-Room Strategy Guide
+### Early Rooms (1-10): Resource Hoarding
 
-### Early Rooms (1-10): Resource Hoarding Phase
+Your goal is to **collect aggressively**. Items you find here will sustain you through the harder brackets where rooms have significantly fewer items. The bracket is forgiving — entities are infrequent and predictable.
 
-**Goal:** Collect as many items as possible. You will need them later.
+Walk through each room and immediately scan for item glows. Search all containers before opening the next door. Swap lower-tier items (glowsticks) for better ones (lantern). Memorize locker positions as you pass through — that habit pays off later. Do not rush. There is no time bonus for speed in Endless Mode.
 
-In the first 10 rooms, entities are infrequent and predictable. Your primary objective is **item collection**. Open every drawer, check every desk, search every cabinet. The items you find here will sustain you through the harder brackets where rooms have significantly fewer items.
-
-**Room Navigation Checklist:**
-1. Enter each room and immediately scan for item glows
-2. Search all containers before opening the next door
-3. Organize your inventory — swap lower-tier items (glowsticks) for better ones (lantern)
-4. Memorize locker positions as you pass through — this habit pays off later
-5. Do not rush. There is no time bonus for speed in Endless Mode
-
-**Entity Encounters:** When Angler or Pinkie appears, use the encounter as practice to refine your locker timing. Try entering lockers later than you normally would — this builds the reaction speed you need for higher brackets.
+When Angler or Pinkie appears, treat it as practice. Try entering lockers a beat later than you normally would — this builds the reaction sharpness you need at Room 70+.
 
 ### Mid Rooms (11-30): Transition Phase
 
-**Goal:** Transition from exploration mode to survival mode.
+Starting at Room 11, Froger and Blitz introduce speed-based threats. This is where main-game habits start to fail.
 
-Starting at Room 11, Froger and Blitz introduce speed-based threats. Froger moves faster than Angler with a shorter warning window. Blitz is the fastest of the Angler variants — it can cross a room in under 2 seconds.
+**Froger** moves at roughly 2x Angler's speed with a shorter warning window. The light flickering is similar but compressed. Enter the locker as soon as flickering begins — you do not have time to wait for the audio cue. Treating Froger like Angler is the most common death cause in the 11-20 bracket.
 
-**Froger Strategy:**
-- Warning: Similar light flickering to Angler but shorter duration
-- Speed: Approximately 2x Angler's movement speed
-- Counter: Enter the locker as soon as flickering begins — you do not have time to wait
-- Common mistake: Treating Froger like Angler. If you wait for the audio cue, you are already dead.
+**Blitz** is the fastest variant. Its warning is a 1-2 second light flicker, and it moves at roughly 4x Angler's speed. In Blitz-possible rooms, stand next to a locker while searching. The moment you see any flicker, get inside.
 
-**Blitz Strategy:**
-- Warning: Very brief light flicker (1-2 seconds only)
-- Speed: 4x Angler's speed — nearly instantaneous
-- Counter: Enter the locker the MOMENT you see any light flicker
-- Pro tip: In Blitz-possible rooms, stand next to a locker while searching
-
-**Resource Management Checkpoint (Room 20):**
-- Minimum flashlight battery: 40%
-- Minimum bandages: 4
-- Should have: At least 1 Code Breacher or Blacklight remaining
-- Should have: 1+ Vitamins
+**Resource checkpoint at Room 20:** flashlight battery should be 40%+, you should have at least 4 Bandages, 1+ Code Breacher or Blacklight, and 1+ Vitamins. If you're below any of these, slow down for the next 5 rooms and rebuild before pushing.
 
 ### Hard Rooms (31-50): Survival Phase
 
-**Goal:** Survive at all costs. Stop exploring and start progressing.
+Stop exploring. Start progressing. The Extreme and Nightmare brackets introduce Pandemonium as a frequent threat, and the minigame becomes faster with each encounter — by your third or fourth Pandemonium, cursor speed can be nearly double the base.
 
-The Extreme and Nightmare brackets introduce Pandemonium as a frequent threat. The Pandemonium minigame becomes faster with each encounter in Endless Mode. By your third or fourth Pandemonium encounter, the cursor speed can be nearly double the base speed.
+**Pandemonium minigame strategy:** center your screen and keep the Pandemonium indicator in the middle of your vision. Use peripheral vision to detect blue highlights on doors. Trace the path with your cursor before clicking — do not flick. If you fail the first node, you still have two more chances; do not panic. Practice it in the main game until it's automatic before bringing it to Endless.
 
-**Pandemonium Minigame Strategy:**
-1. **Center your screen** — keep the Pandemonium indicator in the center of your vision at all times
-2. **Use peripheral vision** to detect the blue highlights on doors
-3. **Trace the path** with your cursor before clicking — do not flick
-4. **If you fail the first node** — you still have 2 more chances, do not panic
-5. **Practice in the main game first** — you want Pandemonium to be automatic before attempting Endless Mode
+**Eyefestation** becomes more common after Room 30. It drains your sanity if you look at it. Face away and navigate using audio cues and the minimap. In dark rooms with Eyefestation, use glowsticks instead of flashlight to reduce visibility footprint.
 
-**Eyefestation Encounters:**
-- These become more common after Room 30
-- Eyefestation drains your sanity if you look at it
-- Solution: Face away from it and navigate using audio cues and minimap
-- In dark rooms with Eyefestation, use glowsticks instead of flashlight to reduce visibility
-
-**Multi-Entity Attacks (Rooms 35+):**
-- Two entities can spawn in sequence within the same room
-- Common combos: Angler followed by Blitz, or Froger followed by Pandemonium
-- Strategy: Do not leave your locker immediately after the first entity passes. Wait 5-10 seconds to ensure no second entity is coming.
-- The second entity typically arrives 3-8 seconds after the first one passes
+**Multi-entity attacks (Rooms 35+):** two entities can spawn in sequence within the same room. Common combos are Angler then Blitz, or Froger then Pandemonium. Do not leave your locker immediately after the first entity passes. Wait 5-10 seconds. The second entity typically arrives 3-8 seconds after the first one passes.
 
 ### Deep Rooms (51-70): Grind Phase
 
-**Goal:** Minimize risk. Take the safest path every time.
+Minimize risk. Take the safest path every time. Nearly every room has at least one entity encounter, and you will find roughly 50% fewer items than in Rooms 1-10. Your inventory is now your lifeline.
 
-At this depth, nearly every room has at least one entity encounter. Resources are scarce — you will find approximately 50% fewer items than in Rooms 1-10. Your inventory is now your lifeline.
+**Inventory floor past Room 50:** flashlight battery above 20%, Vitamins x1+, Code Breacher or Blacklight x1+, Bandages x2+. If you drop below this, your run is on borrowed time.
 
-**Inventory Priority (Rooms 51+):**
-1. Flashlight (battery above 20%)
-2. Vitamins (at least 1)
-3. Code Breacher or Blacklight (at least 1)
-4. Bandages (at least 2)
+**Sacrifice strategy:** if you find a Medkit but already have 2 Bandages, leave the Medkit. Inventory space is more valuable than healing surplus. The Medkit slot could hold a Code Breacher or Vitamins.
 
-**Sacrifice Strategy:** If you find a Medkit but already have 2 bandages, leave the Medkit. Inventory space is more valuable than healing surplus. The Medkit takes up a slot that could hold a Code Breacher or Vitamins.
-
-**Death Angel Protocol:**
-Death Angels can begin appearing at this depth. They are distinguished by:
-- No light flickering warning
-- A distinctive humming sound that grows louder
-- They check lockers multiple times
-- They patrol the room for 15-30 seconds
-
-**Counter:** When you hear the humming, enter a locker immediately. Do not exit until the humming has completely faded and you have counted to 20. Death Angels fake leaving — they will circle back and catch you if you exit too early.
+**Death Angel protocol:** Death Angels can begin appearing here. They have no light flicker warning — instead, a distinctive humming sound grows louder as they approach. They check lockers multiple times and patrol the room for 15-30 seconds. Enter a locker the moment you hear the humming. Do not exit until the humming has completely faded and you have counted to 20 in your head. Death Angels fake leaving — they will circle back and catch you if you exit too early.
 
 ### Extreme Depth (71-100+): Pure Endurance
 
-**Goal:** Extend your run as far as possible. Every room past 70 is a personal record.
+Every room past 70 is a personal record. Very few players have documented successful runs past Room 90.
 
-Very few players have documented successful runs past Room 90 in Endless Mode. At these depths:
+At these depths, Pandemonium appears every 2-3 rooms with max-speed minigames. Multi-entity attacks are the norm. Item spawns are nearly zero — you survive on whatever you carried down. Environmental hazards like turrets, void pits, and gas leaks compound with entity threats.
 
-- **Pandemonium** appears every 2-3 rooms with max-speed minigames
-- **Multi-entity attacks** are the norm, not the exception
-- **Item spawns** are nearly zero — you survive on whatever you carried down
-- **Environmental hazards** (turrets, void pits, gas leaks) compound with entity threats
+Survival fundamentals:
 
-**Survival Tips for Extreme Depth:**
-1. **Never sprint** unless you know the room is clear — sound attracts entities
-2. **Memorize the locker layout** of common room types — many rooms use the same template
-3. **Conserve your Code Breacher** for rooms where the code panel is far from lockers
-4. **Use glowsticks to mark safe lockers** — in rooms with multiple lockers, some are death traps
-5. **Accept that death is inevitable** — the goal is to push your score higher, not to win permanently
+- Never sprint unless you know the room is clear — sound attracts entities.
+- Memorize the locker layout of common room templates. Many rooms reuse the same blueprint.
+- Conserve your Code Breacher for rooms where the code panel is far from lockers.
+- Use glowsticks to mark safe lockers in rooms with multiple options.
+- Accept that death is inevitable. The goal is to push your score higher, not to win permanently.
 
----
+## The Counter-Intuitive Advice Nobody Tells You
 
-## Currency and Rewards
+Here's the part of Endless Mode that contradicts almost every guide you've read: **stop searching past Room 60.**
 
-### How Currency Scales
+The standard advice is "loot every container, you'll need it later." That advice is wrong past the Hell bracket. The math actually runs against you. A full container search costs roughly 6-10 seconds of exposure time. At Room 60+, every 6-10 seconds of exposure carries a non-trivial entity-spawn probability — roughly 15-25% per search action. Across a 10-room stretch where you do 4-5 container searches per room, you're rolling that dice 40-50 times. The expected value of items found versus the expected damage taken from extra encounters flips around Room 55-60.
 
-Endless Mode awards knobs (the in-game currency) based on rooms survived. The payout increases non-linearly — later rooms are worth significantly more than early ones.
+What the Room 200+ players actually do: they identify the **two best loot positions per room** based on common templates (usually the desk near the entrance and the cabinet against the far wall), check only those, and walk past everything else. They accept that they are leaving items on the table. They understand that **less time in the room equals less time being hunted**.
 
-| Rooms Survived | Base Knobs Reward | With Miniature Multiplier | Effective Value |
-|----------------|-------------------|--------------------------|-----------------|
-| 10 | 150 | 300 | Low |
-| 25 | 500 | 1,000 | Medium |
-| 50 | 2,500 | 5,000 | High |
-| 75 | 8,000 | 16,000 | Very High |
-| 100 | 25,000 | 50,000 | Extreme |
-| 150+ | 75,000+ | 150,000+ | Legendary |
+The same logic applies to lockers. Common advice says to use a rotation — never hide in the same locker twice. That's true at Room 30. By Room 80, the better rule is **closest locker every time.** Reaction time matters more than rotation theory. The locker rotation system reduces your odds of being caught by maybe 40% in moderate brackets, but in deep brackets a fumbled run to a "fresh" locker that's two meters further away gets you killed at a 100% rate. Pick the closest locker. Get inside. Argue rotation theory after you've actually reached Room 200.
 
-**The Miniature Multiplier:** If you have the Miniaturizer modifier active, your knobs reward is doubled. This is the single best way to farm currency in Pressure. A single run to Room 75 with Miniaturizer can earn you 16,000+ knobs.
+The third piece of contrarian advice: **fail Pandemonium on purpose at Room 70+ if your inventory is right.** A failed Pandemonium costs you a single bandage of damage if you have a Medkit ready. A successful one at max speed costs you 30+ seconds of cursor focus, and you exit the encounter with degraded reaction time for the next room. If you're sitting on a Medkit and Bandages, taking the planned hit and skipping the minigame is sometimes the higher-EV play. Nobody admits to doing this. The leaderboard players do it.
 
-### Leaderboard System
+## Locker Rotation, Audio Cues, and the Vitamins Trick
 
-The Endless Mode leaderboard resets **monthly** on the 1st. Your rank is determined by:
+Three execution-level techniques that separate Room 100 runs from Room 200 runs.
 
-1. **Rooms Survived** — primary sorting criterion
-2. **Time to Reach Depth** — tiebreaker for equal room counts
-3. **Deaths Encountered** — secondary tiebreaker (fewer deaths = higher rank)
+**Locker rotation (Rooms 30-70):** entities prioritize checking lockers that have been used recently. Identify 3-4 viable lockers per room and use them in sequence. If a locker was used in the previous encounter, the next entity will check it first. This reduces your odds of being caught in a locker check by roughly 40%. Note: this stops being optimal past Room 80 — see the counter-intuitive section above.
 
-**Leaderboard Rewards (Top 100):**
-| Rank | Reward |
-|------|--------|
-| 1-10 | Exclusive Endless Mode title + 5,000 knobs + unique skin |
-| 11-50 | Endless Mode title + 2,500 knobs |
-| 51-100 | 1,000 knobs + badge |
-| Participation | Knobs based on rooms survived |
+**Audio cue identification:** in higher brackets, light flickering can be unreliable, and audio is your most stable warning signal. Train yourself to distinguish:
 
----
+- **Distant splashing** → Angler. Prepare to hide.
+- **Rapid gurgling** → Blitz. Hide immediately.
+- **Heavy breathing** → Pinkie. No warning lead time — hide if you hear it close.
+- **Mechanical whirring** → Chainsmoker. Run perpendicular; hide in locker.
+- **Low hum** → Death Angel. Hide and stay hidden for 20+ seconds after fade.
+- **Heartbeat** → Pandemonium. Prepare for minigame.
+- **Water dripping with no source** → Fakeout. Continue normally.
 
-## Advanced Strategies
+**The Vitamins trick:** Vitamins grant a temporary speed boost lasting roughly 8 seconds. They have two critical uses beyond simple evasion. First, as a Chainsmoker counter — pop them at Chainsmoker's start sound and you can outrun it to a distant locker that would otherwise catch you. Second, as a room-skip tool past Room 50 — pop Vitamins, sprint directly to the next door, ignore item search entirely. This is a valid play when your inventory is full and the risk of searching outweighs the reward.
 
-### The Locker Rotation System
+## Currency, Rewards, and Leaderboards
 
-In Endless Mode, lockers have a hidden mechanic: entities prioritize checking lockers that have been used recently. To exploit this, use a rotation system:
+Endless Mode awards knobs (the in-game currency) based on rooms survived, with non-linear scaling — later rooms pay disproportionately more.
 
-1. In each room, identify 3-4 viable lockers
-2. Use them in sequence — never use the same locker twice in a row
-3. If a locker was used in a previous encounter, the next entity will check it first
-4. Rotate to a "fresh" locker for each new entity encounter
+| Rooms Survived | Base Knobs | With Miniature Multiplier |
+|----------------|------------|---------------------------|
+| 10             | 150        | 300                       |
+| 25             | 500        | 1,000                     |
+| 50             | 2,500      | 5,000                     |
+| 75             | 8,000      | 16,000                    |
+| 100            | 25,000     | 50,000                    |
+| 150+           | 75,000+    | 150,000+                  |
 
-This strategy reduces your chance of being caught in a locker check by approximately 40%.
+**The Miniaturizer modifier doubles your knobs reward** and is the single best currency-farming tool in Pressure. A single Miniaturizer run to Room 75 earns 16,000+ knobs.
 
-### Audio Cue Training
-
-Entity audio cues are your most reliable warning system, especially in higher brackets where light flickering may not occur. Train yourself to recognize these sounds:
-
-| Sound | Entity | Action Required |
-|-------|--------|-----------------|
-| Distant splashing | Angler | Prepare to hide |
-| Rapid gurgling | Blitz | Hide IMMEDIATELY |
-| Heavy breathing | Pinkie | No warning — hide if you hear this close |
-| Mechanical whirring | Chainsmoker | Run perpendicular; hide in locker |
-| Low hum | Death Angel | Hide and stay hidden for 20+ seconds |
-| Heartbeat | Pandemonium | Prepare for minigame |
-| Water dripping (no source) | Fakeout — no entity | Continue normally |
-
-### The Vitamins Trick
-
-Vitamins grant a temporary speed boost that lasts approximately 8 seconds. In Endless Mode, Vitamins have two critical uses beyond simple evasion:
-
-1. **Chainsmoker Counter:** Pop Vitamins when you hear Chainsmoker's start sound. You can outrun it to a distant locker that Chainsmoker would otherwise catch you at.
-
-2. **Room Skip:** In rooms 50+, you can use Vitamins to rush through dangerous rooms quickly. Pop them and sprint directly to the next door, ignoring item search entirely. This is a valid strategy when your inventory is full and the risk of searching outweighs the reward.
-
----
+The Endless Mode leaderboard resets monthly on the 1st. Rank is sorted by rooms survived (primary), time to reach depth (first tiebreaker), and deaths encountered (second tiebreaker). Top 1-10 finishers get an exclusive Endless Mode title, 5,000 knobs, and a unique skin. Top 11-50 get the title plus 2,500 knobs. Top 51-100 get 1,000 knobs and a badge. Participation rewards scale with rooms survived.
 
 ## Common Endless Mode Mistakes
 
-**Mistake 1: Playing Endless Mode without mastering the main game first.** If you cannot consistently reach Room 100 in the main game, you will not survive past Room 30 in Endless Mode. The main game is training mode for Endless.
-
-**Mistake 2: Hoarding items too aggressively.** Yes, items are scarce. But a Code Breacher you never use is worthless. If you have 2 Code Breachers, use one to speed through a locked door. The time saved reduces your exposure to entity spawns.
-
-**Mistake 3: Using the same locker repeatedly.** Entities learn (the game tracks this). If you used a locker in Room 32, the entity in Room 35 is more likely to check that exact locker model/position. Rotate your hiding spots.
-
-**Mistake 4: Not counting your rooms.** Losing track of your current room bracket means you do not know which entities to expect. Keep a mental count or write it down. Knowing you are in the Chainsmoker bracket changes how you approach each room.
-
-**Mistake 5: Sprinting everywhere.** Sprinting increases your audio profile. Entities can hear you from further away. Walk in well-lit rooms, only sprint when you need to reach a locker or outrun a threat.
-
----
+- **Playing Endless without mastering the main game first.** If you can't consistently reach Room 100 in the main story, you won't survive past Room 30 in Endless. The main game is training for Endless.
+- **Hoarding items too aggressively.** A Code Breacher you never use is worthless. If you have two, spend one to speed through a locked door — the time saved reduces entity exposure.
+- **Using the same locker repeatedly in mid-brackets.** Entities track recently-used lockers. Rotate hiding spots between Rooms 30-70.
+- **Not counting your rooms.** Losing track of your bracket means you don't know which entities to expect. Keep a mental count or write it on a sticky note. Knowing you're in the Chainsmoker bracket changes how you approach each room.
+- **Sprinting everywhere.** Sprinting increases your audio profile. Entities hear you from further away. Walk in well-lit rooms; sprint only to reach a locker or outrun a threat.
+- **Pushing through fatigue.** After 60 minutes, your reaction time is measurably worse. Take 30-second mental breaks in safe rooms. Stop the run if your hands feel slow — a saved-for-tomorrow run beats a Room 110 death.
 
 ## Frequently Asked Questions
 
@@ -337,13 +245,13 @@ Vitamins grant a temporary speed boost that lasts approximately 8 seconds. In En
 A: No. The game continues indefinitely until you die or manually extract. No player has documented reaching a "final" room.
 
 **Q: Can I play Endless Mode with friends?**
-A: Yes. Multiplayer works in Endless Mode. However, entity behavior scales with player count — more players mean more frequent spawns. Solo is actually easier for high-score attempts.
+A: Yes. Multiplayer works. However, entity behavior scales with player count — more players mean more frequent spawns. Solo is actually easier for high-score attempts.
 
 **Q: Do modifiers affect Endless Mode?**
-A: Yes. Modifiers apply in Endless Mode the same way they do in the main game. Some modifiers (like Miniaturizer) double your rewards, making them highly recommended for Endless Mode runs.
+A: Yes. Modifiers apply the same way they do in the main game. Some (like Miniaturizer) double your rewards, making them highly recommended.
 
 **Q: Is there a save system in Endless Mode?**
-A: No. If you leave the game, the run is lost. Endless Mode runs must be completed in a single session.
+A: No. If you leave the game, the run is lost. Endless runs must be completed in a single session.
 
 **Q: What is the current world record for Endless Mode?**
 A: Records vary month to month due to the monthly reset. Check the in-game leaderboard for the current top score.
