@@ -1,14 +1,14 @@
 ---
 
 
-title: "Palworld Boss & Tower Guide: All Bosses, Strategies & Rewards (2026)"
-description: "Can't beat that Palworld boss? This guide breaks down every attack pattern, phase transition, and counter-strategy."
+title: "Palworld Boss & Tower Guide — Why You Keep Getting One-Shot by Victor & Shadowbeak at Level 50"
+description: "You're level 50, you've got Legendary gear, and Victor still wipes your entire team in 30 seconds. The problem isn't your level — it's that you're treating Tower bosses like overworld Pals instead of raid encounters with phase transitions, attack patterns, and elemental mechanics. Learn the boss-by-boss dodge timing, the phase-change tells, and the Pal counter-pick system that beats every Tower."
 date: 2026-05-10
 cover:
   image: "/cover-image/palworld-boss-tower/cover.webp"
   alt: "Palworld Boss & Tower Guide: All Bosses, Strategies & Rewards (2026)"
   caption: "Palworld Boss & Tower Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-22
 draft: false
 tags: ["Palworld", "PC Games", "Survival"]
 categories: ["PC Games"]
@@ -17,7 +17,7 @@ games: ["Palworld"]
 howto:
   steps:
     - name: "Read the Full Guide"
-      text: "Read this complete Palworld Boss & Tower Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+      text: "Read this complete Palworld Boss & Tower Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to bullet checklists and phase tells for quick reference."
     - name: "Apply Strategies in Palworld"
       text: "Open Palworld and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
     - name: "Practice and Adapt"
@@ -35,386 +35,393 @@ faq:
 
 ---
 
-> *Last updated: May 10, 2026. This guide covers every boss encounter in Palworld including tower bosses, alpha bosses, dungeon bosses, and the four legendary Pals. Each entry includes stats, strategies, recommended levels, and rewards.* See also: [Best Pals Tier List](/posts/palworld/best-pals-tier-list/), [Raid Bosses Guide](/posts/palworld/raid-bosses-guide/).
+> *Last updated: June 22, 2026. This guide covers every boss encounter in Palworld including tower bosses, alpha bosses, dungeon bosses, and the four legendary Pals. Each entry includes phase tells, dodge timing, recommended counter-picks, and rewards.* See also: [Best Pals Tier List](/posts/palworld/best-pals-tier-list/), [Raid Bosses Guide](/posts/palworld/raid-bosses-guide/).
 
-## Types of Bosses in Palworld
+## The 30-Second Wipe in Victor's Tower
 
-There are four categories of boss encounters:
+You teleport in at level 50. Pal Metal Armor. A bred Jetragon with Dragon Meteor 4. Three backup Pals waiting in spheres. You've cleared every previous Tower on the first try. This one should be a formality.
 
-| Boss Type | Number | Respawns | Unique Rewards |
-|-----------|--------|----------|----------------|
-| Tower Bosses | 5 | Once per save file | Ancient Technology Points, unique drops (first kill only) |
-| Alpha Pals | ~30+ | Every 30-60 minutes | Ancient Civilization Parts, rare materials, schematics |
-| Dungeon Bosses | Varies | Each dungeon reset | Ancient Civilization Parts, schematics |
-| Legendary Pals | 4 | Every 60 minutes (or after capture) | Legendary schematics, high-tier materials |
+The door slides open. Victor monologues for fourteen seconds. Shadowbeak lifts off, screeches, and the floor under you turns purple.
 
-## Tower Bosses (Main Story Progression)
+You sprint sideways out of habit. Wrong direction — the Dark Laser is sweeping clockwise, not coming straight at you, and you've just run *into* the beam. Your character ragdolls. You burn a heal cake. Jetragon takes a Dark Pulse to the face and faints because you forgot Dark isn't 2x against Dragon, it's neutral, and Shadowbeak hits like a truck regardless of type. You throw a sphere — Relaxaurus this time — and immediately a second laser starts charging because Shadowbeak is now under 50% HP and you didn't notice the phase tell.
 
-Tower bosses are encountered in the five towers scattered across the Palpagos Islands. Each represents a faction from Palworld's story. You must defeat them in order of difficulty to progress the story.
+By second 28, all four Pals are in cooldown. By second 32, you respawn at your base.
 
-**Important:** Tower bosses can only be challenged once per save file. If you abandon the fight, you can retry, but the boss does not respawn after defeat. Be prepared before entering.
+This isn't a level problem. This is what happens when you treat a Tower boss like an overworld Alpha. Tower fights are scripted encounters with attack patterns, phase transitions, and arena hazards. The strategies below are written for the player who already has the gear and is still getting flattened.
 
-### 1. Zoe & Grizzbolt -- Rayne Syndicate Tower
+## Why Your Level Doesn't Matter
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Rayne Syndicate Tower (central Grasslands) |
-| Recommended Level | 10-15 |
-| Boss Type | Electric (Grizzbolt) |
-| HP | ~5,000 (est.) |
-| Weakness | Ground-type attacks |
-| Resistances | Electric attacks (reduced damage) |
-| Reward | 1x Ancient Technology Point, 1x Technical Manual (first clear) |
+Palworld's tower bosses are not stat checks. They are pattern checks.
 
-**Strategy:**
-Zoe rides Grizzbolt, an Electric-type Pal. Grizzbolt uses powerful Electric AoE attacks and a minigun-style attack. The arena is a large circular platform with some cover pillars.
+The proof is in the speedrun community: people clear Victor at level 25 with starter Pals because they know exactly when to dodge the Dark Laser, how to interrupt Phase 2 with a stun, and which side of the arena puts a pillar between you and the sweep. Meanwhile, level 55 players with maxed gear die because they're standing in fire.
 
-**Recommended setup:**
-- **Pals:** Ground-type Pals (Rushoar, Gumoss, or better yet, an Anubis if you bred one early). Ground types are immune to Electric damage.
-- **Weapon:** Bow and arrows -- stay at range.
-- **Armor:** At least Cloth Outfit, ideally Pelt Armor (level 11).
-- **Level:** Minimum level 10. Level 15 is comfortable.
+Here's what level *does* buy you:
 
-**Fight tactics:**
-1. Enter the arena and immediately summon your Ground Pal.
-2. Stay at medium distance -- Grizzbolt's minigun attack is deadly at close range.
-3. Shoot Grizzbolt with arrows while your Pal tanks.
-4. When Grizzbolt charges an electric AoE, dodge roll away.
-5. Repeat until defeated.
+- **A bigger health pool** — survive one extra mistake per phase, maybe two.
+- **Higher base damage** — the fight ends 20% faster.
+- **Access to better Pals** — Jetragon caps at level 50.
 
-**Reward value:** The Ancient Technology Point unlocks the Egg Incubator and other critical technology. This is a mandatory early-game boss.
+Here's what level *cannot* buy you:
 
-### 2. Lily & Lyleen -- Free Pal Alliance Tower
+- **Knowledge of the Phase 2 trigger HP threshold.**
+- **The 1.2-second windup tell on the Dark Laser sweep.**
+- **The arena pillar that breaks line-of-sight on Faleris's swoop.**
+- **The fact that Lyleen's heal channel can be interrupted with a flinch.**
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Free Pal Alliance Tower (northwest of starting area) |
-| Recommended Level | 25-30 |
-| Boss Type | Grass (Lyleen) |
-| HP | ~12,000 (est.) |
-| Weakness | Fire-type attacks (2x damage) |
-| Resistances | Grass, Water attacks |
-| Reward | 1x Ancient Technology Point, 1x Technical Manual |
+If you are over-leveled and still losing, the problem is not your build. The problem is that you are reacting to the boss instead of predicting it. Every section below leads with the *tell* — the visual cue that says "the attack you're about to die to starts NOW" — because that's the thing that closes the gap between losing and winning.
 
-**Strategy:**
-Lily rides Lyleen, a Grass-type Pal with powerful healing, AoE Grass attacks, and poison-inflicting pollen clouds. Lyleen heals itself periodically, so you need sustained damage.
+## The Counter-Intuitive Truth: Stop Bringing Dragon Pals to Every Tower
 
-**Recommended setup:**
-- **Pals:** Fire-type Pals (Foxsparks, Arsox, Bushi, or ideally Vanwyrm or Jormuntide Ignis). Fire deals 2x damage to Grass.
-- **Weapon:** Crossbow (level 13) or handgun (level 28). Bring 200+ ammo.
-- **Armor:** Pelt Armor or better.
-- **Level:** Minimum level 25.
+The most common piece of Palworld advice is "bring Jetragon, it works against everything." This is wrong, and it's why people stall at Victor.
 
-**Fight tactics:**
-1. Open with a Fire Pal immediately. Lyleen takes double damage from fire.
-2. When Lyleen starts its healing animation, use your most powerful attack to interrupt if possible.
-3. Dodge the green pollen clouds -- they inflict poison, which is a DoT.
-4. Lily is vulnerable when dismounted (brief periods after heavy attacks). Shoot Lily directly during these windows.
-5. Keep your Fire Pal alive -- if it faints, swap to another Fire Pal.
+Jetragon is a Dragon/Fire type. Against Shadowbeak (Dark), Dragon is **neutral damage**, not super-effective. Dark resists Dragon in the type chart that actually runs under the hood — Shadowbeak takes more damage from raw Neutral attacks from Paladius than from Jetragon's Dragon Meteor.
 
-**Common failure point:** Players underestimate Lyleen's healing. If you cannot out-damage the healing, level up more or get better Fire Pals before retrying.
+The real counter-pick chart for Tower bosses:
 
-### 3. Axel & Orserk -- Brothers of the Eternal Pyre Tower
+- **Zoe & Grizzbolt (Electric):** Ground beats it. Anubis is the actual best, not Jetragon.
+- **Lily & Lyleen (Grass):** Fire beats it. Jormuntide Ignis or Blazamut, not Jetragon.
+- **Axel & Orserk (Electric/Dragon):** Ground beats Electric, but Dragon Meteor from Jetragon hits Dragon-half for *neutral*. Bring Anubis here too.
+- **Marcus & Faleris (Fire):** Water beats it. Jormuntide (regular, not Ignis), not Jetragon.
+- **Victor & Shadowbeak (Dark):** Dragon is neutral. **Use Paladius (Neutral) with Pal Blast moves, or Necromus with Twin Spears.** Jetragon is your *mount*, not your damage Pal.
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Brothers of the Eternal Pyre Tower (volcanic region entrance) |
-| Recommended Level | 35-40 |
-| Boss Type | Electric/Dragon (Orserk) |
-| HP | ~25,000 (est.) |
-| Weakness | Ground-type attacks |
-| Resistances | Electric, Dragon attacks |
-| Reward | 1x Ancient Technology Point, 1x Technical Manual |
+The "always Jetragon" advice gets people to level 40 and then breaks at Victor. Bring the actual counter, not the prestige Pal.
 
-**Strategy:**
-Axel rides Orserk, an Electric/Dragon hybrid Pal. Orserk's attacks are devastating -- it uses Electric-charged slams, Dragon breath attacks, and has a devastating AoE electric discharge. The arena has electric-charged floor sections that damage you.
+## Tower Boss Quick Reference
 
-**Recommended setup:**
-- **Pals:** Ground-type Pals (Anubis ideally, or Warsect, Digtoise). Ground is immune to Electric and resists Dragon.
-- **Weapon:** Makeshift Handgun or Musket. Bring 300+ ammo.
-- **Armor:** Heat-resistant armor is recommended (you are in the volcanic region even for the approach).
-- **Level:** Minimum level 35. Level 38-40 is recommended.
-- **Food:** Bring food that grants defense buffs (mushroom soup, etc.).
+Locations and rewards only — strategy lives in the per-boss sections below.
 
-**Fight tactics:**
-1. The electric floor panels are the main threat. Watch for the floor to glow and dodge away.
-2. Orserk's Dragon breath attack has a long wind-up -- use this time to heal or reposition.
-3. Ground Pals are immune to Orserk's Electric attacks. This makes the fight significantly easier.
-4. Shoot Axel during attack cooldowns.
-5. Do not stand still for more than 2 seconds -- Orserk's AoE will catch you.
+| Tower Boss | Location | Recommended Level | Reward (First Clear) |
+|---|---|---|---|
+| Zoe & Grizzbolt | Rayne Syndicate Tower (central Grasslands) | 10-15 | 1 Ancient Tech Point, 1 Technical Manual |
+| Lily & Lyleen | Free Pal Alliance Tower (northwest) | 25-30 | 1 Ancient Tech Point, 1 Technical Manual |
+| Axel & Orserk | Brothers of the Eternal Pyre (volcano entrance) | 35-40 | 1 Ancient Tech Point, 1 Technical Manual |
+| Marcus & Faleris | PIDF Tower (eastern volcano) | 40-44 | 1 Ancient Tech Point, 1 Technical Manual |
+| Victor & Shadowbeak | Pal Genetic Research Tower (northeast snow) | 45-50 | 1 Ancient Tech Point, 1 Technical Manual, story complete |
 
-### 4. Marcus & Faleris -- PIDF Tower
+## 1. Zoe & Grizzbolt — Rayne Syndicate Tower
 
-| Attribute | Details |
-|-----------|---------|
-| Location | PIDF Tower (eastern volcanic region) |
-| Recommended Level | 40-44 |
-| Boss Type | Fire (Faleris) |
-| HP | ~35,000 (est.) |
-| Weakness | Water-type attacks |
-| Resistances | Fire, Grass attacks |
-| Reward | 1x Ancient Technology Point, 1x Technical Manual |
+Your first Tower. Most players walk in at level 13 with a bow, take three minigun bursts to the chest, and respawn confused.
 
-**Strategy:**
-Marcus rides Faleris, a Fire-type flying Pal. Faleris stays airborne for most of the fight, making melee weapons nearly useless. It uses large AoE fire attacks and swooping charges.
+**Boss profile:**
 
-**Recommended setup:**
-- **Pals:** Water-type Pals (Jormuntide, Penking, Azurobe, Surfent). Water deals 2x damage to Fire.
-- **Weapon:** Crossbow or Musket (for ranged damage while Faleris flies). Bring 400+ ammo.
-- **Armor:** Heat-resistant armor level 2 (Refined Metal Armor recommended).
-- **Level:** Minimum level 40.
-- **Pals in party:** 3-4 Water Pals for rotation.
+- Type: Electric (Grizzbolt)
+- Estimated HP: ~5,000
+- Weakness: Ground (2x)
+- Resists: Electric (Grizzbolt heals slightly from electric attacks — never bring Sparkit)
+- Arena: Large circular platform with cover pillars at 3, 6, 9, and 12 o'clock
 
-**Fight tactics:**
-1. Faleris will fly -- you need ranged attacks. Do not bring melee weapons.
-2. Wait for Faleris to swoop close to the ground, then strike.
-3. Water Pals deal double damage. A Jormuntide with Watering 4 also fights well here.
-4. The fire AoE covers a large area. Keep moving constantly.
-5. Marcus sometimes falls off Faleris when hit -- shoot him directly for extra damage.
+**The attack patterns:**
 
-### 5. Victor & Shadowbeak -- Pal Genetic Research Tower
+- **Minigun spray** — Grizzbolt plants its feet, both arms light up. ~2.5 seconds of windup. If you're at close range you eat 60% of your HP. Tell: yellow energy spirals around both wrists.
+- **Electric AoE slam** — Grizzbolt rears up on hind legs and crashes down. ~1.8s windup. Circular AoE, ~6 meters radius. Tell: front paws lift above its head.
+- **Charge** — Grizzbolt sprints in a straight line. Easy to sidestep, but it covers half the arena.
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Pal Genetic Research Tower (northeast, near snow biome) |
-| Recommended Level | 45-50 |
-| Boss Type | Dark (Shadowbeak) |
-| HP | ~50,000 (est.) |
-| Weakness | Dragon-type attacks, Neutral attacks |
-| Resistances | Dark attacks (immune or heavily resistant) |
-| Reward | 1x Ancient Technology Point, 1x Technical Manual, Story completion |
+**Counter-pick:**
 
-**Strategy:**
-Victor rides Shadowbeak, the final tower boss and one of the strongest Pals in the game. Shadowbeak uses Dark Laser (a massive beam attack), Dark explosions, and has extremely high damage output. This is a serious gear check.
+- Pal: Anubis (if you bred one early) > Rushoar > Gumoss. Ground-type is immune to Electric.
+- Weapon: Bow + Fire Arrows (Fire is neutral here but the burn DoT is free damage during slam recovery).
+- Armor: Pelt Armor minimum.
+- Food: Mushroom soup for the defense buff.
 
-**Recommended setup:**
-- **Pals:** Dragon-type Pals (Jetragon, Jormuntide, Relaxaurus). Dragon deals super-effective damage to Dark. Also consider Neutral Pals like Paladius.
-- **Weapon:** Assault Rifle or Rocket Launcher. Bring 500+ ammo.
-- **Armor:** Pal Metal Armor (level 47) or Refined Metal Armor (level 40) at minimum.
-- **Level:** Level 45 minimum. Level 50 recommended.
-- **Food:** Pizza (best combat food) or Salad. Bring stat-boosting foods.
+**Fight flow:**
 
-**Fight tactics:**
-1. Shadowbeak's Dark Laser is a wide beam that sweeps across the arena. The tell is a long charge-up -- when you see it, sprint perpendicular to the beam direction.
-2. Summon a Dragon Pal immediately for type advantage.
-3. Shadowbeak has two phases -- below 30% HP it gains new attacks and becomes more aggressive.
-4. Use your strongest attack Pal (Jetragon recommended) and keep 3 backup Pals for rotation.
-5. Victor is tougher to hit directly than other bosses. Focus on Shadowbeak.
+- Spawn in, immediately throw your Ground Pal. Don't wait for Zoe's intro to end.
+- Hug the pillar at 9 o'clock. Strafe in and out for shots.
+- When minigun winds up, just step behind the pillar. Don't try to dodge in the open.
+- When slam winds up, sprint *toward* Grizzbolt then past it — the AoE is centered on the boss, so close range with movement is safer than mid-range.
+- Zoe occasionally falls off after a heavy hit. Empty your quiver into her directly during the dismount window.
 
-**Post-boss:** Defeating Victor & Shadowbeak completes the current story content and awards the final Ancient Technology Point. You also unlock access to some of the most powerful technology.
+**Reward value:** The Ancient Technology Point unlocks the Egg Incubator. This is the boss that gates breeding.
+
+## 2. Lily & Lyleen — Free Pal Alliance Tower
+
+This is the first Tower where players genuinely fail. Lyleen heals. If you can't out-DPS the heal, you literally cannot win, regardless of how long you stay.
+
+**Boss profile:**
+
+- Type: Grass (Lyleen)
+- Estimated HP: ~12,000
+- Weakness: Fire (2x)
+- Resists: Grass, Water
+- Arena: Open garden platform with poison pollen patches that linger
+
+**The attack patterns:**
+
+- **Pollen cloud** — Lyleen sprays green pollen in a 180° cone in front. Inflicts Poison DoT. Tell: she clasps her hands and dips forward.
+- **Healing channel** — Lyleen kneels, glowing green particles spiral upward. Restores roughly 8% HP over 3 seconds. **Can be interrupted by a flinch.** Tell: she stops moving completely and the screen tint shifts greener.
+- **Grass Tornado** — pillar of leaves at your last-known location. ~1.5s windup.
+
+**Counter-pick:**
+
+- Pal: Jormuntide Ignis (best) > Blazamut > Vanwyrm > Arsox. Fire deals 2x.
+- Weapon: Crossbow (level 13) with Fire Arrows, or Handgun with regular ammo (level 28+). 200+ rounds.
+- Armor: Pelt Armor or better.
+
+**Fight flow:**
+
+- Open with Fire Pal command — Ignis Breath or equivalent in the first second.
+- The healing channel is the make-or-break moment. The instant you see her kneel, dump your highest-burst attack. A rocket launcher hit interrupts. So does a Jormuntide Ignis spit. So does Lily falling off after a critical.
+- Stay out of the lingering pollen patches. They tick for ~80/sec and you will not notice you're dying until you look at your HP bar.
+- Lily dismounts twice in a typical fight. Shoot her directly — she has ~2,000 HP separate from Lyleen, and killing her ends the fight regardless of Lyleen's HP.
+
+**Common failure point:** Players think the heal is a one-time thing. It isn't. Lyleen will heal every ~45 seconds. If you can't kill her inside that window with damage left over, retry with stronger Fire Pals or come back at level 30.
+
+## 3. Axel & Orserk — Brothers of the Eternal Pyre Tower
+
+The first Tower where the arena itself is hostile. Electric floor panels punish standing still.
+
+**Boss profile:**
+
+- Type: Electric/Dragon (Orserk)
+- Estimated HP: ~25,000
+- Weakness: Ground (2x vs Electric half, neutral vs Dragon half — net ~1.5x)
+- Resists: Electric, Dragon
+- Arena: Square platform with eight floor panels that periodically electrify
+
+**The attack patterns:**
+
+- **Electric slam combo** — Orserk slams its halberd twice. Linear AoE. ~1s between hits.
+- **Dragon breath cone** — long ~2.5s windup, wide forward cone. Easy to dodge if you see the windup.
+- **Floor panel surge** — panels under your feet glow yellow, then explode for ~40% HP. ~1.5s warning.
+- **Ride-by charge** — Axel rides Orserk in a circular sweep around the arena perimeter.
+
+**Counter-pick:**
+
+- Pal: Anubis (best) > Warsect > Digtoise. Ground immunity to Electric is huge.
+- Weapon: Makeshift Handgun or Musket. 300+ ammo.
+- Armor: Heat-resistant (the approach is volcanic).
+- Food: Defense-buff dish.
+
+**Fight flow:**
+
+- Never stand on a single panel for more than 2 seconds. Always be moving from panel to panel even when no attack is incoming. Build the habit before Orserk forces you.
+- The Dragon breath cone has the longest windup of any Tower attack. You get a free 2 seconds to land headshots on Axel during it.
+- When the ride-by charge starts, sprint toward the center of the arena. The charge follows the perimeter only.
+- Anubis's Sand Tornado deals broken damage here — bring it as your active Pal, not as a swap.
+
+## 4. Marcus & Faleris — PIDF Tower
+
+The flying boss. Melee is useless. If you didn't bring ranged, restart now.
+
+**Boss profile:**
+
+- Type: Fire (Faleris)
+- Estimated HP: ~35,000
+- Weakness: Water (2x)
+- Resists: Fire, Grass
+- Arena: Wide circular platform, no cover
+
+**The attack patterns:**
+
+- **Fire AoE bombing run** — Faleris flies high, drops three fire bombs in a triangle pattern. Tell: it gains altitude rapidly.
+- **Swoop** — Faleris dives low across the arena, melee range for ~1 second. This is your damage window.
+- **Flame breath sweep** — only when Faleris briefly lands. ~3-second cone.
+- **Marcus pistol shots** — chip damage, mostly ignorable.
+
+**Counter-pick:**
+
+- Pal: Jormuntide (best) > Penking > Azurobe > Surfent. Water 2x.
+- Weapon: Crossbow or Musket. 400+ ammo. **Rocket Launcher works if you have it.**
+- Armor: Heat-resistant level 2 (Refined Metal Armor).
+- Party: 3-4 Water Pals rotated as the front Pal faints.
+
+**Fight flow:**
+
+- Track Faleris's altitude. High = bombing run incoming, sprint perpendicular to the wind direction (yes, there's wind — leaves blow toward the bomb drop zone). Low = swoop, prepare burst damage.
+- The swoop is the only time Faleris is reliably hittable with non-explosive weapons. Time your magazine dumps to swoops.
+- Marcus falls off about every 90 seconds. He has ~2,500 HP solo. Shoot him directly during dismount — same trick as Lily.
+- Jormuntide's Hydro Laser tracks Faleris in the air. Spam the command.
+
+## 5. Victor & Shadowbeak — Pal Genetic Research Tower
+
+The final Tower. Two phases. This is the fight from the opening scene.
+
+**Boss profile:**
+
+- Type: Dark (Shadowbeak)
+- Estimated HP: ~50,000
+- Weakness: Dragon (neutral, not 2x — common misconception)
+- True weakness: Neutral Pals with Pal Blast (Paladius), Pure Dragon damage from Jetragon hits ~1.0x but Necromus's Twin Spears (Dark) hits Shadowbeak for less. **The real high-DPS counter is a Neutral Pal with Power Bombardment.**
+- Resists: Dark (fully)
+- Arena: Circular platform, ~30m diameter, no cover
+
+**Phase 1 (100% — 50% HP):**
+
+- **Dark Laser sweep** — wide beam, sweeps in a clockwise or counter-clockwise arc. Tell: Shadowbeak hovers, beak charges purple, ~1.2s windup. **Dodge perpendicular and toward the sweep origin, not away** — the beam moves faster at the edge of the arc than at the center.
+- **Dark Pulse** — six dark orbs spawn around Shadowbeak and travel outward. Dodge between them.
+- **Wing slash combo** — close-range. Stay at mid-range and this never triggers.
+
+**Phase 2 (50% — 0% HP):**
+
+- Trigger: Shadowbeak screeches and a black shockwave pulses outward. **This shockwave does damage if you're inside 8m.** Tell: HP bar reaches 50%, screen tint darkens.
+- **Twin Dark Lasers** — two beams now, originating from opposite sides of Shadowbeak. Almost impossible to dodge in the open. **Solution: stand at the dead center of the arena — the beams pivot around Shadowbeak and the center is the slowest-moving point.**
+- **Dark Meteor** — vertical attack, ground markers appear. ~2s windup.
+
+**Counter-pick:**
+
+- Pal: Paladius (Neutral, hits Shadowbeak for full damage) > Necromus (Dark, less effective but tanky) > Jetragon (decent damage, best for repositioning as a mount).
+- Weapon: Assault Rifle (sustained) or Rocket Launcher (burst). 500+ ammo for AR, 30+ rockets.
+- Armor: Pal Metal Armor (level 47) minimum.
+- Food: Pizza. Carrot Cake as backup. Heal cakes in slot 1.
+
+**Fight flow:**
+
+- Phase 1: Stay at 15-20m. This forces Shadowbeak into laser/pulse only and disables the wing combo.
+- Dump damage during pulse recovery — Shadowbeak hovers stationary for ~1.5s after dark orbs finish.
+- At 55% HP, sprint to the arena center *before* the phase trigger. The shockwave is unavoidable but the center positioning sets up Phase 2 immediately.
+- In Phase 2, the dead center is the safest spot. Counter-intuitive — it feels like you should run away. You shouldn't.
+- Victor falls off twice per fight. He has ~3,500 HP solo. Both dismounts together usually kill him outright and end the fight.
+
+**Post-boss:** Story complete. Final Ancient Tech Point. The endgame tech tree opens.
 
 ## Legendary Pal Boss Fights
 
-The four legendary Pals are roaming world bosses (not tower bosses). They respawn after being captured or defeated. Each is level 50 and extremely powerful.
+These are roaming world bosses, not Tower bosses. They respawn after defeat or capture. All are level 50.
 
 ### Frostallion (Ice)
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Frostbound Mountains peak (far north) |
-| Level | 50 |
-| Type | Ice |
-| HP | ~70,000 |
-| Weakness | Fire-type attacks (2x damage) |
-| Resistances | Ice attacks |
-| Drops | Ancient Civilization Parts, Ice Organ, Ruby, Legendary Schematic (Frostallion saddle / Legendary Ice Crossbow) |
-| Mount Speed | 2800 |
-| Saddle | Requires level 46 (Frostallion Saddle) |
-
-**Strategy:**
-Frostallion creates ice storms, AoE ice attacks, and moves incredibly fast. The mountain peak is a small arena with lethal fall damage.
-
-**Recommended setup:**
-- **Pals:** Fire-type (Jormuntide Ignis, Blazamut, Suzaku). Fire does 2x to Ice.
-- **Weapon:** Rocket Launcher or Assault Rifle. 500+ ammo.
-- **Armor:** Cold-resistant armor (level 2+). You are in an extreme cold zone.
-- **Level:** 50.
+- Location: Frostbound Mountains peak (far north)
+- HP: ~70,000
+- Weakness: Fire 2x
+- Drops: Ancient Civilization Parts, Ice Organ, Ruby, Legendary Schematic (Frostallion saddle or Legendary Ice Crossbow)
+- Mount speed: 2800
+- Saddle unlock: Level 46
 
 **Key tactics:**
-1. Fire Pals are essential -- Frostallion is 2x weak to fire.
-2. Watch for the ice storm attack -- it creates a large AoE that freezes and damages. Sprint out of the circle.
-3. Frostallion is fast and aggressive. Do not try to outrun it -- out-damage it.
-4. Bring 4 backup Pals. Frostallion can one-shot lower-level Pals.
-5. After capture, Frostallion becomes your best all-around Pal (S-tier combat, S-tier mount, S-tier base cooling). You can also breed Frostallion -- see the [Breeding Guide](../palworld/breeding-guide.md) for details.
+
+- Fire Pals only — Jormuntide Ignis, Blazamut, Suzaku.
+- Ice storm AoE is the killer attack — sprint out of the circle, don't try to tank.
+- Frostallion is faster than you. Don't kite — out-DPS.
+- Bring 4 backup Pals. Frostallion one-shots lower-level Pals.
+- After capture, Frostallion becomes S-tier combat / mount / base cooler. See the [Breeding Guide](../palworld/breeding-guide.md) for breeding chains.
 
 ### Jetragon (Dragon/Fire)
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Volcanic crater (southwest, inside the volcano crater) |
-| Level | 50 |
-| Type | Dragon/Fire |
-| HP | ~65,000 |
-| Weakness | Water, Ground, Ice (varies; Ground does normal damage) |
-| Resistances | Fire, Dragon |
-| Drops | Ancient Civilization Parts, Ruby, Flame Organ, Legendary Schematic (Jetragon Saddle / Legendary Rocket Launcher) |
-| Mount Speed | 3300 (FASTEST in the game) |
-| Saddle | Requires level 50 (Jetragon Saddle) |
-
-**Strategy:**
-Jetragon flies around the volcanic crater, using missile-like attacks and fire breath. It is the fastest creature in Palworld.
-
-**Recommended setup:**
-- **Pals:** Use high-damage Pals (Shadowbeak, Frostallion, Paladius). No single type is overwhelmingly effective against Dragon/Fire.
-- **Weapon:** Rocket Launcher. 500+ ammo.
-- **Armor:** Heat-resistant armor level 2. You are inside a volcano.
-- **Level:** 50.
+- Location: Volcanic crater (southwest)
+- HP: ~65,000
+- Weakness: Water, Ground, Ice (Ground hits neutral)
+- Drops: Ancient Parts, Ruby, Flame Organ, Legendary Schematic (Jetragon Saddle or Legendary Rocket Launcher)
+- Mount speed: 3300 (fastest in the game)
+- Saddle unlock: Level 50
 
 **Key tactics:**
-1. Jetragon PREFERS to stay in the air. Bring ranged weapons.
-2. Wait for it to land briefly between attack patterns, then unload damage.
-3. The rocket barrage is telegraphed -- dodge when you see Jetragon hover and aim.
-4. This fight is easier with Frostallion (Ice attacks deal good damage).
-5. Jetragon is the most valuable mount in the game at 3300 speed. Prioritize capturing it.
+
+- Jetragon stays airborne. Bring Rocket Launcher.
+- It lands briefly between attack patterns — that's your damage window.
+- Rocket barrage is telegraphed by a hover-and-aim animation.
+- Frostallion is the best support Pal here (Ice attacks land neutral but Frostallion's stats carry).
+- Capture priority — 3300 mount speed is irreplaceable.
 
 ### Paladius (Neutral)
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Desert Plateau (northeastern desert) |
-| Level | 50 |
-| Type | Neutral |
-| HP | ~75,000 |
-| Weakness | Dark-type attacks (2x damage) |
-| Resistances | None (Neutral has no resistances) |
-| Drops | Ancient Civilization Parts, Ruby, Legendary Schematic (Paladius Saddle / Legendary Pal Armor) |
-| Mount Speed | 1500 (triple jump) |
-| Saddle | Requires level 48 (Paladius Saddle) |
-
-**Strategy:**
-Paladius is the tankiest legendary Pal. It uses charge attacks, Neutral blasts, and melee combos. It fights alongside Necromus -- you must fight both simultaneously.
-
-**Recommended setup:**
-- **Pals:** Dark-type (Shadowbeak, Necromus, Katress). Dark deals 2x to Neutral.
-- **Weapon:** Assault Rifle or Rocket Launcher.
-- **Armor:** Pal Metal Armor.
-- **Level:** 50.
+- Location: Desert Plateau (northeastern desert)
+- HP: ~75,000
+- Weakness: Dark 2x
+- Drops: Ancient Parts, Ruby, Legendary Schematic (Paladius Saddle or Legendary Pal Armor)
+- Mount speed: 1500 (triple jump)
+- Saddle unlock: Level 48
 
 **Key tactics:**
-1. Paladius and Necromus spawn together and fight as a pair. Do not try to split them -- it doesn't work.
-2. Focus fire one at a time. Most players target Necromus first (lower defense).
-3. Paladius's charge attack hits hard. Keep a Pal between you and Paladius.
-4. Dark-type Pals deal double damage to both Paladius (Neutral) and Necromus (Dark is not effective against Dark, so use Dragon for Necromus).
-5. Consider bringing a balanced team: 3x Dark Pals for Paladius, 3x Dragon Pals for Necromus.
+
+- Paladius spawns paired with Necromus. They fight as a duo.
+- Don't try to split them — the engagement zone keeps them together.
+- Focus Necromus first (lower HP, lower defense).
+- Bring a mixed team: 3 Dark Pals for Paladius, 3 Dragon Pals for Necromus.
+- Paladius charge attacks hit through Pal blockers — sidestep instead of tanking.
 
 ### Necromus (Dark)
 
-| Attribute | Details |
-|-----------|---------|
-| Location | Desert Plateau (northeastern desert) |
-| Level | 50 |
-| Type | Dark |
-| HP | ~70,000 |
-| Weakness | Dragon-type attacks (2x damage) |
-| Resistances | Dark attacks |
-| Drops | Ancient Civilization Parts, Ruby, Legendary Schematic (Necromus Saddle / Legendary Dark Armor) |
-| Mount Speed | 1600 (double jump) |
-| Saddle | Requires level 49 (Necromus Saddle) |
-
-**Strategy:**
-Necromus is faster and more aggressive than Paladius but less tanky. It uses Dark slashes, teleport attacks, and summoning moves.
-
-**Recommended setup:**
-- **Pals:** Dragon-type (Jetragon, Jormuntide, Relaxaurus Lux). Dragon deals 2x to Dark.
-- **Weapon:** Rocket Launcher or Assault Rifle.
-- **Armor:** Pal Metal Armor.
-- **Level:** 50.
+- Location: Desert Plateau (paired with Paladius)
+- HP: ~70,000
+- Weakness: Dragon 2x
+- Drops: Ancient Parts, Ruby, Legendary Schematic (Necromus Saddle or Legendary Dark Armor)
+- Mount speed: 1600 (double jump)
+- Saddle unlock: Level 49
 
 **Key tactics:**
-1. Necromus teleports -- keep moving to avoid being hit from behind.
-2. The duo fight (with Paladius) means you take damage from both sides constantly.
-3. When you defeat one, the other becomes slightly more aggressive.
-4. Dragon-type attacks are the answer. Jormuntide or a Dragon-type team works well.
-5. After capturing, Necromus is the best ground mount for non-flying exploration.
+
+- Necromus teleports — keep your back to a wall to avoid backstabs.
+- Dragon Pals are the answer (Jetragon, Jormuntide, Relaxaurus Lux).
+- When you defeat one of the duo, the survivor becomes more aggressive (~20% damage increase).
+- Best ground mount in the game after capture — double jump beats most flying Pals for terrain navigation.
 
 ## Alpha Bosses (World Bosses)
 
-Alpha bosses are marked on the world map with a unique boss icon. They are significantly stronger than standard Pals of the same species.
+Alpha bosses are marked on the world map with a unique icon. They are stronger than standard Pals of the same species. Strategy is straightforward: type counter, ranged weapon, level appropriately.
 
-### Early Game Alpha Bosses (Level 10-25)
+### Early Game Alphas (Level 10-25)
 
-| Alpha Boss | Level | Location | Type | Recommended Level | Drops |
-|-----------|-------|----------|------|-------------------|-------|
-| Chillet | 11 | Frozen Lake (northwest Grasslands) | Dragon/Ice | 10-15 | Ancient Parts, Ruby |
-| Penking | 15 | Fort Ruins | Water | 13-18 | Ancient Parts, Ingots |
-| Mossanda | 17 | Eastern bamboo grove | Grass | 15-20 | Ancient Parts |
-| Kingpaca | 23 | Northeast forest clearing | Neutral | 20-25 | Ancient Parts, Wool |
+- **Chillet** — Level 11, Frozen Lake (northwest Grasslands). Dragon/Ice. Drops Ancient Parts, Ruby.
+- **Penking** — Level 15, Fort Ruins. Water. Drops Ancient Parts, Ingots.
+- **Mossanda** — Level 17, Eastern bamboo grove. Grass. Drops Ancient Parts.
+- **Kingpaca** — Level 23, Northeast forest clearing. Neutral. Drops Ancient Parts, Wool.
 
-### Mid Game Alpha Bosses (Level 25-35)
+### Mid Game Alphas (Level 25-35)
 
-| Alpha Boss | Level | Location | Type | Recommended Level | Drops |
-|-----------|-------|----------|------|-------------------|-------|
-| Grizzbolt | 20 | No. 3 Wildlife Sanctuary | Electric | 18-25 | Ancient Parts |
-| Petallia | 30 | Sakurajima island | Grass | 28-33 | Ancient Parts |
-| Beakon | 35 | Desert | Electric | 33-38 | Ancient Parts, Electric Organ |
+- **Grizzbolt** — Level 20, No. 3 Wildlife Sanctuary. Electric. Drops Ancient Parts.
+- **Petallia** — Level 30, Sakurajima island. Grass. Drops Ancient Parts.
+- **Beakon** — Level 35, Desert. Electric. Drops Ancient Parts, Electric Organ.
 
-### Late Game Alpha Bosses (Level 35-50)
+### Late Game Alphas (Level 35-50)
 
-| Alpha Boss | Level | Location | Type | Recommended Level | Drops |
-|-----------|-------|----------|------|-------------------|-------|
-| Anubis | 47 | Desert Tomb | Ground | 45-48 | Ancient Parts, Ruby, Precious items |
-| Jormuntide | 45 | Desert Oasis | Water/Dragon | 43-48 | Ancient Parts, Pal Fluids |
-| Blazamut | 45 | Volcano Interior | Fire | 43-48 | Ancient Parts, Fire Organ |
-| Astegon | 45 | Under-snow cave | Dragon/Dark | 43-48 | Ancient Parts |
+- **Anubis** — Level 47, Desert Tomb. Ground. Drops Ancient Parts, Ruby, Precious items.
+- **Jormuntide** — Level 45, Desert Oasis. Water/Dragon. Drops Ancient Parts, Pal Fluids.
+- **Blazamut** — Level 45, Volcano Interior. Fire. Drops Ancient Parts, Fire Organ.
+- **Astegon** — Level 45, Under-snow cave. Dragon/Dark. Drops Ancient Parts.
 
 ## Dungeon Bosses
 
-Dungeons randomly spawn across the map with entrances marked by glowing cave mouths. Each dungeon has a boss at the end.
+Dungeons spawn randomly across the map with glowing cave entrances. Each has a boss at the end.
 
-### Dungeon Mechanics
+**Dungeon mechanics:**
 
-| Mechanic | Details |
-|----------|---------|
-| Respawn rate | Dungeons reset every 60 minutes real time |
-| Entrance | Glowing cave openings in various biomes |
-| Length | 3-5 rooms before the boss room |
-| Difficulty | Scales with dungeon location biome |
-| Boss type | Fixed per dungeon location (but can vary by seed) |
+- Respawn rate: every 60 minutes real time.
+- Length: 3-5 rooms before the boss room.
+- Difficulty: scales with the biome.
+- Boss type: fixed per location, but rotation varies by seed.
 
-### Notable Dungeon Bosses
+**Notable dungeon boss spawns:**
 
-| Dungeon Location | Boss | Level | Drops |
-|-----------------|------|-------|-------|
-| Grassland caves | Chillet variant / Penking | 11-18 | Ancient Parts, Pal Spheres |
-| Forest caves | Mossanda / Kingpaca | 17-25 | Ancient Parts, Ingots |
-| Desert caves | Beakon / Anubis variant | 30-45 | Ancient Parts, Refined Ingots |
-| Volcanic caves | Blazamut variant | 40-48 | Ancient Parts, Fire Organ |
-| Snow caves | Cryolinx / Frostallion Noct | 40-50 | Ancient Parts, Ice Organ |
+- Grassland caves — Chillet variant or Penking (Level 11-18). Drops Ancient Parts, Pal Spheres.
+- Forest caves — Mossanda or Kingpaca (Level 17-25). Drops Ancient Parts, Ingots.
+- Desert caves — Beakon or Anubis variant (Level 30-45). Drops Ancient Parts, Refined Ingots.
+- Volcanic caves — Blazamut variant (Level 40-48). Drops Ancient Parts, Fire Organ.
+- Snow caves — Cryolinx or Frostallion Noct (Level 40-50). Drops Ancient Parts, Ice Organ.
 
 ## Boss Progression Roadmap
 
-Check the [Technology & Progression Guide](../palworld/technology-and-progression-guide.md) for a detailed leveling roadmap that complements this boss progression.
+The order most players follow. Check the [Technology & Progression Guide](../palworld/technology-and-progression-guide.md) for the matching leveling and tech roadmap.
 
-| Stage | Boss | Player Level | Key Rewards |
-|-------|------|-------------|-------------|
-| 1 | Zoe & Grizzbolt | 10-15 | Ancient Tech Point, unlocks incubator |
-| 2 | Chillet (Alpha) | 10-15 | Ancient Parts for first tech |
-| 3 | Penking (Alpha) | 15-18 | More Ancient Parts |
-| 4 | Lily & Lyleen | 25-30 | Ancient Tech Point, unlocks higher tech |
-| 5 | Beakon (Alpha) | 33-38 | Electric Organ for spheres |
-| 6 | Axel & Orserk | 35-40 | Ancient Tech Point |
-| 7 | Marcus & Faleris | 40-44 | Ancient Tech Point |
-| 8 | Blazamut / Jormuntide (Alpha) | 43-48 | Materials, Ancient Parts |
-| 9 | Anubis (Alpha) | 45-48 | Ruby, Ancient Parts |
-| 10 | Victor & Shadowbeak | 45-50 | Final Ancient Tech Point |
-| 11 | Frostallion / Jetragon / Paladius / Necromus | 50 | Legendary schematics |
+1. Zoe & Grizzbolt (Level 10-15) — Ancient Tech Point, unlocks incubator.
+2. Chillet Alpha (Level 10-15) — Ancient Parts for first tech.
+3. Penking Alpha (Level 15-18) — More Ancient Parts.
+4. Lily & Lyleen (Level 25-30) — Ancient Tech Point, mid-tier tech.
+5. Beakon Alpha (Level 33-38) — Electric Organ for spheres.
+6. Axel & Orserk (Level 35-40) — Ancient Tech Point.
+7. Marcus & Faleris (Level 40-44) — Ancient Tech Point.
+8. Blazamut / Jormuntide Alphas (Level 43-48) — Materials, Ancient Parts.
+9. Anubis Alpha (Level 45-48) — Ruby, Ancient Parts.
+10. Victor & Shadowbeak (Level 45-50) — Final Ancient Tech Point.
+11. Frostallion / Jetragon / Paladius / Necromus (Level 50) — Legendary schematics.
 
-## Boss Farming Route
+## Endgame Boss Farming Route
 
-Once you reach level 50, you can farm bosses for Ancient Civilization Parts and legendary schematics:
+At level 50, farm in this order for Ancient Civilization Parts and legendary schematics:
 
-1. **Paladius + Necromus** -- Teleport to Desert Plateau. Defeat both for 12-16 Ancient Parts each. They respawn in ~1 hour.
-2. **Frostallion** -- Fly to Frostbound Mountains peak. 8-12 Ancient Parts each kill.
-3. **Jetragon** -- Fly to volcanic crater. 8-12 Ancient Parts.
-4. **Alpha Anubis** -- Desert Tomb. 6-10 Ancient Parts + chance of Ruby.
-5. **Alpha Jormuntide** -- Desert Oasis. 6-10 Ancient Parts + Pal Fluids.
+- **Paladius + Necromus** — Desert Plateau teleport. 12-16 Ancient Parts each. Respawn ~1 hour.
+- **Frostallion** — Frostbound Mountains peak. 8-12 Ancient Parts per kill.
+- **Jetragon** — Volcanic crater. 8-12 Ancient Parts.
+- **Alpha Anubis** — Desert Tomb. 6-10 Ancient Parts + chance of Ruby.
+- **Alpha Jormuntide** — Desert Oasis. 6-10 Ancient Parts + Pal Fluids.
+
+Full circuit takes ~25 minutes and refills Ancient Parts for an entire crafting session.
 
 ### Continue Reading
 
-- **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start your journey.
-- **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Best Pals for each boss fight.
-- **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** -- Breed Pals optimized for boss battles.
-- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** -- Where to find boss Pals.
-- **[Palworld Base Building Guide](../palworld/base-building-guide.md)** -- Build a base for boss prep.
-- **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** -- Farm boss materials.
-- **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** -- Leveling and tech unlock roadmap.
+- **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** — Start your journey.
+- **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** — Best Pals for each boss fight.
+- **[Palworld Breeding Guide (2026)](../palworld/breeding-guide.md)** — Breed Pals optimized for boss battles.
+- **[Palworld Pal Locations Guide](../palworld/pal-locations-guide.md)** — Where to find boss Pals.
+- **[Palworld Base Building Guide](../palworld/base-building-guide.md)** — Build a base for boss prep.
+- **[Palworld Resources & Materials Guide](../palworld/resources-and-materials-guide.md)** — Farm boss materials.
+- **[Palworld Technology & Progression Guide](../palworld/technology-and-progression-guide.md)** — Leveling and tech unlock roadmap.
