@@ -7,7 +7,7 @@ cover:
   image: "/cover-image/rivals-beginner/cover.webp"
   alt: "RIVALS Game Modes and Ranked Guide Cover"
   caption: "RIVALS Game Modes and Ranked Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-25
 draft: false
 tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS"]
 categories: ["Roblox Guides"]
@@ -19,6 +19,10 @@ faq:
     answer: "Casual matches have looser skill matching, no MMR impact, and allow players to join/leave freely. Ranked matches have strict skill-based matchmaking, leaver penalties, and MMR stakes. Use Casual to warm up and test new loadouts."
   - question: "Can I queue ranked solo in RIVALS?"
     answer: "Yes, solo queue is available for all ranked modes. Solo players are matched with other solo players when possible. Duo and full squad queues face other pre-made teams. Solo queueing is harder but develops better individual game sense."
+  - question: "Which mode should I play if I want to improve quickly?"
+    answer: "Match the mode to your weakness. Play FFA and 1v1 to fix aim, 2v2 with a consistent partner to fix team play, and Gun Game to learn weapons. Never practice new loadouts in ranked."
+  - question: "Is ranked really less stressful than casual?"
+    answer: "Surprisingly, yes — for many players. Ranked has tighter matchmaking, so matches feel fairer. Casual can throw you against anyone, including smurfs or players far above your skill level. The predictability of ranked removes the anxiety of random stomps."
 
 ---
 
@@ -26,18 +30,16 @@ faq:
 
 ## Quick Summary: All Game Modes at a Glance
 
-| Mode | Players | Objective | Competitive | Best Loadout Style |
-|------|---------|-----------|-------------|-------------------|
-| **1v1** | 2 | First to 5 round wins | Yes — Ranked | Aggressive all-range |
-| **2v2** | 4 | First to 5 round wins | Yes — Ranked | Coordinated complementary |
-| **3v3** | 6 | First to 5 round wins | Yes — Ranked | Role-based team |
-| **Free For All** | 4-8 | Most kills in time limit | No | Self-sustaining |
-| **Team Deathmatch** | 4-10 | Team reaches kill target | No | Aggressive DPS |
-| **Gun Game** | 4-8 | Progress through all weapons | No | Adaptive |
-| **1v1v1** | 3 | FFA with 3 players | No | Survival |
-| **2v2v2** | 6 | FFA with 3 teams | No | Team survival |
-| **4v4 / 5v5** | 8-10 | Large-scale team combat | No | Team DPS and utility |
-| **Beginner 2v2** | 4 | First to 5 round wins | No — Skill-restricted | Beginner-friendly |
+- **1v1** (2 players): First to 5 round wins. Competitive: Yes — Ranked. Best with: Aggressive all-range.
+- **2v2** (4 players): First to 5 round wins. Competitive: Yes — Ranked. Best with: Coordinated complementary.
+- **3v3** (6 players): First to 5 round wins. Competitive: Yes — Ranked. Best with: Role-based team.
+- **Free For All** (4-8 players): Most kills in time limit. Competitive: No. Best with: Self-sustaining.
+- **Team Deathmatch** (4-10 players): Team reaches kill target. Competitive: No. Best with: Aggressive DPS.
+- **Gun Game** (4-8 players): Progress through all weapons. Competitive: No. Best with: Adaptive.
+- **1v1v1** (3 players): FFA with 3 players. Competitive: No. Best with: Survival.
+- **2v2v2** (6 players): FFA with 3 teams. Competitive: No. Best with: Team survival.
+- **4v4 / 5v5** (8-10 players): Large-scale team combat. Competitive: No. Best with: Team DPS and utility.
+- **Beginner 2v2** (4 players): First to 5 round wins. Competitive: No — Skill-restricted. Best with: Beginner-friendly.
 
 ---
 
@@ -47,24 +49,20 @@ faq:
 
 **Description:** The purest test of individual skill in RIVALS. Two players face off in a first-to-5-round-wins format on a randomly selected map from the competitive pool.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 2 (1 vs 1) |
-| **Format** | First to 5 round wins |
-| **Round Length** | Typically 1-3 minutes |
-| **Map Pool** | Competitive ranked map pool |
-| **Ranked** | Yes |
-| **Skill Factor** | 100% individual — no teammates to carry or be carried by |
+- **Players:** 2 (1 vs 1)
+- **Format:** First to 5 round wins
+- **Round Length:** Typically 1-3 minutes
+- **Map Pool:** Competitive ranked map pool
+- **Ranked:** Yes
+- **Skill Factor:** 100% individual — no teammates to carry or be carried by
 
 **Best Loadouts for 1v1:**
 For a complete ranking of every weapon with stats and prices, see the [RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/).
 
-| Slot | Weapon | Why |
-|------|--------|-----|
-| Primary | **Permafrost** or **Paintball Gun** | Dominant at the ranges that matter in 1v1 |
-| Secondary | **Uzi** or **Energy Pistols** | Close-range coverage when primary is on cooldown |
-| Melee | **Katana** or **Scythe** | Bullet deflect for survival or dash for aggression |
-| Utility | **Freeze Ray** or **Medkit** | Freeze enables guaranteed kills; Medkit sustains long rounds |
+- **Primary:** Permafrost or Paintball Gun — Dominant at the ranges that matter in 1v1
+- **Secondary:** Uzi or Energy Pistols — Close-range coverage when primary is on cooldown
+- **Melee:** Katana or Scythe — Bullet deflect for survival or dash for aggression
+- **Utility:** Freeze Ray or Medkit — Freeze enables guaranteed kills; Medkit sustains long rounds
 
 **1v1 Winning Strategies:**
 
@@ -78,20 +76,16 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** The most popular game mode in RIVALS. Two teams of two compete in first-to-5-round-wins matches. Communication and coordination are essential.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 4 (2 vs 2) |
-| **Format** | First to 5 round wins |
-| **Ranked** | Yes |
-| **Map Pool** | Competitive ranked map pool |
-| **Skill Factor** | 70% individual, 30% teamwork |
+- **Players:** 4 (2 vs 2)
+- **Format:** First to 5 round wins
+- **Ranked:** Yes
+- **Map Pool:** Competitive ranked map pool
+- **Skill Factor:** 70% individual, 30% teamwork
 
 **Best Loadouts for 2v2:**
 
-| Role | Primary | Secondary | Melee | Utility | Purpose |
-|------|---------|-----------|-------|---------|---------|
-| **Entry Fragger** | Shotgun / Permafrost | Uzi | Scythe | Molotov | Aggressive push, create space |
-| **Support / Anchor** | Assault Rifle / Sniper | Energy Pistols | Katana | Medkit / Freeze Ray | Cover entry, sustain team |
+- **Entry Fragger:** Shotgun / Permafrost / Uzi / Scythe / Molotov → Aggressive push, create space
+- **Support / Anchor:** Assault Rifle / Sniper / Energy Pistols / Katana / Medkit / Freeze Ray → Cover entry, sustain team
 
 **2v2 Winning Strategies:**
 
@@ -105,21 +99,17 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** The largest competitive mode. Three teams of three compete in first-to-5-round-wins matches on big maps. Team coordination and role specialization are paramount.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 6 (3 vs 3) |
-| **Format** | First to 5 round wins |
-| **Ranked** | Yes |
-| **Map Pool** | Big maps only (Big Arena, Big Crossroads, Big Graveyard, etc.) |
-| **Skill Factor** | 50% individual, 50% teamwork and strategy |
+- **Players:** 6 (3 vs 3)
+- **Format:** First to 5 round wins
+- **Ranked:** Yes
+- **Map Pool:** Big maps only (Big Arena, Big Crossroads, Big Graveyard, etc.)
+- **Skill Factor:** 50% individual, 50% teamwork and strategy
 
 **Best Loadouts for 3v3 (Role-Based):**
 
-| Role | Primary | Secondary | Melee | Utility | Purpose |
-|------|---------|-----------|-------|---------|---------|
-| **Entry Fragger** | Permafrost / Shotgun | Uzi | Scythe | Molotov | Lead the push, break defenses |
-| **Flex / Roamer** | Assault Rifle / Paintball Gun | Energy Pistols | Knife | Smoke Grenade | Adapt to situations, rotate |
-| **Anchor / Support** | Sniper / Crossbow | Revolver | Katana | Medkit / Freeze Ray | Hold angles, sustain team |
+- **Entry Fragger:** Permafrost / Shotgun / Uzi / Scythe / Molotov → Lead the push, break defenses
+- **Flex / Roamer:** Assault Rifle / Paintball Gun / Energy Pistols / Knife / Smoke Grenade → Adapt to situations, rotate
+- **Anchor / Support:** Sniper / Crossbow / Revolver / Katana / Medkit / Freeze Ray → Hold angles, sustain team
 
 **3v3 Winning Strategies:**
 
@@ -137,12 +127,10 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** Every player fights for themselves. No teams, no coordination.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 4-8 |
-| **Objective** | Most kills within the time limit |
-| **Ranked** | No |
-| **Best For** | Warming up, testing new weapons |
+- **Players:** 4-8
+- **Objective:** Most kills within the time limit
+- **Ranked:** No
+- **Best For:** Warming up, testing new weapons
 
 **Strategy:** Avoid prolonged fights. In FFA, every engagement risks a third party jumping in. Get a kill, reposition immediately. Survival is more important than aggressive pushing.
 
@@ -150,12 +138,10 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** Teams compete to reach a kill target before the opposing team. Rounds are continuous.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 4-10 |
-| **Objective** | Reach the kill target first |
-| **Ranked** | No |
-| **Best For** | Fast-paced team combat, grinding kills and coins |
+- **Players:** 4-10
+- **Objective:** Reach the kill target first
+- **Ranked:** No
+- **Best For:** Fast-paced team combat, grinding kills and coins
 
 **Strategy:** Push aggressively and respawn quickly. Stay alive long enough to get multiple kills per life.
 
@@ -163,12 +149,10 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** Players progress through a predetermined weapon list with each kill. First to get a kill with every weapon wins.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 4-8 |
-| **Objective** | Get a kill with every weapon in the progression |
-| **Ranked** | No |
-| **Best For** | Learning weapons, variety, casual fun |
+- **Players:** 4-8
+- **Objective:** Get a kill with every weapon in the progression
+- **Ranked:** No
+- **Best For:** Learning weapons, variety, casual fun
 
 **Strategy:** Learn every weapon, not just your favorites. The player who adapts fastest to each new weapon has the biggest advantage.
 
@@ -176,12 +160,10 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** Free-for-all variants with 3 teams. More chaotic than standard modes because you must manage multiple threats.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 3 (1v1v1) or 6 (2v2v2) |
-| **Objective** | Last team/player standing or most kills |
-| **Ranked** | No |
-| **Best For** | Multi-threat management practice, chaotic fun |
+- **Players:** 3 (1v1v1) or 6 (2v2v2)
+- **Objective:** Last team/player standing or most kills
+- **Ranked:** No
+- **Best For:** Multi-threat management practice, chaotic fun
 
 **Strategy:** Let the other two teams fight each other. Position yourself to clean up the survivors.
 
@@ -189,12 +171,10 @@ For a complete ranking of every weapon with stats and prices, see the [RIVALS We
 
 **Description:** Large-scale team combat with 8-10 players. Chaotic and less competitive but highly entertaining.
 
-| Aspect | Details |
-|--------|---------|
-| **Players** | 8-10 |
-| **Objective** | Team-based objectives (varies by map) |
-| **Ranked** | No |
-| **Best For** | Casual fun, large-team coordination practice |
+- **Players:** 8-10
+- **Objective:** Team-based objectives (varies by map)
+- **Ranked:** No
+- **Best For:** Casual fun, large-team coordination practice
 
 **Strategy:** Stick with your team. Group up, focus fire, and coordinate utility usage.
 
@@ -206,58 +186,52 @@ RIVALS features a competitive ranked mode with a structured progression system. 
 
 ### Available Ranked Modes
 
-| Mode | Description | Popularity |
-|------|-------------|------------|
-| **Ranked 1v1** | Pure individual competition | High — most competitive |
-| **Ranked 2v2** | Team-based ranked (most played) | Highest — best balance of skill and teamwork |
-| **Ranked 3v3** | Large-team ranked | Medium — requires full team coordination |
+**Available ranked modes:**
+- **Ranked 1v1:** Pure individual competition — most competitive, high popularity
+- **Ranked 2v2:** Team-based ranked (most played) — best balance of skill and teamwork, highest popularity
+- **Ranked 3v3:** Large-team ranked — requires full team coordination, medium popularity
 
 The ranked map pool draws from a curated selection of the most balanced maps. For detailed breakdowns of every map with callouts and positions, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
 
 ### Rank Tiers and MMR
 
-| Rank | MMR Range | Skill Level | Description |
-|------|-----------|-------------|-------------|
-| **Bronze** | 0-899 | Beginner | Learning fundamentals — movement, aim, basic strategy |
-| **Silver** | 900-1399 | Learning | Solid movement, basic loadout knowledge, improving aim |
-| **Gold** | 1400-1899 | Intermediate | Good movement chaining, meta loadouts, map awareness |
-| **Platinum** | 1900-2399 | Advanced | Excellent mechanics, advanced strategies, consistent performance |
-| **Diamond** | 2400-2999 | Expert | Near-perfect movement, deep game knowledge, strong game sense |
-| **Onyx** | 3000-3599 | Elite | Top-tier mechanics, exceptional strategy and prediction |
-| **Nemesis** | 3600+ | Best of the Best | The highest rank — reserved for the absolute top players |
+**Rank Tiers (lowest to highest):**
+- **Bronze** (0-899 MMR): Beginner — learning fundamentals, movement, aim, basic strategy
+- **Silver** (900-1399 MMR): Learning — solid movement, basic loadout knowledge, improving aim
+- **Gold** (1400-1899 MMR): Intermediate — good movement chaining, meta loadouts, map awareness
+- **Platinum** (1900-2399 MMR): Advanced — excellent mechanics, advanced strategies, consistent performance
+- **Diamond** (2400-2999 MMR): Expert — near-perfect movement, deep game knowledge, strong game sense
+- **Onyx** (3000-3599 MMR): Elite — top-tier mechanics, exceptional strategy and prediction
+- **Nemesis** (3600+ MMR): Best of the Best — the highest rank, reserved for the absolute top players
 
 ### How MMR Works
 
-| Aspect | Details |
-|--------|---------|
-| **Starting MMR** | Determined by placement matches (typically Bronze-Silver range for new players) |
-| **Gaining MMR** | Win matches to gain MMR. The amount depends on opponent MMR and your performance |
-| **Losing MMR** | Lose matches to lose MMR. Losing to lower-ranked opponents costs more MMR |
-| **MMR Decay** | Inactive accounts may experience MMR decay after extended periods without playing |
-| **Promotion** | Reach the MMR threshold for the next rank to promote automatically |
-| **Demotion** | Drop below the MMR threshold and lose protection games to demote |
+- **Starting MMR:** Determined by placement matches (typically Bronze-Silver range for new players)
+- **Gaining MMR:** Win matches to gain MMR. The amount depends on opponent MMR and your performance
+- **Losing MMR:** Lose matches to lose MMR. Losing to lower-ranked opponents costs more MMR
+- **MMR Decay:** Inactive accounts may experience MMR decay after extended periods without playing
+- **Promotion:** Reach the MMR threshold for the next rank to promote automatically
+- **Demotion:** Drop below the MMR threshold and lose protection games to demote
 
 ### MMR Gain and Loss Table
 
-| Match Outcome | Typical MMR Change |
-|--------------|-------------------|
-| **Win vs. equal rank** | +20 to +25 MMR |
-| **Win vs. higher rank** | +25 to +35 MMR (bonus for beating stronger opponents) |
-| **Win vs. lower rank** | +15 to +20 MMR (reduced gain for expected win) |
-| **Loss vs. equal rank** | -20 to -25 MMR |
-| **Loss vs. higher rank** | -15 to -20 MMR (reduced loss for expected defeat) |
-| **Loss vs. lower rank** | -25 to -35 MMR (increased loss for unexpected defeat) |
-| **Streak bonus** | +5 to +10 extra MMR per win (3+ win streaks) |
-| **Streak protection** | Reduced loss on losing streaks (prevents MMR spiral) |
+**Typical MMR changes per match:**
+- Win vs equal rank: +20 to +25 MMR
+- Win vs higher rank: +25 to +35 MMR (bonus for beating stronger opponents)
+- Win vs lower rank: +15 to +20 MMR (reduced gain for expected win)
+- Loss vs equal rank: -20 to -25 MMR
+- Loss vs higher rank: -15 to -20 MMR (reduced loss for expected defeat)
+- Loss vs lower rank: -25 to -35 MMR (increased loss for unexpected defeat)
+- Streak bonus: +5 to +10 extra MMR per win (3+ win streaks)
+- Streak protection: reduced loss on losing streaks (prevents MMR spiral)
 
 ### Promotion and Demotion Mechanics
 
-| Event | Details |
-|-------|---------|
-| **Promotion** | Automatic when you reach the MMR threshold for the next rank. No promotion matches required. |
-| **Demotion Protection** | When you first reach a new rank, you receive a few games of demotion protection. Losses during this period will not demote you. |
-| **Demotion** | Once protection games expire, dropping below the rank threshold results in demotion. |
-| **Season Reset** | At the end of each season, MMR is partially reset. Players typically drop 1-2 tiers and must reclimb. |
+**Promotion and demotion rules:**
+- **Promotion:** Automatic when you reach the MMR threshold for the next rank. No promotion matches required.
+- **Demotion Protection:** When you first reach a new rank, you receive a few games of demotion protection. Losses during this period will not demote you.
+- **Demotion:** Once protection games expire, dropping below the rank threshold results in demotion.
+- **Season Reset:** At the end of each season, MMR is partially reset. Players typically drop 1-2 tiers and must reclimb.
 
 ---
 
@@ -353,13 +327,11 @@ The ranked map pool draws from a curated selection of the most balanced maps. Fo
 
 RIVALS has a growing competitive tournament scene. While the game is relatively new (launched April 2025), tournaments are becoming more organized.
 
-| Aspect | Details |
-|--------|---------|
-| **Official Tournaments** | Occasional events hosted by Nosniy Games and the RIVALS team |
-| **Community Tournaments** | Organized by Discord communities, YouTube creators, and Reddit |
-| **Format** | Typically single or double elimination brackets |
-| **Modes** | Usually 2v2 or 3v3 competitive formats |
-| **How to Find** | Check the official RIVALS Discord, Reddit (r/RivalsRoblox), and YouTube |
+- **Official Tournaments:** Occasional events hosted by Nosniy Games and the RIVALS team
+- **Community Tournaments:** Organized by Discord communities, YouTube creators, and Reddit
+- **Format:** Typically single or double elimination brackets
+- **Modes:** Usually 2v2 or 3v3 competitive formats
+- **How to Find:** Check the official RIVALS Discord, Reddit (r/RivalsRoblox), and YouTube
 
 ### Tournament Preparation
 

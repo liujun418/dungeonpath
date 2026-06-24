@@ -1,19 +1,101 @@
 ---
-title: "Lethal Company Terminal Commands Guide: Complete Reference (2026)"
+title: "Lethal Company Terminal Commands Guide: The Complete 2026 Reference"
 description: "Everything you need to know about Lethal Company Terminal Commands Guide. terminal command reference for Lethal Company in 2026. Every command including m..."
 date: 2026-05-10
 cover:
   image: "/cover-image/lethal-company-terminal-commands/cover.webp"
   alt: "Lethal Company Terminal Commands Guide Cover"
   caption: "Lethal Company Terminal Commands Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-25
 draft: false
 tags: ["Lethal Company", "PC Games", "Controls", "Mechanics"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
 ---
 
-> *Last updated: May 10, 2026. This guide covers every terminal command in Lethal Company, from basic navigation to hidden secrets. Master the terminal to travel efficiently, buy equipment, and access crucial information.*
+> *Last updated: June 25, 2026. This guide covers every terminal command in Lethal Company, from basic navigation to hidden secrets. Master the terminal to travel efficiently, buy equipment, and access crucial information.*
+
+## The Door That Closes Anyway
+
+It is 11:47 PM on Titan. Dave is sprinting across the facility courtyard with a gold bar in each hand. His stamina bar blinks red. Behind him, the thunderous footsteps of a Forest Giant shake the gravel. Three steps from the ship ramp, he yells into voice chat: "I'm here, don't leave!"
+
+His teammate Ash is already at the terminal. The quota timer hit zero two minutes ago. The ship's engine is whining, prepping for launch. Ash's fingers hover over the keyboard. Dave screams something about pinging the radar, but Ash panics and types `teleport` instead of `transmit`. Nothing happens. The terminal spits back an error. Ash backspaces frantically, tries `transmit dave is here`, but misspells it as `transmite`. Another error.
+
+The Giant's shadow falls across the ramp. Dave drops the gold bars. The ship door slams shut. The launch sequence overrides. Dave watches the hull lift into the dark sky while Ash stares at the blinking cursor, still trying to clear the typo.
+
+That gold bar? 142 credits. The quota? Missed by 80. The friendship? Currently being discussed in a Discord argument that will last until 2 AM.
+
+It wasn't the Giant that killed the run. It was three seconds of terminal panic.
+
+---
+
+## What Players Actually Get Wrong About the Terminal
+
+Most guides treat the terminal like a cheat sheet. They list commands in neat tables and assume you'll memorize them between rounds. That is not how panic works.
+
+Under pressure, your brain doesn't reach for `transmit`. It reaches for whatever sounds right. That's why players type `teleport` when they mean `transmit`, `sell` when they mean `scan`, and `stop` when they are nowhere near ready to end the day. The terminal is case-insensitive and forgiving on spelling, but it is not forgiving on *nerves*.
+
+Here is what actually goes wrong:
+
+**Players don't pre-type.** When the team is inside the facility and you are on the ship, you have minutes of downtime. Use them. Pre-type `transmit ` with a trailing space so you only need to add the message and hit Enter. Pre-type `switch ` so you can snap a name onto the end. The terminal keeps your cursor ready. It does not judge your procrastination.
+
+**Players ignore Tab autocomplete.** You do not need to spell `Experimentation` perfectly. Type `exp` and hit Tab. The terminal fills it in. This works for moon names, item names, and even some player names. Every keystroke you save is a fraction of a second you might need later.
+
+**Players learn commands in quiet rooms, not loud ones.** You probably read this guide in a browser tab with Spotify playing. That is not the learning environment that matters. The environment that matters is a Coil-Head rattling in the hallway while your teammate is hyperventilating into the mic. Muscle memory only forms under mild stress. Load into a solo lobby, turn the volume up, and practice typing `moons`, `store`, and `confirm` while walking around the ship. It feels silly. It works.
+
+**Players treat the terminal as a side tool.** It is not. The terminal *is* the ship. It is travel, shopping, communication, radar, and lore. The player who knows it cold is effectively playing a different game than the player who fumbles.
+
+---
+
+## Emergency Command Priority: What to Type When Everything Is Falling Apart
+
+Not every command deserves the same brain space. When a Thumper is chasing your carrier through the main hall, you do not need the store inventory. You need a decision framework that sorts commands by urgency.
+
+### When You Have Five Seconds
+
+These are the "oh no" moments. Someone is dying, the ship is leaving, or a monster is three rooms away.
+
+1. **`transmit [message]`** — One word is enough. "Giant north" or "leave now" or "drop it." Do not write sentences. The signal translator broadcasts to everyone instantly and cuts through voice-chat chaos. If your teammate's mic is clipping or they're too panicked to listen, text wins.
+
+2. **`switch [player]`** — The operator needs eyes on the runner immediately. If you are the operator and you do not know where the danger is, switch to the player in trouble. Do not ask. Do not discuss. Type.
+
+3. **`ping [radar booster]`** — If a deployed Radar Booster is near the threat, ping it. The noise pulls aggro. It buys two seconds. Two seconds is sometimes the difference between the ship door and a respawn screen.
+
+### When You Have Thirty Seconds
+
+The team is safe-ish. You are on the ship. The quota is close. Now you can breathe and batch.
+
+1. **`scan`** — Check total scrap value. Do not sell yet. Just know where you stand.
+
+2. **`sell [specific item]`** — If you need a precise amount to hit quota, sell individually. `sell all` has no confirmation. One typo and your shotgun becomes company property.
+
+3. **`stop`** — Only after you have confirmed everyone is aboard. I have seen players end the day because they *thought* they heard four sets of footsteps. The terminal does not check footsteps. It checks presence.
+
+### When You Have Five Minutes
+
+Pre-flight prep. Downtime. This is when efficiency matters.
+
+1. **`moons`** — Check weather. Eclipsed moons look tempting for scrap density. They are also where your team forgets how to walk.
+
+2. **`store`** and **`buy [item]`** — Stock up before you launch, not after you land. Buying on-moon wastes daylight and splits focus.
+
+3. **`bestiary`** — Review scanned entities while you have brain space. Do not wait until you hear a Bracken to wonder what class it is.
+
+The golden rule: **Never learn a command during an emergency. Learn it during the calm, then let your fingers do the thinking.**
+
+---
+
+## The Counter-Intuitive Truth: Text Beats Voice in a Crisis
+
+Here is something most crews do not figure out until quota 15: `transmit` is often more reliable than voice chat in a life-or-death moment.
+
+Voice chat in Lethal Company has proximity. It drops with distance. It clips with multiple speakers. It panics. The signal translator does not care about any of that. A `transmit` message reaches every player simultaneously, regardless of where they are, regardless of who is talking over them, regardless of how loud the Coil-Head is.
+
+Even better, indoor players often cannot hear the ship operator's voice clearly. But they see `transmit` messages in the top-left chat. In a facility with three floors and a Bunker Spider in the stairwell, a two-word text ping is sometimes the only communication that actually lands.
+
+The terminal is not slower than voice. It is just slower *to start*. Pre-type. Hit Enter. Done.
+
+---
 
 ## Terminal Basics
 
@@ -533,12 +615,38 @@ Available commands:
 
 The terminal is the most important tool in Lethal Company. It controls where you go, what you buy, and how you communicate. Mastering terminal commands reduces the time spent on administrative tasks and lets you focus on survival and scrap collection.
 
+But mastery here is not about memorizing every syntax. It is about knowing which command to reach for when your hands are shaking. It is about pre-typing `transmit ` before the Giant rounds the corner. It is about trusting text over voice when the lobby is chaos. It is about treating the terminal as a weapon, not a spreadsheet.
+
 The hidden `sigurd` command adds a layer of lore for players interested in the game's story — be sure to read all 15 logs for the full narrative. For competitive players, terminal efficiency (knowing commands by heart, using autocomplete, and batching operations) shaves valuable seconds off each day.
+
+Next time you are on the ship and the engine starts whining, do not panic-type. Breathe. Pre-type. Let your fingers do what you trained them to do. The door will stay open a little longer for the player who does not need to think.
+
+---
+
+## FAQ
+
+**Q: Can I use the terminal while moving?**
+A: No. The terminal locks you in place while you are typing. You cannot walk away from it mid-command. If a monster enters the ship, you have to close the terminal first. That is why pre-typing matters — the less time you spend at the keyboard, the less time you are a sitting target.
+
+**Q: Do I need to capitalize moon names or item names?**
+A: Nope. The terminal is completely case-insensitive. `experimentation`, `Experimentation`, and `EXPERIMENTATION` all work. So does `buy SHOVEL` or `buy shovel`. The only thing that matters is spelling, and even then, Tab autocomplete covers most of it.
+
+**Q: What happens if I type `sell all` by accident?**
+A: Everything on the ship gets sold instantly. No confirmation. No undo. If you had a shotgun, a jetpack, or a pro-flashlight sitting on the floor, it is gone. That is why experienced operators sell items individually or at least do a `scan` first to know exactly what is about to vanish.
+
+**Q: Is there a way to cancel travel after I type `confirm`?**
+A: No. Once you hit `confirm`, the ship launches. There is no abort sequence. If a teammate is still outside, they are staying on that moon. Double-check your headcount before you confirm. It takes two seconds and saves twenty minutes of restarting.
+
+**Q: Does the `history` command show what other players typed?**
+A: No. `history` only shows your own command history on that terminal session. It is useful if you forgot the exact name of an item you bought earlier, but it will not reveal your teammate's shopping list.
 
 ---
 
 ### Related Guides
 
+- [Lethal Company Ship Operator Guide](/posts/lethal-company/ship-operator-guide/)
+- [Lethal Company Equipment Economy Guide](/posts/lethal-company/equipment-economy-guide/)
+- [Lethal Company Scrap Route Optimization](/posts/lethal-company/scrap-route-optimization/)
 - [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
 - [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
