@@ -12,5 +12,7 @@ findings.md
 task_plan.md
 *.sh
 docs/
+# Hugo generated resources (cached image transformations)
+resources/_gen/
 # Built output - Vercel builds from source
 public/
