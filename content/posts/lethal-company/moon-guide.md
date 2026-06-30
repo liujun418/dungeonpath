@@ -6,31 +6,61 @@ cover:
   image: "/cover-image/lethal-company-moon-guide/cover.webp"
   alt: "Lethal Company Moons Guide Cover"
   caption: "Lethal Company Moons Guide"
-lastmod: 2026-05-10
+lastmod: 2026-06-30
 draft: false
 tags: ["Lethal Company", "PC Games", "Maps", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faq:
+  - question: "What is the easiest moon for beginners in Lethal Company?"
+    answer: "Experimentation is the easiest moon. Travel is free, the outdoor terrain is flat, the facility is small, and monster spawns are minimal. It is the best place to learn movement, looting, and monster audio cues without serious risk."
+  - question: "Should I skip a day if the weather is bad?"
+    answer: "Yes, especially early on. Eclipsed and stormy weather can turn a manageable moon into a death trap. On free moons like Experimentation or Assurance, bad weather is annoying but survivable. On expensive moons like Rend or Titan, stormy or eclipsed weather often means a total loss. Skipping a day costs nothing compared to losing your entire crew and their gear."
+  - question: "Is Titan ever worth the 700 credit travel cost?"
+    answer: "Only when your quota is above 800 credits and your team has pro-flashlights, walkie-talkies, and experience with mansion layouts. Titan's loot potential is unmatched, but the survival rate is low. If even one player dies and drops expensive gear, the run can end up costing more than it earns."
 ---
 
-> *Last updated: May 10, 2026. This guide covers all eight moons in Lethal Company, ranked from easiest to hardest, with detailed statistics, map layout tips, and optimal looting strategies for each one.*
+> *Last updated: June 30, 2026. This guide covers all eight moons in Lethal Company, ranked from easiest to hardest, with detailed statistics, map layout tips, and optimal looting strategies for each one.*
 
-## Moon Overview
+The ship's airlock hisses open. Three hours left on the quota clock. You peek outside and Titan's fog swallows the beam of your flashlight whole. Somewhere in the grey, a Nutcracker's footsteps echo off steel. Your crew of four is whispering over walkie-talkies, but nobody wants to say it out loud: do we push in, or burn 700 credits and fly home empty?
 
-Lethal Company features eight procedurally generated moons, each with unique difficulty, layout, loot potential, and environmental hazards. Choosing the right moon for your team's skill level and quota needs is the single most important decision you make each day.
+That thirty-second decision is what Lethal Company is really about. The moon you pick shapes everything — how much loot you will find, which monsters you will face, whether your team makes it back alive. Pick wrong and you do not just lose a run. You lose gear, morale, and sometimes the whole campaign.
 
-### Moon Quick Reference Table
+This guide breaks down every moon, what actually makes them hard, and how to stop picking the wrong one.
 
-| Moon | Designation | Travel Cost | Difficulty | Facility Type | Best For |
-|------|-------------|-------------|------------|---------------|----------|
-| Experimentation | 41-Experimentation | Free | Easy | Factory | Beginners, early quota |
-| Assurance | 21-Assurance | Free | Easy-Medium | Factory | Beginners, early quota |
-| Vow | 56-Vow | Free | Medium | Factory | Mid-game quota |
-| Offense | 5-Offense | 50 | Medium-Hard | Factory | Mid-game, fire exit speed |
-| March | 20-March | 150 | Hard | Mansion | Experienced teams |
-| Rend | 85-Rend | 550 | Hard | Mansion | Late-game, high loot |
-| Dine | 7-Dine | 600 | Hard | Mansion | Late-game, high loot |
-| Titan | 8-Titan | 700 | Very Hard | Mansion/Laboratory | Maximum loot, experienced |
+## What Players Get Wrong About Moon Selection
+
+Most wipes do not happen because a Bracken got lucky. They happen because the crew chose a moon that outmatched them.
+
+**Going to Rend with quota under 500.** Rend costs 550 credits. That is more than some early quotas. New crews see the high loot numbers and think "more scrap = better." But Rend's snow cuts visibility to nothing, Forest Keepers patrol the open ground, and mansion layouts confuse players who barely know factory loops. You spend twenty minutes inside, get chased out with one gold bar, and realize you paid 550 credits to earn 200.
+
+**Ignoring weather completely.** Clear weather and eclipsed weather on the same moon are two completely different experiences. Eclipsed Experimentation is still manageable. Eclipsed Titan is a meat grinder. Stormy weather makes outdoor travel a lottery — Eyeless Dogs spawn in packs and lightning can kill you before you see them. Flooded turns any mansion into a maze where you cannot hear footsteps over the water. Players who check the moon but not the forecast are playing roulette.
+
+**Thinking expensive moons are always better.** Dine has incredible loot on paper. But Dine also has more vertical outdoor terrain, bigger mansion seeds, and a higher chance of getting lost. If your crew spends fifteen minutes finding the fire exit, that is fifteen minutes of monster spawns you are not looting. Sometimes a fast, clean run on Offense nets more profit per minute than a sloppy run on Dine.
+
+**Bringing the wrong gear for the moon.** Pro-flashlights are almost mandatory on Rend because of snow. Shovels matter more on Titan where Bracken and Thumper density is higher. Radar Boosters are fantastic on March and Dine where mansion corridors look identical. Players who buy random equipment and hope it works end up missing the tools that would have saved them.
+
+## How to Actually Pick a Moon: A Simple Framework
+
+Instead of guessing, run through these three questions in order.
+
+**What is your quota?** This is your budget. If quota is 130, you do not need Titan. You need Experimentation, fast loops, and zero risk. If quota is 900, you need a moon that can drop at least 1,000 credits in scrap, which rules out the free factory moons.
+
+**How many crew members are alive and geared?** A four-player squad with walkie-talkies and flashlights can handle March or Rend. A two-player squad with one flashlight and no comms should probably stick to Vow. If you are down players, downgrade the moon. Solo players can clear Assurance reliably, but Titan solo is a stunt, not a strategy.
+
+**What is the weather?** Check the terminal. Clear or foggy is fine on most moons. Stormy means skip anything above Offense unless your crew is experienced. Eclipsed means stick to Experimentation or Assurance unless you are intentionally chasing a challenge. Flooded on a mansion moon is brutal — water slows movement, masks audio, and makes staircases death traps.
+
+If the answer to any of these questions conflicts with your plan, change the plan. Quota 700 with stormy weather on Rend? Go to March instead, or skip the day. There is no shame in a zero-profit day. There is shame in a minus-gear day.
+
+## The Counter-Intuitive Truth: "Worse" Moons Can Earn More
+
+Here is the thing nobody wants to admit: Assurance is often more profitable than Rend.
+
+It sounds wrong. Rend drops gold bars and painting sets worth hundreds. Assurance drops bottles and keys worth pocket change. But run the math. An average Assurance run takes eight minutes, costs zero credits, and earns 400 credits. That is 50 credits per minute with near-perfect survival.
+
+An average Rend run takes twenty minutes, costs 550 credits, and earns 1,200 credits. That is 32 credits per minute, and your survival rate is maybe 60 percent. Factor in the occasional total loss — dead crew, dropped gear, wasted day — and Assurance wins on consistency.
+
+This is why speedrunners and high-level crews farm Offense and Vow even with quotas in the 600s. They know that two fast, safe runs on a mid-tier moon beats one slow, risky run on a hard moon. Profit per minute matters more than loot per trip. The best moon is the one you survive and complete quickly.
 
 ## Moon Difficulty Rankings
 
@@ -38,330 +68,121 @@ Lethal Company features eight procedurally generated moons, each with unique dif
 
 #### 1. Experimentation (41-Experimentation)
 
-**Overview:** The entry-level moon and the safest place in the game. Experimentation has relatively flat outdoor terrain with short distances between the ship, main entrance, and fire exit. Monster spawns are low, and the indoor facility is small.
+The tutorial moon. Flat outdoor terrain. Short run from ship to main entrance. The facility is a small factory loop with six to ten rooms.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 0 (Free) |
-| Difficulty Rating | 1/10 |
-| Map Size | Small |
-| Indoor Facility Type | Factory |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 200-400 credits |
-| Risk Level | Very Low |
-| Weather Tolerance | Good (all weathers manageable) |
+Monster spawns are forgiving. You will see Snare Fleas, Hoarding Bugs, Hygroderes, and Spore Lizards. Thumpers and Bracken can show up but are rare. Coil-Head almost never appears at low quotas.
 
-**Monster Spawns:**
-| Monster | Spawn Chance | Notes |
-|---------|-------------|-------|
-| Snare Flea | Common | Check ceilings |
-| Hoarding Bug | Common | Avoid eye contact |
-| Hygrodere | Common | Slow, easy to avoid |
-| Thumper | Uncommon | Listen for footsteps |
-| Bracken | Uncommon | Can spawn, rare for this moon |
-| Spore Lizard | Common | Harmless |
-| Coil-Head | Rare | Usually only at higher quotas |
-
-**Map Layout Tips:**
-- The ship faces the main entrance directly. The fire exit is to the right side of the map.
-- Outdoor terrain is mostly flat with some small hills and rocks.
-- The facility interior is compact — one main hallway loop with 6-10 rooms branching off.
-- The apparatus room is typically near the center or end of the main corridor.
-- Minimal dead-end rooms; easy to navigate even without a map.
-
-**Strategy:**
-Experimentation is the best moon for absolute beginners and speed-runners. Because travel is free and risk is low, you can make multiple trips in a day. The optimal strategy is to grab everything quickly, make return trips often, and never push deep into the facility if you hear dangerous monsters. There is no reason to risk death on Experimentation — just make another trip.
+**Strategy:** Run fast, loot everything, leave early. The fire exit sits to the right of the main entrance area. Since travel is free, there is no reason to push deep if you hear something dangerous. Make two or three short trips instead of one long one. Experimentation teaches you audio cues and movement without punishing mistakes.
 
 #### 2. Assurance (21-Assurance)
 
-**Overview:** Assurance is a step up from Experimentation with a slightly larger map and more dangerous layout. The outdoor terrain includes a bridge and a ravine that players can fall into. The fire exit is in an awkward position that requires climbing.
+A step up with real hazards. The outdoor area has a narrow wooden bridge, a ravine you can fall into, and a fire exit on a raised ledge that requires a jump. Forest Keepers and Eyeless Dogs can camp the bridge, making outdoor travel predictable in the worst way.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 0 (Free) |
-| Difficulty Rating | 3/10 |
-| Map Size | Small-Medium |
-| Indoor Facility Type | Factory |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 250-500 credits |
-| Risk Level | Low-Medium |
+Inside, the factory gets vertical. Catwalks, stairs, multi-level rooms, and some floor pits. The apparatus room usually sits on the lower level.
 
-**Unique Hazards:**
-- **The Bridge:** A narrow wooden bridge connects two sections of the map. Forest Keepers or Eyeless Dogs can camp this chokepoint.
-- **The Ravine:** Players can fall off edges and take fall damage. Watch your step when running from monsters.
-- **The Cliff:** The fire exit is on a raised ledge. You need to jump up to reach it, which can be awkward during escapes.
-
-**Map Layout Tips:**
-- The main entrance is in a valley-like area.
-- The fire exit is on a cliff to the left of the main entrance area.
-- Indoor facility has more vertical elements — stairs, catwalks, and multi-level rooms.
-- The apparatus room is often on the lower level.
-- Some rooms have pits in the floor — watch your step.
-
-**Strategy:**
-Assurance is the best "next step" after Experimentation. The loot is slightly better, but the risk from terrain hazards is real. Stick to one or two team members looting while one watches from the ship. The bridge makes outdoor travel predictable, which also means monsters can predict you. Consider placing a Radar Booster at the fire exit as a landmark.
+**Strategy:** Send one player to watch the bridge from the ship while two loot inside. Place a Radar Booster at the fire exit so you can orient yourself when escaping. Do not fight Hoarding Bugs near the ravine — one stagger and you are over the edge. Assurance is the best moon for learning terrain awareness without mansion complexity.
 
 ### Tier 2: Intermediate Moons (Free to Low Cost)
 
 #### 3. Vow (56-Vow)
 
-**Overview:** Vow is a significant difficulty jump. The outdoor map features a massive central ravine that divides the map in two. Jumping across the ravine is risky but sometimes necessary. The indoor facility is larger and has more dangerous monster spawns.
+This is where the game changes. A massive ravine splits the map in half. The main entrance is on one side, the fire exit on the other. Crossing requires jumping narrow rock platforms, and falling means death or a very long walk around.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 0 (Free) |
-| Difficulty Rating | 5/10 |
-| Map Size | Medium |
-| Indoor Facility Type | Factory |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 300-600 credits |
-| Risk Level | Medium |
+Forest Keepers spawn here more consistently than on the free moons. Bracken and Thumper spawn rates go up. The indoor facility is larger with more branch paths.
 
-**Unique Hazards:**
-- **The Giant Ravine:** A massive chasm splits the map. Crossing requires jumping across narrow platforms.
-- **Vertical Terrain:** Lots of hills, cliffs, and uneven ground.
-- **Deep Water:** Some areas have deep water that slows movement.
-
-**Monster Spawns (Notable):**
-Vow has a higher chance of spawning **Forest Keepers** — the giant monsters that can grab and eat players. This is often the first moon where new players encounter them.
-
-| Monster | Spawn Chance | Notes |
-|---------|-------------|-------|
-| Forest Keeper | Uncommon | Can patrol near the ravine |
-| Bracken | Common | Higher spawn rate |
-| Thumper | Common | Tight spaces make them dangerous |
-| Coil-Head | Uncommon | Watch corners |
-| Snare Flea | Common | Check ceilings |
-
-**Map Layout Tips:**
-- Main entrance is on one side of the ravine, fire exit on the other.
-- The indoor facility is larger and has more branch paths.
-- The ravine crossing points are narrow. Practice the jump timing.
-- Trees and rocks provide cover from Forest Keepers.
-
-**Strategy:**
-Vow requires awareness of the outdoor terrain. Do not run blindly — you might fall into the ravine. The fire exit is essential for efficient looting. Assign one player to memorize the ravine crossings. If a Forest Keeper spawns, stay behind trees and move between cover points. The indoor facility has better loot than Experimentation or Assurance, but the outdoor danger makes each trip more costly.
+**Strategy:** Memorize the ravine crossings. One player should scout the outdoor area before the crew commits to crossing. If a Forest Keeper spawns, use trees and rocks as cover — they break line of sight. Inside, stick together. The facility is big enough to get lost in but not so big that splitting the crew is worth it.
 
 #### 4. Offense (5-Offense)
 
-**Overview:** Offense costs 50 credits to travel to and introduces more punishing indoor layouts. The outdoor map is relatively flat, but the indoor facility has complex room generation with more dead ends and trap rooms.
+The first moon that costs credits to visit — 50 per trip. The outdoor area is relatively flat, but the indoor factory generates complex room layouts with more dead ends and trap rooms. Breakable glass floors appear here. Step wrong and you drop into a lower level surrounded by monsters.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 50 credits |
-| Difficulty Rating | 6/10 |
-| Map Size | Medium-Large |
-| Indoor Facility Type | Factory (complex layouts) |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 400-800 credits |
-| Risk Level | Medium-High |
+Monster density jumps. Bracken, Thumper, and Coil-Head are all common. Hoarding Bugs are aggressive and plentiful. Nutcrackers can spawn and drop shotgun shells if you kill them.
 
-**Monster Spawns:**
-Offense has a more diverse monster pool with higher spawn rates for mid-tier threats.
-
-| Monster | Spawn Chance | Notes |
-|---------|-------------|-------|
-| Bracken | Common | Very active on this moon |
-| Thumper | Common | Tight corridors make them lethal |
-| Coil-Head | Common | Multiple can spawn |
-| Hoarding Bug | Very Common | Aggressive on Offense |
-| Snare Flea | Common | Ceiling check required |
-| Nutcracker | Uncommon | Can drop shotgun shells |
-
-**Map Layout Tips:**
-- The main entrance and fire exit are on opposite sides of the outdoor area.
-- Indoor facility has complex room generation — expect more dead ends.
-- The apparatus room is often deep in the facility.
-- Some rooms have breakable glass floors — watch your step.
-
-**Strategy:**
-Offense demands team coordination. The 50-credit cost means you need to extract at least that much value, which is usually easy, but the higher monster density means more deaths. Send a scout ahead to check for monsters before committing the hauler deep into the facility. Keep walkie-talkies charged and maintain constant communication.
+**Strategy:** Coordination is mandatory. Send a scout ahead to check rooms before the hauler enters. Keep walkie-talkies charged. The 50-credit cost is low enough that a bad run does not bankrupt you, but the monster density punishes sloppy play. Offense is the proving ground for mansion moons — if you cannot handle Offense, you are not ready for March.
 
 ### Tier 3: Hard Moons (Expensive Travel)
 
 #### 5. March (20-March)
 
-**Overview:** March costs 150 credits to travel to and marks the transition to hard-mode moons. The facility type shifts from factory to **mansion**, which features a sprawling, multi-story layout with more rooms and more loot. March also has weather-affected outdoor sections.
+March costs 150 credits and shifts the facility type from factory to mansion. Mansions are sprawling, multi-story buildings with fifteen to twenty-five rooms, branching corridors, and enough loot to make your pockets heavy. They are also easy to get lost in, and long corridors give monsters sightlines they do not have in factories.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 150 credits |
-| Difficulty Rating | 7/10 |
-| Map Size | Large |
-| Indoor Facility Type | Mansion (sprawling) |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 600-1200 credits |
-| Risk Level | High |
+Nutcrackers patrol hallways with shotguns. Ghost Girls can appear and haunt individual players. Jesters are deadly in confined mansion corridors. Bracken spawn rates are very high.
 
-**Mansion vs. Factory:**
-Mansion layouts differ significantly from factories:
-
-| Feature | Factory | Mansion |
-|---------|---------|---------|
-| Room Count | 8-15 | 15-25+ |
-| Floors | 1-2 | 2-3 |
-| Corridors | Linear loops | Branching, confusing |
-| Loot Density | Lower | Higher |
-| Navigation | Easier | Easy to get lost |
-| Monster Sightlines | Short | Long corridors |
-
-**Notable Monsters on March:**
-- **Nutcracker:** Common. Patrols mansion hallways carrying a shotgun.
-- **Ghost Girl:** Can appear. She haunts one player and appears only to them.
-- **Jester:** Common. The confined mansion corridors make Jester encounters deadly.
-- **Bracken:** Very common.
-
-**Strategy:**
-March requires understanding mansion layouts. The key to surviving a mansion is **mapping the path from main entrance to fire exit.** Find the fire exit quickly — it is your escape route if monsters cut off the main entrance. Bring a lockpicker (20 credits) to open locked doors for faster navigation. Use walkie-talkies to coordinate positions so the team does not get separated in the maze-like interior.
+**Strategy:** Your first priority inside a mansion is finding the fire exit. Before you loot a single room, map the path from main entrance to fire exit. That route is your lifeline. Bring a lockpicker to open locked doors faster. Use walkie-talkies to call positions so nobody gets separated in the maze. March is where teams learn that communication is a mechanic, not a suggestion.
 
 #### 6. Rend (85-Rend)
 
-**Overview:** Rend is a snowy moon covered in ice and snow, reducing outdoor visibility. At 550 credits per trip, it is a significant investment that requires a high-value payout to be worth it. The loot potential is excellent, but so is the danger.
+Snow everywhere. 550 credits per trip. Reduced outdoor visibility from constant snowfall. Ice patches make movement slippery. The mansion interior is the same type as March but the snow outside means you spend more time exposed and less time sure of your surroundings.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 550 credits |
-| Difficulty Rating | 8/10 |
-| Map Size | Large |
-| Indoor Facility Type | Mansion (snow-covered) |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 800-1800 credits |
-| Risk Level | Very High |
+Monster spawns are elevated across the board. Expect multiple dangerous entities active at once. Eyeless Dog packs are common near the ship. Forest Keepers patrol the open snow.
 
-**Unique Environmental Hazards:**
-| Hazard | Effect |
-|--------|--------|
-| Snow Storm | Heavy snow reduces visibility to near-zero |
-| Ice Patches | Slippery surfaces, reduced mobility |
-| Freezing Temperature | Visual only (no gameplay effect) |
-| Snow Mounds | Can hide drops and terrain changes |
-
-**Monster Spawns (Elevated):**
-Rend has the highest monster spawn rates among hard moons after Titan. Expect multiple dangerous entities simultaneously.
-
-**Strategy:**
-Rend demands premium equipment. Bring Pro-Flashlights for the snow and mansion darkness. The travel cost is steep so **do not go to Rend unless your quota requires it.** The optimal strategy is a full-team coordinated push: two players loot while one guards the ship and one scouts. Sell everything valuable immediately. Do not linger on Rend — get in, get loot, get out.
+**Strategy:** Bring Pro-Flashlights. The default flashlight does not cut through Rend's darkness. Do not go to Rend unless your quota demands it — the 550-credit entry fee means you need at least 800 credits in loot just to break even. Run a full-team coordinated push: two loot, one ship guard, one scout. Get in, get out, do not explore for fun.
 
 #### 7. Dine (7-Dine)
 
-**Overview:** Dine is very similar to Rend in difficulty and layout but costs 600 credits to travel to. The outdoor terrain features more hills and the mansion interior generation can be even more labyrinthine.
+Very similar to Rend but costs 600 credits. The outdoor terrain has more hills and verticality, which sounds like a minor difference until a Forest Keeper crests a hill you did not know was there. Mansion generation on Dine tends toward larger, more complex layouts with extra locked doors.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 600 credits |
-| Difficulty Rating | 8.5/10 |
-| Map Size | Large |
-| Indoor Facility Type | Mansion |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 900-2000 credits |
-| Risk Level | Very High |
-
-**Key Difference from Rend:**
-Dine's outdoor map has more verticality, with hills that can hide approaching monsters. The mansion seed generation on Dine tends to produce larger, more complex layouts with more locked doors.
-
-**Strategy:**
-Same core approach as Rend but with extra caution on outdoor traversal. Place Radar Boosters at key junctions. Assign a dedicated ship operator to manage the door and monitor radar for approaching threats. Dine is only worthwhile when your quota is 700+ and you have good equipment.
+**Strategy:** Same core approach as Rend, but with extra caution outdoors. Place Radar Boosters at outdoor junctions so you can track movement around hills. Assign a dedicated ship operator to manage the door and monitor radar. Dine is only worth it when quota is 700-plus and your team has the gear to survive. Otherwise, you are paying premium prices for premium danger with no guarantee of premium loot.
 
 ### Tier 4: Endgame Moon
 
 #### 8. Titan (8-Titan)
 
-**Overview:** Titan is the hardest, most dangerous, and most lucrative moon in Lethal Company. At 700 credits per trip, it has the highest travel cost but the highest loot potential. The facility type is a unique **laboratory** layout (similar to mansion but with a distinct aesthetic). Monster spawns are at maximum density.
+The hardest, most lucrative, most unforgiving moon. 700 credits per trip. Laboratory layout — a mansion variant with a distinct aesthetic and more open central areas. Monster density is at maximum. If it can spawn, it probably will.
 
-| Statistic | Value |
-|-----------|-------|
-| Travel Cost | 700 credits |
-| Difficulty Rating | 10/10 |
-| Map Size | Very Large |
-| Indoor Facility Type | Laboratory (mansion variant) |
-| Number of Entrances | 2 (Main + Fire Exit) |
-| Average Loot per Run | 1500-3500 credits |
-| Risk Level | Extreme |
+Bracken is almost guaranteed. Multiple Coil-Heads and Thumpers are normal. Nutcrackers, Jesters, Ghost Girls, Eyeless Dogs, Forest Keepers, Snare Fleas, Hoarding Bugs, and Hygroderes all show up regularly. The ship is close to the main entrance, but the fire exit is far, which means escaping through the back is a long outdoor sprint through hell.
 
-**Monster Spawns on Titan:**
+**Strategy:** Only go to Titan when:
 
-| Monster | Spawn Chance | Notes |
-|---------|-------------|-------|
-| Bracken | Guaranteed | Almost always present |
-| Coil-Head | Very Common | Often multiple |
-| Thumper | Very Common | Tight corridors |
-| Nutcracker | Common | Shotgun threat |
-| Jester | Common | Confined spaces = deadly |
-| Ghost Girl | Uncommon | Can end a run |
-| Eyeless Dog | Very Common | Packs near ship |
-| Forest Keeper | Uncommon | Can trap outdoor routes |
-| Snare Flea | Very Common | Check EVERY ceiling |
-| Hoarding Bug | Very Common | Territorial |
-| Hygrodere | Common | Can block corridors |
+- Quota is over 800 credits
+- Everyone has Pro-Flashlights, walkie-talkies, shovels or stun grenades
+- You have a dedicated ship operator watching radar and managing the door
+- Every player knows mansion and laboratory layouts well enough to navigate in the dark
 
-**Map Layout Tips:**
-- The main entrance is close to the ship — a short sprint.
-- The fire exit is farther away, on the opposite side of the facility.
-- The laboratory layout has more open central areas with rooms branching off.
-- Multiple floors with staircases and catwalks.
-- The apparatus room is usually on the lowest level.
+The optimal Titan technique uses an Inverse Teleporter ship upgrade. For 375 credits, it sends a player to a random indoor location, skipping the outdoor gauntlet entirely. Use it to get inside fast, loot aggressively, then exit through the main entrance. Even with perfect execution, Titan runs fail. That is the point.
 
-**Strategy:**
-Titan is the endgame challenge. Only go here when:
-1. Your quota is over 800 credits
-2. Your team has full equipment (Pro-Flashlights, walkie-talkies, shovels, stun grenades)
-3. You have a dedicated ship operator
-4. Everyone knows the mansion/lab layouts well
+## Weather Breakdown by Moon
 
-The optimal Titan run uses an **Inverse Teleporter** (375 credits, ship upgrade). The Inverse Teleporter sends a player to a random indoor location, bypassing the outdoor danger. Use it to get inside quickly, loot aggressively, then use the main entrance to return.
+Weather is not cosmetic. It is a difficulty multiplier.
 
-## Weather Conditions and Moon Selection
+- **Clear:** Baseline. No modifiers. Safe on any moon.
+- **Foggy:** Reduces outdoor visibility. Annoying on free moons, dangerous on hard moons where you need to spot dogs and keepers early. Manageable everywhere except Titan.
+- **Flooded:** Water covers low areas and slows movement. Masks footstep audio. On mansion moons, flooded staircases become death traps. Hard on Vow and above. Skip on Titan and Rend unless you are desperate.
+- **Stormy:** Eyeless Dogs spawn in higher numbers. Lightning can one-shot players outdoors. Very dangerous on Offense and above. Extreme on Rend, Dine, and Titan.
+- **Eclipsed:** Maximum outdoor monster spawns. Almost every dangerous outdoor entity is active. Hard even on Experimentation and Assurance. Extreme on March. Do not touch Rend, Dine, or Titan in eclipsed weather unless you are doing a challenge run.
+- **Dusty:** Reduces visibility slightly. Only appears on early moons. Manageable.
 
-Weather dramatically affects difficulty. Some moons handle weather better than others.
+**Rule of thumb:** If the weather is stormy or eclipsed and the moon costs more than 50 credits to visit, skip the day. The extra risk is not worth the potential reward unless you are intentionally pushing limits.
 
-| Weather | Experimentation | Assurance | Vow | Offense | March | Rend | Dine | Titan |
-|---------|----------------|-----------|-----|---------|-------|------|------|-------|
-| Clear | Safe | Safe | Safe | Safe | Safe | Safe | Safe | Safe |
-| Foggy | Safe | Safe | Medium | Medium | Hard | Hard | Hard | Hard |
-| Flooded | Medium | Medium | Hard | Hard | Hard | Very Hard | Very Hard | Extreme |
-| Stormy | Medium | Medium | Hard | Hard | Very Hard | Extreme | Extreme | Extreme |
-| Eclipsed | Hard | Hard | Very Hard | Very Hard | Extreme | Extreme | Extreme | Extreme |
-| Dusty | Safe | Medium | Hard | Medium | Hard | N/A | N/A | N/A |
+## Travel Cost and Expected Returns
 
-**Rule of thumb:** Avoid eclipsed and stormy weather on any moon above Vow unless you are an experienced team. Flooded on Titan or Rend is a skip.
+Here is the honest math most guides skip.
 
-## Travel Cost Efficiency
+- **Experimentation:** Free. Earns 200-400 per run. Best for quotas under 250.
+- **Assurance:** Free. Earns 250-500 per run. Best for quotas under 300.
+- **Vow:** Free. Earns 300-600 per run. Best for quotas 250-450.
+- **Offense:** 50 credits. Earns 400-800 per run. Best for quotas 300-550.
+- **March:** 150 credits. Earns 600-1,200 per run. Best for quotas 450-700.
+- **Rend:** 550 credits. Earns 800-1,800 per run. Best for quotas 600-900.
+- **Dine:** 600 credits. Earns 900-2,000 per run. Best for quotas 700-plus.
+- **Titan:** 700 credits. Earns 1,500-3,500 per run. Best for quotas 800-plus.
 
-Not all expensive moons are worth it every time. Calculate your expected return:
+Those are averages. Your actual earnings depend on survival rate, run speed, and weather. A crew that dies on Rend every other trip is not earning 1,300 credits per run. They are earning zero on half their runs and losing gear. Match the moon to your consistency, not your ambition.
 
-| Moon | Cost | Minimum Viable Loot | Expected Loot | Profit Margin |
-|------|------|---------------------|---------------|---------------|
-| Experimentation | 0 | 0 | 300 | 300 |
-| Assurance | 0 | 0 | 400 | 400 |
-| Vow | 0 | 0 | 500 | 500 |
-| Offense | 50 | 100 | 600 | 550 |
-| March | 150 | 300 | 900 | 750 |
-| Rend | 550 | 800 | 1300 | 750 |
-| Dine | 600 | 900 | 1500 | 900 |
-| Titan | 700 | 1000 | 2500 | 1800 |
+## FAQ
 
-**When to switch moons:**
-- **Quota 130-250:** Stick to Experimentation and Assurance
-- **Quota 250-450:** Add Vow and Offense
-- **Quota 450-700:** Add March, occasionally Rend
-- **Quota 700+:** Titan becomes viable, Rend and Dine for backup days
+**What is the easiest moon for beginners?**
+Experimentation. Free travel, flat terrain, small facility, low monster count. It is where you learn the game without the game punishing you for learning.
 
-For a profit-focused ranking of every moon by scrap value, risk, and credits per minute, see our [Lethal Company Moons Profit Tier List](/posts/lethal-company/moons-profit-tier-list/).
+**Should I skip a day if the weather is bad?**
+Almost always yes. Eclipsed and stormy weather multiply danger far more than they multiply loot. On expensive moons, bad weather turns a profitable run into a gear-loss disaster. Skipping costs nothing. Dying costs everything.
 
-## Conclusion
+**Is Titan ever worth the 700 credit travel cost?**
+Only at endgame. Quota above 800, full gear, experienced crew, and preferably an Inverse Teleporter. Titan is designed to be the final challenge. It is not a moneymaker — it is a test. Pass it and you hit quota. Fail it and you restart from March.
 
-Moon selection is the foundation of every successful Lethal Company run. Match the moon to your team's skill level, equipment, and quota needs. Never pay for a moon you cannot extract value from, and never underestimate how much weather can increase difficulty.
+## Related Guides
 
-The progression path is clear: master Experimentation, learn the factory layouts on Assurance and Vow, then graduate to mansion moons once you understand monster behavior and team coordination. Titan awaits those ready for the ultimate challenge.
-
----
-
-### Related Guides
-
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
-- [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
-- [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
-- [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
-- [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
+- [Lethal Company Quota Management and Optimization Guide](/posts/lethal-company/quota-management-optimization-guide/)
 - [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
+- [Lethal Company Weather and Conditions Guide](/posts/lethal-company/weather-and-conditions-guide/)
+- [Lethal Company Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/)
