@@ -1,8 +1,8 @@
 ---
-title: "SNIPE Map Strategies & Advanced Tips: Positioning, Angles & Pro Techniques (2026)"
-description: "Master every SNIPE map with detailed positioning guides, sightline breakdowns, advanced movement combos, and pro-level techniques to dominate 1v1 and team matches."
+title: "SNIPE Maps & Strategies Guide: Callouts, Power Positions & Pro Rotations (2026)"
+description: "Master every SNIPE map with detailed callouts, power positions, rotation paths, and map-specific tactics. Learn pro-level positioning and team coordination for every mode."
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-07-01
 draft: false
 tags: ["SNIPE", "Roblox", "FPS", "Map Guide", "Advanced Tips", "Positioning", "Strategy", "snipe map strategies"]
 categories: ["Roblox Guides"]
@@ -14,233 +14,221 @@ cover:
 comments: true
 howto:
   steps:
-    - name: "Learn Sightline Priority on Each Map"
-      text: "Every SNIPE map has 3-5 high-traffic sightlines where most eliminations occur. Identify these lanes first — they're typically long corridors, gaps between cover, or elevated positions overlooking spawn areas. Control one sightline at a time rather than running between multiple."
-    - name: "Master the Peek-Shot-Reposition Cycle"
-      text: "Never peek the same angle twice. The cycle is: scope behind cover → peek out → fire → immediately wall run or slide to a different angle. If you miss, do NOT stand there cycling the bolt — move first, bolt while moving, then re-scope from a new position."
-    - name: "Control Power Positions"
-      text: "Each map has 1-2 power positions (elevated areas with wide sightlines and hard flank routes). Control these to dominate the match. But be predictable — good opponents will pre-aim power positions. Use them for 1-2 kills, then rotate away."
-    - name: "Adapt Ability to Map"
-      text: "On Cargo (large, many angles), use Target to track enemy positions across the container maze. On tighter maps, use Thunder Dash to chain stuns through corridors. On maps with long central lanes, Forcefield gives you a free peek advantage."
+    - name: "Learn the 3-5 Hot Angles Per Map"
+      text: "Every map has a handful of high-traffic sightlines where most fights happen. Spend your first few matches just watching where people die. Those spots are your priority."
+    - name: "Build a Rotation Plan"
+      text: "Never hold the same angle twice in a row. After every shot or every 3 seconds of scouting, move. Map out two escape routes from every position you use."
+    - name: "Listen Before You Peek"
+      text: "Footsteps in SNIPE are loud and directional. Stop sprinting 5 seconds before you peek an angle. That silence gives you the first shot."
+    - name: "Adapt to Your Team's Position"
+      text: "Solo aggression fails when your team is spawning behind you. Check the mini-map, listen for teammate gunfire, and rotate toward the gaps they leave open."
   tools:
     - "Target ability (large maps, intel gathering)"
     - "Thunder Dash ability (tight maps, aggressive entry)"
     - "Forcefield ability (long lanes, defensive peeking)"
     - "Wall run + slide combo (repositioning after shots)"
 faq:
-  - question: "What is the hardest mechanic to master in SNIPE?"
-    answer: "The peek-shot-reposition cycle. Most players can aim. Most players can move. Very few can seamlessly chain: scope behind cover → peek → fire → slide cancel → wall run → re-scope — all in under 3 seconds. Drill this cycle in Free-for-All until it becomes automatic."
-  - question: "How do I win more 1v1 duels in SNIPE?"
-    answer: "Stop re-peeking the same angle. After every shot (hit or miss), change your position. The player who fires from an unexpected angle wins the duel. Additionally, use audio — footsteps are loud in SNIPE, and you can hear an enemy pushing before you see them."
+  - question: "What is the best map for learning SNIPE fundamentals?"
+    answer: "Cargo. It has a bit of everything — long lanes, elevation, tight corners, and flank routes. If you can control tower without camping it, you understand the core loop of SNIPE positioning."
+  - question: "How do I stop getting flanked on every map?"
+    answer: "You are probably over-committing to one angle. The golden rule is: take one shot, then move. Also, check your spawn. If your team just respawned on the opposite side of the map, the enemy is now behind your old position. Rotate back toward your team instead of deeper into enemy territory."
+  - question: "Should I use the same power position every round in 1v1 Duels?"
+    answer: "Absolutely not. Power positions win you round one. Round two, your opponent pre-aims that exact spot. Use a power position for one pick, then rotate to a secondary angle that covers the approach to that power position. Let them walk into your scope while hunting your old spot."
 ---
 
-Map knowledge is what turns a good sniper into a dominant one. You can have the fastest quickscope on the server, but if you're holding the wrong angle on the wrong map against the wrong ability — you lose.
+You round the corner on Metro platform B with your crosshair already hugging the pillar edge. Two enemies barrel out of the tunnel, sprinting toward mid — completely silent on their own screens, but their footsteps echo off the tile walls like a warning siren. You do not panic-scope. You already know the pillar gives you a 1-stud wide pixel peek they cannot see from the tunnel. One shot. Two shots. Double elimination. They never even knew where it came from.
 
-This guide covers every map's key sightlines, power positions, and the advanced techniques that separate top players from the rest.
+That is not aim. That is map knowledge winning the fight before the first bullet leaves the barrel.
+
+This guide breaks down every major SNIPE map — Cargo, Metro, and Warehouse — with callouts, power positions, rotation paths, and the specific mistakes that cost players rounds they should have won.
 
 ---
 
-## Universal Map Principles
+## The Mistakes That Lose Games
 
-Before breaking down individual maps, these rules apply everywhere:
+Before we talk about where to stand, let us talk about where standing still gets you killed.
 
-### The Three-Second Rule
+**Auto-piloting the same route every spawn.** You spawn, you sprint to tower, you die. You spawn, you sprint to tower, you die. SNIPE punishes repetition harder than almost any Roblox FPS. If you have taken a path three times in one match, the enemy is pre-aiming it. Guaranteed.
 
-Never stay scoped on one angle for more than three seconds. After three seconds:
-1. You've been spotted (scope glint)
-2. Someone is flanking you
-3. Your Target-using opponent knows exactly where you are
+**Ignoring audio cues for specific zones.** Metro's tunnels amplify footsteps. Warehouse's metal rafters make a distinct clang when someone walks them. Cargo's shallow water lets you move with zero audio. Players who play with music on or who never stop sprinting hand the enemy a free wallhack.
 
-Scope → assess → fire or don't fire → **move**. The move is not optional.
+**Not adapting to spawn positions.** Your team just got wiped and respawned on the west side. You are still pushing east. That means the entire enemy team is now between you and your teammates. You are not flanking — you are surrounded. Good players check the scoreboard and listen for teammate spawns before they commit to a push.
 
-### Sightline Hierarchy
+---
 
-On every map, sightlines have a natural priority:
+## How to Choose a Rotation Path
 
-| Priority | Type | Example | Danger Level |
-|----------|------|---------|-------------|
-| 1 | Long central lane | Main corridor, open courtyard | Highest traffic, most deaths |
-| 2 | Elevated overlook | Rooftop, container top | Controls priority 1 lanes |
-| 3 | Flank route | Side alley, back corridor | Low traffic, high value |
-| 4 | Spawn area | Team spawn zone | Predictable, avoid camping here |
+Rotation in SNIPE is not random movement. It is a decision tree you run every 5-10 seconds.
 
-**Rule**: Spend 60% of your time watching priority 2 positions (elevated overlooks) because they control priority 1 lanes. Spend 30% rotating through priority 3 routes. Spend 10% checking priority 1 directly.
+Start by asking three questions:
 
-### Audio Is a Wallhack
+- **Which zones does my team control?** If you own mid and east, your rotation should reinforce west or cut off enemy flanks from north.
+- **Where did I last fire from?** Every shot paints a target on that position. Your next angle should be at least 45 degrees away, preferably on the opposite side of the map's centerline.
+- **What ability is off cooldown?** If Target is ready, you can afford a riskier rotation through open space because you will see enemies before they see you. If everything is on cooldown, hug walls and use flank routes.
 
-SNIPE's footstep audio is loud and directional. With headphones, you can:
-- Hear an enemy sprinting from ~40 studs away
-- Identify which surface they're on (metal vs. concrete sounds different)
-- Hear the distinct sound of a scope-in (sharp click) from ~25 studs
-- Track a wall-running enemy by the scraping sound
+Here is the framework in practice. You are on Cargo, holding central tower. You take a shot at someone in the east container row. They know you are on tower. Do not drop down the ladder — that is where they are pre-aiming. Instead, wall run along the tower's back face, drop onto the west walkway, and re-engage from a completely different sightline. The rotation took 4 seconds. Their crosshair is still on the ladder.
 
-**Turn off in-game music.** Footstep audio is your second-best information source after your own eyes.
+---
+
+## The Counter-Intuitive Play
+
+Sometimes the worst position on the map is the best one because nobody checks it.
+
+On Metro, the open tracks between platforms look like a death trap. No cover, long sightlines, complete exposure. But in a 1v1 endgame with 10 seconds left, standing on the tracks behind a pillar — not on the platform, but down on the rails — breaks every pre-aim in the book. Your opponent clears platform corners, checks the catwalk, peeks the tunnel. They do not look down.
+
+On Warehouse, the ground floor is a slaughterhouse. Everyone fights from the office windows or the rafters. But crouched behind the forklift on the north wall, you have a clean sightline through the entire open floor, and the glare from the skylight above masks your scope glint. It is a trash position for a firefight, but a genius position for one free pick.
+
+The rule: if a spot feels too obvious or too stupid, test it for one round. The surprise factor often beats pure cover.
 
 ---
 
 ## Cargo
 
-**Size**: Large | **Best Abilities**: Target, Forcefield | **Best Mode**: Team Deathmatch, FFA
+**Size:** Large | **Best Abilities:** Target, Forcefield | **Best Modes:** Team Deathmatch, FFA
 
-Cargo is the launch map and the most balanced. Shipping containers create a maze of angles, with elevated walkways overlooking the central yard.
+Cargo is the launch map and still the most balanced classroom for learning SNIPE. Shipping containers create a maze of vertical and horizontal angles, with elevated walkways overlooking the central yard.
 
-### Key Sightlines
+### Key Callouts and Sightlines
 
-| Position | What It Sees | Risk |
-|----------|-------------|------|
-| Central tower | Entire yard + both side lanes | Very high — everyone checks here |
-| Container row (east) | Flank route behind tower | Medium — good for surprise picks |
-| Elevated walkway (west) | Central yard + tower | High — exposed but powerful |
-| Spawn warehouse roof | Approaching enemies from spawn | Low — but limited sightline |
+- **Central Tower** — sees the entire yard and both side lanes. It is the most powerful and most pre-aimed spot on the map. Use it for one shot, then leave.
+- **East Container Row** — a long line of blue containers with 1-stud gaps between them. You can shoot through these gaps, and enemies rarely expect it.
+- **West Walkway** — elevated catwalk running the length of the west wall. Covers mid yard and tower flank, but you are exposed from the spawn warehouse roof.
+- **Spawn Warehouse Roof** — low risk, low reward. Good for catching enemies rotating out of their spawn, but you cannot see mid from here.
+- **Crane Hook (East)** — climbable. Not many players know this. It gives you an off-angle over the east container row that looks directly into tower.
 
-### Cargo Power Position: Central Tower
+### Cargo Power Position: Central Tower (Used Correctly)
 
-The tower in the middle of the map sees everything. But it's also the most pre-aimed position in the game. How to use it:
+The tower is not a home. It is a drive-by.
 
-1. Climb the tower
-2. Pop Target to check enemy positions
-3. Take ONE shot (hit or miss, doesn't matter)
-4. Immediately wall run off the tower to a container
-5. Rotate to container row for your next angle
+1. Climb up and immediately pop Target.
+2. Take one shot on the best target you see.
+3. Wall run off the back face toward the west walkway or drop to the container maze.
+4. Re-engage from East Container Row or the crane hook.
 
-Do NOT camp the tower. Every death you've ever had on Cargo was probably from someone shooting you off that tower.
+If you stay longer than 5 seconds, you will hear a Thunder Dash followed by a shotgun blast. That is the sound of someone punishing your camping.
 
-### Cargo-Specific Tips
-- Containers have gaps between them — you can shoot through 1-stud gaps
-- The crane hook near the east side is climbable, providing an unexpected angle
-- The water along the map edge is shallow — you can walk through it silently (no footstep audio)
+### Cargo-Specific Tactics
 
----
-
-## Additional Maps (Added Post-Launch)
-
-SNIPE launched with Cargo as the primary map, with additional maps being added through weekly updates. The following principles apply to any new map:
-
-### Learning a New Map in 5 Matches
-
-| Match | Focus |
-|-------|-------|
-| 1 | Walk the entire map. Don't shoot. Find every ladder, climbable surface, and doorway. |
-| 2 | Identify the 3 busiest sightlines by watching where teammates die. |
-| 3 | Find flank routes that bypass those 3 sightlines. |
-| 4 | Test power positions — where can you see the most lanes from one spot? |
-| 5 | Play normally, rotating through the positions you mapped in matches 1-4. |
+- The water along the map's southern edge is shallow. Walk through it and you make zero footstep noise. It is the best rotation path when you are low on health and need to disappear.
+- Containers have tiny gaps at the corners. Learn the two or three gaps that align with common head-level positions. You can wall-bang without exposing yourself.
+- Never slide into the central yard from the east ramp. It is the most predictable entry on the map. Use the water path or the container gaps instead.
 
 ---
 
-## Advanced Techniques
+## Metro
 
-### The Silent Peek
+**Size:** Medium | **Best Abilities:** Thunder Dash, Target | **Best Modes:** 1v1 Duels, Team Deathmatch
 
-Normally, peeking a corner makes footstep audio. The Silent Peek avoids this:
-1. Walk (don't sprint) toward the corner
-2. Scope in WHILE behind cover
-3. Strafe out (A or D) while already scoped — strafing produces no footstep audio
-4. Fire
-5. Strafe back behind cover
+Metro is a three-lane map disguised as a maze. Two platforms run parallel, connected by a central tunnel and two end tunnels. The trains sitting on the tracks are not just cover — they define every sightline.
 
-The enemy never heard you peek. They only saw your glint for ~0.3 seconds.
+### Key Callouts and Sightlines
 
-### The B-Hop Scope
+- **Platform A (North)** — the longer platform with the broken ticket booth. Great for long angles down the east tunnel, but vulnerable to flankers coming through the central stairwell.
+- **Platform B (South)** — has the maintenance closet and the climbable light fixtures. The light fixtures are the best off-angle on the map. Most players never look up.
+- **Central Tunnel** — the lowest point on the map. Whoever controls the tunnel stairs controls the flow between platforms. It is a chokepoint, not a hangout spot.
+- **East Tunnel** — long, straight, and deadly. If you must cross it, slide-jump and wall run along the ceiling pipes. Never walk.
+- **West End** — dark and narrow. Perfect for Thunder Dash rushes because the ability's audio gets swallowed by the tunnel reverb.
 
-Chain bunny hops while scoping in mid-air:
-1. Sprint → jump → begin b-hop chain
-2. On the second or third hop (when speed is highest), scope in at the peak of your jump
-3. Fire at the apex
-4. Land and continue b-hopping
+### Metro Power Position: Platform B Lights
 
-This makes you nearly impossible to hit while still delivering an accurate shot. Practice this in Free-for-All until you can hit 3/10 shots — at that rate, it's worth using in real matches because you effectively can't be killed while doing it.
+Climb the light fixtures above Platform B. You are silhouetted against the station ceiling, which sounds bad, but the broken neon creates visual noise that hides your model. From here you see:
 
-### Wall Run Peek
+- The entire east tunnel exit
+- The central stairs
+- Players peeking from Platform A ticket booth
 
-Wall running changes your vertical position unpredictably:
-1. Sprint toward a wall near a corner
-2. Wall run parallel to the corner
-3. At the peak of the wall run, scope and fire over/around the corner
-4. Land on the other side of the corner
+The counter is a wall run from the east tunnel directly at you, so relocate to the maintenance closet roof after one or two kills.
 
-The enemy expects you at head height on the ground. They get shot from someone 10 studs up on a wall.
+### Metro-Specific Tactics
 
-### Reload Slide Cancel
+- Footsteps echo. If you hear metal screeching, someone is on the tracks. If you hear muffled thuds, they are in the tunnels. Use this to pre-aim before you ever see them.
+- The trains have windows. You can shoot through them, and the glass does not slow bullets. Use this to tag players hiding behind the train cars.
+- In 1v1 Duels, never start a round on Platform A. It is the default spawn-side position. Instead, drop to the tracks immediately and take the west tunnel to Platform B. You will catch 90% of opponents still setting up their crosshair on the ticket booth.
 
-The reload animation is 2.5 seconds of vulnerability. You can maintain mobility during it:
-1. Fire → bolt cycle starts
-2. During the bolt cycle, slide in any direction
-3. The slide animation overrides the upper body lock from the bolt cycle
-4. You're now fully mobile with a loaded rifle
+---
 
-This is also useful during full reloads — slide every ~0.8 seconds to stay evasive.
+## Warehouse
 
-### The Fake Retreat
+**Size:** Medium-Large | **Best Abilities:** Forcefield, Dash | **Best Modes:** Team Deathmatch, FFA
 
-Bait aggressive players into overextending:
-1. Fire at an enemy (intentionally miss)
-2. Immediately turn and sprint away (loud footsteps)
-3. After 2 seconds of sprinting, slide and 180° turn
-4. Scope in on the spot where you just were
+Warehouse is an open box with a ceiling problem. The ground floor is a killing field of pillars and pallets, while the office windows and rafters overlook everything. Elevation wins here.
 
-The enemy hears you "retreating" and pushes forward — directly into your scope.
+### Key Callouts and Sightlines
+
+- **Office Windows (South)** — two broken windows overlooking the open floor. The most contested spot on the map. Whoever holds these windows shuts down half the ground floor.
+- **Rafters (Ceiling)** — metal beams running east-west. You can walk them, but every step clangs. Crouch-walk to stay silent, or accept the noise and use it as bait.
+- **Forklift (North Wall)** — the "stupid" position that works. Crouch behind it for a sightline through the entire south half of the floor.
+- **Loading Dock (East)** — elevated and covered. Great for spawn protection, bad for mid control because the pillars block your view.
+- **Pillar Maze (Center)** — eight concrete pillars creating a grid. Never fight inside the grid. Use the pillars to block line of sight while rotating, but never stop between them.
+
+### Warehouse Power Position: Rafters Over Office
+
+Get onto the rafters directly above the office. From here you can drop down onto window holders, or shoot down through the skylight gaps. Most players on the ground floor never check straight up. The risk is a Thunder Dash player who knows the wall run route up. If you hear the ability charge, immediately drop to the office floor — do not fight on the beams.
+
+### Warehouse-Specific Tactics
+
+- The skylight casts a glare from the south. If you are looking north from the office, you are backlit and easy to see. If you are looking south from the rafters, enemies are silhouetted. Always fight with the light behind you.
+- Forcefield is strongest on the ground floor. Drop it between two pillars and you create a no-scope zone that forces enemies to rotate into your teammate's crosshair.
+- In FFA, spawn and immediately go up. The first 10 seconds of a Warehouse match are a ground-floor bloodbath. Let them kill each other, then pick the survivors from the rafters.
 
 ---
 
 ## 1v1 Duel Strategy
 
-1v1 Duels are best-of-5 rounds with no respawns. The dynamic is completely different from team modes.
+1v1 Duels are best-of-5 with no respawns. The mental game matters more than your K/D.
 
-### Round Structure
+**Round 1 is everything.** Use your safest strategy and your best ability. Going 1-0 up forces the opponent to adapt, which means they are reacting instead of executing.
 
-| Round Phase | Duration | What to Do |
-|-------------|----------|------------|
-| Opening | First 10s | Move to your chosen position, pop ability if off cooldown |
-| Mid-round | 10-45s | Probe angles, gather audio intel, look for glint |
-| Endgame | 45s+ | If no engagement yet, both players are holding — make the first move |
+**Change positions every single round.** If you won from Platform B lights in round 1, round 2 you go to the Metro tracks or the maintenance closet. Never let them pre-aim your last spot.
 
-### Duel-Specific Tips
+**Ability cooldowns persist between rounds.** If you burned Thunder Dash to win round 1, you might not have it at the start of round 2. Play conservative until it is back.
 
-1. **Win round 1 at all costs** — The mental advantage of being 1-0 up in a best-of-5 is real. Use your best ability and play your safest strategy in round 1.
-
-2. **Ability rotation matters** — Your ability cooldown persists between rounds. If you use Thunder Dash in round 1, it may still be on cooldown at the start of round 2. Track your cooldowns.
-
-3. **Change positions every round** — If you won round 1 from the east tower, the enemy will pre-aim east tower in round 2. Go somewhere completely different.
-
-4. **The 30-second rule** — If neither player has fired by the 30-second mark, the first person to move usually loses. Unless you have Target. Pop it, find them, and pre-fire their position.
+**The 30-second rule.** If nobody has fired by 30 seconds, the first player to move usually loses — unless you have Target. Pop it, find them, and pre-fire their position before they can react.
 
 ---
 
-## Team Deathmatch: Role-Based Play
+## Team Deathmatch Roles
 
-In 6v6 TDM, not everyone should play the same way.
+In 6v6 TDM, not everyone should peek the same angle.
 
-| Role | Ability | Job |
-|------|---------|-----|
-| **Anchor** | Forcefield | Hold defensive angles near spawn, protect flank routes |
-| **Slayer** | Thunder Dash | Push enemy positions, create chaos, trade kills |
-| **Intel** | Target | Call out enemy positions, track rotations |
-| **Flex** | Dash | Fill gaps, rotate between anchor and slayer as needed |
+- **Anchor** (Forcefield) — holds defensive angles near spawn and covers the flank route nobody wants to watch. Your job is to stay alive and call out pushes.
+- **Slayer** (Thunder Dash) — creates chaos. You push enemy positions, trade one-for-one at worst, and force the enemy to look at you while your Anchor lines up free shots.
+- **Intel** (Target) — you do not need the most kills. You need the most information. Call rotations, track the enemy Anchor, and tell your Slayer where to dash next.
+- **Flex** (Dash) — fill the gap. If your Anchor died, hold the flank. If your Slayer is pinned, create a distraction. Flex players win TDMs.
 
-A balanced team has 2 Anchors, 2 Slayers, 1 Intel, and 1 Flex. If your team is all Slayers, you'll get picked off by a coordinated defense. If all Anchors, you'll get flanked and surrounded.
+A balanced team runs two Anchors, two Slayers, one Intel, and one Flex. Six Slayers lose to coordination every time.
 
 ---
 
-## Practice Routine for Improvement
+## Practice Routine
 
-Spend 30 minutes before ranked sessions on this drill:
+Spend 20 minutes before ranked on these drills:
 
-| Minutes | Drill |
-|---------|-------|
-| 0-5 | Free-for-All — no scoping, knife only. Forces movement and close-range survival. |
-| 5-10 | Empty server — b-hop chain practice. See how many consecutive hops you can maintain. |
-| 10-15 | Empty server — wall run quickscope on static targets (pick landmarks, shoot them while wall running). |
-| 15-25 | Free-for-All — ability only. Use Thunder Dash for 10 minutes, then Target for 10. Deliberately practice one ability at a time. |
-| 25-30 | 1v1 Duels — 5 rounds against a friend or random. Apply everything. |
+- **Minutes 0-5:** Empty server. Run every map without shooting. Find three new climbable spots or gaps you have never used.
+- **Minutes 5-10:** Free-for-All with only your knife. Forces you to learn escape routes and survival angles.
+- **Minutes 10-15:** Empty server. Practice the peek-shot-reposition cycle on a landmark. Scope, fire, slide cancel, wall run, re-scope. Do it until your hands move before your brain decides.
+- **Minutes 15-20:** One 1v1 Duel. Apply one new position from your first drill. Win or lose, note why.
+
+Map knowledge beats aim in SNIPE. You can miss a shot and reposition. You cannot out-aim a player who already knows where your head will be.
 
 ---
 
-SNIPE rewards the player who moves better, not just aims better. Learn the maps, master one ability at a time, and never stop repositioning.
+## Frequently Asked Questions
 
-**Related Guides:**
+**What is the best map for learning SNIPE fundamentals?**
+Cargo. It has a bit of everything — long lanes, elevation, tight corners, and flank routes. If you can control tower without camping it, you understand the core loop of SNIPE positioning.
 
-- [SNIPE Beginner Guide: Controls, Movement & Getting Started](/posts/snipe/snipe-beginner-guide/)
-- [SNIPE Weapons & Abilities Guide: Best Loadouts](/posts/snipe/weapons-abilities-guide/)
-- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/posts/snipe/game-modes-guide/)
-- [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)
+**How do I stop getting flanked on every map?**
+You are probably over-committing to one angle. The golden rule is: take one shot, then move. Also, check your spawn. If your team just respawned on the opposite side of the map, the enemy is now behind your old position. Rotate back toward your team instead of deeper into enemy territory.
+
+**Should I use the same power position every round in 1v1 Duels?**
+Absolutely not. Power positions win you round one. Round two, your opponent pre-aims that exact spot. Use a power position for one pick, then rotate to a secondary angle that covers the approach to that power position. Let them walk into your scope while hunting your old spot.
+
+---
+
+## Related Guides
+
+- [SNIPE Map Callouts & Communication Guide](/posts/snipe/map-callouts-communication-guide/)
+- [SNIPE Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/)
+- [SNIPE Solo vs Squad Guide](/posts/snipe/solo-vs-squad-guide/)
+- [SNIPE Weapons & Abilities Guide](/posts/snipe/weapons-abilities-guide/)
