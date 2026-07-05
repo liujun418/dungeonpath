@@ -5,12 +5,27 @@ cover:
   image: "/cover-image/doors-modifiers/cover.webp"
   alt: "DOORS Modifiers Guide — Why You Keep Activating 'Bad Time' Thinking It's Free Knobs"
   caption: "DOORS Modifiers Guide"
-lastmod: 2026-06-22
+lastmod: 2026-07-05
 draft: false
-description: "You clicked every modifier that sounded easy, walked through Door 1, and died to Rush before you found the first closet. DOORS modifiers aren't difficulty sliders — they're a risk/reward system where stacking the wrong combos creates unwinnable scenarios. Learn which modifiers are actually free, which combos will kill you at Door 1, and the modifier loadout framework that maximizes knob gain while keeping runs survivable."
+description: "Stop dying at Door 1. Learn which DOORS modifiers are free knobs, which combos are death traps, and the loadout framework that actually maximizes your payout."
 tags: ["DOORS", "Roblox", "Game Modes"]
 category: "Roblox Guides"
+faq:
+  - question: "Can I use modifiers in multiplayer?"
+    answer: "Yes. The host picks modifiers and all players share the effects. Multiplayer makes Soundproofed harder because team comms get garbled, but makes Lights Out easier since someone can hold a flashlight while you scout."
+  - question: "Do modifiers affect The Mines or other floors?"
+    answer: "As of 2026, modifiers are Hotel-only. Future updates may extend them to other floors, but for now you can only activate them in the Hotel run."
+  - question: "Can I earn Not Five Stars with any 5 modifiers?"
+    answer: "Yes, any combination of 5 or more modifiers counts. The easiest 5-stack avoids Lights Out and Soundproofed together."
+  - question: "Are knobs from failed runs salvageable?"
+    answer: "No. A failed run pays zero regardless of multiplier. This is why the multiplier times completion rate equation matters more than raw multiplier."
+  - question: "Does the modifier multiplier apply to secret endings?"
+    answer: "Yes. Crucifix-ending runs under high multipliers pay the maximum knob value — the highest single-run payouts in the game."
+  - question: "Is Hotel Hell easier solo or in multiplayer?"
+    answer: "Hotel Hell is generally easier in coordinated multiplayer because teammates' voices substitute for the dampened audio. In solo, you rely entirely on memory and visual cues."
 ---
+
+> **Last updated: July 5, 2026**
 
 ## The Door 1 Wipe That Should Be Impossible
 
@@ -50,15 +65,17 @@ A free modifier is one whose printed cost matches its real cost — no hidden in
 
 Stack any two of these and you get 1.88x or 2.25x for a run that feels almost identical to vanilla. That's the floor of efficient farming.
 
-## The Counter-Intuitive Pick: Soundproofed Solo Is Easier Than Lights Out Solo
+## Counter-Intuitive Advice the Community Gets Wrong
 
-Common DOORS advice says Soundproofed is the hardest modifier because audio cues are critical. This is true in multiplayer, where your teammates' voices replace the missing audio. In solo, it's backwards.
+Most modifier advice you hear in lobby chat or casual guides comes from multiplayer experiences, and multiplayer distorts the difficulty of several modifiers in ways that solo players never think about. Here are the picks that look wrong on paper but are actually correct.
 
-Lights Out forces you to walk into a fight blind. You don't see Rush coming, you don't see Screech's face appear, you don't see the door frames vibrating, you don't see room layouts. Your flashlight battery becomes the run's resource economy and it runs out.
+**Soundproofed solo is easier than Lights Out solo.** Common advice says Soundproofed is the hardest modifier because audio cues are critical. This is true in multiplayer, where your teammates' voices replace the missing audio. In solo, it's backwards. Lights Out forces you to walk into a fight blind. You don't see Rush coming, you don't see Screech's face appear, you don't see the door frames vibrating, you don't see room layouts. Your flashlight battery becomes the run's resource economy and it runs out.
 
-Soundproofed leaves all your visual tools intact. You can still see Rush's flickering light approach down the hallway. You can still see Screech's distortion before he attacks. You can still see the Figure's movements. What you lose is the early warning — but if you play with your camera consistently sweeping (which experienced players already do), you replace audio warnings with visual ones at minimal cost.
+Soundproofed leaves all your visual tools intact. You can still see Rush's flickering light approach down the hallway. You can still see Screech's distortion before he attacks. You can still see the Figure's movements. What you lose is the early warning — but if you play with your camera consistently sweeping (which experienced players already do), you replace audio warnings with visual ones at minimal cost. The implication: solo runners who want a high multiplier without going to true Hotel Hell should pick Soundproofed (2.0x) over Lights Out (1.5x). Same approximate difficulty, higher payout. Most guides have this backwards because they're written from a multiplayer perspective.
 
-The implication: solo runners who want a high multiplier without going to true Hotel Hell should pick Soundproofed (2.0x) over Lights Out (1.5x). Same approximate difficulty, higher payout. Most guides have this backwards because they're written from a multiplayer perspective.
+**Wet Floor is harder than Last Breath in the Greenhouse.** Last Breath gets the scary 1.75x multiplier and the intimidating Seek chase extension, so players treat it with respect. Wet Floor gets the gentle 1.25x and the mild-sounding "slippery" description, so players treat it as filler. But in the Greenhouse (Doors 50-70), where walkways are narrow and precise movement is mandatory, Wet Floor's 50% extended stopping distance turns every corner into a potential fall. Last Breath doesn't change the Greenhouse at all. If your run plan includes a lot of Greenhouse time, Wet Floor is the more dangerous pick despite the lower multiplier.
+
+**Rent's Due punishes bad players more than hard modifiers do.** A player who takes damage constantly and heals through mistakes will be destroyed by Rent's Due because the heals simply aren't there. But a player who already avoids damage — who treats every entity encounter as a puzzle to solve perfectly — barely feels Rent's Due. This means Rent's Due is actually a difficulty filter, not a difficulty increase. If you're good enough to consider modifiers at all, Rent's Due is probably free for you. If you're not, it's the most punishing modifier in the list despite its modest 1.5x.
 
 ## Modifier Catalog: What Each One Actually Does
 
@@ -76,7 +93,7 @@ Screech everywhere, including rooms he normally avoids. Look-away reaction windo
 
 ### Wet Floor (1.25x)
 
-Movement gets slippery. Stopping distance up ~50%. The lowest multiplier because the printed effect is mild, but the hiding-spot interaction is severe. Avoid stacking with high-pressure modifiers.
+Movement gets slippery. Stopping distance up ~50%. The lowest multiplier because the printed effect is mild, but the hiding-spot interaction is severe. Avoid stacking with high-pressure modifiers. Dangerous in Greenhouse, harmless in open rooms.
 
 ### Last Breath (1.75x)
 
@@ -107,6 +124,24 @@ Knob values by stack:
 | Hotel Hell+ | 9–13x | 5% | 80 |
 
 Three modifiers is the efficient frontier for most players. Past that, you're paying knobs for bragging rights, not gold.
+
+## The Decision Framework: How to Choose Your Loadout
+
+Most players pick modifiers by reading the multiplier and clicking what sounds tolerable. This is backwards. The correct process is a three-pillar check that prevents unwinnable combinations before you ever spawn in.
+
+**The three pillars are Movement, Senses, and Economy.** Every modifier attacks one of these pillars:
+
+- **Movement pillar:** Wet Floor (slippery stopping distance)
+- **Senses pillar:** Lights Out (vision), Soundproofed (audio)
+- **Economy pillar:** Rent's Due (items), Bad Ventilation (tempo/looting time), El Goblino's Payback (concentration/looting time)
+
+**The rule:** You can afford to lose *one* pillar. You cannot afford to lose *two*.
+
+If you pick Wet Floor (Movement) and Last Breath (Seek chase = Movement), you've lost the Movement pillar twice. The Greenhouse and Seek chase become nearly impossible. If you pick Lights Out (Senses) and Soundproofed (Senses), you've lost the Senses pillar entirely — that's Hotel Hell, and it's a badge run, not a farming run. If you pick Rent's Due (Economy) and Lights Out (Senses), you've lost Economy and Senses, which means you can't find batteries and you can't see to navigate without them.
+
+Before you start any run, name the pillars your selected modifiers hit. If any pillar shows up twice, back off one modifier. If Senses shows up at all, make sure Economy isn't also hit — because Senses cost resources (flashlight batteries) and Economy removes those resources.
+
+This is why the classic farming loadout Bad Ventilation + Rent's Due + Soundproofed works so well. It hits Economy (Rent's Due), Tempo (Bad Ventilation), and Senses (Soundproofed) — three different pillars, none doubled. You can still move normally, which means you can still react to everything and navigate by sight. That's why it works.
 
 ## The Loadout Framework
 
@@ -145,29 +180,41 @@ Different sections of the Hotel react differently to the same modifier. Adjust y
 - **Seek chase (Doors 70-80):** Last Breath's hard zone. Memorize the chase variants before adding Last Breath, period.
 - **Figure (Doors 80-100):** Soundproofed's hard zone. Figure's proximity audio is your normal navigation tool. Without it, rely on screen-shake intensity and Figure's animation cycle.
 
-## Badge Rewards Reference
+## Badge Rewards
 
-| Badge | Requirement | Difficulty |
-|-------|-------------|------------|
-| Modifier Initiate | 1+ modifier completion | Easy |
-| Modifier Master | 3+ modifiers completion | Medium |
-| Not Five Stars | 5+ modifiers completion | Hard |
-| Hotel Hell | Lights Out + Soundproofed completion | Very Hard |
-| Modifier Completionist | All modifier combination challenges (limited-time) | Extreme |
+- **Modifier Initiate** — Complete a run with 1+ modifier. Difficulty: Easy.
+- **Modifier Master** — Complete a run with 3+ modifiers. Difficulty: Medium.
+- **Not Five Stars** — Complete a run with 5+ modifiers. Difficulty: Hard. Any 5-modifier combination counts.
+- **Hotel Hell** — Complete a run with Lights Out + Soundproofed. Difficulty: Very Hard.
+- **Modifier Completionist** — Complete all modifier combination challenges (limited-time events). Difficulty: Extreme.
 
 For entity-specific knowledge that becomes critical under modifier runs, see [DOORS Entities Bestiary](/posts/doors/entities-bestiary/). For everything you'll be spending those knobs on, see [DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/).
 
 ## FAQ
 
-**Can I use modifiers in multiplayer?** Yes. Host picks modifiers, all players share the effects. Multiplayer makes Soundproofed harder (team comms get garbled) but Lights Out easier (someone can hold a flashlight while you scout).
+**Can I use modifiers in multiplayer?**
 
-**Do modifiers affect The Mines or other floors?** As of 2026, modifiers are Hotel-only. Future updates may extend them.
+Yes. The host picks modifiers, and all players share the effects. Multiplayer makes Soundproofed harder (team comms get garbled) but Lights Out easier (someone can hold a flashlight while you scout).
 
-**Can I earn Not Five Stars with any 5 modifiers?** Yes, any combination of 5+ counts. The easiest 5-stack avoids Lights Out and Soundproofed.
+**Do modifiers affect The Mines or other floors?**
 
-**Are knobs from failed runs salvageable?** No. A failed run pays zero regardless of multiplier. This is why the multiplier × completion rate equation matters more than raw multiplier.
+As of 2026, modifiers are Hotel-only. Future updates may extend them.
 
-**Does the modifier multiplier apply to secret endings?** Yes. Crucifix-ending runs under high multipliers pay the maximum knob value — the highest single-run payouts in the game.
+**Can I earn Not Five Stars with any 5 modifiers?**
+
+Yes, any combination of 5+ counts. The easiest 5-stack avoids Lights Out and Soundproofed.
+
+**Are knobs from failed runs salvageable?**
+
+No. A failed run pays zero regardless of multiplier. This is why the multiplier × completion rate equation matters more than raw multiplier.
+
+**Does the modifier multiplier apply to secret endings?**
+
+Yes. Crucifix-ending runs under high multipliers pay the maximum knob value — the highest single-run payouts in the game.
+
+**Is Hotel Hell easier solo or in multiplayer?**
+
+Hotel Hell is generally easier in coordinated multiplayer because teammates' voices substitute for the dampened audio. In solo, you rely entirely on memory and visual cues.
 
 ## Related Guides
 
