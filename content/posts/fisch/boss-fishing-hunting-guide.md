@@ -2,7 +2,7 @@
 title: "Fisch Boss Fishing Guide — Why You Keep Missing the Megalodon While Everyone Else Gets 3"
 description: "You showed up at the Megalodon Hunt event with your best rod and bait, and watched 3 other players reel in Megs while you got nothing but seaweed. Boss fish in Fisch aren't random — they follow spawn windows, bait requirements, and reel mechanics that most players ignore. Learn the exact spawn timers, the bait-rod combos for each boss, and the reeling technique that lands the Meg, Kraken, and Phantom Serpent."
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: 2026-07-14
 draft: false
 tags: ["Fisch", "Roblox", "Boss Fishing", "Megalodon", "Kraken", "Event Guide"]
 categories: ["Roblox Guides"]
@@ -11,6 +11,17 @@ cover:
   image: "/cover-image/fisch-boss-hunting/cover.webp"
   alt: "Fisch Megalodon boss fish emerging from the ocean"
   caption: "Boss fish follow rules — learn them"
+faq:
+  - question: "What is the best bait for Megalodon in Fisch?"
+    answer: "Cursed Bait, Frog Bait, and Heavy Bait are the only baits on the Megalodon hook table. Worm, Magnet Bait, and Glow Bait cannot hook a Meg."
+  - question: "Can you catch the Kraken solo in Fisch?"
+    answer: "Technically possible, but the Kraken has an aggro-split mechanic that reduces resistance by approximately 30% per hooked player. Solo land rates are extremely low unless you have end-game gear. Always hunt in a group of at least two."
+  - question: "Why do I keep snapping my line at 80% during boss fights?"
+    answer: "The 80% snap happens because 75% is the third struggle phase. If you hold reel through a red bar, you lose 15% line tension per second. Release completely during red phases and resume tapping only after the bar turns green."
+  - question: "Is the most expensive rod the best for boss fishing?"
+    answer: "No. Boss fishing rewards rods you know well over raw stats. A mid-tier rod with 500+ casts gives better muscle memory for struggle-phase timing than a mythic rod you just unlocked."
+  - question: "How long after the announcement does a boss actually spawn?"
+    answer: "Megalodon opens at roughly 2:30 after announcement. Kraken tentacles appear at 1:45. Phantom Serpent waits until in-game midnight regardless of announcement timing. Casting too early wastes bait."
 ---
 
 The chat blows up. "MEG SPAWN MOOSEWOOD." You sprint your boat across the map, drop anchor next to four other players, and slap on your Rod of the Depths with Cursed Bait. The water churns. A bite. The bar fills fast — this is it. You hammer the reel button, the bar hits 80%, and **snap.** Line gone. Hook gone. 45 minutes of bait gone.

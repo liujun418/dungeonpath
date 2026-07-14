@@ -2,7 +2,7 @@
 title: "Lethal Company Scrap Route Optimization — Why You're Coming Back With 200 Credits When You Need 800"
 description: "You hit every room on Assurance, checked every corner, and still came back 600 credits short of quota. The problem isn't your looting — it's your route. Scrap collection in Lethal Company is a pathfinding optimization problem, and wandering randomly wastes daylight and inventory space. Learn the moon-specific optimal routes, the 2-slot rule that maximizes value per trip, and the time-budgeting framework that hits quota every time."
 date: 2026-06-21
-lastmod: 2026-06-21
+lastmod: 2026-07-14
 draft: false
 tags: ["Lethal Company", "PC Games", "Scrap Guide", "Route Optimization", "Quota", "Co-op"]
 categories: ["PC Games"]
@@ -11,6 +11,17 @@ cover:
   image: "/cover-image/lc-scrap-route/cover.webp"
   alt: "Lethal Company players efficiently collecting scrap along an optimized route"
   caption: "Random wandering wastes daylight — route optimization wins quotas"
+faq:
+  - question: "What is the 2-slot rule in Lethal Company scrap collection?"
+    answer: "Reserve your top 2 inventory slots for scrap worth 50+ credits. Fill the bottom 2 with anything 30+. Never carry anything under 25 credits. With a 4-person team, this averages 800 credits in one trip — enough to hit quota immediately."
+  - question: "Should I always pull the apparatus when I find it?"
+    answer: "On easy moons like Experimentation, yes — it's 80 credits and worth the trip. On harder moons like Titan or Dine, the apparatus is often in a dangerous central room and the 80 credits may not be worth the 4-6 minute death-roll to extract it. A Cash Register and a Painting near the entrance can deliver the same value with half the risk."
+  - question: "What is the optimal time to start heading back to the ship?"
+    answer: "Make your first return trip by 11 AM-1 PM. Start your second return by 3 PM. Everyone must be at the ship by 4:30 PM. The 4:30-5 PM window is a buffer for emergencies, not for grabbing more scrap. Eyeless Dogs spawn at 5 PM and the facility becomes exponentially more dangerous."
+  - question: "Which moon has the best outdoor scrap for quick surface runs?"
+    answer: "March has the highest outdoor scrap density in the game. Three players surface-looping with Shovels can clear 300+ credits without ever entering the facility. Vow is the second best for outdoor scrap — Stop Signs and Yield Signs spawn near the cliffs, and the river path has Bottles."
+  - question: "Is it better to go back to the ship empty-handed or keep pushing with low-value scrap?"
+    answer: "Going back empty-handed is sometimes optimal. If you have nothing 30+ credits in your inventory at 11:30 AM, drop your low-value scrap and run back for a clean second push. A team that resets with empty inventories beats a team that commits to low-value scrap almost every time."
 ---
 
 ## 4:58 PM on Assurance. Everyone Dies.

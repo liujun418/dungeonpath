@@ -16,3 +16,4 @@ docs/
 resources/_gen/
 # Built output - Vercel builds from source
 public/
+.git_corrupted/
