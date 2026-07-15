@@ -5,11 +5,22 @@ cover:
   image: "/cover-image/monster-legends-beginner/cover.webp"
   alt: "Monster Legends Runes & Relics Guide Cover"
   caption: "Monster Legends Runes & Relics Guide"
-lastmod: 2026-06-26
+lastmod: 2026-07-15
 draft: false
 description: "Your max-level runes could be sabotaging you. Learn the rune priority framework, counter-intuitive speed traps, and relic combos that actually win wars in Monster Legends."
 tags: ["Monster Legends", "Mobile Games", "Equipment Guide"]
 category: "Mobile Games"
+faq:
+  - question: "Can I remove a rune after equipping it?"
+    answer: "Yes, but it costs gold that scales with the rune's level. A level 10 Mythic removal costs roughly 100,000 gold. The rune is refunded completely, so you never lose the rune itself — just the gold. This is why you should test builds in friendly battles before committing enhancement gold."
+  - question: "Do relic effects stack if I use two of the same relic?"
+    answer: "No. Two Attack Amulets still give only one +15% damage bonus. Give the second slot a different relic. The best teams pair complementary relics — for example, Oblation Trap to strip enemy buffs and Protection Shield to reduce incoming damage."
+  - question: "Should I level up a bad rune type just because it's high quality?"
+    answer: "Absolutely not. A level 10 Mythic Strength rune on your support is still a Strength rune on a support. A level 7 Epic Speed rune on your denier beats it every time. Role determines value; quality only magnifies the correct role."
+  - question: "Why does my fully runed attacker still lose to weaker monsters?"
+    answer: "Usually because your denier or support lost the speed race. If the enemy denier moves first and stuns your attacker, your level 10 Strength runes never activate. Speed is the enabler — without it, damage is just a number on a dead monster's profile."
+  - question: "Is it worth buying Epic runes from the Team Shop while saving for Mythic?"
+    answer: "Yes, but only for your core war team. Epic runes are a reasonable stopping point for dungeon and Adventure Map teams. Never buy Rare or below — you'll get plenty from normal gameplay. Save team points for Mythic runes at shop level 10 for your war denier and support first."
 ---
 
 > *Last updated: June 26, 2026. This guide covers everything about Monster Legends runes and relics — every rune type with stat tables, the best rune builds for every monster role, relic crafting from the Relic Workshop, and optimization strategies for every stage of the game.*
@@ -34,19 +45,32 @@ A monster with optimal runes and a well-chosen relic performs two to three times
 
 ## Failure Analysis: What Players Actually Get Wrong
 
-Most rune mistakes come from three bad assumptions:
+Most rune mistakes don't come from ignorance. They come from bad assumptions that feel correct until they cost you a war.
 
-**Mistake 1: Stacking ATK on supports.** Your healer doesn't need to hit hard. It needs to survive and act before the enemy's damage lands. Strength runes on a support guarantee a dead healer before turn two.
+**Mistake 1: Stacking ATK on supports.** Your healer doesn't need to hit hard. It needs to survive and act before the enemy's damage lands. Strength runes on a support guarantee a dead healer before turn two — not because the runes are bad, but because they occupy slots that should be Speed or Life.
 
-**Mistake 2: Ignoring speed breakpoints.** Speed is a hard binary. If your denier has 449 speed and the enemy's attacker has 450, you straight-up lose. The enemy acts first and deletes your control before it happens. Players obsess over damage numbers and miss the turn-order math that actually decides matches.
+**Mistake 2: Ignoring speed breakpoints.** Speed is a hard binary. If your denier has 449 speed and the enemy's attacker has 450, you straight-up lose. The enemy acts first, deletes your control, and your "better" runes never activate. Players obsess over damage numbers and miss the turn-order math that actually decides matches. One speed point is the difference between a win and a loss.
 
-**Mistake 3: Treating all relic slots the same.** A Protection Shield on your attacker is nearly useless; that same shield on your tank absorbs thousands of damage. Crafting whatever your current essences allow leaves you with a random collection that doesn't synergize.
+**Mistake 3: Treating all relic slots the same.** A Protection Shield on your attacker is nearly useless; that same shield on your tank absorbs thousands of damage. Crafting whatever your current essences allow leaves you with a random collection that doesn't synergize. A mismatched relic is worse than an empty slot because it gives you false confidence.
 
-If you've ever looked at a war loss and thought "but my runes were better," you were probably making one of these mistakes.
+**Mistake 4: Leveling runes before you know who wears them.** Players dump gold into a shiny Mythic Strength rune, then realize their war team needs Speed. Removing a level 10 Mythic rune costs roughly 100,000 gold — gold that could have leveled two more runes. Never enhance beyond level 5 until the rune is on the correct monster and you've tested the build in a friendly battle.
+
+These four mistakes compound. A support with Strength runes (Mistake 1) moves after the enemy denier (Mistake 2) while wearing an Attack Amulet (Mistake 3) that the player spent a week leveling (Mistake 4). The result? A monster that looks powerful on paper but dies before turn two in practice.
+
+If you've ever looked at a war loss and thought "but my runes were better," you were probably making one — or all four — of these mistakes.
 
 ## Rune Priority by Role: The Decision Framework
 
-Stop guessing. Here's exactly which stats each monster role needs, in strict priority order. When you're choosing between runes, pick the highest-priority stat you can still improve.
+When you're staring at a new rune and wondering "which monster gets this," the wrong answer is "whoever has the lowest level." The right answer depends on what that monster is supposed to do in the first three turns of a match.
+
+Use this framework in order:
+
+1. Identify the monster's primary role in your war team.
+2. Look up its priority column below.
+3. Equip the highest-priority stat you can still improve. If your attacker already has three Strength runes, add Speed. If your denier already has four Speed runes, add Mana.
+4. Never equip a lower-priority rune until all higher-priority slots are filled.
+
+This prevents the most expensive mistake in Monster Legends: a level 10 rune in the wrong slot.
 
 | Role | 1st Priority | 2nd Priority | 3rd Priority | 4th Priority |
 |------|-------------|-------------|-------------|-------------|
@@ -168,13 +192,35 @@ Most competitive monsters need at least Rank 3 (4 rune slots) to be viable in wa
 
 **When to use:** Dedicated healers and buffers. Sacrifices damage entirely.
 
-## Counter-Intuitive Insight: Why a Level 1 Speed Rune Sometimes Beats a Level 10 Strength Rune
+## Counter-Intuitive Advice: The Rules That Break the Rules
+
+The best players in Monster Legends don't just follow the charts. They know when the charts are wrong. Here are four truths that contradict what most guides tell you.
+
+### 1. A Level 1 Speed Rune Beats a Level 10 Strength Rune
 
 On a denier, swapping a level 10 Mythic Strength rune for a level 1 Common Speed rune can literally win you the match.
 
 It sounds insane — you're losing +100% attack for maybe +20 speed. But turn order in Monster Legends is absolute. The monster with the higher speed number moves first, full stop. If that +20 speed pushes your denier from 440 to 460, and the enemy's fastest monster is 450, you just bought an entire extra turn of control. One extra stun is worth more than any attack damage your denier was never going to use.
 
 The same logic applies to supports. A level 5 Speed rune that lets your healer shield before the enemy's nuke moves is more valuable than a level 10 Strength rune that adds a pathetic 500 damage to their basic attack. Role-first, numbers-second. Always.
+
+### 2. Level Your Denier Before Your Attacker
+
+Every guide says "attackers first." But if your denier is still wearing Common Speed runes, your level 10 Mythic attacker never gets to swing. The enemy denier moves first, stuns your attacker, and the match is over before your damage numbers matter.
+
+The actual priority is: **denier speed > support speed > attacker strength > tank life.** A team that moves in the correct order with level 5 runes beats a team with level 10 runes that moves out of order. Speed is the enabler; everything else is just decoration.
+
+### 3. Your "Best" Monster Should Not Get Your Best Runes
+
+Instinct says to dump your Mythic Strength runes onto your favorite monster. Counter-intuitively, this is how you lose to teams with worse monsters. Your best attacker is already lethal with Epic runes. It's your second-tier monsters — the support that dies in one hit, the denier that loses the speed race — that need the Mythic gear to close the gap.
+
+Think in margins, not totals. A Mythic Life rune that keeps your support alive through turn two creates more total team damage than a third Mythic Strength rune on an attacker that was already one-shotting supports.
+
+### 4. Craft the "Boring" Relic First
+
+Everyone wants the Oblation Trap. It removes buffs. It's flashy. It wins PvP. But if your Adventure Map team is stuck on island 7 because your support can't sustain, you have no essences and no gold to craft anything.
+
+Craft a Healing Mask first. It's boring. It doesn't change war outcomes. But it lets your team auto-farm islands 8-10 while you sleep, which generates the essences, cells, and gold you need to craft the Oblation Trap later. The boring relic funds the exciting one.
 
 ## Rune Enhancement: Leveling Your Runes
 

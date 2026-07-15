@@ -2,26 +2,52 @@
 title: "Blade Ball Deflect & Parry Timing Guide — Why You're Dying 0.2 Seconds Before Every Clash"
 description: "You can curve the ball, you know every ability, and you still lose 70% of your 1v1s. The problem isn't your abilities — it's your deflect timing. Blade Ball fights are decided in 200-millisecond windows, and being late by a single frame means eating the ball instead of returning it. Learn the frame data for every ability clash, the ping-compensation technique, and the rhythm-training method that turns 30% win rates into 80%."
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: 2026-07-15
 draft: false
 tags: ["Blade Ball", "Roblox", "Deflect Guide", "Parry Timing", "PvP", "Frame Data"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
+faq:
+  - question: "Why do I die even when I pressed F before the ball hit me?"
+    answer: "Server-client lag. At 80ms ping, the ball you see is 80ms behind reality, and your input takes another 80ms to reach the server. By the time you react to the visual, the server has already registered the hit. You need to deflect earlier than looks correct."
+  - question: "What ping is too high for reaction-based deflects?"
+    answer: "Above 100ms, switch to pure prediction at every speed tier. Your visual and audio data is too stale for reliable reaction timing. Use the pre-press offset method instead."
+  - question: "Should I practice deflect timing at max speed tier?"
+    answer: "No. Tier 5 (~280ms window) is the training sweet spot. Tier 9's ~110ms window is too fast to encode rhythm. Master the pattern at tier 5, and your subconscious will compress it naturally as speed scales in real fights."
+  - question: "Does holding F work the same as tapping for deflects?"
+    answer: "No. Holding F can reduce your effective deflect window by 30-40ms on some clients, and spamming F mid-flight can lock you out of the active frame. Always tap once."
+  - question: "How long does rhythm training take to show results?"
+    answer: "Most players see a measurable win-rate improvement within one week of 30-minute daily rhythm drills at tier 5. The first three days feel awkward; by day five the beat starts feeling automatic."
 cover:
   image: "/cover-image/blade-ball-deflect-timing/cover.webp"
   alt: "Blade Ball player executing a perfect deflect with timing indicator"
   caption: "200 milliseconds separates winners from losers"
 ---
 
-It's the final 1v1. The lobby's watching. The ball is screaming back at you at speed tier 7, your opponent just curved it inside-out, and you've got the deflect cooldown ready. You see the glow. You press F.
+It's the final 1v1. The lobby's watching. The ball is screaming back at you at speed tier 7, your opponent just curved it inside-out, and you've got the deflect cooldown ready. You see the glow. Your finger hovers over F. The ball fills your screen. You press.
 
 You're dead.
 
-The kill feed says you deflected 0.2 seconds late. Not because your finger was slow. Not because your monitor lagged. You pressed F when the ball *looked* like it was on you — and that's exactly the problem. By the time it looked on you, the server had already registered the hit.
+The kill feed says you deflected 0.2 seconds late. Not because your finger was slow. Not because your monitor lagged. You pressed F when the ball *looked* like it was on you — and that's exactly the problem. By the time it looked on you, the server had already registered the hit. You died on your client *after* you were already dead on the server. That half-second of disbelief? That's the lag gap eating you alive.
 
-Your opponent wasn't faster. They didn't have better gear. They just knew that in Blade Ball, you don't deflect what you see. You deflect what's about to happen.
+Your opponent wasn't faster. They didn't have better gear. They just knew that in Blade Ball, you don't deflect what you see. You deflect what's about to happen. The difference between their press and yours wasn't reflexes. It was calibration.
 
 This guide is the frame data, the ping math, and the rhythm training that fixes that exact moment. If you're stuck in the 30%-win-rate purgatory where you "know what you're doing" but keep losing, your timing window is the only thing left to fix.
+
+## Failure Analysis: The Three Ways This Exact Death Happens
+
+That 0.2-second death isn't random. Every time it happens, it falls into one of three specific failure chains. Knowing which one killed you is the only way to fix it.
+
+**Failure Chain A: The Visual Lie (most common, ~60% of deaths)**
+You react to the ball's rendered position instead of its server position. At 80ms ping, the ball you see is almost a full frame behind reality. You press F "on contact," but contact happened 160ms ago after round-trip. Your deflect animation starts just as the server registers the hit. You see yourself deflect; the server sees you die. This is the "I pressed it!" death, and it is purely a calibration error.
+
+**Failure Chain B: Model Confusion (~25% of deaths)**
+You're using visual reaction (Model 3) in a tier-7 fight that demands pure prediction (Model 1). You "feel" like you're reacting, but the window closed before your brain even processed the image. These deaths feel unlucky because your timing looks right on replay. It isn't. You brought a low-tier brain to a high-tier fight.
+
+**Failure Chain C: Input Lockout (~15% of deaths)**
+You panic-spammed F during the ball's flight, or you pressed F while still in a movement animation. The client queued your input, but the server ignored it because you were in recovery frames. These deaths feel like the game "didn't register" your press. It registered it — it just arrived while you were technically unable to act.
+
+Map every death to A, B, or C for ten fights. Most stuck players are dying from A and B in a 70/30 split. Fixing A requires ping calibration. Fixing B requires admitting you can't react and switching to prediction.
 
 ## Why Your Reactions Aren't the Problem
 
@@ -91,13 +117,10 @@ Most players never do this calibration. They assume Roblox's lag compensation ha
 
 ## The Counter-Intuitive Advice Everyone Gets Wrong
 
-Standard Blade Ball advice says: "Watch the ball, react when it's on you."
+Standard Blade Ball advice says: "Watch the ball, react when it's on you." High-rank players do the opposite on almost every axis. Here are the three that matter most.
 
-Real high-rank advice: **don't watch the ball. Watch your opponent.**
-
-This sounds insane until you try it. Here's why it works:
-
-The ball's trajectory between deflects is determined by the deflecter's character — their angle, their movement, their position when they pressed. If you're staring at the ball, you only have ~200ms to read its arc. If you're staring at your opponent's character at the moment they deflect, you can predict the arc before the ball even moves.
+**1. Don't watch the ball. Watch your opponent.**
+This sounds insane until you try it. The ball's trajectory between deflects is determined by the deflecter's character — their angle, their movement, their position when they pressed. If you're staring at the ball, you only have ~200ms to read its arc. If you're staring at your opponent's character at the moment they deflect, you can predict the arc before the ball even moves.
 
 Specifically:
 
@@ -109,6 +132,34 @@ Specifically:
 You read all of this in the half-second before the deflect, not after. By the time the ball is moving toward you, you already know which direction it's curving and where to position. The deflect press itself becomes the easy part.
 
 This connects directly to the [opponent reading guide](/posts/blade-ball/opponent-reading-guide/), which goes deeper into character tells. The deflect is the output. The read is the real fight.
+
+**2. Stand still. Movement makes your window smaller.**
+Every instinct says "keep moving so you're harder to hit." But dashing or walking toward the ball adds recovery frames before your deflect activates. Standing still gives you the full ~200ms active window. Dashing cuts it by 20-40ms. In a tier-7 clash, that's the difference between a clean return and a death. Position *before* the deflect, not during it. Plant your feet, press F, then move.
+
+**3. Practice at tier 5, not tier 9.**
+Harder practice feels like better practice. It isn't. Tier 9's ~110ms window is too fast for your nervous system to encode a reliable rhythm. You just panic and reinforce bad habits. Tier 5's ~280ms window is wide enough to learn the pattern, but fast enough to matter. Master the rhythm at tier 5, and your subconscious will compress it naturally as speed scales in real fights. Deliberate practice beats desperate survival.
+
+## Decision Framework: Which Model, When
+
+Every clash is a decision tree. Stop guessing and run the checklist.
+
+**Step 1: Read the speed tier**
+- Tier 1-5: Audio or visual reaction is viable.
+- Tier 6-7: Switch to prediction or audio only.
+- Tier 8+: Pure prediction or rhythm. No exceptions.
+
+**Step 2: Check your ping**
+- Sub-50ms: You can use visual reaction up to tier 5.
+- 50-100ms: Audio reaction up to tier 6, prediction beyond.
+- 100ms+: Pure prediction at every tier. Your visual data is too stale.
+
+**Step 3: Commit or disengage**
+If the ball is coming at a bad angle and you're unsure of the timing, do not deflect. Dash out. A missed deflect is a death. A burned dash is just cooldown. The decision framework only works if you apply it to clashes you choose to take.
+
+**Step 4: Post-clash reset**
+After every deflect — successful or not — re-check your opponent's ability bar and stamina. Did they burn super deflect? Did they dash? The next clash's model depends on their cooldown state, not just the speed tier.
+
+Run this mentally for one session and the guesswork disappears. You'll stop "hoping" your timing is right and start *knowing* which model you're in.
 
 ## Rhythm Training Method (Replaces Reaction Drills)
 
