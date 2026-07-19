@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/doors-seek-chase-guide/cover.webp"
   alt: "Doors Seek chase complete guide cover"
   caption: "Doors Seek chase survival guide"
-lastmod: 2026-06-30
+lastmod: 2026-07-19
 draft: false
 tags: ["doors", "seek", "chase", "survival", "roblox", "horror"]
 categories: ["Doors"]
@@ -18,6 +18,10 @@ faq:
     answer: "Not exactly. Seek's speed scales to stay just behind you. Sprinting helps you reach turns faster, but reckless sprinting causes you to trip on debris. Controlled movement beats raw speed."
   - question: "What items help during a Seek chase?"
     answer: "Vitamins give a temporary speed boost, and a flashlight helps see debris in dark sections. However, most items are less useful than good pathing — don't rely on items to carry you."
+  - question: "Why do I keep dying right at the exit door?"
+    answer: "The chase doesn't end until the cutscene triggers. Many players see the exit door and relax, letting go of sprint or moving sloppily. Seek can still catch you during those final steps. Keep sprinting until the screen cuts to black."
+  - question: "Does playing in multiplayer make Seek chases harder?"
+    answer: "Seek's speed scaling is identical in solo and multiplayer. However, other players can block your path, create visual clutter, and trigger debris collisions that slow you down. In coordinated teams, spread out horizontally so you don't bump each other."
 ---
 
 Door 142. The hallway stretches ahead like a throat, dark and narrow. You hear it before you see it — a wet, rhythmic thud that isn't your footsteps. Then the lights flicker red. The screen shakes. Your controller rumbles, and that heartbeat pounds through your speakers like it's coming from inside your own chest.
@@ -88,7 +92,7 @@ Watch the ceiling, not the floor. Chandeliers have a two-second wind-up before t
 
 When you reach the exit door, don't stop. Push through it. The chase doesn't end until the screen cuts to black. I've seen players die with their hand on the doorknob because they slowed down to celebrate.
 
-## Why Players Actually Die in Seek Chases
+## Failure Analysis
 
 Let's get specific. These are the mistakes I see in every failed run, including my own early ones.
 
@@ -102,7 +106,7 @@ Let's get specific. These are the mistakes I see in every failed run, including 
 
 **Panicking at the exit door.** Players see the exit and relax. Their hands come off the sprint key. Their movement gets sloppy. Seek doesn't care that you're almost safe. The chase ends when the cutscene triggers, not when you see the door.
 
-## The Mental Model: A Decision Framework for Each Phase
+## Decision Framework
 
 You don't need perfect reflexes. You need a framework. Here's the one I use for every chase, regardless of door count.
 
@@ -125,15 +129,19 @@ You don't need perfect reflexes. You need a framework. Here's the one I use for 
 
 This framework isn't flashy. It's boring. But boring decisions keep you alive when the game is doing everything it can to make you panic.
 
-## Counter-Intuitive Tips That Save Runs
+## Counter-Intuitive Advice
 
-Here are three things that sound wrong until you try them.
+Here are five things that sound wrong until you try them.
 
 **Sometimes walking is faster than sprinting.** In high-density debris sections, sprinting causes staggers. Two staggers cost more time than walking cleanly through the same section. If a hallway is cluttered with chairs and broken wood, let off the sprint key. You'll be surprised how much ground you keep.
 
 **Crouch under chandeliers instead of going around.** The detour around a falling chandelier is often longer than the crouch animation. At door 120+, that extra half-second of distance matters. Crouching also keeps your hitbox low if the chandelier drops early.
 
 **The wrong-looking door is usually right.** In the fork maze pattern, the correct path is almost always the one that looks worse. Darker lighting, more debris, a tighter squeeze — the game rewards players who push through discomfort. The easy door is a trap.
+
+**Hug the center line, not the walls.** In the final sprint, debris and chandelier drop zones bias toward the edges. Most players panic and stick to walls because it feels safer. The center corridor is usually the cleanest line. Trust the middle.
+
+**Turn your flashlight off.** The red chase lighting creates high-contrast shadows that make debris and cracked floorboards easy to read. A flashlight beam washes out those shadows and blinds you to collapse warnings. Counter-intuitive, but the dark is your friend here.
 
 ## FAQ
 
@@ -148,6 +156,14 @@ Not exactly. Seek's speed scales to stay just behind you. Sprinting helps you re
 **What items help during a Seek chase?**
 
 Vitamins give a temporary speed boost, and a flashlight helps see debris in dark sections. However, most items are less useful than good pathing — don't rely on items to carry you.
+
+**Why do I keep dying right at the exit door?**
+
+The chase doesn't end until the cutscene triggers. Many players see the exit door and relax, letting go of sprint or moving sloppily. Seek can still catch you during those final steps. Keep sprinting until the screen cuts to black.
+
+**Does playing in multiplayer make Seek chases harder?**
+
+Seek's speed scaling is identical in solo and multiplayer. However, other players can block your path, create visual clutter, and trigger debris collisions that slow you down. In coordinated teams, spread out horizontally so you don't bump each other.
 
 ## Related Guides
 
