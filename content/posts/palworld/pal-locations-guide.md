@@ -6,18 +6,29 @@ cover:
   image: "/cover-image/palworld-pal-locations/cover.webp"
   alt: "Palworld Pal Locations Guide: Every Pal by Biome (2026)"
   caption: "Palworld Pal Locations Guide"
-lastmod: 2026-05-10
+lastmod: 2026-07-20
 draft: false
 tags: ["Palworld", "PC Games", "Maps", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]
+faq:
+  - question: "What is the best biome to start hunting Pals in Palworld?"
+    answer: "The Grasslands biome is the best starting area for new players. It contains low-level Pals like Lamball, Cattiva, and Chikipi (levels 1-15) with no environmental hazards, making it safe to explore without special gear."
+  - question: "What level do I need to be for each biome in Palworld?"
+    answer: "Grasslands (1-15), Forest (10-20), Desert (20-35, requires heat resistance), Volcano (35-45, requires heat armor level 2+), and Snow/Ice Mountain (40-50, requires cold armor level 2+). Progress through biomes in this order and upgrade your armor before entering extreme climate zones."
+  - question: "Where can I find legendary Pals like Jetragon and Frostallion?"
+    answer: "Jetragon spawns at the volcanic crater top (level 50), Frostallion roams the Frostbound Mountains peak (level 50), and Paladius and Necromus appear together on the Desert Plateau in the far northeast (level 50). All require max-level gear and Hyper or Legendary Spheres."
+  - question: "Do Pals spawn differently at night versus day in Palworld?"
+    answer: "Yes. Night-exclusive Pals include Daedream, Loupmoon, Hoocrates, Katress, Helzephyr, and Leezpunk. Day-exclusive Pals include Tanzee, Lifmunk, Bristla, Arsox, and Faleris. Check the specific spawn times in each biome to complete your Paldeck."
+  - question: "How do I capture high-level Pals effectively in Palworld?"
+    answer: "Upgrade capture power at the Statue of Power using Lifmunk Effigies, use appropriate sphere tiers (Hyper/Legendary for 45+), hit Pals from behind for a 10% capture bonus, inflict status effects like poison or sleep, and reduce HP to low levels without defeating them."
 ---
 
-> *Last updated: May 10, 2026. This guide maps every Pal spawn location across all biomes in Palworld, including rare spawns, alpha boss locations, and day/night differences.* See also: [Best Pals Tier List](/posts/palworld/best-pals-tier-list/), [Boss & Tower Guide](/posts/palworld/boss-and-tower-guide/).
+The Palpagos Islands stretch across the horizon like a living map, each island a distinct world of its own. On the southern shores, Lamball graze under a gentle sun while Cattiva scurry between berry bushes, their paws full of stolen fruit. Farther north, the air grows thin and hot -- the central volcano pierces the clouds, its slopes crawling with fire-type Pals that thrive in rivers of molten stone. Beyond it, a frozen wasteland stretches toward the top of the world, where Frostallion's wings stir blizzards across the ice fields. Between these extremes lie dense forests, scorching deserts, and hidden dungeons beneath your feet. Every Pal in the game occupies a specific niche in this ecosystem, tied not just to a biome but to the time of day, the altitude, and even the weather. This guide maps every spawn location in Palworld so you know exactly where to go, what to bring, and which Pals to expect when you get there. Whether you are filling out your Paldeck for the first time or hunting legendaries for endgame gear, the knowledge here will save you hours of wandering.
 
 ## Understanding Palworld's Biome System
 
-The Palpagos Islands are divided into distinct biomes, each hosting a unique ecosystem of Pals. Your survival gear determines which biomes you can safely explore -- you need heat-resistant armor for the Volcano and cold-resistant gear for the Snow/Ice Mountain.
+The Palpagos Islands function as a set of interlocking ecosystems, each with its own climate, hazards, and Pal population. Your survival gear determines which biomes you can explore -- heat-resistant armor for the Volcano, cold-resistant gear for the Snow regions. Entering the wrong biome unprepared means taking constant damage and potentially losing your progress.
 
 | Biome | Heat/Cold Hazard | Recommended Level | Survival Gear Needed |
 |-------|-----------------|-------------------|---------------------|
@@ -31,22 +42,9 @@ The Palpagos Islands are divided into distinct biomes, each hosting a unique eco
 
 ## Grasslands Biome (Levels 1-15)
 
-The Grasslands are your starting area and stretch across the southern islands. These are safe, abundant areas perfect for building your first base (see the [Base Building Guide](../palworld/base-building-guide.md) for location recommendations).
+The Grasslands stretch across the southern islands and serve as every player's introduction to Pal catching. These are safe, abundant areas with no environmental hazards -- perfect for building your first base. See the [Base Building Guide](../palworld/base-building-guide.md) for location recommendations.
 
-### Common Grassland Spawns
-
-| Pal | Type | Work Skills | Day/Night | Rarity |
-|-----|------|-------------|-----------|--------|
-| Lamball | Neutral | Farming (Wool) | Both | Common |
-| Cattiva | Neutral | Handiwork, Transport, Mining | Both | Common |
-| Chikipi | Neutral | Farming (Eggs) | Both | Common |
-| Tanzee | Grass | Planting, Handiwork, Lumbering | Day | Common |
-| Lifmunk | Grass | Gathering, Medicine | Day | Common |
-| Foxsparks | Fire | Kindling | Both | Common |
-| Pengullet | Water | Watering, Transport, Cooler | Both | Common |
-| Daedream | Dark | Handiwork, Transport, Gathering | Night | Common |
-| Cremis | Neutral | Farming (Wool) | Both | Common |
-| Vixy | Neutral | Farming (Coins, Arrows) | Both | Uncommon |
+The Grasslands host a dense population of neutral and starter-type Pals. **Lamball** and **Cattiva** herds dot the landscape alongside **Chikipi**, making these three the most reliable early-game resources for wool, eggs, and basic base work. Daytime introduces **Tanzee** and **Lifmunk** in grassy patches, while **Foxsparks** and **Pengullet** remain active through both day and night. Come nightfall, **Daedream** replaces the day-active grass types, offering handiwork and transport capabilities. You will also find **Cremis** grazing in open fields and **Vixy** in smaller numbers near berry clusters -- worth tracking down for its ranch drops of coins, arrows, and even Pal Spheres.
 
 ### Grassland Rare Spawns
 
@@ -66,22 +64,9 @@ The Grasslands are your starting area and stretch across the southern islands. T
 
 ## Forest Biome (Levels 10-25)
 
-Forest areas surround the central volcano and appear on the eastern main island. Dense trees make visibility limited.
+Forest areas surround the central volcano and appear on the eastern main island. Dense trees limit visibility, and the Pal population leans more aggressive than the Grasslands.
 
-### Common Forest Spawns
-
-| Pal | Type | Work Skills | Day/Night | Rarity |
-|-----|------|-------------|-----------|--------|
-| Rushoar | Ground | Lumbering, Farming (Mushroom) | Both | Common |
-| Gumoss | Grass | Planting, Gathering | Day | Common |
-| Flopie | Grass | Gathering, Medicine | Day | Common |
-| Bristla | Grass | Planting, Gathering | Day | Common |
-| Celaray | Water | Watering, Transport | Both | Uncommon |
-| Direhowl | Dark | Combat, Mount (ground, fast) | Both | Uncommon |
-| Loupmoon | Dark | Handiwork, Transport | Night | Uncommon |
-| Galeclaw | Flying | Mount (gliding) | Day | Rare |
-| Hoocrates | Dark | Gathering, Medicine | Night | Common |
-| Tocotoco | Neutral | Combat (self-destruct) | Both | Uncommon |
+The Forest brings a denser, more dangerous ecosystem. **Rushoar** charges through the underbrush at anything that moves, while **Gumoss**, **Flopie**, and **Bristla** cluster around sunlit clearings during the day -- all solid grass-type workers for your base. **Celaray** drifts near forest ponds offering watering capabilities, and **Direhowl** prowls the woodland paths as a fast ground mount worth capturing early for exploration. At night, **Loupmoon** and **Hoocrates** emerge, with Hoocrates being one of the most common dark-type spawns. **Galeclaw** is a rare daytime spawn that provides gliding mobility -- prioritize it when you see one. **Tocotoco** may look harmless but its self-destruct ability makes it a surprising combat option.
 
 ### Forest Rare Spawns
 
@@ -95,22 +80,9 @@ Forest areas surround the central volcano and appear on the eastern main island.
 
 ## Desert Biome (Levels 25-35)
 
-The expansive desert dominates the northeastern part of the map. Daytime heat requires heat-resistant gear.
+The expansive desert dominates the northeastern map region. Daytime heat requires heat-resistant gear -- without it, you will take continuous damage the moment the sun rises.
 
-### Common Desert Spawns
-
-| Pal | Type | Work Skills | Day/Night | Rarity |
-|-----|------|-------------|-----------|--------|
-| Nitewing | Flying | Transport | Both | Common |
-| Eikthyrdeer | Neutral | Lumbering, Mount | Both | Common |
-| Arsox | Fire | Kindling, Mount | Day | Common |
-| Surfent | Water | Watering | Day | Uncommon |
-| Dazzi | Electric | Handiwork, Transport, Generating | Both | Uncommon |
-| Flambelle | Fire | Kindling | Night | Uncommon |
-| Leezpunk | Dark | Handiwork | Night | Common |
-| Gorirat | Neutral | Lumbering, Transport | Both | Common |
-| Beegarde | Dark | Farming (Honey), Comb | Both | Common |
-| Swee | Neutral | Farming (Beegarde companion) | Both | Common |
+The Desert is vast and open, with Pals adapted to extreme temperature swings. **Nitewing** patrols the skies above while **Eikthyrdeer** herds migrate across the dunes. **Arsox** roams during the scorching day, useful for its kindling ability and as a mount. **Surfent** emerges from desert oases, and **Dazzi** floats near rocky outcrops providing electricity for your base -- one of the few electric Pals available at this stage. At night, **Flambelle** appears among the dunes alongside **Leezpunk**. **Gorirat** and **Beegarde** are common across both cycles, with **Swee** always accompanying Beegarde as a companion Pal.
 
 ### Desert Rare Spawns
 
@@ -124,25 +96,13 @@ The expansive desert dominates the northeastern part of the map. Daytime heat re
 
 ### Paladius and Necromus Location
 
-Paladius and Necromus spawn together on the **Desert Plateau** in the far northeast of the map. They are the only legendary Pals that appear as a duo. You must defeat both. Recommended level: 45+. Each drops legendary schematics and Ancient Civilization Parts.
+Paladius and Necromus spawn together on the **Desert Plateau** in the far northeast of the map. They are the only legendary Pals that appear as a duo -- you must defeat both to claim victory. Recommended level is 45+. Each drops legendary weapon schematics and Ancient Civilization Parts, making this a worthwhile farming destination for endgame gear.
 
 ## Volcano / Magma Biome (Levels 35-45)
 
-The central volcano dominates the map. Extreme heat requires heat-resistant armor. This area is accessible through tunnels or by climbing the volcano.
+The central volcano dominates the map. You can reach it through tunnels or by climbing its slopes. Extreme heat requires heat-resistant armor at level 2 or higher -- without it, you cannot survive more than a few seconds.
 
-### Common Volcanic Spawns
-
-| Pal | Type | Work Skills | Day/Night | Rarity |
-|-----|------|-------------|-----------|--------|
-| Reptyro | Fire/Ground | Kindling, Mining | Both | Common |
-| Vanwyrm | Dark/Fire | Kindling, Transport | Both | Common |
-| Pyrin | Fire | Kindling, Mount | Both | Uncommon |
-| Katress | Dark | Handiwork, Medicine | Night | Uncommon |
-| Bushi | Fire | Kindling, Lumbering | Day | Uncommon |
-| Warsect | Ground | Lumbering, Planting, Transport | Both | Uncommon |
-| Blazehowl | Fire | Kindling, Mount | Night | Rare |
-| Faleris | Fire | Kindling, Mount (flying) | Day | Rare |
-| Helzephyr | Dark | Transport, Mount (flying) | Night | Uncommon |
+The Volcano biome is dominated by fire-type Pals. **Reptyro** and **Vanwyrm** are the most common sightings, both offering kindling for base operations and solid combat stats. **Pyrin** appears in smaller numbers but makes a strong fire mount. **Katress** emerges at night near the volcanic slopes, while **Bushi** patrols during daylight hours near lava pools. **Warsect**, a ground-type, thrives here despite the heat thanks to its armored shell. **Blazehowl** is a rarer fire-type worth hunting for its mount speed, and **Faleris** is the real prize -- a top-tier flying fire mount. **Helzephyr** patrols at night as a dark-type flying mount alternative.
 
 ### Volcanic Rare Spawns
 
@@ -156,19 +116,9 @@ The central volcano dominates the map. Extreme heat requires heat-resistant armo
 
 ## Snow / Ice Mountain Biome (Levels 40-50)
 
-The frozen northern region has two main snow areas: the **Frostbound Mountains** in the far north and the **Icy Weald** in the northeast.
+The frozen northern region splits into two main areas: the **Frostbound Mountains** in the far north and the **Icy Weald** in the northeast. Extreme cold requires cold-resistant armor at level 2 or higher.
 
-### Common Snow Spawns
-
-| Pal | Type | Work Skills | Day/Night | Rarity |
-|-----|------|-------------|-----------|--------|
-| Sweepa | Ice | Cooler, Lumbering, Transport | Both | Common |
-| Reindrix | Ice | Cooler, Mount | Both | Common |
-| Cryolinx | Ice | Cooler, Lumbering, Handiwork | Both | Uncommon |
-| Vanwyrm Cryst | Dark/Ice | Cooler | Night | Rare |
-| Foxcicle | Ice | Cooler, Medicine | Both | Common |
-| Wumpo | Ice | Lumbering, Transport, Cooling | Both | Uncommon |
-| Ice Kingpaca | Ice | Farming (Wool), Cooler | Both | Rare |
+The frozen north hosts a sparse but powerful ecosystem. **Sweepa** and **Reindrix** are the most numerous, both providing cooling for your base passively. **Cryolinx** appears at mid-frequency and is worth capturing for its handiwork skills in cold-climate bases. **Vanwyrm Cryst**, the ice variant of Vanwyrm, is a rare but powerful dark-ice hybrid. **Foxcicle** is common across the snowy plains and useful for medicine production. **Wumpo** provides lumbering and transport in addition to cooling, making it a versatile base Pal. **Ice Kingpaca**, a rarer variant of the standard Kingpaca, produces cold-typed wool in the ranch and is worth seeking out.
 
 ### Snow Rare Spawns
 
@@ -182,30 +132,17 @@ The frozen northern region has two main snow areas: the **Frostbound Mountains**
 
 ### Frostallion Location
 
-Frostallion roams the peak of the **Frostbound Mountains** in the far north. It is level 50, drops legendary schematics, and is widely considered one of the best Pals in the game for both combat and as a flying mount. Its Frostallion saddle unlocks at level 46.
+Frostallion roams the peak of the **Frostbound Mountains** in the far north. It is level 50, drops legendary schematics, and is widely considered one of the best Pals for both combat and mounted travel. Its Frostallion saddle unlocks at level 46, making it an endgame goal worth targeting early in your late-game grind.
 
 ## Ocean / Beach Biome
 
-Pals found along shores and in the water. You need a water mount (like Surfent or Jormuntide) or a flying mount to access deep-water Pals.
+Pals along shores and in the water require a water mount (like Surfent or Jormuntide) or a flying mount to reach. The beach biome overlaps with other biomes and serves as a transition zone.
 
-### Beach and Ocean Spawns
-
-| Pal | Type | Work Skills | Location | Notes |
-|-----|------|-------------|----------|-------|
-| Surfent | Water | Watering | Ocean, rivers | Rideable on water |
-| Surfent Terra | Ground | Watering | Beach shores | Alpha variant |
-| Kelpsea | Water | Watering | Ocean waters | Small ocean Pal |
-| Kelpsea Ignis | Fire | Kindling | Volcanic shores | Fire/water hybrid |
-| Jormuntide | Water/Dragon | Watering | Desert oasis + ocean ponds | S-tier watering |
-| Jormuntide Ignis | Fire/Dragon | Kindling | Volcanic lava pools | S-tier kindling |
-| Relaxaurus | Dragon | Watering | Beach areas | Early dragon Pal |
-| Azurobe | Water/Dragon | Watering | Beach/lake shores | Can be bred |
+The shoreline and ocean waters host a mix of water and dragon-type Pals. **Surfent** and its alpha variant **Surfent Terra** are the most common, both rideable on water surfaces. **Kelpsea** swarms in deeper waters with its fire variant **Kelpsea Ignis** appearing near volcanic shores. **Jormuntide** and **Jormuntide Ignis** are the S-tier prizes here -- the standard variant excels at watering while the fire variant is the best kindling Pal in the game. **Relaxaurus** lumbers along beach areas as an early dragon-type, and **Azurobe** can be found near lake shores and is a popular breeding component.
 
 ## Dungeon Spawns
 
-Dungeons are instanced areas that appear across the map. They respawn regularly and contain unique Pals, boss Pals, and Ancient Civilization Parts.
-
-### Dungeon Pal Pool
+Dungeons are instanced areas that appear across the map and respawn regularly. They contain unique boss Pals and drop Ancient Civilization Parts essential for late-game crafting.
 
 | Pal | Type | Dungeon Type | Level Range |
 |-----|------|-------------|-------------|
@@ -220,35 +157,31 @@ Dungeons are instanced areas that appear across the map. They respawn regularly 
 
 ## Day vs. Night Spawn Differences
 
-Many Pals only appear at certain times of day. This is critical knowledge for completing your Paldeck.
+Many Pals only appear at specific times of day. Ignoring the in-game clock is one of the most common reasons players struggle to complete their Paldeck.
 
 ### Night-Exclusive Spawns
 
-| Pal | Type | Typical Biome |
-|-----|------|-------------|
-| Daedream | Dark | Grasslands |
-| Loupmoon | Dark | Forest |
-| Hoocrates | Dark | Grasslands |
-| Leezpunk | Dark | Desert |
-| Katress | Dark | Volcano |
-| Helzephyr | Dark | Volcano |
-| Nox | Dark | Various |
-| Felbat | Dark | Various |
-| Tombat | Dark | Cave entrances |
+- **Daedream** (Dark) -- Grasslands
+- **Loupmoon** (Dark) -- Forest
+- **Hoocrates** (Dark) -- Grasslands
+- **Leezpunk** (Dark) -- Desert
+- **Katress** (Dark) -- Volcano
+- **Helzephyr** (Dark) -- Volcano
+- **Nox** (Dark) -- Various
+- **Felbat** (Dark) -- Various
+- **Tombat** (Dark) -- Cave entrances
 
 ### Day-Exclusive Spawns
 
-| Pal | Type | Typical Biome |
-|-----|------|-------------|
-| Tanzee | Grass | Grasslands |
-| Lifmunk | Grass | Grasslands |
-| Bristla | Grass | Forest |
-| Arsox | Fire | Desert (day) |
-| Faleris | Fire | Volcano |
+- **Tanzee** (Grass) -- Grasslands
+- **Lifmunk** (Grass) -- Grasslands
+- **Bristla** (Grass) -- Forest
+- **Arsox** (Fire) -- Desert
+- **Faleris** (Fire) -- Volcano
 
 ## Alpha Pal Locations
 
-Alpha Pals are marked on the map with a unique boss icon. They respawn every 30-60 minutes of real time. Here are the notable Alpha locations:
+Alpha Pals are marked on the map with a unique boss icon and respawn every 30-60 minutes of real time. They are renewable sources of Ancient Civilization Parts and rare materials.
 
 | Alpha Pal | Level | Coordinates | Biome | Drops |
 |-----------|-------|-------------|-------|-------|
@@ -285,7 +218,49 @@ Alpha Pals are marked on the map with a unique boss icon. They respawn every 30-
 
 8. **Paldeck completion bonus:** Completing entries rewards bonus XP and permanent stat increases. Prioritize catching new species.
 
-### Continue Reading
+## Failure Analysis: Common Pal-Hunting Mistakes
+
+Even experienced players waste time and resources hunting Pals inefficiently. Here are the most common mistakes and how to avoid them.
+
+**Skipping biome gear.** The number one reason players die in the Volcano or Snow biomes is showing up without proper armor. Heat-resistant armor level 2 and cold-resistant armor level 2 are not optional -- they are survival requirements. Without them, you take continuous damage that drains your HP in seconds, forcing retreats that waste travel time. Craft your armor before you explore, not after you die.
+
+**Sphere tier mismanagement.** Using a basic Sphere on a level 35 Pal is not just ineffective -- it is a resource drain. Each failed throw consumes the sphere. Players often burn through 20+ basic spheres on a single high-level Pal when a single Hyper Sphere would have worked. Match your sphere tier to the Pal's level roughly: basic (1-20), Mega (20-30), Giga (30-40), Hyper (40-45), Legendary (45-50).
+
+**Ignoring the capture power upgrade.** Many players attempt to catch high-level Pals without visiting the Statue of Power. Each Lifmunk Effigy you collect raises your global capture rate. Maxing this out early makes the difference between catching a level 40 Pal in three spheres versus ten.
+
+**Failing to check the clock.** Night-exclusive Pals like Daedream and Loupmoon simply do not spawn during the day, and day-exclusive Pals vanish after sunset. Players who ignore the time cycle waste entire hunting sessions. Always check the in-game clock before heading to a biome for a specific Pal.
+
+**Under-leveling against legendaries.** Taking on Paladius, Necromus, Jetragon, or Frostallion below level 45 is a guaranteed loss. These Pals have high enough damage output to one-shot under-geared players and their capture rate is near zero without Legendary Spheres. Level up, gear up, and prepare before attempting legendary hunts.
+
+## Decision Framework: Where Should You Hunt?
+
+Your hunting destination depends on what you actually need. Use this framework to decide where to go next.
+
+**If you need base workers:** Prioritize the Grasslands and Desert. Cattiva and Daedream from the Grasslands handle handiwork and transport. Anubis from the Desert (level 47 alpha) is the single best handiwork Pal in the game. Jormuntide from the Desert oasis handles watering at S-tier. You can reach both Desert alphas as early as level 25 with careful play.
+
+**If you need combat Pals:** Head to the Volcano and Snow biomes. Jetragon (Volcano crater) is the fastest combat flying mount in the game. Frostallion (Snow peak) dominates ice combat with its unique attack patterns. Blazamut (Volcano interior) is a strong general combat Pal for mid-game.
+
+**If you are completing your Paldeck:** Work biome by biome in level order. Start in Grasslands and catch everything that spawns during both day and night before moving to Forest, Desert, Volcano, and finally Snow. Refer to the Day vs. Night section above for time-sensitive spawns you must track.
+
+**If you need legendary schematics:** Farm Alpha bosses on cooldown. Alpha Pals respawn every 30-60 minutes and drop valuable schematics and materials. Anubis, Jormuntide, Blazamut, and the four legendaries are the most rewarding targets. Build a farming route that cycles through multiple Alphas in one session.
+
+**If you are on a resource budget:** Focus on low-cost catches. Basic and Mega spheres are cheap to craft. Stick to biomes within your sphere tier's effective range. Farm Vixy in the Grasslands for passive sphere generation in your ranch -- it produces usable Pal Spheres over time.
+
+## Counter-Intuitive Insights
+
+These Palworld facts go against what most players assume -- and knowing them gives you a real advantage.
+
+**1. Low-level Grasslands Pals outperform high-level ones at base work.** A Cattiva or Daedream from the starting zone has better handiwork and transport capabilities than many level 40 Pals. Base work efficiency depends on work suitability level, not combat level. A level 5 Daedream can transport items just as fast as a level 50 Helzephyr. Never replace your Grasslands workers just because you found something with a higher combat level.
+
+**2. Alpha bosses are renewable resources, not one-time encounters.** Every Alpha Pal respawns 30-60 minutes after capture or defeat. This means you can farm Anubis for handiwork Pals, Jormuntide for watering Pals, and Frostallion for legendary schematics on a recurring timer. Mark Alpha locations on your map and build a farming route to optimize your material income.
+
+**3. Vixy is one of the most valuable Pals in the game despite being level 1.** Place a Vixy in your ranch and it produces Pal Spheres, arrows, and coins passively over time. This single Pal removes the need to craft basic spheres entirely after the early game. At higher levels its ranch output includes Mega Spheres, saving thousands of resource points over a full playthrough.
+
+**4. Catching 10 of every species is better than obsessing over rare Pals.** The Statue of Power grants permanent player stat bonuses for each 10-catch milestone. Completing 10 of every common Pal in the Grasslands gives you more stat boosts than catching a single legendary. Quantity has a quality all its own in Palworld -- prioritize filling out those 10-catch bonuses before hunting for perfect-stat legendaries.
+
+**5. The Desert contains endgame-tier base Pals accessible at level 25.** Anubis (S-tier handiwork) and Jormuntide (S-tier watering) are found in the Desert biome at levels 45-47. You do not need to be level 45 to catch them -- with good sphere management, Pal Spheres, and status effects, these S-tier workers are obtainable as soon as you reach the Desert. This gives you a massive base efficiency boost long before you can survive the Snow or Volcano biomes.
+
+## Related Guides
 
 - **[Palworld Beginner's Guide (2026)](../palworld/beginner-guide.md)** -- Start here if you are new to Palworld.
 - **[Palworld Best Pals Tier List (2026)](../palworld/best-pals-tier-list.md)** -- Which Pals are worth your time.

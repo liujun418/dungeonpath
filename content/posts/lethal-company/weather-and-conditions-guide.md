@@ -5,21 +5,32 @@ cover:
   image: "/cover-image/lethal-company-weather/cover.webp"
   alt: "Lethal Company Weather & Conditions Guide Cover"
   caption: "Lethal Company Weather & Conditions Guide"
-lastmod: 2026-05-10
+lastmod: 2026-07-20
 draft: false
 description: "Lethal Company weather guide 2026. Eclipsed, Flooded, Stormy, Foggy, Rainy effects with scrap value multipliers, spawn changes, and survival strategies."
 tags: ["Lethal Company", "PC Games", "Weather Guide", "Survival", "Mechanics"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faqs:
+  - question: "Does Eclipse affect interior enemies in Lethal Company?"
+    answer: "No. Eclipse only affects exterior enemy spawns. Interior enemies, traps, and loot tables remain unchanged. The danger is entirely in getting to and from the entrance."
+  - question: "Can lightning strike you inside the ship during Stormy weather?"
+    answer: "No. Lightning only strikes the exterior. Once you are inside the ship or the facility interior, you are completely safe from lightning. The ship's hull provides full protection."
+  - question: "Do fire exits become unusable during Flooded weather?"
+    answer: "Yes. Fire exits in low-lying areas become submerged as water rises, typically around 12 PM to 2 PM. Plan to exit through high-ground fire exits or leave the facility before noon."
+  - question: "What is the best weather for maximizing scrap profit?"
+    answer: "Eclipsed weather provides a 1.5x scrap multiplier, the highest in the game. Stormy offers 1.2x. However, Eclipse is extremely dangerous — only attempt it on high-value moons like Titan or Artifice with a well-equipped team."
+  - question: "Can multiple weather conditions happen at the same time?"
+    answer: "Yes, though extremely rare (approximately 1-2% chance). Combinations like Eclipsed+Stormy or Flooded+Foggy create exceptionally dangerous conditions. When they occur, prioritize survival over profit."
 ---
 
-> *Last updated: May 10, 2026. This guide covers every weather condition in Lethal Company including Eclipsed, Flooded, Stormy, Foggy, and Rainy. You will find detailed mechanical explanations, scrap value multipliers, enemy spawn changes, moon-specific weather probabilities, survival strategies for each condition, and how to check and interpret the weather report.*
+Your ship's speaker crackles. "Titan. Eclipsed." The words hang in the cabin air. Through the window, the moon looms — not the familiar grey-brown you know, but a dark silhouette against a corona of light. The sun is a thin ring of fire behind the planet's edge. Below, you can already see movement. Shadows that should not be there at this hour. Forest Keepers. Multiple of them. The ship's radar console blinks to life, showing red dots clustering around the landing pad. Your crew exchanges glances. The safe window — those precious first minutes where you can scout the exterior before enemies fully spawn — does not exist today. As the ship begins its descent, one thought crystallizes: this is going to be a very different run. The landing gear touches down. The ramp lowers. The air is cold and still. Somewhere in the distance, a Forest Keeper's breathing echoes. Your grip tightens on the stun grenade. It is time to move.
+
+> *Last updated: July 20, 2026. This guide covers every weather condition in Lethal Company including Eclipsed, Flooded, Stormy, Foggy, and Rainy. You will find detailed mechanical explanations, scrap value multipliers, enemy spawn changes, moon-specific weather probabilities, survival strategies for each condition, and how to check and interpret the weather report.*
 
 ## Introduction
 
-Weather conditions in Lethal Company dramatically change how every moon plays. A moon you know inside and out on a clear day becomes an entirely different challenge under an Eclipse or during a Flood tide. The weather system adds a layer of strategic decision-making to every quota cycle — sometimes the right call is to skip a high-value moon entirely because the weather makes it too dangerous.
-
-Each weather condition modifies specific game mechanics: enemy spawn rates, scrap value multipliers, exterior navigation, and even interior access in some cases. Understanding these modifiers is essential for maximizing profit and survival. A team that knows how to handle Stormy weather can profit from its 1.2x scrap multiplier. A team that does not will lose members to lightning strikes before they even reach the door.
+Weather conditions in Lethal Company transform every moon into a different beast. The strategic layer of choosing where to land based on weather is as important as your equipment loadout or team composition. This guide covers every weather type — Eclipsed, Flooded, Stormy, Foggy, and Rainy — with mechanical breakdowns, scrap multipliers, enemy spawn changes, and survival strategies for each.
 
 For general survival strategies that pair well with weather knowledge, see our [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/). If you need equipment recommendations for different weather conditions, the [Lethal Company Equipment Guide](/posts/lethal-company/equipment-guide/) covers what to bring.
 
@@ -274,9 +285,37 @@ On very rare occasions, multiple weather conditions can occur simultaneously on 
 
 **Flooded + Foggy:** You cannot see the rising water's extent, making navigation even more treacherous. You might wade into a deep area thinking it is shallow.
 
+## Failure Analysis — Common Mistakes
+
+### Overconfidence on Eclipsed Moons
+The deadliest mistake in the game: landing on an Eclipsed moon and acting like you have the usual 30-minute safe window. Players stop to pick up exterior scrap, wander off alone, or take their time approaching the entrance. An Eyeless Dog or Forest Keeper that spawned at the very start catches them in the open. The fix: treat Eclipse as a speedrun. Every second outside is borrowed time. Move as a unit, sprint to the entrance, and do not stop for anything.
+
+### Ignoring the Flood Timer
+Flooded moons have a predictable water schedule, but most players do not track it. They enter the facility at 10 AM, explore deep into the dungeon, and emerge at 1 PM to find their planned fire exit completely underwater. The fix: set a mental timer when you enter. If you are not heading back by 11 AM, abort and extract through the Main Entrance before it becomes unreachable.
+
+### Grouping Up During Stormy Lightning Waves
+Stormy lightning has a small area-of-effect splash damage. When two players stand close together during a lightning wave, a single strike can kill or severely damage both. The fix: enforce a minimum 5-meter distance between crew members on the exterior during Stormy. One person outside at a time is the safest approach.
+
+### Over-Reliance on Radar in Foggy Weather
+The radar only shows moving enemies. A stationary Forest Keeper waiting near the entrance path will not appear on radar until it moves. Players who trust radar too much walk directly into ambushes. The fix: use radar as a supplement, not a replacement, for visual scanning and audio cues. Listen for breathing and footsteps.
+
+### The "One More Scrap" Trap
+Under any weather with a scrap multiplier, players get greedy. "One more piece of scrap" becomes "one more trip" becomes a wiped crew. The fix: set a hard scrap goal before landing and leave when you hit it. The profit lost by dying early far exceeds the profit from one extra piece. Discipline beats greed every time.
+
 ## Weather and Moon Selection Strategy
 
 Choosing which moon to visit based on weather is a core strategic skill in Lethal Company. Here is a decision framework:
+
+### The Weather Decision Tree
+
+When choosing a moon, run through this mental checklist:
+
+1. **What is your quota?** If you need 2,000+ scrap, you need Titan or Artifice. Weather is secondary.
+2. **What is the weather on your target moon?** Eclipse is high-risk, high-reward. Stormy is moderate-risk, moderate-reward. Foggy and Flooded are risk-neutral with no payout.
+3. **Is your team prepared?** Eclipse requires stun grenades, walkie-talkies, and a radar operator. Stormy requires lightning discipline. If your team lacks the gear or experience, downgrade to a safer moon.
+4. **What is the fallback?** Always have a backup moon in mind. If you land on Titan under Eclipse and immediately regret it, knowing where to go instead saves precious in-game time.
+
+The golden rule: a clear day on a lower-value moon is better than a wipe on a high-value moon under bad weather. Surviving to fight another day always beats dying with full pockets.
 
 ### Day 1 (Starting Quota, usually ~130)
 
@@ -318,6 +357,23 @@ The ship's radar console is your best tool for weather survival. Here is how to 
 **Stormy specifically:** The radar does not show lightning strike patterns, but the operator can see the flashes and warn ground crew.
 
 **Eclipsed specifically:** The radar is essential for tracking the high number of outdoor enemies. With Eclipse spawning 3x the normal enemies, the radar operator's job becomes critical. They must track multiple threats simultaneously and give precise navigation instructions.
+
+## Counter-Intuitive Tips
+
+### Stormy Weather Reduces Enemy Spawns
+Stormy is not purely a negative condition. The lightning scares away outdoor enemies, reducing spawn rates by roughly 20-30%. This means Stormy weather can actually make the exterior safer than a clear day in terms of enemy threats — if you can manage the lightning. The 1.2x scrap multiplier is a bonus on top of reduced enemy density. A team that masters lightning discipline can profit more from Stormy than from a clear day on the same moon.
+
+### Eclipse Makes Interior Runs Predictable
+Since Eclipse only affects the exterior, the interior plays exactly the same as always. This means you can plan your interior route with complete confidence — the dungeon layout, enemy spawns, and loot distribution are unchanged. The danger is entirely about getting in and out. Once you are inside, the run is actually more predictable than a clear day where the exterior threat level escalates over time. The trade-off is clear: extreme exterior danger for predictable interior profit.
+
+### Foggy Weather Favors Experienced Teams
+Foggy weather hurts new players more than veterans. Experienced players know the terrain by muscle memory — they can navigate from the ship to the entrance without visual landmarks. For veterans, fog is a minor inconvenience. For new players who rely on sightlines, fog is a death sentence. This means Foggy weather actually widens the skill gap: if you know the moon well, Foggy is barely harder than Clear, while inexperienced teams should avoid it entirely.
+
+### Lightning Can Be Used as a Navigation Tool
+During Stormy weather, lightning flashes briefly illuminate the entire exterior, including enemies that would otherwise be hidden in darkness or behind terrain. A well-timed lightning flash can reveal a Forest Keeper's position at 50 meters — far beyond normal visibility range. Instead of fearing lightning, learn to use the flashes as free reconnaissance. The flash also masks your footsteps, making it harder for enemies to track you by sound.
+
+### Flooded Moons Build Better Habits
+Flooded moons have no scrap multiplier, but they offer a hidden benefit: the rising water forces you to be efficient. Teams that play Flooded moons learn to move quickly, plan routes, and extract early. These skills carry over to clear days and make you a better player overall. A team that regularly plays Flooded moons will outperform a team that only plays clear days, because the time pressure builds better habits.
 
 ## Conclusion
 
