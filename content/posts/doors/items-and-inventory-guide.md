@@ -6,18 +6,29 @@ cover:
   image: "/cover-image/doors-beginner/cover.webp"
   alt: "DOORS Items and Inventory Guide Cover"
   caption: "DOORS Items and Inventory Guide"
-lastmod: 2026-06-17
+lastmod: 2026-07-21
 draft: false
 tags: ["DOORS", "Roblox", "Items Guide", "Survival", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
+faq:
+  - question: "What is the most important item to buy first in DOORS?"
+    answer: "The Lighter (100g) is the best first purchase. Dark rooms and Screech are immediate threats from the early doors, and the 100g price leaves room for a Bandage. The Flashlight (200g) is better saved for mid-game when you have surplus gold."
+  - question: "Should I save gold or spend it immediately in DOORS?"
+    answer: "Spend on essential items immediately — Lighter and Bandages first. Gold does not persist between runs, so hoarding it is literally wasting it. Only save for a Crucifix (500g) if you already have your essentials covered and are approaching a high-danger zone."
+  - question: "Is the Lighter better than the Flashlight early game?"
+    answer: "Yes. The Lighter costs 100g versus the Flashlight's 200g, and the 100g saved buys you a Bandage. Early dark rooms are short enough that the Lighter's battery is sufficient. Upgrade to Flashlight or Bulklight only after you have healing and defensive items sorted."
+  - question: "How many items should I carry in DOORS inventory?"
+    answer: "Treat 5 items as your practical limit, even though the inventory holds 8. More items mean more scrolling and slower access during emergencies. A lean loadout of Lighter, Bandages, Skeleton Key, Crucifix, and Vitamins outperforms a cluttered bag of 8 situational items."
+  - question: "When should I use the Crucifix in DOORS?"
+    answer: "Use the Crucifix when an entity is about to kill you and you have no other escape — even in the mid-game. Dying with a Crucifix in your inventory is the single biggest waste in DOORS. Do not save it exclusively for Figure; a guaranteed lethal encounter on Door 60 is a perfectly valid use."
 ---
 
-> *Last updated: June 17, 2026. Covers all items from The Hotel, The Mines, The Outdoors, Jeff's Shop, containers, and special event items. Updated for DungeonPath v3 standards — with real survival stories and practical decision frameworks.*
+> *Last updated: July 21, 2026. Covers all items from The Hotel, The Mines, The Outdoors, Jeff's Shop, containers, and special event items. Updated for DungeonPath v3 standards — with real survival stories and practical decision frameworks.*
 
 ## The Story of Your Last Run (Scene-Driven Opening)
 
-You found a Crucifix in a drawer on Door 12. It felt like a sign — the perfect insurance policy for whatever horrors awaited. You held onto it for 80 doors, passing up Bandages on Door 37, a Flashlight on Door 52, and even a Skeleton Key on Door 71. "I'll save it for the perfect moment," you thought.
+You found a Crucifix in a drawer on Door 12. It felt like a sign — the perfect insurance policy for whatever horrors awaited. You held onto it for 80 doors, passing up Bandages on Door 37, a Flashlight on Door 52, and even a Skeleton Key on Door 71. "I'll save it for the perfect moment," you thought. Every time you opened your inventory, that Crucifix stared back at you like a trophy. You felt safer just knowing it was there.
 
 Then Door 90 hit. The library went dark. Figure emerged, its heavy footsteps shaking the floor. You fumbled for your Lighter — dead battery. You sprinted for the exit, tripping over books. As Figure closed in, you finally reached for the Crucifix... but your inventory was so cluttered with unused Lockpicks and Vitamins that you couldn't find it in time.
 
@@ -67,7 +78,9 @@ Stop making impulse purchases. Use this framework to decide exactly what to buy 
 
 ---
 
-## Counter-Intuitive Advice: The Lighter is Better Than the Flashlight Early Game
+## Counter-Intuitive Advice: Three Rules That Break Conventional Wisdom
+
+### 1. The Lighter Beats the Flashlight Early Game
 
 Here's a tip that will save your life: **Buy the Lighter instead of the Flashlight for your first purchase.**
 
@@ -78,6 +91,14 @@ Why? Let's do the math:
 - The Bandage will save you from a Screech attack or minor fall damage
 
 You'll thank me when you have 100g left for Bandages after Door 25.
+
+### 2. Using the Crucifix Early Is Smarter Than Saving It
+
+Everyone hoards the Crucifix for Figure or Seek. But here's the truth: **using it on a guaranteed lethal encounter in the mid-game beats dying with it in your inventory.** If you're at 20% HP, have no Bandages, and encounter a deadly entity, the Crucifix has already paid for itself. A Crucifix used on Door 60 is worth more than a Crucifix still in your bag on Door 100.
+
+### 3. Carry Fewer Items to Survive Longer
+
+Your inventory holds 8 items, but you should treat 5 as the real limit. More items means more scrolling, more decision fatigue, and more seconds spent fumbling during a chase. A lean loadout of Lighter + Bandages + Crucifix + Skeleton Key + Vitamins will outperform a cluttered bag of 8 "just in case" items every single time. Speed of access beats quantity of options when Figure is three seconds away.
 
 ---
 
