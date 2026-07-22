@@ -5,15 +5,32 @@ cover:
   image: "/cover-image/lethal-company-interior-layouts/cover.webp"
   alt: "Lethal Company Interior Guide Cover"
   caption: "Lethal Company Interior Guide"
-lastmod: 2026-05-10
+lastmod: 2026-07-22
 draft: false
 description: "Lethal Company interior guide 2026. Facility and Mansion dungeons mapped with room types, navigation tips, trap patterns, strategies to never get lost inside."
 tags: ["Lethal Company", "PC Games", "Maps", "Mechanics"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faq:
+  - question: "What is the best way to avoid getting lost in Lethal Company interiors?"
+    answer: "Use the Left-Wall Rule: always turn left at every intersection while exploring, and turn right at every intersection to exit. This systematic approach guarantees you cover every room without backtracking. For teams, appoint a dedicated navigator and use the ship's radar operator to track team positions."
+  - question: "Should I pull the Apparatus as soon as I find it?"
+    answer: "No. Before pulling the Apparatus, clear a path from the Apparatus Room to the nearest fire exit. The Apparatus triggers a facility-wide blackout and aggressive enemy spawns. Only pull it when you are ready to extract immediately, and always use a fire exit rather than the Main Entrance for your escape route."
+  - question: "What is the difference between Facility and Mansion interiors?"
+    answer: "Facility interiors are industrial, metallic dungeons with narrow corridors, catwalks, turrets, and landmines. Mansion interiors are gothic, wooden structures with larger rooms, chandeliers, secret bookshelf passages, and Butlers. Mansions have 30-50% more rooms and appear on harder moons like Rend, Dine, and Titan."
+  - question: "How do I safely handle turrets and landmines?"
+    answer: "For turrets, listen for the beeping pattern and avoid the red laser's sweep cone. Destroy turrets with 2-3 shotgun blasts or find the nearby control panel. For landmines, look for blinking red lights and faint beeping. Crouch and interact to disarm them, or simply jump over them with 1 meter of clearance."
+  - question: "How long should I stay inside a Lethal Company interior?"
+    answer: "Set a hard limit of 5 minutes. After 5 minutes, the reserve enemy pool activates and deploys one new enemy roughly every 2 minutes. The longer you stay, the more dangerous extraction becomes. If you have not found the Apparatus by the 5-minute mark, consider extracting with what you have."
 ---
 
-> *Last updated: May 10, 2026. This guide covers every interior layout in Lethal Company including Facility and Mansion dungeons, detailed room breakdowns with scrap locations and enemy spawns, trap patterns for turrets and landmines, navigation strategies to never get lost, and fire exit routing on every major moon.*
+> *Last updated: July 22, 2026. This guide covers every interior layout in Lethal Company including Facility and Mansion dungeons, detailed room breakdowns with scrap locations and enemy spawns, trap patterns for turrets and landmines, navigation strategies to never get lost, and fire exit routing on every major moon.*
+
+The air changes first. One moment you are on the surface — wind, rain, the distant screech of something on the horizon. Then you step through the doorway and the world compresses. The smell of rust and industrial grease hits before your eyes adjust: dim fluorescent strips flicker overhead, casting pools of sickly light across metal grating. Water drips somewhere in the dark. Your boots echo against the catwalk, each step an announcement to whatever waits below.
+
+Behind you, the Main Entrance door hisses shut. Ten seconds. That is all the time it gives you before it seals, cutting off the daylight and the safety of the ship's viewport. Ahead, the corridor stretches into shadow, branching left and right into unknown rooms. The minimap in your terminal shows only what you have already seen — which is nothing.
+
+This is the moment that separates crews who extract with full pockets from those who become another cautionary tale on the terminal's bulletin board. Every Lethal Company veteran remembers their first interior: the confusion of identical corridors, the heart-stopping moment a turret's laser sweeps across your chest, the desperate sprint through unfamiliar rooms with something growling behind you. The interior does not care about your experience level. It follows its own logic, and survival means learning that logic.
 
 ## Introduction
 
@@ -333,6 +350,117 @@ Enemy spawning inside interiors follows consistent rules that you can anticipate
 - **Noise-based spawning:** Gunfire, explosions, and the Apparatus pull can trigger immediate enemy spawns from the reserve pool. After pulling the Apparatus, expect 2-3 additional enemies to spawn near your location.
 - **Moon difficulty scaling:** Harder moons spawn more enemies initially and have larger reserve pools. Titan can spawn up to 15 total enemies in a single interior run.
 - **Enemy cap:** Each interior has a maximum enemy cap (varies by moon, typically 8-12 for normal moons, 12-18 for Titan/Artifice). Once the cap is reached, no more enemies spawn until some are killed or despawn.
+
+## Counter-Intuitive Insights
+
+Experienced players know that Lethal Company interiors often reward counter-intuitive behavior. What feels wrong is often optimal.
+
+### Dead Ends Are Your Best Friends
+
+Most players avoid dead-end rooms because they seem like wasted time. In reality, dead ends account for roughly 30% of branches and contain disproportionately high scrap value because fewer players explore them. The dungeon's generation algorithm places valuable loot at terminal points to reward thorough exploration. Always check dead ends last — but always check them.
+
+### Silence Can Kill You Faster Than Noise
+
+Conventional wisdom says stay quiet to avoid detection. But moving too slowly through the interior increases your time inside, which triggers the reserve enemy pool. After 5 minutes, the game starts deploying enemies at a rate of roughly one every 2 minutes. Sometimes it is better to sprint through a known-clear section, make noise, and cover ground than to creep silently and let the clock work against you.
+
+### Flashlights Are a Double-Edged Sword
+
+The Pro-flashlight illuminates dark rooms and helps you spot scrap and traps. But its beam is visible to certain enemies, and using it in a room with ambient light can make peripheral vision worse. Experienced players toggle their flashlight off in well-lit corridors to preserve night vision and avoid broadcasting their position. The best light management is situational, not constant.
+
+### The Main Entrance Is a Trap
+
+Your instinct is to return through the door you came in. On most moons, the fire exit places you closer to the ship than the Main Entrance. After pulling the Apparatus, using the Main Entrance means traversing the entire dungeon again. A fire exit cuts that distance by half or more. Train yourself to think of the Main Entrance as a one-way door — once you go in, plan to leave through a fire exit.
+
+## Failure Analysis: Why Crews Wipe Inside
+
+Even experienced teams fall to predictable failure patterns. Recognizing these archetypes helps you avoid them.
+
+### The Wanderer's Death
+
+**Symptoms:** Team spreads out to cover more ground. One player loses orientation in a dead-end corridor. By the time they realize they are lost, the lights go out or an enemy cuts off their path back. Panic sets in, and the player runs deeper into the dungeon instead of backtracking systematically.
+
+**Root cause:** Failure to maintain spatial awareness. The player stopped paying attention to turns and room connections early in the run.
+
+**Prevention:** Use the Left-Wall Rule from the moment you enter. Appoint one player as the navigator whose primary job is tracking the route. The ship's radar operator should call out position every 60 seconds.
+
+### The Apparatus Rush
+
+**Symptoms:** A team finds the Apparatus Room early, pulls the device without clearing an exit path first, and then cannot navigate the darkened facility while carrying a two-handed item. Enemies that were dormant become aggressive. The team scatters, and each player dies alone.
+
+**Root cause:** Greed over preparation. The Apparatus's scrap value blinded the team to the operational requirements of extraction.
+
+**Prevention:** Never pull the Apparatus until you have walked the exit route from the Apparatus Room to the nearest fire exit. Clear enemies along that route. Designate one player as the Apparatus carrier while others provide cover.
+
+### Trap Tunnel Vision
+
+**Symptoms:** Player spots a landmine or turret and becomes fixated on avoiding it. While watching the trap, they back into another hazard — a steam vent, a crusher cycle, or fall off a catwalk. Some players spend 30+ seconds trying to disarm every trap they encounter.
+
+**Root cause:** Treating traps as puzzles rather than hazards. Not all traps need to be disarmed — many can be bypassed.
+
+**Prevention:** Ask yourself: "Can I go around this?" If yes, do it. Only disarm traps that block a mandatory path. A turret in a side room can be ignored. A landmine in a corridor you must cross twice should be disarmed or destroyed.
+
+### The Overstayer
+
+**Symptoms:** Team stays inside past the 5-minute mark because "just one more room" keeps yielding scrap. By minute 8, the reserve enemy pool has deployed multiple threats. The return path, which was clear on the way in, is now blocked. The team takes casualties on the way out and fails to extract with any scrap.
+
+**Root cause:** Loss of discipline around time management. The interior becomes more dangerous the longer you stay, and marginal scrap gains are not worth exponential risk increases.
+
+**Prevention:** Set a hard time limit before entering. When the timer expires, you leave — regardless of how many rooms remain unchecked. The ship's radar operator should enforce this timer.
+
+### Communication Breakdown
+
+**Symptoms:** Two players enter the same room from different corridors. One mistakes the other for an enemy and alerts the team. Positional callouts become confused ("left" means different things to different players). By the time communication collapses, the team has lost cohesion and either extracts early or wipes.
+
+**Root cause:** No shared reference system for navigation callouts.
+
+**Prevention:** Establish naming conventions before entering. Use "corridor left/right" relative to the direction the team is moving, not individual player orientation. Confirm callouts by having the receiver repeat them back.
+
+## Decision Framework: Your Interior Survival Flowchart
+
+Every moment inside a Lethal Company interior is a branching decision. Use this framework to make optimal choices under pressure.
+
+### Entry Decision
+
+| Variable | Decision |
+|----------|----------|
+| Is it past 2:00 PM in-game? | Enter only if you can extract before 6:00 PM. Night arrival increases enemy spawns by approximately 20%. |
+| Is the moon's hazard level "Stormy" or "Flooded"? | Skip. Weather hazards compound interior risks significantly. |
+| Does your team have at least one flashlight? | Do not enter without a light source. The facility is dark and becomes pitch-black after the Apparatus is pulled. |
+| Do you have a walkie-talkie? | Mandatory for any moon with a Mansion interior. Facility interiors can be managed without one if the team stays together. |
+
+### Navigation Decision Tree
+
+1. **At each intersection:** Apply the Left-Wall Rule. If this is your exit route, apply the Right-Wall Rule instead.
+2. **When you find a dead end:** Clear the room, note its location on the minimap, and backtrack to the last unvisited branch.
+3. **When you encounter a trap:** Can you bypass it with 1+ meter clearance? If yes, bypass. Is it blocking a path you must cross twice? If yes, disarm. Otherwise, mark it on the minimap and proceed.
+4. **When you find a locked door:** Is your team close to the Apparatus Room depth? If yes, search nearby rooms for a key. If not, mark the door and return after clearing closer rooms.
+
+### Scrap Prioritization
+
+| Priority | Scrap Type | Action |
+|----------|------------|--------|
+| 1 (Highest) | Apparatus | Always take. Worth 50-120 credits. Triggers dark exit sequence. |
+| 2 | Two-handed high value (Gold Bars, Diamonds, Paintings) | Take if you have a free two-handed slot. |
+| 3 | One-handed high value (Cash Registers, V-Type Engines) | Take. Can be carried alongside a weapon or flashlight. |
+| 4 | Moderate value (Air Horns, Fancy Lamps, Candlesticks) | Take only if you have inventory space after securing higher priorities. |
+| 5 | Low value (Plastic Cups, Brushes, Toothpaste) | Skip unless you have empty slots on the way out. |
+
+### Extraction Decision
+
+When should you commit to leaving?
+
+- **Trigger events:** The Apparatus has been pulled; a Jester has reached its final form; a Coil-Head is active and you cannot maintain eye contact while carrying scrap; the team has taken two or more casualties.
+- **Time trigger:** You have been inside for 5 minutes or more. The reserve enemy pool is now active.
+- **Scrap trigger:** The combined value of carried scrap exceeds 60% of the current quota requirement. Extracting early reduces risk and preserves crew for the next run.
+
+### Post-Extraction Review
+
+After each run, answer three questions:
+1. Did we exit through a fire exit or the Main Entrance? (Fire exit should be the default choice.)
+2. Did any player get lost? If yes, what navigation failure caused it?
+3. Did we leave scrap behind that we could have carried out? If yes, was it a route-planning failure or an inventory management failure?
+
+These reviews take 30 seconds and compound into dramatically better performance over dozens of runs.
 
 ## Conclusion
 
