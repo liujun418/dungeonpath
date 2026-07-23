@@ -6,15 +6,32 @@ cover:
   image: "/cover-image/doors-game-modes/cover.webp"
   alt: "DOORS Game Modes Guide: Rush, Endless, Chaos & Daily Runs (2026)"
   caption: "DOORS Game Modes Guide"
-lastmod: 2026-05-15
+lastmod: 2026-07-23
 draft: false
+faq:
+  - question: "Do Daily Runs reset at the same time for everyone?"
+    answer: "Yes. Daily Runs reset at a fixed global time, typically midnight UTC. All players receive the same seed on the same day, which is what makes the leaderboard fair — everyone faces identical rooms, entities, and item placements."
+  - question: "Can I earn Knobs in Chaos Mode?"
+    answer: "Yes. Chaos Mode rewards Knobs at the same rate as Standard mode. The modifier randomizer does not affect Knob earnings. However, because Chaos runs are harder to complete, your Knobs-per-hour rate may be lower than Standard mode."
+  - question: "What happens to my Endless Mode progress if I disconnect?"
+    answer: "Endless Mode progress is lost on disconnect. There is no save state. If you are pushing for a high score, ensure a stable connection. Some players intentionally end their run at a safe door rather than risk losing everything to a disconnect."
+  - question: "How does the Daily Run leaderboard scoring work?"
+    answer: "Daily Run scoring is based on doors completed, items collected, and gold earned. The formula prioritizes door progression over wealth — a player who reaches Door 80 with no gold will outrank a player who dies at Door 50 with 500 gold. Speed is not a factor in the standard leaderboard."
+  - question: "Which game mode is best for beginners?"
+    answer: "Standard mode is the best starting point. It introduces entities at a predictable pace and lets you learn room layouts without modifier chaos. Once you can consistently reach Door 50 in Standard, try Daily Runs for variety, then Chaos Mode for Knob farming."
 tags: ["DOORS", "Roblox", "Game Modes", "Daily Runs", "Chaos Mode", "Endless Mode", "Horror"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]
 comments: true
 ---
 
-> *Last updated: May 15, 2026. Covers all DOORS alternate game modes (Visions) released in 2026 — Daily Runs, Chaos Mode, Rush Mode, Endless Mode — plus Battle Mode. Includes unlock requirements, scoring systems, reward structures, and strategy breakdowns for each mode.*
+> *Last updated: July 23, 2026. Covers all DOORS alternate game modes (Visions) released in 2026 — Daily Runs, Chaos Mode, Rush Mode, Endless Mode — plus Battle Mode. Includes unlock requirements, scoring systems, reward structures, strategy breakdowns, failure analysis, and decision frameworks for each mode.*
+
+You are thirty doors deep into a Daily Run. The lights flicker. You know Rush is coming — but from which direction? Your teammate is three rooms behind, clutching a gold pile you both need for the leaderboard bonus. Do you wait, or do you push through Door 31 alone? That split-second choice is what DOORS game modes are built around.
+
+Since early 2026, DOORS has expanded far beyond the standard Hotel-to-Mines crawl. Five distinct alternate modes — called Visions — now sit on the lobby floor screen, each rewriting the rules of survival. Daily Runs pit you against a fresh seeded layout every 24 hours with competitive leaderboards. Chaos Mode rips the rulebook apart, spawning Figure in rooms it has no business visiting. Rush Mode turns the game into a rhythm of flickering lights and desperate dives into closets. Endless Mode stretches your endurance until your inventory runs dry and your nerves fray. And Battle Mode drops you into a PvP arena where outliving seven strangers is the only win condition.
+
+If you have only played standard floors, you are missing the sharpest edge of the game. This guide breaks down every active Vision — how they work, what they reward, and how to survive them.
 
 ## DOORS Game Modes Overview
 
@@ -40,14 +57,7 @@ Daily Runs are the most accessible alternate mode and the best entry point for p
 
 ### How Daily Runs Work
 
-| Feature | Detail |
-|----------|--------|
-| **Reset Time** | Every day at 4:00 PM EDT / 8:00 PM UTC |
-| **Room Count** | 20-30 randomized rooms per run |
-| **Entity Pool** | Pulls from all floors — Hotel, Mines, Outdoors |
-| **Revives** | Disabled entirely |
-| **Gold System** | Shared between all players in multiplayer |
-| **Leaderboard Submissions** | Only your **first attempt each day** counts |
+Daily Runs reset globally at 4:00 PM EDT / 8:00 PM UTC. Each run spans 20-30 randomized rooms, pulling entities from every floor in the game — Hotel, Mines, and Outdoors. Revives are disabled entirely, so every mistake is permanent. In multiplayer, gold is shared across the entire squad, which means looting strategy needs to be coordinated. Most importantly, only your **first attempt each day** submits to the leaderboard. Treat every run like it matters, because your practice attempts are invisible to the ranking system.
 
 ### Scoring System
 
@@ -63,11 +73,7 @@ Two separate leaderboards exist: **Solo** and **Multiplayer**. Choose based on w
 
 ### Rewards
 
-| Reward | How to Earn |
-|--------|-------------|
-| **Escape Bonus** | 25 Knobs + 3 bonus Knobs (once per day) |
-| **Per Room** | 1 Knob per room survived |
-| **Daily Streak** | Maintain consecutive days for escalating Knobs, Revives, Stardust, and Boosts |
+Escaping a Daily Run grants 25 Knobs plus a 3-Knob daily bonus. You also earn 1 Knob for every room you survive along the way. The real long-term value comes from the Daily Streak system: maintaining consecutive days unlocks escalating bundles that include extra Knobs, Revives, Stardust, and Boosts.
 
 ### Daily Streak System
 
@@ -103,14 +109,9 @@ Chaos Mode, released in February 2026, is the wildcard Vision. It throws the sta
 
 ### Chaos Mode Strategy
 
-| Tip | Explanation |
-|-----|-------------|
-| **Always carry a light source** | Dark rooms are more dangerous when entity timing is unpredictable |
-| **Never leave a hiding spot empty-handed** | Know the nearest closet at all times — Ambush can spawn with zero warning |
-| **Crucifix priority changes** | Save crucifix for Figure and Seek; Rush is too common to waste it on |
-| **Expect to die** | Players typically need 3-5 attempts for a first clear |
-| **Play conservatively** | Unlike speed-focused modes, Chaos rewards caution and resource hoarding |
-| **Learn all entity audio cues** | With visual cues unreliable, audio becomes your primary warning system |
+Always carry a light source. Dark rooms are more dangerous when entity timing is unpredictable, and getting caught without one usually ends the run. Know the nearest closet at all times — Ambush can spawn with zero warning, so you should never be more than a few steps from cover.
+
+Crucifix priority shifts in Chaos Mode. Save it for Figure and Seek; Rush is too common to waste a crucifix on. Expect to die — most players need 3-5 attempts for their first clear. Unlike speed-focused modes, Chaos rewards caution and resource hoarding. Since visual cues are unreliable, audio becomes your primary warning system. Learn every entity's audio profile before attempting serious runs.
 
 ### Chaos Mode Rewards
 
@@ -131,13 +132,9 @@ Released on April 1, 2026 (and no, it wasn't an April Fool's joke), Rush Mode cr
 
 ### Rush Mode Strategy
 
-| Strategy | Detail |
-|----------|--------|
-| **Map your hiding spots** | Memorize every closet, bed, and vent location on each floor |
-| **Rotate hiding spots** | Don't use the same closet twice in a row — Hide becomes aggressive |
-| **Keep moving** | Standing still invites stacked entity spawns |
-| **Stash spare lockpicks and vitamins** | You'll need speed more than ever |
-| **Audio is everything** | Learn the distinct Rush vs Ambush audio profiles — reacting to the wrong one gets you killed |
+Memorize every closet, bed, and vent location on each floor. Rotation is critical — do not use the same hiding spot twice in a row, because Hide becomes aggressive with repeated use. Keep moving at all times; standing still invites stacked entity spawns that are nearly impossible to survive.
+
+Stash spare lockpicks and vitamins before entering. You will need speed more than ever. Audio is everything in this mode — learn the distinct Rush versus Ambush audio profiles. Reacting to the wrong sound is one of the most common causes of death in Rush Mode.
 
 ### CERTIFIED RUSH FAN Achievement
 
@@ -185,28 +182,55 @@ Battle Mode is DOORS' PvP offering, pitting players against each other in entity
 
 ### Battle Mode Overview
 
-| Feature | Detail |
-|---------|--------|
-| **Format** | Global matchmaking queue |
-| **Objective** | Survive longer than your opponents |
-| **Players** | 4-8 per match |
-| **Entity Scaling** | Entities become more aggressive as players are eliminated |
-| **Revives** | Disabled — once you're dead, you're spectating |
+Battle Mode runs on a global matchmaking queue with 4-8 players per match. The objective is simple: survive longer than everyone else. Entities become more aggressive as players are eliminated, so the final two opponents face the highest pressure. Revives are disabled — once you die, you spectate until the round ends.
 
 Battle Mode uses a standard Elo-style ranking system. Wins increase your rating; early deaths decrease it. The mode received a revamp in March 2026 with improved matchmaking and new arena layouts.
 
 ---
 
-## Which Mode Should You Play?
+## Decision Framework
 
-| Your Goal | Best Mode |
-|-----------|-----------|
-| **Farm Knobs efficiently** | Daily Runs (consistent rewards + streak bonuses) |
-| **Test your skills** | Chaos Mode (unpredictable, high difficulty) |
-| **Improve reaction speed** | Rush Mode (entity dodge training) |
-| **Push your limits** | Endless Mode (infinite scaling endurance) |
-| **Compete against others** | Battle Mode (PvP survival race) |
-| **Learn the game** | Standard floors (Hotel → Mines → Outdoors) |
+Use this flow to pick your mode without wasting time on mismatched goals.
+
+**Step 1: Determine your primary goal.**
+If you need Knobs, Daily Runs are the only efficient farm. The streak system compounds returns in a way no other mode matches. If you want to test raw skill, Chaos Mode is the benchmark — but it is RNG-dependent, so a single loss does not mean you played poorly. If your goal is mechanical improvement, Rush Mode functions like a training ground for reaction speed and audio parsing.
+
+**Step 2: Check your session length.**
+Daily Runs and Rush Mode runs typically last 20-40 minutes. Chaos Mode can vary wildly depending on early RNG. Endless Mode demands an open-ended session — past room 100, runs can exceed two hours. Battle Mode matchmaking adds queue time on top of the survival phase.
+
+**Step 3: Evaluate your preparation level.**
+New players should avoid alternate modes until standard floors are comfortable. Endless Mode requires deep knowledge of entity raycasting and resource rationing. Chaos Mode demands familiarity with every entity in the game, including audio cues from the Mines and Outdoors floors.
+
+**Step 4: Solo or multiplayer?**
+Daily Runs offer separate Solo and Multiplayer leaderboards. Battle Mode is strictly multiplayer. The other three modes can be played either way, but multiplayer in Chaos and Endless adds coordination overhead that often hurts more than it helps.
+
+---
+
+## Failure Analysis
+
+These are the most common failure patterns across all game modes.
+
+**Wasting the Daily Run first attempt.** Many players treat their initial run as a warm-up, not realizing the leaderboard locks to the first attempt. The fix: scout the day's seed by watching a stream or reading community notes before launching.
+
+**Hiding in the same spot repeatedly in Rush Mode.** Rush Mode increases Hide aggression, yet players reflexively return to the nearest closet. After two uses, that closet becomes a death trap. The fix: pre-plan a rotation route through every room.
+
+**Crucifix misuse in Chaos Mode.** New Chaos players burn crucifixes on Rush or Ambush spawns, leaving nothing for Figure or Seek. The fix: treat the crucifix as a boss-only item in this mode.
+
+**Disconnecting during Endless Mode.** Endless Mode does not save progress. A dropped connection ends the run permanently. The fix: use wired internet and plan session length before starting.
+
+**Looting in Endless Mode.** Players conditioned by standard floors risk their lives for gold that has almost no value in Endless. The fix: ignore coins unless they are on the direct path.
+
+---
+
+## Counter-Intuitive Insights
+
+**Hide kills more Rush Mode players than Rush itself.** The entity spawn rate is high, but survivable. What ends runs is Hide aggression triggered by overusing the same closet twice in a row. The flickering lights are not the real threat — your own repetitive habits are.
+
+**A zero-gold Daily Run can outscore a wealthy one.** The Time Bonus formula awards 500 points multiplied by speed. A fast clear with zero gold often beats a slow, loot-heavy run. The leaderboard rewards velocity, not greed.
+
+**Dark rooms are safer in Chaos Mode.** In standard floors, dark rooms are dangerous. In Chaos Mode, Screech can spawn in lit rooms with no warning, while dark rooms at least follow consistent light-source rules. A flashlight turns the supposedly riskiest room type into a predictable space.
+
+**The Endless Mode difficulty spike that kills most players starts at Door 31, not Door 101.** Rooms 1-30 lull players into standard-floor habits. At Door 31, entity speed increases and Ambush spawns ramp up, catching runners who are still playing conservatively. The real wall is early.
 
 ---
 
