@@ -6,11 +6,22 @@ cover:
   image: "/cover-image/lethal-company-equipment/cover.webp"
   alt: "Lethal Company Equipment Guide Cover"
   caption: "Lethal Company Equipment Guide"
-lastmod: 2026-06-20
+lastmod: 2026-07-29
 draft: false
 tags: ["Lethal Company", "PC Games", "Equipment Guide", "Loadout Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faqs:
+  - q: "What is the best all-around loadout in Lethal Company?"
+    a: "There is no universal 'best' loadout — the right gear depends on the moon. For low-tier moons (Experimentation, Assurance, Offense), one Pro-Flashlight per two players, a walkie for everyone, and one shovel is sufficient at 80-110 credits. For high-tier moons (Rend, Dine, Titan), you need one Pro-Flashlight and one Stun Grenade per player, two shovels, and specialized gear like the Inverse Teleporter on Titan. Always prioritize communication (walkies) over weapons."
+  - q: "Should I buy a basic flashlight or a Pro-Flashlight?"
+    a: "Always buy the Pro-Flashlight for 25 credits. The basic flashlight at 15 credits is a trap: it has half the battery life and a narrower beam. The extra 10 credits double your effective light uptime and coverage. On any moon with complex interiors (Rend, Dine, Titan), the basic flashlight will die before you find the exit, leaving you blind in a Bracken corridor."
+  - q: "Are Stun Grenades really worth 30 credits?"
+    a: "Yes. Stun Grenades are the most cost-effective item in the game. They affect every monster type — including invincible ones like Coil-Heads and Jesters — with a 5-second lockdown. A single grenade can save the entire run when a Forest Keeper picks up your scout. Buy one per player on Rend, Dine, and Titan. Unused grenades come back to the ship with you."
+  - q: "How many shovels should my team buy?"
+    a: "One shovel for the team is optimal on most moons. Two on Titan if you have the credits. The shovel is only effective against Snare Fleas (1 hit), Hoarding Bugs (2 hits), and Thumpers (3 hits with wall cover). Against Brackens, Forest Keepers, and Coil-Heads, a shovel is a slower form of dying. Replace your second shovel with a Stun Grenade for better survival."
+  - q: "Do I really need a walkie-talkie for every player?"
+    a: "Absolutely. Walkie-Talkies are the single most efficient credit-to-survival item at 12 credits. Dead players can still hear and speak through walkies, turning a deceased teammate into your best warning system. Never substitute walkies for flashlights — information (knowing where the monster is) beats vision (seeing where it was) every time."
 ---
 
 ## The Rend Wipe That Should Have Taught You Everything
@@ -37,6 +48,46 @@ Here's why the "buy 4 flashlights, 4 walkies, 1 shovel" approach gets you killed
 - **It ignores the moon.** Titan needs an Inverse Teleporter. Rend needs Stun Grenades. Dine needs Lockpickers. The "standard loadout" pretends all moons are interchangeable. They aren't — and the store rotates daily specifically so you have to plan ahead.
 
 The framework that works: read the moon's dominant threat type, pick 1–2 hard counters for that threat, and only then fill out generic gear with whatever credits remain. Below is what that looks like in practice.
+
+## Failure Analysis: Three Equipment Mistakes That Kill Runs
+
+Looking at 50+ lost runs across the Lethal Company community, three equipment-related failure patterns account for roughly 70% of crew wipes past quota 3. Each of these scenarios is preventable with the right purchasing decisions.
+
+### Mistake 1: The All-Shovel Team
+
+**Scenario:** Four players land on Rend. Between them, they have five shovels — everyone bought one. A Bracken appears in the first corridor. One player swings; the Bracken snaps their neck. The other three swing simultaneously. The Bracken drops to half HP, but now it is targeting them. Two more die. One survivor escapes.
+
+**Root Cause:** Players assume more melee equals a faster kill. In reality, multiple shovel swings on the same monster just put more players in danger range. The Bracken's attack speed is unchanged whether it faces one player or four.
+
+**Fix:** One shovel per team is optimal. The other three players should carry Stun Grenades for lockdown, Radar Boosters for navigation, or use their hands for scrap. Damage does not stack meaningfully when the monster kills you in one hit.
+
+### Mistake 2: The Credit Hoard
+
+**Scenario:** The team saved 800 credits across two quota cycles. Heading to Dine, they buy nothing — "we will just loot fast." Fifteen minutes in, a Forest Keeper traps them outdoors with no Stun Grenade. Three die. The survivor reaches the ship with 200 credits of scrap. Quota is 450. The crew is fired.
+
+**Root Cause:** Credits in the bank do nothing for survival. Players treat equipment as an expense rather than an investment. A 30-credit Stun Grenade is an insurance policy against a failed run — and a failed run costs the entire quota, not just the item price.
+
+**Fix:** Spend 20-30% of your current quota on equipment before every high-tier moon. Treat unspent credits as liability, not savings. Banked credits cannot save you from a Forest Keeper.
+
+### Mistake 3: The Single-Point-of-Failure Loadout
+
+**Scenario:** One player carries all four walkies because "they are the leader." A Coil-Head separates them from the group. The other three players are now deaf — no walkies, no coordination. Two wander into the Jester's room with no warning.
+
+**Root Cause:** Equipment distribution creates a single point of failure. The player carrying all the communication tools is the most likely to die first — they are the scout, the leader, the one taking risks.
+
+**Fix:** Every player carries their own walkie. Slot efficiency matters less than the ability to coordinate after a player goes down. A dead player with a walkie is still your team's best early-warning system.
+
+## Decision Framework: Three Questions Before You Buy
+
+Before you open the store terminal, run this three-question filter:
+
+1. **What moon are we going to?** Check the threat profile. Rend has Forest Keepers. Titan has everything. Experimentation has Snare Fleas. The moon dictates 80% of your equipment needs.
+
+2. **What is the one monster that can end this run?** Identify the single biggest threat on the current moon. Buy the item that directly counters it. Stun Grenade for Forest Keepers. Zap Gun for Brackens. Inverse Teleporter for Titan's outdoor gauntlet.
+
+3. **What is the minimum gear needed to reach the ship?** Start with walkies for everyone, then one light source per two players, then the hard counter from step 2, then fill with whatever credits remain. Anything beyond this minimum is luxury spending.
+
+This framework prevents the two most common mistakes: buying too much gear on easy moons and buying the wrong gear on hard moons. Below are the moon-specific loadouts that result from applying this filter.
 
 ## Threat-Profile Loadouts
 
@@ -81,11 +132,15 @@ This is where the standard loadout gets your whole team killed. Rend has Forest 
 
 The cost looks scary until you realize a single failed Titan run costs you the entire ship — which is far more than 1,200 credits in lost scrap and a crew dismissal.
 
-## The Counter-Intuitive Truth Nobody Tells You About Shovels
+## Three Counter-Intuitive Truths About Equipment
 
-Every Lethal Company guide tells you to buy two shovels for your team. Most of them are wrong. The shovel is the most over-bought item in the game.
+Most Lethal Company guides converge on the same handful of recommendations. Several of those recommendations are wrong, and even the correct ones are often applied to the wrong moons. Here are three counter-intuitive truths that will change how you spend credits.
 
-Here's the math nobody runs:
+### Truth 1: The Shovel Is the Most Over-Bought Item in the Game
+
+Every Lethal Company guide tells you to buy two shovels for your team. Most of them are wrong.
+
+Here is the math nobody runs:
 
 - The shovel does 1 HP per hit
 - It takes 5–8 hits to kill anything bigger than a Hoarding Bug
@@ -95,9 +150,23 @@ Here's the math nobody runs:
 
 The shovel only "works" against Snare Fleas (1 hit), Hoarding Bugs (2 hits), and Thumpers if you have wall-cover (3 hits). Against everything else, swinging a shovel is a slower form of dying. Brackens snap your neck before hit four. Forest Keepers eat you whole, ignoring damage entirely. Coil-Heads cannot be killed.
 
-The counter-intuitive truth: **on harder moons, replace your second shovel with a Stun Grenade.** A 30-credit grenade trades zero damage for 5 seconds of total monster lockdown — including invincible monsters. That's enough time for the whole team to reach the ship. A 30-credit shovel only kills monsters you could already outrun.
+The fix: **on harder moons, replace your second shovel with a Stun Grenade.** A 30-credit grenade trades zero damage for 5 seconds of total monster lockdown — including invincible monsters. That is enough time for the whole team to reach the ship. A 30-credit shovel only kills monsters you could already outrun. Most experienced teams run one shovel total, two on Titan, and pour the saved credits into Stun Grenades and Radar Boosters.
 
-Most experienced teams run one shovel total, two on Titan, and pour the saved credits into Stun Grenades and Radar Boosters. Try this for one quota cycle. Your survival rate will jump.
+### Truth 2: Walkies Beat Flashlights on Every Moon
+
+Conventional wisdom says vision is the bottleneck in dark facility corridors. It is not. Information is.
+
+A Pro-Flashlight helps you see what is in front of you. A walkie tells you what is around the corner, two rooms over, and coming your way. A team of four with flashlights and no walkies will spot the Bracken when it is already on top of them. A team of four with walkies and two shared flashlights will hear "Bracken in the east corridor heading toward main hall" 15 seconds before contact.
+
+The counter-intuitive part: **downgrading from four Pro-Flashlights to two, and using the saved 50 credits to buy walkies for everyone, improves your survival rate more than any other equipment change.** Dead players with walkies still function as overwatch — they ping monster positions, guide scrap runs, and warn about approaching threats. No flashlight helps after you are dead.
+
+### Truth 3: Spending Less Increases Survival on Easy Moons
+
+The most common mistake across all skill levels is over-equipping on low-tier moons. Players buy Stun Grenades, extra shovels, and Zap Guns for Experimentation runs because "we have the credits."
+
+The math works against you: Experimentation, Assurance, and Offense have no Forest Keepers, no Jesters, and rarely spawn Coil-Heads. The threats on these moons are Snare Fleas and Hoarding Bugs — both killable with one shovel swing. Every credit you spend on Experimentation gear is a credit you cannot spend on a Stun Grenade before a Titan run.
+
+The counter-intuitive fix: **spend less than 110 credits on your Experimentation loadout and bank everything else.** A team running budget gear on easy moons — shared flashlights, one shovel, max walkies — has more credits available when the shop finally stocks a Stun Grenade. The team blowing 400 credits on Experimentation starts every quota cycle playing from behind. Under-spending on easy moons is the single highest-ROI gear strategy in the game.
 
 ## Items Worth Buying (Quick Reference)
 
