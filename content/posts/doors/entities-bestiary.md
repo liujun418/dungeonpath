@@ -7,7 +7,7 @@ cover:
   image: "/cover-image/doors-beginner/cover.webp"
   alt: "DOORS Entities Bestiary — Why You're Still Dying to Ambush After 50 Runs Guide Cover"
   caption: "DOORS Entities Bestiary — Entity-by-Entity Survival Playbook"
-lastmod: 2026-06-19
+lastmod: 2026-07-31
 draft: false
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival"]
 categories: ["Roblox Guides"]
@@ -19,10 +19,14 @@ faq:
     answer: "Listen for the audio cue: a distant rumbling that grows louder. When you hear it, immediately enter the nearest closet or hide under a bed. Wait until Rush has completely passed before exiting — exiting too early is a guaranteed death."
   - question: "What's the difference between Rush and Ambush?"
     answer: "Rush passes through the room once. Ambush passes through 2-6 times with a distinct screech between passes. Stay in the closet through all Ambush passes. The screen turns green during Ambush events."
+  - question: "How do I survive Screech in a dark room?"
+    answer: "Keep a light source active and sweep your camera left, right, up, and behind you the moment you hear the whisper, rotating until the cue stops. The mistake is spinning so fast you walk into Eyes or a Dupe door — look fast, but move slow."
+  - question: "How do I handle Grumble in The Mines?"
+    answer: "Grumble tracks by line of sight, not only sound. Break the connection with walls, pillars, and furniture, and move only when it is looking elsewhere. Darkness alone does not protect you."
 
 ---
 
-> *Last updated: June 19, 2026. Covers entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update window.*
+> *Last updated: July 31, 2026. Covers entities from The Hotel (Doors 1-100), The Mines (Doors 101-200), The Outdoors, Rush Mode, and Endless Mode. Updated for The Great Outdoors permanent update, the Visions tab modifiers, and the upcoming Archives Update window.*
 
 You hear the rumble before you see anything.
 
@@ -69,19 +73,21 @@ That is how you should read this guide. Do not ask, “What is this entity?” A
 
 ---
 
-## The Counter-Intuitive Rule: Stop Reacting Instantly to Everything
+## Counter-Intuitive: What Looks Right Gets You Killed
 
-Common DOORS advice says “react fast.” That is true for Rush, Seek, Screech, and falling hazards. But it is also incomplete.
+Common DOORS advice says “react fast.” That is true for Rush, Seek, Screech, and falling hazards. But it is also incomplete. The most repeated deaths in DOORS come from reactions that feel correct in the moment:
 
-A lot of deaths happen because players react **too early** after the first correct action:
+**1. “Hide fast” is right. “Leave fast” is the killer.** You hide from Ambush perfectly, then step out the instant the whoosh fades because Rush trained you to do exactly that. Ambush's whole design is that second decision. Get in fast, then wait through the quiet.
 
-- You hide fast from Ambush, then leave early.
-- You sprint away from Figure, creating the exact sound that brings it to you.
-- You hear something in a dark room and whip the camera so hard you walk into Eyes or the wrong door.
-- You see multiple doors and choose quickly instead of checking the number.
-- You rush through The Outdoors because the path looks clear, then step on grass in the Groundskeeper's sightline.
+**2. “Figure is blind” is a warning, not a speed permit.** Blind means sound-based, and sprinting is the loudest thing you can do. The players who die at Door 50 are usually the ones sprinting “away” from Figure — the sprint is what brought it to them. Crouch-walk everywhere; treat running as an emergency-only button.
 
-The better rule is: **react fast to danger, then slow down before the second decision.**
+**3. In dark rooms, your camera should be fast and your feet should be slow.** The Screech counter is a camera sweep, not a walk. Players whip the view, panic, and walk into Eyes, a Dupe door, or off the path — replacing one small bite with a run-ending mistake.
+
+**4. The nearest hiding spot beats the “better” hiding spot.** Running across the room for a safer closet is how predictable Rushes become deaths. Every second in the open is a roll you did not need to take.
+
+**5. In The Outdoors, the fastest line is often the deadliest line.** A clear-looking grass path is only safe until the Groundskeeper's sightline sweeps back. The player who crossed five seconds ago gets teammates killed when they follow the same line without re-checking.
+
+The better rule: **react fast to danger, then slow down before the second decision.**
 
 Get into the closet fast. Then wait.
 
@@ -712,6 +718,60 @@ Survival script:
 - Keep normal entity awareness while petal hunting; objective focus can make you ignore threats.
 
 Difficulty: ★★★★☆ because the challenge is long-form execution, not one quick dodge.
+
+---
+
+## Failure Analysis: The Same Five Deaths, Over and Over
+
+Every mistake below is a “knows the entity” death — the player knew the name, the cue, even the counter, and still died. Read each one as mistake → consequence → recovery, because the recovery is what actually changes your next run.
+
+**Death 1: Leaving the closet after the first Ambush pass.**
+
+- **The mistake:** The whoosh fades, the screen settles, and Rush instinct says “you are safe.”
+- **The consequence:** Ambush returns for pass two, three, or four. The closet prompt does not save you mid-pass, and your teammates watch you stand in the doorway.
+- **The recovery:** Do not exit on the first quiet moment. Count passes only as a sanity check, never as a plan. Move only after the room has been calm for several seconds — and if you have teammates, wait for the last one to leave.
+
+**Death 2: Sprinting “away” from Figure.**
+
+- **The mistake:** Figure is across the Library, so you sprint to the bookshelf to save time.
+- **The consequence:** The sprint is the loudest sound in the room. Figure reroutes toward the noise and corners you between the shelves.
+- **The recovery:** Crouch-walk everywhere in Figure rooms, including the stretches that look safe. If you must move fast, do it in short crouched bursts, and only while Figure is on the far side of the room.
+
+**Death 3: Following a teammate into the wrong Dupe door.**
+
+- **The mistake:** A friend runs into a door and you copy them without checking the number.
+- **The consequence:** You take the damage, lose your place in the door count, and the run's rhythm breaks while everyone argues about which door it was.
+- **The recovery:** Make the number check a one-second habit in every multi-door room. If you already followed, stop moving, confirm your last real door, and re-count from there — do not guess.
+
+**Death 4: Spending the last light in the wrong Mines room.**
+
+- **The mistake:** You pop the final glowstick in a room you have mostly cleared.
+- **The consequence:** Two rooms later, Gloombats swarm in total darkness and there is no prevention left.
+- **The recovery:** Keep a reserve light for rooms you have not fully seen. If you are out of light, stop looting, move in short listening segments, and let a teammate with light lead.
+
+**Death 5: Following a line across the grass.**
+
+- **The mistake:** The Groundskeeper turned away, your teammate crossed fine, so you take the same path.
+- **The consequence:** The sightline swept back mid-cross. Instant death for the whole line of players.
+- **The recovery:** Treat grass as a one-player decision: re-check the Groundskeeper's angle before every step, use monuments to block sightlines, and never trust “they made it, so I can.”
+
+If you recognize even two of these, your fix is not more entity names. It is one decision at a time: identify the cue, execute the first action, then pause before the second.
+
+---
+
+## The Decision Framework: Two Options, Seconds on the Clock
+
+Real runs rarely present one clear answer. The useful framework is: when a cue fires and you have limited health, light, or time, ask two questions — “Which option risks instant death?” (never take it) and “Which option costs time instead of health?” (usually take it). Here is the framework applied to the most common corner cases:
+
+| You are... | Option A | Option B | Pick, and why |
+|---|---|---|---|
+| Low health, dark room, Screech whisper | Whip the camera, risk stepping into Eyes | Freeze and eat the bite | Whip the camera. The bite is fixed damage; Eyes or a Dupe door can end the run |
+| No light left, Gloombats buzzing | Sprint through the darkness | Loot the room first | Sprint through. Every second in darkness rolls another bite; loot is not worth your health |
+| Figure close, code lock needs input | Type the code now | Wait for Figure to move away | Wait. The lock interaction makes noise; a delayed attempt costs time, a failed one costs the run |
+| Teammate ran into a Dupe door | Follow them | Check the door number first | Check the number. One second of reading beats copying a bad decision |
+| Grass path, Groundskeeper visible | Cross fast while it turns | Wait behind a monument | Wait. Groundskeeper detects by sightline, not speed — crossing fast just stays visible longer |
+
+The meta-rule: when both options cost something, ask what the entity is baiting you into, then do the opposite. Ambush baits you into leaving early — wait. Figure baits you into running — crouch. Dupe baits you into copying — count. Screech baits you into freezing — sweep. The correct answer is almost always the one that spends time instead of health.
 
 ---
 

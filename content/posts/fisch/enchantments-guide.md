@@ -1,13 +1,13 @@
 ---
 
 title: "Fisch Enchantments Guide: All Rod Enchantments, Fish Mutations & Best Combos (2026)"
-description: "Everything you need to know about Fisch Enchantments Guide. Fisch enchantments and mutations guide for 2026. Every rod enchantment ranked, m..."
+description: "Wasted an Enchant Relic on a bad roll? Every Fisch enchantment ranked with exact numbers, which rolls are worth re-rolling, and the money combos that work in 2026."
 date: 2026-05-10
 cover:
   image: "/cover-image/fisch-enchantments-guide/cover.webp"
   alt: "Fisch Enchantments Guide Cover"
   caption: "Fisch Enchantments Guide"
-lastmod: 2026-05-16
+lastmod: 2026-07-31
 draft: false
 tags: ["Fisch", "Roblox"]
 categories: ["Roblox Guides"]
@@ -19,10 +19,20 @@ faq:
     answer: "Yes, you can overwrite an existing enchant by applying a new enchant stone. The old enchant is permanently lost, so be certain before re-enchanting rare or expensive rods."
   - question: "Which rods should I enchant first in Fisch?"
     answer: "Enchant your primary farming rod first — typically the Steady Rod or Mythical Rod. Don't waste enchant stones on early-game rods (Carbon Rod or below) since you'll replace them quickly."
+  - question: "I spent my only Enchant Relic and got Unbreakable on my main rod. Is it ruined?"
+    answer: "No — Unbreakable only removes durability loss; every other stat works normally. Keep fishing with it while you farm replacement relics: fish Grand Reef or Volcanic Vents with 200%+ Luck (Seaweed bait, luck potions, a Lucky-enchanted rod) and you'll average one relic every 1-3 hours. Only re-roll once you hold 2+ spare relics, and accept whatever the re-roll gives you — burning your whole stockpile chasing Divine is how players end up with zero relics and the same enchantment they started with."
+  - question: "Should I sell Enchant Relics or use them?"
+    answer: "Early game, sell. One relic trades for 5,000-15,000 C$ in the trading hub — three relics nearly buy a Steady Rod, and a rod upgrade beats any random enchantment on a rod you'll replace. The moment you own a rod you'll keep for 20+ hours (Mythic, Trident, Destiny), stop selling: enchant that rod first, and hold every relic after."
 
 ---
 
-> *Last updated: May 10, 2026. This guide covers every rod enchantment and fish mutation in the current Fisch meta, including the latest balance changes. All prices, stats, and drop rates verified against Version 2.5.0.*
+> *Last updated: July 31, 2026. This guide covers every rod enchantment and fish mutation in the current Fisch meta, including the latest balance changes. All prices, stats, and drop rates verified against the current live build.*
+
+The Anvil at Moosewood sits beneath a rusted awning, dwarfed by the weapon rack beside it. You've been grinding for days to reach this moment — 40,000 C$ for the Mythic Rod, then a full afternoon at Grand Reef until a faintly glowing Enchant Relic finally lands in your net. You equip the rod, interact with the Anvil, and watch the relic dissolve. The roll takes two seconds. The result: Unbreakable. On the rod you planned to fish with all week.
+
+Two players handle that moment very differently. One stares at the screen, seethes, then burns their next three relics trying to re-roll — leaving their best rod unenchanted for days while they recover. The other shrugs, does the math, and keeps fishing: a bad enchantment on a good rod still beats no enchantment, and the re-roll comes when there are spare relics to spend.
+
+That second player doesn't get luckier — they plan for bad luck. Enchantments are a probability game with eight outcomes and no way to force one. What separates the players who profit from it is simple: knowing which rod deserves the relic, what to do when the roll lands wrong, and when to walk away from the Anvil. That's the whole game inside the game — and it's exactly what this guide covers.
 
 ## Quick Reference: Best Enchantments by Goal
 
@@ -243,7 +253,7 @@ When you catch a fish, the game rolls for mutations sequentially. Each mutation 
 
 When multiple mutations apply to a single fish, the multipliers are **multiplied together**, not added.
 
-| Mutations Applied | Cost Calculation | Final Multiplier |
+| Mutations Applied | Multiplier Calculation | Final Multiplier |
 |-------------------|-----------------|------------------|
 | Mythic only | 3.0x | 3.0x |
 | Mythic + Sparkling | 3.0 x 1.85 | **5.55x** |
@@ -251,6 +261,50 @@ When multiple mutations apply to a single fish, the multipliers are **multiplied
 | Mythic + Abyssal (if compatible) | 3.0 x 2.5 | **7.5x** |
 
 A fish with a base value of 20,000 C$ and the Mythic + Sparkling + Albino combo would sell for **166,500 C$** — enough to buy several high-end rods with a single catch.
+
+---
+
+## 4 Counter-Intuitive Truths About Enchantments
+
+### 1. Divine Is Not the Best Money Enchantment (For You, Yet)
+
+**What you'd expect:** A 5x-value proc is obviously the best money enchantment — the Quick Reference table at the top crowns it for maximum coins per hour.
+
+**Why it's wrong:** Divine multiplies the fish you already catch; it doesn't make you catch more. If your average fish sells for 200 C$, Divine's 10% proc adds about 80 C$ per catch — roughly 2,400 C$ per hour at 30 fish. Magnetic's bite boost, in contrast, nearly doubles your catch count in low-density spots, adding 5,000+ C$ per hour at the same location.
+
+**The principle:** Value enchantments scale with fish value; quantity enchantments scale with catches. Until your average fish clears roughly 1,000 C$, the quantity side wins.
+
+**When it's actually useful:** Once you're farming Grand Reef or Volcanic Vents with an average fish of 1,500 C$+, Divine pulls ahead — and stays ahead.
+
+### 2. Selling Relics Is Often Better Than Using Them
+
+**What you'd expect:** A relic is the thing you enchant with. Of course you use it.
+
+**Why it's wrong:** Early game, one relic trades for 5,000-15,000 C$ — the same value as 1-3 hours of Carbon Rod fishing. Three relics nearly buy a Steady Rod (25,000 C$). A Steady Rod upgrades every cast you ever make; a random enchantment on a Plastic Rod upgrades nothing.
+
+**The principle:** A relic is worth what it converts into. Used on a rod you'll replace this week, it converts into a memory. Sold, it converts into the rod that replaces it.
+
+**When it's actually useful:** The moment you own a rod you'll keep for 20+ hours — Mythic, Trident, Destiny — stop selling and start enchanting.
+
+### 3. Lucky Beats Mutated — Even for Mutation Hunting
+
+**What you'd expect:** The enchantment literally named "Mutated" (+15% mutation rate) is the mutation-farming pick. Case closed.
+
+**Why it's wrong:** Mutated raises mutation rate; Lucky raises mutation income. The part nobody spells out: mutations only pay off on fish worth something. A Mutated Common sells for 2x of almost nothing — 40 C$ instead of 20 C$. Lucky's +45 luck pulls more Rare and Legendary fish into your catch table, and those are the fish whose 2-3x mutations actually move your bank balance. On most rods, Lucky's rare-fish volume produces more mutated coins than Mutated's flat percentage.
+
+**The principle:** Mutation farming is income, not a rate. A rate only matters when it multiplies something worth multiplying.
+
+**When it's actually useful:** The Trident Rod is the exception — its high base mutation rate makes Mutated's +15% genuinely additive, which is why it's the one rod where Mutated can beat Lucky.
+
+### 4. Keeping a "Bad" Roll Is Often the Winning Move
+
+**What you'd expect:** Rolled Resilient when you wanted Divine? Re-roll. The Anvil exists for exactly that.
+
+**Why it's wrong:** Every re-roll is a 1-in-8 gamble at a full relic's cost. Chasing one specific enchantment usually costs 6-8 relics — 30,000 to 120,000 C$ of tradable value — and the rods that "need" the perfect enchantment often don't have the stats to care. An S-tier enchantment on a rod you barely use underperforms an A-tier enchantment on the rod you fish with every day.
+
+**The principle:** The enchantment is a multiplier; the rod is the base. Two usable rolls you actually keep beat one perfect roll you spend 40,000 C$ chasing.
+
+**When it's actually useful:** Re-roll only when the current roll actively fights the rod's job — Unbreakable on your main farmer, Swift on a rod already at 99% lure speed — and when you hold spare relics, so the roll doesn't reset you to zero.
 
 ---
 
@@ -321,15 +375,39 @@ For overnight AFK sessions, Unbreakable is a requirement. Without it, your rod w
 
 ---
 
-## Common Enchantment Mistakes to Avoid
+## Failure Analysis: How Players Wreck Their Enchantments
 
-**Mistake 1: Enchanting early-game rods with rare relics.** Do not waste Enchant Relics on rods you plan to replace within days. The Plastic Rod, Carbon Rod, and even the Steady Rod are temporary tools. Save your relics for rods you will use long-term, like the Mythic Rod, Trident Rod, or Destiny Rod.
+### Failure 1: The First-Relic Panic Burn
 
-**Mistake 2: Chasing the perfect enchantment.** Each enchantment application is random. Players have spent 20+ relics trying to get Divine on a specific rod. If you get Lucky or Hasty on your first try, consider keeping it — both are excellent general-purpose enchantments, and the marginal gain from re-rolling is not worth the time investment.
+**The scene:** Hour three of your Fisch life. An Enchant Relic drops from an ocean chest — your very first one. You sprint to the Anvil and feed it to the Plastic Rod you've had since spawn. Two days later, the rod is a memory — and so is your only relic.
 
-**Mistake 3: Ignoring the Anvil after rod upgrades.** When you purchase a new rod, it comes with **no enchantment**. Always budget for an Enchant Relic whenever you upgrade rods. A rod without an enchantment is performing at only 70-80% of its potential.
+**What went wrong:** You treated a rare, tradable resource as an instant power-up. A relic is worth 5,000-15,000 C$ at the trading hub. On a Plastic Rod, every enchantment multiplies almost nothing.
 
-**Mistake 4: Unbreakable on active-play rods.** Unless you specifically AFK fish for hours at a time, Unbreakable is the weakest enchantment. Repairing your rod costs a tiny fraction of what you earn from fishing. Never take Unbreakable on a rod you actively use.
+**The fix:** Adopt a relic rule before you ever fish one up: relics go on rods you'll still be using in a week. The Steady Rod is the first worthwhile target; Plastic and Carbon rods are not.
+
+### Failure 2: The Re-Roll Rage Spiral
+
+**The scene:** You rolled Resilient on your Mythic Rod. It's not what you wanted, so you feed the Anvil another relic. Swift. Another. Magnetic. Three relics later, the rod still doesn't have Divine — and you've burned 30,000+ C$ of tradable value to get there.
+
+**What went wrong:** Chasing one specific outcome when every roll is a 1-in-8 gamble. Landing Divine usually costs around 8 relics on average — more than most players farm in a week. The spiral usually ends with the player accepting something worse than the roll they were angry about.
+
+**The fix:** Before the first roll, decide how many relics this rod deserves — two is a healthy budget. If both miss, keep the better of the two results and move on. Hasty, Lucky, and Swift are excellent consolation prizes, not failures.
+
+### Failure 3: The Unenchanted New Rod
+
+**The scene:** You finally buy the Masterline Rod, equip it, and head straight to Grand Reef. Three hours of fishing later you open your inventory and realize: no enchantment. The relic budget got spent on the rod itself.
+
+**What went wrong:** Rod purchases consume your entire savings, and enchantments run on a separate resource that's easy to forget. An unenchanted rod performs at roughly 70-80% of its potential.
+
+**The fix:** Every time you set a savings goal for a rod, add one Enchant Relic to the budget line. With the relic already secured, you enchant the new rod the same day you buy it.
+
+### Failure 4: Unbreakable on the Wrong Rod
+
+**The scene:** You tried one overnight AFK session, rolled Unbreakable, and now it sits on the rod you use for everything — including active money farming, where durability rarely matters and an income enchantment would.
+
+**What went wrong:** Enchantments are per-rod, not per-activity. The enchantment that enables AFK farming actively weakens active play, because it occupies the slot of an income enchantment.
+
+**The fix:** Keep one dedicated AFK rod with Unbreakable and put income enchantments on your main rod. If Unbreakable lands on your only good rod, it's not an emergency — keep fishing until your next relic drops, then re-roll once. Panic re-rolling is how Failure 2 starts.
 
 ---
 
@@ -363,6 +441,20 @@ As you progress through Fisch, your enchantment needs change:
 3. **Late Game (Trident Rod, Hades' Soul-Scythe):** Divine or Mutated — maximize your per-fish value as you target specific mutations.
 
 4. **End Game (Masterline Rod, Castbound):** Hasty or Lucky — squeeze every drop of efficiency from the best rods in the game.
+
+---
+
+## The 3-Relics Decision: Enchant, Sell, or Save?
+
+**The situation:** You're mid-game with 60,000 C$ in the bank, a Steady Rod in your hands, and three Enchant Relics in storage. The Mythic Rod costs 110,000 C$. The trading hub will pay roughly 30,000 C$ for your relics. You can't do all three things at once — so which is it?
+
+**Path A — Enchant the Steady Rod now.** Spend one relic (Magnetic or Swift is ideal for a low-stat rod) and fish harder. The faster catch cycle lifts you to roughly 15,000-18,000 C$ per hour, so the Mythic Rod comes in about 3-4 hours. The catch: when the Mythic arrives, the Steady Rod retires — and its enchantment retires with it. You still hold two relics for the new rod.
+
+**Path B — Sell the relics and buy the Mythic Rod sooner.** Three relics at ~10,000 C$ each add ~30,000 C$ to your 60,000 C$ — the Mythic Rod is within a couple of hours of fishing. The catch: it arrives unenchanted. You're now running the most expensive rod you own at 70-80% of its potential while farming relics to fix that.
+
+**Path C — Save everything and enchant nothing.** Keep grinding at your current rate. Slowest to the rod, and nothing gets wasted.
+
+**Verdict:** Path A for most players. The relic you spend on the Steady Rod is the price of fishing faster, and fishing faster funds everything else. Path B only wins if event pricing pushes relics above 20,000 C$ each, or if you need the rod's raw stats immediately for a specific quest. Path C is the hoarder's trap: relics sitting in storage generate exactly zero C$ per hour. Whichever path you take, the re-roll table above sets the budget for the next step.
 
 ---
 
