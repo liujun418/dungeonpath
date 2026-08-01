@@ -1,546 +1,341 @@
 ---
 title: "Lethal Company Monster Bestiary: Every Entity Explained (2026)"
-description: "Everything you need to know about Lethal Company Monster Bestiary. monster bestiary for Lethal Company with all 12+ entities. Learn behaviors, coun..."
+description: "Master every Lethal Company monster with exact danger ratings, kill counts, and counter-strategies from v50+ gameplay. Stop dying to Brackens and Jesters."
 date: 2026-05-10
 cover:
   image: "/cover-image/lethal-company-monster-bestiary/cover.webp"
   alt: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide Cover"
   caption: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide"
-lastmod: 2026-05-10
+lastmod: 2026-08-01
 draft: false
-tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities"]
+tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities", "Lethal Company monsters", "Bracken counter", "Coil-Head strategy"]
 categories: ["PC Games"]
 games: ["Lethal Company"]
+faq:
+  - question: "What do I do if I meet a Bracken and Coil-Head at the same time?"
+    answer: "Break line of sight with the Coil-Head by rounding a corner while a teammate keeps eyes on it, then deal with the Bracken by looking at the ground and backing away. If you are alone, prioritize escaping through the nearest door — the Bracken is slower than the Coil-Head's lunge, so close the door on the Coil-Head first."
+  - question: "Can every monster in Lethal Company be killed?"
+    answer: "No. Bracken, Thumper, Eyeless Dog, Forest Keeper, Hoarding Bug, and Nutcracker can be killed with shovels or shotguns. Coil-Head, Jester, Hygrodere, Ghost Girl, and Spore Lizard cannot be killed by any means. Snare Fleas die in one shovel hit."
+  - question: "Why did the Jester kill me even though I was outside?"
+    answer: "The Jester cannot leave the facility, but it can chase you through the main entrance if you are still inside the doorway threshold. Run completely clear of the building. Also, on harder moons, the rapid-wind variant can crank in as little as 15 seconds, giving you less time to escape than you expect."
+  - question: "How do I survive Eyeless Dog packs on Titan?"
+    answer: "Pack dogs spread out to cover more ground. Stand completely still when one is near — crouch-walking still makes noise. Use a Boombox or Radar Booster to lure the pack to one side of the map, then walk the long way around. Never sprint unless a dog has already aggroed."
+  - question: "Does the Ghost Girl have a confirmed counter?"
+    answer: "No confirmed counter exists. The haunted player should leave the facility immediately and wait near the ship. Staying near teammates may delay the kill, but it will not stop it. She cannot follow outside indefinitely, so the haunted player can re-enter after the manifestation ends."
 ---
 
-> *Last updated: May 10, 2026. This comprehensive monster bestiary covers every entity in Lethal Company v50+, with detailed behavioral analysis, proven counter-strategies, and exact danger ratings derived from gameplay data.*
+> *Last updated: August 1, 2026. This monster bestiary covers every entity in Lethal Company v50+, with scene-driven tactics, failure analysis, and exact danger ratings derived from live gameplay.*
+
+## The Corridor Problem
+
+You are hauling a 120-credit painting through the main hallway on Vow. Your walkie crackles — "Bracken, second floor." You turn the corner and freeze. The Coil-Head stands ten meters ahead. Behind you, heavy footsteps. Not your teammate's. The Bracken's slow, rasping breath. You stare at the Coil-Head. You glance at the Bracken. You hold eye contact one second too long. Snap. Dead.
+
+That scenario plays out daily in Lethal Company lobbies. Monsters do not spawn randomly to scare you — they follow strict behavioral rules. This guide breaks down every entity so you recognize the trap before you walk into it.
 
 ## Monster Classification System
 
-Lethal Company entities fall into several categories based on their behavior and threat profile. Understanding these categories helps you react correctly when encountering an unfamiliar monster.
+Lethal Company entities fall into behavior groups. Knowing the group tells you the counter before you memorize the name.
 
-| Category | Description | Examples |
-|----------|-------------|----------|
-| Territorial | Attacks when provoked or cornered | Bracken, Hoarding Bug |
-| Blind Hunter | Hunts by sound, cannot see | Eyeless Dog, Thumper |
-| Look-Based | Movement/reacts to player vision | Coil-Head, Ghost Girl |
-| Environmental | Hazard that occupies space | Hygrodere, Spore Lizard |
-| Patrol | Follows set paths, transforms | Jester, Nutcracker |
-| Ceiling/Ambush | Drops from above | Snare Flea |
-| Giant | Large outdoor threat | Forest Keeper |
+- **Territorial** — Attacks when provoked or cornered. Examples: Bracken, Hoarding Bug.
+- **Blind Hunter** — Hunts by sound, cannot see. Examples: Eyeless Dog, Thumper.
+- **Look-Based** — Reacts to player vision. Examples: Coil-Head, Ghost Girl.
+- **Environmental** — Hazard that occupies space. Examples: Hygrodere, Spore Lizard.
+- **Patrol** — Follows set paths, transforms. Examples: Jester, Nutcracker.
+- **Ceiling/Ambush** — Drops from above. Example: Snare Flea.
+- **Giant** — Large outdoor threat. Example: Forest Keeper.
 
-### Danger Ratings
+Danger ratings scale from 1 to 10. Ratings 1–3 are low threat and easy to avoid. Ratings 4–6 need awareness but no special gear. Ratings 7–8 demand a specific counter. Ratings 9–10 are extreme threats you should avoid unless you have a plan.
 
-| Rating | Meaning |
-|--------|---------|
-| 1-3 | Low threat, easy to avoid |
-| 4-6 | Medium threat, requires awareness |
-| 7-8 | High threat, specialized counter needed |
-| 9-10 | Extreme threat, avoid at all costs |
+## Failure Analysis: Three Patterns That Kill Squads
 
----
+### Pattern 1 — The Bracken Stare-Down
+
+You spot the Bracken. It raises its arms. You think, "If I keep looking, it cannot move." You back away slowly while maintaining eye contact. Four seconds pass. It snaps your neck.
+
+**Why it happens:** The Bracken does not freeze when looked at. It retreats slowly, but the timer still ticks. The correct play is to look at the ground or turn away completely, then back away. Eye contact is the trigger, not the safety.
+
+**Recovery:** If you have already stared too long, close a door between you and the Bracken immediately. It cannot open doors. If no door exists, have a teammate shove it with a shovel to reset its aggression.
+
+### Pattern 2 — The Thumper Sprint
+
+You hear the screech. Adrenaline spikes. You sprint down the corridor. The Thumper is faster than sprint speed. It rounds the corner and hits you from behind.
+
+**Why it happens:** Thumpers charge faster than you can run in a straight line. Sprinting also makes noise that keeps them locked on. The correct play is to break line of sight around a corner, then crouch and stay completely still.
+
+**Recovery:** If the Thumper is already chasing, juke through a door and close it. Thumpers are slowed by doors. A stun grenade freezes them for five seconds — enough time to land three shovel hits from behind.
+
+### Pattern 3 — The Jester Ignorer
+
+Someone on voice chat says, "I hear a music box." You are two rooms from the main entrance and you just found a gold bar. You think, "I have thirty seconds." The Jester cranks in fifteen. The whole squad is inside. It winds up. You are all dead.
+
+**Why it happens:** The Jester's wind timer varies, and on Titan the rapid-wind variant can reach full crank in as little as fifteen seconds. The correct play is to evacuate the facility the instant you hear cranking. Loot is not worth a squad wipe.
+
+**Recovery:** If the Jester is already chasing, run for the main entrance. Close doors behind you to slow its pathing. It cannot leave the building, so clear the threshold completely. After twenty seconds of no target, it returns to winding mode.
 
 ## Complete Entity Database
 
-### 1. Bracken
+### Bracken
 
-**Also known as:** The Backrooms Monster, Neck-Snapper
+**Also known as:** The Backrooms Monster, Neck-Snapper  
+**Danger Level:** 9/10  
+**Spawn Locations:** All moons, interior only  
+**HP:** 5 shovel hits or 2 shotgun blasts  
+**Sound Cues:** Loud breathing, rustling footsteps
 
-The Bracken is a tall, humanoid entity with pale skin, no face, and a set of what appear to be ribs exposed on its back. It stalks players through the facility, retreating into shadows when spotted. If a player stares at it for too long, it will snap their neck in a instant-kill animation.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 9/10 |
-| **Spawn Locations** | All moons, interior only |
-| **Detection Method** | Line of sight within ~20 meters |
-| **Speed** | Walks slowly, sprints when attacking |
-| **HP** | 5 hits (shovel) |
-| **Can be Killed?** | Yes, with 5 shovel hits or 2 shotgun blasts |
-| **Sound Cues** | Loud breathing, rustling footsteps |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- The Bracken patrols the facility interior, moving room to room.
-- When it spots a player, it will raise its arms and back away slowly while maintaining eye contact.
-- If the player maintains eye contact for approximately 3-4 seconds, the Bracken enters a rage state and instantly kills the player by snapping their neck.
-- After a kill, the Bracken drags the body to a hiding spot.
-- It retreats if you look at it and back away, but it will stalk you from adjacent rooms.
+The Bracken is a tall, faceless humanoid with exposed ribs on its back. It stalks players room to room. When spotted, it raises its arms and retreats slowly while maintaining eye contact. Hold that eye contact for roughly three to four seconds and it enters a rage state — instant neck-snap kill. After a kill, it drags the body to a hiding spot.
 
 **Counter-Strategy:**
-| Step | Action |
-|------|--------|
-| 1 | **Do not run.** Running triggers chase behavior. |
-| 2 | **Look at the ground** or turn away from the Bracken. |
-| 3 | **Back away slowly** while looking away. |
-| 4 | Close any doors between you and the Bracken. |
-| 5 | If it attacks, a teammate can shove it off with a shovel hit. |
+- Do not run. Running triggers chase behavior.
+- Look at the ground or turn away from the Bracken.
+- Back away slowly while looking away.
+- Close any doors between you and it.
+- If it attacks, a teammate can shove it off with one shovel hit.
 
-**Kill Strategy:**
-Brackens have 5 HP. A coordinated team can kill one: one player acts as bait (looking at the Bracken to hold its attention) while another hits it from behind with a shovel. This is risky — one mistimed hit and the bait player dies.
+**Kill Strategy:** One player baits by holding the Bracken's attention while another hits it from behind with a shovel. One mistimed hit and the bait dies. Bring a stun grenade if you want a safer kill.
 
----
+### Coil-Head
 
-### 2. Coil-Head
+**Also known as:** The Weeping Angel, Spring-Head  
+**Danger Level:** 7/10  
+**Spawn Locations:** All moons, interior only  
+**HP:** Invincible  
+**Sound Cues:** Metallic clicking, spring sounds
 
-**Also known as:** The Weeping Angel, Spring-Head
-
-The Coil-Head is a mannequin-like entity with a spring for a neck and a human head mounted on top. It operates on a simple rule: **it only moves when you are not looking at it.**
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 7/10 |
-| **Spawn Locations** | All moons, interior only |
-| **Detection Method** | Proximity, line of sight |
-| **Speed** | Fast (when you look away) |
-| **HP** | Invincible (cannot be killed) |
-| **Can be Killed?** | No |
-| **Sound Cues** | Metallic clicking, spring sounds |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Coil-Heads patrol corridors and rooms at a slow walk when observed.
-- The moment no player has direct line-of-sight, the Coil-Head lunges forward rapidly.
-- It instantly kills players on contact.
-- Multiple Coil-Heads can spawn on harder moons.
-- They cannot be killed by any means.
+The Coil-Head is a mannequin with a spring neck and a human head. It only moves when nobody is looking at it. The instant line-of-sight breaks, it lunges forward rapidly. Contact is an instant kill.
 
 **Counter-Strategy:**
-| Situation | Action |
-|-----------|--------|
-| Alone, Coil-Head approaches | Back away while maintaining eye contact |
-| Multiple players | Take turns looking at it |
-| Need to turn a corner | Back around the corner while facing it |
-| Coil-Head + other monster | This is a deadly combination. Prioritize escape. |
+- Back away while maintaining eye contact.
+- With multiple players, take turns looking at it while the others move.
+- When rounding a corner, back around while facing it until a teammate catches sight.
+- Never look away in a dead-end room. You will die.
 
-**The "Coil-Head Dance":**
-When multiple players are present, you can "pass" the Coil-Head by alternating who looks at it. Player A looks while backing up, then Player B catches line-of-sight as Player A rounds a corner. This allows the team to navigate past Coil-Heads safely.
+**The Coil-Head Dance:** Player A faces the Coil-Head and backs up. Player B catches line-of-sight as Player A rounds the corner. This pass lets the team navigate past it safely.
 
-**Critical Rule:** Never look away from a Coil-Head in a dead-end room. You will die.
+### Thumper (Crawler)
 
----
+**Also known as:** The Blind Dog, Crawler  
+**Danger Level:** 6/10  
+**Spawn Locations:** All moons, interior only  
+**HP:** 3 shovel hits or 1 shotgun blast  
+**Sound Cues:** Loud screech before charging, heavy footsteps
 
-### 3. Thumper (Crawler)
-
-**Also known as:** The Blind Dog, Crawler
-
-The Thumper is a blind, quadrupedal creature with an elongated body and powerful legs. It cannot see but has excellent hearing. When it detects a player, it lets out a distinctive screech and charges.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 6/10 |
-| **Spawn Locations** | All moons, interior only |
-| **Detection Method** | Sound-based (footsteps, voice, doors) |
-| **Speed** | Fast charge (faster than sprint) |
-| **HP** | 3 hits (shovel) |
-| **Can be Killed?** | Yes, 3 shovel hits or 1 shotgun blast |
-| **Sound Cues** | Loud screech before charging, heavy footsteps |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Thumpers patrol the facility, head low to the ground, listening.
-- When they hear a player (footsteps, door opening, voice chat), they screech and charge.
-- Their charge is faster than sprint speed — you cannot outrun one in a straight line.
-- They can open doors.
-- After a failed charge, they pause briefly to reorient.
+The Thumper is blind but hears everything — footsteps, doors, voice chat. When it detects a player, it screeches and charges at speed faster than your sprint. It can open doors. After a failed charge, it pauses to reorient.
 
 **Counter-Strategy:**
-| Technique | How To |
-|-----------|--------|
-| **Walking** | Walk (shift by default) instead of running to avoid detection |
-| **Door Stalling** | Close doors behind you — Thumpers are slowed by doors |
-| **Juking** | Break line of sight around corners, then crouch and stay still |
-| **Killing** | 3 shovel hits from behind while it is chasing a teammate |
-| **Stun Grenade** | Freezes it for 5 seconds, enough to kill or escape |
+- Walk instead of running to avoid detection.
+- Close doors behind you — Thumpers are slowed by them.
+- Break line of sight around a corner, then crouch and stay still.
+- If a teammate is being chased, hit it from behind with a shovel.
+- A stun grenade freezes it for five seconds.
 
-**Pro Tip:** A Thumper's charge has a brief wind-up. If you hear the screech, immediately break line of sight around a corner or door. It will charge to your last known position, giving you time to reposition.
+**Pro Tip:** The screech has a brief wind-up. When you hear it, immediately break line of sight. The Thumper charges to your last known position, giving you time to reposition.
 
----
+### Eyeless Dog
 
-### 4. Eyeless Dog
+**Also known as:** Blind Dog, Hellhound  
+**Danger Level:** 8/10 outdoors, 6/10 if careful  
+**Spawn Locations:** Outdoor areas on all moons  
+**HP:** 5 shovel hits or 2 shotgun blasts  
+**Sound Cues:** Barking, growling, heavy panting
 
-**Also known as:** Blind Dog, Hellhound
-
-The Eyeless Dog is a large, canine-like creature with a featureless face (no eyes, no apparent nose). It is completely blind but hunts with extreme sensitivity to sound.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 8/10 (outdoor), 6/10 (if careful) |
-| **Spawn Locations** | Outdoor areas on all moons |
-| **Detection Method** | Sound only |
-| **Speed** | Fast sprint |
-| **HP** | 5 hits (shovel) |
-| **Can be Killed?** | Yes, 5 shovel hits or 2 shotgun blasts |
-| **Sound Cues** | Barking, growling, heavy panting |
-| **First Appearance** | v40 |
-
-**Behavioral Analysis:**
-- Eyeless Dogs wander the outdoor map sniffing and listening.
-- They cannot see anything — standing still right in front of one is safe as long as you make no sound.
-- They react to: footsteps (running especially), voice chat, doors opening, equipment sounds, and scrap dropping.
-- Once alerted, they run to the sound source and attack anyone in their path.
-- They can be distracted by sound sources (Radar Boosters, Boombox).
+Eyeless Dogs are completely blind. Standing still right in front of one is safe as long as you make zero sound. They react to running footsteps, voice chat, doors, equipment sounds, and scrap dropping. Once alerted, they sprint to the sound source and attack anyone in their path.
 
 **Counter-Strategy:**
-| Situation | Action |
-|-----------|--------|
-| Near an Eyeless Dog | **Stop moving completely.** Do not even turn. |
-| Need to move | Crouch-walk. Crouching reduces footstep noise. |
-| Dog is close | Hold still and do not speak on voice chat. |
-| Dog is chasing you | Run to the ship. Jump over obstacles to break its pathing. |
-| Multiple dogs | Use a Radar Booster or Boombox to lure them away. |
+- Stop moving completely. Do not even turn your camera.
+- If you must move, crouch-walk. Crouching reduces footstep noise.
+- When a dog turns its head toward you, freeze. When it looks away, move again.
+- If chased, run to the ship and jump over obstacles to break its pathing.
+- Use a Radar Booster or Boombox to lure multiple dogs away.
 
-**The "Dog Dance":**
-Experienced players can walk past Eyeless Dogs by crouch-walking and stopping whenever the dog turns toward them. Each dog has an aggro cone — if the dog's head points toward you, freeze. When it looks away, move again.
+### Forest Keeper
 
----
+**Also known as:** The Giant, Earth Leviathan  
+**Danger Level:** 8/10  
+**Spawn Locations:** Outdoor on Vow and harder moons  
+**HP:** 8 shovel hits or 3 shotgun blasts  
+**Sound Cues:** Tremendously loud footsteps, deep growls
 
-### 5. Forest Keeper
-
-**Also known as:** The Giant, Earth Leviathan
-
-Forest Keepers are enormous humanoid giants that patrol the outdoor areas of certain moons. They have a single large eye and wear tattered clothing. They can grab and eat players in two bites.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 8/10 |
-| **Spawn Locations** | Outdoor, Vow and harder moons |
-| **Detection Method** | Line of sight |
-| **Speed** | Slow walk (deceptively fast over distance) |
-| **HP** | 8 hits (shovel) — extremely hard to kill |
-| **Can be Killed?** | Yes but impractical (requires 8 shovel hits or 3 shotgun) |
-| **Sound Cues** | Tremendously loud footsteps, deep growls |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Forest Keepers patrol outdoor areas, scanning for players.
-- When they spot a player, they walk toward them and attempt to grab them.
-- Being grabbed results in being eaten: first bite deals damage, second bite kills.
-- They can be distracted by loud noises and will investigate.
-- They cannot enter the ship but can block the doorway.
+Forest Keepers are enormous one-eyed giants that patrol outdoor areas. When they spot a player, they walk over and attempt a grab. The first bite deals damage; the second kills. They cannot enter the ship or the facility, but they can block the doorway.
 
 **Counter-Strategy:**
-| Technique | How To |
-|-----------|--------|
-| **Line-of-Sight** | Stay behind trees, rocks, and terrain to break LOS |
-| **Indoor Escape** | Go inside the facility — Forest Keepers cannot enter |
-| **Ship Dash** | Time your sprint to the ship between its patrol paths |
-| **Boombox Lure** | Place a Boombox playing music away from your path |
-| **Stun Grenade** | 5 seconds of stun to run past |
+- Stay behind trees, rocks, and terrain to break line of sight.
+- Go inside the facility if one spots you — they cannot enter.
+- Time your sprint to the ship between its patrol paths.
+- A Boombox playing music lures them away from your route.
+- A stun grenade buys five seconds to run past.
 
----
+### Jester
 
-### 6. Jester
+**Also known as:** Jack-in-the-Box, Music Box Monster  
+**Danger Level:** 9/10 when wound up, 2/10 while winding  
+**Spawn Locations:** Interior on harder moons (Offense+)  
+**HP:** Invincible  
+**Sound Cues:** Music box melody while winding, loud roar when chasing
 
-**Also known as:** Jack-in-the-Box, Music Box Monster
-
-The Jester appears as a small jack-in-the-box toy carried by a faceless figure. It patrols in harmless mode (winding its music box), but once fully wound, it transforms into a fast, lethal killing machine.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 9/10 (wound up), 2/10 (winding) |
-| **Spawn Locations** | Interior, harder moons (Offense+) |
-| **Detection Method** | Patrol path (winding), line of sight (chase) |
-| **Speed** | Slow (winding), Very Fast (chase) |
-| **HP** | Invincible |
-| **Can be Killed?** | No |
-| **Sound Cues** | Music box melody (winding), loud roar (chase) |
-| **First Appearance** | v40 |
-
-**Behavioral Analysis - Two Phases:**
-
-| Phase | Duration | Behavior |
-|-------|----------|----------|
-| **Winding (Safe)** | 30-45 seconds | Patrols facility playing music. When a player is nearby, it stops and cranks its crank. |
-| **Wound Up (Deadly)** | Until it loses tracking | Chases the nearest player at high speed, instantly killing on contact. Cannot be stopped. |
+The Jester patrols in harmless winding mode for thirty to forty-five seconds, playing a music box melody. When it spots a player nearby, it stops and cranks its handle. Once fully wound, it transforms into a fast, lethal killing machine that chases the nearest player at high speed. Contact is instant death. It cannot be stopped or killed.
 
 **Counter-Strategy:**
-| Phase | Action |
-|-------|--------|
-| **Hear the music** | Immediately identify where the Jester is. Warn team. |
-| **It starts cranking** | **LEAVE THE FACILITY.** Go outside. |
-| **It is chasing** | Run for the exit. Close doors behind you. Juke around corners. |
-| **After chase** | The Jester returns to winding mode after ~20 seconds of not finding anyone. |
+- When you hear the music, identify its location and warn the team.
+- The instant it starts cranking, leave the facility. Go outside.
+- If it is chasing, run for the exit and close doors behind you.
+- After roughly twenty seconds of not finding anyone, it returns to winding mode.
 
-**Critical Rule:** When you hear a Jester start cranking, announce it on voice chat immediately. The whole team needs to evacuate. One player ignoring the warning equals one dead player.
+**Critical Rule:** Announce a cranking Jester on voice chat immediately. One player ignoring the warning equals one dead player — and usually a squad wipe.
 
----
+### Snare Flea
 
-### 7. Snare Flea
+**Also known as:** Ceiling Monster, Head Grabber  
+**Danger Level:** 5/10  
+**Spawn Locations:** Interior on all moons  
+**HP:** 1 shovel hit  
+**Sound Cues:** None on ceiling; muffled sounds while on player
 
-**Also known as:** Ceiling Monster, Head Grabber
-
-The Snare Flea is a small, insect-like creature that clings to ceilings and drops onto players passing below. It latches onto the player's head, slowly suffocating them while the player struggles.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 5/10 |
-| **Spawn Locations** | Interior, all moons |
-| **Detection Method** | Proximity (drops when player passes under) |
-| **Speed** | Stationary (on ceiling), Slow (on player) |
-| **HP** | 1 hit (shovel) |
-| **Can be Killed?** | Yes, one shovel hit |
-| **Sound Cues** | None while on ceiling. Muffled sounds while on player. |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Snare Fleas are stationary on ceilings until a player walks under them.
-- They drop onto the player's head and cover their face.
-- The player's vision is obscured and they take damage over time until dead.
-- A struggling player can shake the Flea off after several seconds, or a teammate can hit it off.
-- They are very easy to spot if you look up.
+The Snare Flea clings to ceilings and drops onto players passing below. It latches onto the head, obscuring vision and dealing damage over time until death. A struggling player can shake it off after several seconds, or a teammate can hit it off.
 
 **Counter-Strategy:**
-| Step | Action |
-|------|--------|
-| **Prevention** | Look at ceilings before entering rooms. Scan with flashlight. |
-| **If grabbed** | Mash E to struggle. Teammate hits you with shovel to remove it. |
-| **Killing** | One shovel hit on the ceiling kills it before it drops. |
+- Look at ceilings before entering rooms. Scan with your flashlight.
+- If grabbed, mash the interact key to struggle.
+- A teammate can hit you with a shovel to remove it instantly.
+- One shovel hit on the ceiling kills it before it drops.
 
----
+### Hoarding Bug
 
-### 8. Hoarding Bug
+**Also known as:** Loot Bug, Item Hoarder  
+**Danger Level:** 4/10  
+**Spawn Locations:** Interior on all moons  
+**HP:** 2 shovel hits or 1 shotgun blast  
+**Sound Cues:** Chittering, skittering legs
 
-**Also known as:** Loot Bug, Item Hoarder
-
-The Hoarding Bug is a beetle-like creature that collects scrap items and brings them to its nest. It is generally passive but becomes aggressive if you take items from its territory or stare at it too long.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 4/10 |
-| **Spawn Locations** | Interior, all moons |
-| **Detection Method** | Visual range |
-| **Speed** | Moderate |
-| **HP** | 2 hits (shovel) |
-| **Can be Killed?** | Yes, 2 shovel hits or 1 shotgun blast |
-| **Sound Cues** | Chittering, skittering legs |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Hoarding Bugs patrol rooms, picking up loose scrap and carrying it back to their nest.
-- They are territorial — if you enter their nest room, they raise their arms in warning.
-- If you continue approaching or stare at them, they shriek and attack.
-- Their attack deals moderate damage but is not an instant kill.
-- They steal items from the ground — if you drop something, they may take it.
+Hoarding Bugs collect scrap and carry it back to their nest. They are usually passive but become aggressive if you enter their nest room or stare at them too long. Their attack deals moderate damage but is not an instant kill. They will also steal items you drop on the ground.
 
 **Counter-Strategy:**
-| Situation | Action |
-|-----------|--------|
-| **Passing by** | Do not make eye contact, move through quickly |
-| **It is threatening** | Back away slowly |
-| **It attacks** | 2 shovel hits kills it easily |
-| **It took your item** | Either kill it or wait for it to drop the item (it will eventually) |
+- Do not make eye contact when passing through their territory.
+- If it raises its arms in warning, back away slowly.
+- Two shovel kills it easily.
+- If it took your item, kill it or wait — it will drop the item eventually.
 
-**Pro Tip:** You can use Hoarding Bugs to your advantage. They collect scrap into neat piles at their nest. Find the nest and you may find more scrap than you expected.
+**Pro Tip:** Follow a Hoarding Bug to its nest. They pile scrap into neat stacks, often giving you more loot than random room spawns.
 
----
+### Hygrodere
 
-### 9. Hygrodere
+**Also known as:** The Blob, Slime  
+**Danger Level:** 3/10  
+**Spawn Locations:** Interior on all moons  
+**HP:** Invincible  
+**Sound Cues:** Wet squelching, bubbling
 
-**Also known as:** The Blob, Slime
-
-Hygrodere is a large, amorphous green slime that slowly oozes through the facility. It deals damage on contact and can block corridors if it spreads.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 3/10 |
-| **Spawn Locations** | Interior, all moons |
-| **Detection Method** | Proximity (it moves randomly) |
-| **Speed** | Very slow |
-| **HP** | Invincible |
-| **Can be Killed?** | No |
-| **Sound Cues** | Wet squelching, bubbling |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Hygrodere oozes through rooms and corridors at walking speed.
-- It cannot be damaged or stopped.
-- Contact deals steady damage — you have about 5-8 seconds before dying.
-- It can split into smaller blobs.
-- It follows players very slowly (it can sense heat?).
+Hygrodere is a large green slime that oozes through rooms at walking speed. Contact deals steady damage — you have about five to eight seconds before dying. It cannot be damaged or stopped, and it can split into smaller blobs.
 
 **Counter-Strategy:**
-| Situation | Action |
-|-----------|--------|
-| **See the blob** | Go around. It is slow. You have plenty of time. |
-| **Blocking a path** | Wait for it to move, or find another route. |
-| **Cornered by it** | Run through it. The damage is survivable. |
-| **Split blobs** | Same strategy — slow and easy to avoid. |
+- Go around it. It is slow. You have plenty of time.
+- If it blocks a path, wait for it to move or find another route.
+- If cornered, running through it is survivable — the damage is slow.
 
----
+### Spore Lizard
 
-### 10. Spore Lizard
+**Also known as:** The Friendly Lizard, Spore Guy  
+**Danger Level:** 1/10  
+**Spawn Locations:** Interior on all moons  
+**HP:** Cannot be killed (and should not be attacked)  
+**Sound Cues:** Soft chirping
 
-**Also known as:** The Friendly Lizard, Spore Guy
-
-The Spore Lizard is a small, harmless lizard with glowing spots on its back. When threatened, it releases a cloud of spores that blur vision temporarily. It is completely non-lethal.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 1/10 |
-| **Spawn Locations** | Interior, all moons |
-| **Detection Method** | Random patrol |
-| **Speed** | Medium (will run from players) |
-| **HP** | Cannot be killed |
-| **Can be Killed?** | No (it is harmless, do not try) |
-| **Sound Cues** | Soft chirping |
-| **First Appearance** | v35 |
-
-**Behavioral Analysis:**
-- Spore Lizards wander the facility, completely ignoring players.
-- If approached, they release a cloud of pink/blue spores that blur vision for 5-10 seconds.
-- After releasing spores, they scuttle away to a different area.
-- They do not deal damage, do not attack, and cannot kill.
+The Spore Lizard wanders the facility and completely ignores players. If approached, it releases a cloud of pink or blue spores that blur vision for five to ten seconds. It deals no damage, does not attack, and cannot kill.
 
 **Counter-Strategy:**
-| Situation | Action |
-|-----------|--------|
-| **See the lizard** | Ignore it. It is harmless. |
-| **It spored you** | Wait a few seconds for vision to clear. |
-| **Worried players** | Tell your team it is just a Spore Lizard — no threat. |
+- Ignore it. It is harmless.
+- If spored, wait a few seconds for vision to clear.
+- Tell new players on your team that it is not a threat.
 
-**Common Mistake:** New players often panic when a Spore Lizard releases spores, thinking they are being attacked. It is completely harmless. Do not waste a stun grenade on it.
+**Common Mistake:** New players panic when spored and waste a stun grenade. Do not. It is completely harmless.
 
----
+### Ghost Girl
 
-### 11. Ghost Girl
+**Also known as:** The Spectre, Haunting Ghost  
+**Danger Level:** 8/10  
+**Spawn Locations:** Interior on harder moons (March+)  
+**HP:** Invincible  
+**Sound Cues:** Static on the affected player's walkie, footsteps
 
-**Also known as:** The Spectre, Haunting Ghost
-
-The Ghost Girl appears as a small figure in red clothing. She haunts a single player, appearing only to them. As the haunting progresses, she appears closer and closer until she kills the player.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 8/10 |
-| **Spawn Locations** | Interior, harder moons (March+) |
-| **Detection Method** | Target selection (random) |
-| **Speed** | Variable (teleports) |
-| **HP** | Invincible |
-| **Can be Killed?** | No |
-| **Sound Cues** | Static on affected player's walkie, footsteps |
-| **First Appearance** | v45 |
-
-**Behavioral Analysis - Four Stages:**
-| Stage | Visual | Action Needed |
-|-------|--------|---------------|
-| **Distant** | See her far away, briefly | She has chosen a target |
-| **Approaching** | Appears closer, more frequently | Warn team, identified target |
-| **Close** | Right next to the player | Target should leave the facility |
-| **Kill** | Touches the player | Instant death for target |
+The Ghost Girl haunts a single randomly chosen player. Only that player can see her. She appears farther away at first, then closer and more frequently, until she touches the player for an instant kill.
 
 **Counter-Strategy:**
-| Technique | How To |
-|-----------|--------|
-| **Identify target** | Only the affected player can see her. Ask "can anyone see a little girl?" |
-| **Evacuate target** | The haunted player should leave the facility and stay near the ship |
-| **Delay** | Staying near other players may delay the kill (unconfirmed) |
-| **No known cure** | She cannot be stopped, only delayed |
+- Ask your team, "Can anyone see a little girl?" Only the target sees her.
+- The haunted player should leave the facility and wait near the ship.
+- Staying near teammates may delay the kill, but it will not stop it.
+- There is no known cure — she cannot be stopped, only delayed.
 
-**Note:** The Ghost Girl is one of the least understood entities. There is no confirmed way to prevent her kill. The best strategy is to have the haunted player wait outside the facility so they do not die mid-loot-run.
+### Nutcracker
 
----
+**Also known as:** The Shotgun Soldier, Nutcracker Guard  
+**Danger Level:** 7/10  
+**Spawn Locations:** Mansion and lab interiors on Offense+  
+**HP:** 4 shovel hits  
+**Sound Cues:** Heavy wooden footsteps, mechanical clicking
 
-### 12. Nutcracker
-
-**Also known as:** The Shotgun Soldier, Nutcracker Guard
-
-The Nutcracker is a large, wooden soldier that patrols mansion/laboratory interiors carrying a shotgun. It periodically stops, scans its surroundings, and fires at any player it sees.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Danger Level** | 7/10 |
-| **Spawn Locations** | Mansion/Lab interiors, Offense+ |
-| **Detection Method** | Patrol path + visual scan |
-| **Speed** | Moderate walk |
-| **HP** | 4 hits (shovel) |
-| **Can be Killed?** | Yes, drops shotgun and shells |
-| **Sound Cues** | Heavy wooden footsteps, mechanical clicking |
-| **First Appearance** | v50 |
-
-**Behavioral Analysis:**
-- Nutcrackers patrol hallways in a set path.
-- Periodically, they stop and do a 360-degree scan.
-- If they spot a player during a scan, they fire their shotgun.
-- The shotgun deals massive damage (2 hits kills).
-- After firing, they reload (3 seconds) before scanning again.
-- They can be killed, and doing so rewards you with a shotgun and 2-3 shells.
+The Nutcracker patrols hallways in a set path. Periodically it stops and performs a 360-degree scan. If it spots a player during a scan, it fires its shotgun. Two hits kill. After firing, it reloads for three seconds before scanning again. Killing it drops a shotgun and two to three shells.
 
 **Counter-Strategy:**
-| Technique | How To |
-|-----------|--------|
-| **Avoid scans** | Hide behind walls or furniture when it starts scanning |
-| **Kill timing** | Hit it during its reload animation |
-| **Team kill** | One player baits the shot, another attacks from behind |
-| **Stun grenade** | Stuns through all phases, easy kill setup |
+- Hide behind walls or furniture when it starts scanning.
+- Attack during its reload animation.
+- One player can bait the shot while another attacks from behind.
+- A stun grenade stuns through all phases for an easy kill setup.
 
-**Nutcracker Farming:**
-Killing Nutcrackers is one of the best ways to get shotguns, which are both a powerful weapon and valuable scrap (shotguns sell for 90-150 credits, shells for 10-30 each). For a complete database of all scrap items and value ranges, see our [Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/).
+**Nutcracker Farming:** Killing Nutcrackers is one of the best ways to obtain shotguns, which are both powerful weapons and valuable scrap. Shotguns sell for 90–150 credits; shells sell for 10–30 each. For a complete value database, see our [Scrap and Loot Guide](/posts/lethal-company/scrap-and-loot-guide/).
 
----
+## Monster Spawn Overview by Moon
 
-### 13. Eyeless Dog (Pack Variant)
+Spawn rates shift dramatically depending on where you land. Here is what to expect:
 
-On harder moons (Rend, Dine, Titan), Eyeless Dogs can spawn in packs of 2-4. Pack behavior is more aggressive and coordinated.
+- **Experimentation** — The safest moon. Snare Fleas, Hoarding Bugs, and Hygrodere are common. Thumpers and Bracken are uncommon. Coil-Heads are rare. Outdoor dogs and Forest Keepers barely appear.
+- **Assurance** — Slightly harder. Thumpers and Bracken become common. Eyeless Dogs are uncommon. Forest Keepers still rarely patrol.
+- **Vow** — The difficulty spikes. Forest Keepers appear outdoors. Coil-Heads become common indoors. Jesters are rare but possible.
+- **Offense** — Jesters become common. Nutcrackers start appearing in mansion interiors. Forest Keepers are uncommon outside.
+- **March** — A balanced hard moon. Ghost Girls become uncommon. Nutcrackers are common in labs. Everything else is common or very common.
+- **Rend and Dine** — Eyeless Dogs are very common outdoors. Spore Lizards become rare indoors. Ghost Girls remain uncommon.
+- **Titan** — The hardest moon. Snare Fleas, Thumpers, Bracken, Coil-Heads, and Eyeless Dogs are all very common. Forest Keepers are common. Jesters can spawn with the rapid-wind variant, cranking in as little as fifteen seconds. Pack dogs spawn in groups of two to four.
 
-| Attribute | Value |
-|-----------|-------|
-| **Pack Size** | 2-4 dogs |
-| **Spawn Rate** | 30% on Titan, 15% on Rend/Dine |
-| **Behavior** | Spread out to cover more area |
-| **Counter** | Boombox lures work best for multiple dogs |
+## Decision Framework: The Encounter Checklist
 
----
+When you see a monster, run through this list in order. Do not skip steps.
 
-### 14. Jester (Rapid-Wind Variant)
+1. **Can I kill it?** If yes and you have a shovel or shotgun, consider fighting. Bracken, Thumper, Hoarding Bug, and Nutcracker are worth killing if you have backup. Coil-Head, Jester, and Ghost Girl cannot be killed — do not try.
+2. **Can I avoid it silently?** Eyeless Dogs demand absolute stillness. Thumpers demand walking. Forest Keepers demand breaking line of sight. Match the counter to the creature.
+3. **Is there an exit within five seconds?** Jesters require immediate evacuation. Brackens can be slowly kited. If the exit is far, your strategy changes from "escape" to "survive in place."
+4. **Do I have the right tool?** A stun grenade turns a Thumper or Nutcracker into a free kill. A shovel turns a Snare Flea into a non-issue. No tool means you rely on movement and doors.
+5. **Am I carrying high-value scrap?** If you are holding a 120-credit item, your priority is preservation, not heroics. Drop the item only if the monster targets you — Hoarding Bugs will steal it, but Brackens will not.
 
-On Titan specifically, the Jester can have a shortened wind-up time, reducing the safe period from 30-45 seconds to as little as 15 seconds.
+## Counter-Intuitive Truths
 
----
+These go against what most players assume on their first ten hours.
 
-## Monster Spawn Table by Moon
-
-| Monster | Experimentation | Assurance | Vow | Offense | March | Rend | Dine | Titan |
-|---------|----------------|-----------|-----|---------|-------|------|------|-------|
-| Snare Flea | Common | Common | Common | Common | Common | Common | Common | Very Common |
-| Hoarding Bug | Common | Common | Common | Common | Common | Common | Common | Very Common |
-| Hygrodere | Common | Common | Common | Common | Common | Common | Common | Common |
-| Spore Lizard | Common | Common | Common | Common | Common | Rare | Rare | Rare |
-| Thumper | Uncommon | Common | Common | Common | Common | Common | Common | Very Common |
-| Bracken | Uncommon | Common | Common | Common | Common | Common | Common | Very Common |
-| Coil-Head | Rare | Uncommon | Common | Common | Common | Common | Common | Very Common |
-| Eyeless Dog | Rare | Uncommon | Common | Common | Common | Very Common | Very Common | Very Common |
-| Forest Keeper | — | — | Uncommon | Uncommon | Common | Uncommon | Uncommon | Common |
-| Jester | — | — | Rare | Common | Common | Common | Common | Common |
-| Nutcracker | — | — | — | Uncommon | Common | Common | Common | Common |
-| Ghost Girl | — | — | — | — | Uncommon | Uncommon | Uncommon | Uncommon |
-
----
+- **Running from a Bracken makes it chase.** The safe play is to look at the ground and back away slowly. Sprinting turns a manageable encounter into a death sentence.
+- **Crouch-walking past an Eyeless Dog is louder than standing still.** The correct play is absolute stillness. Any movement produces sound. Wait until the dog turns its head away, then take a single step and freeze again.
+- **The Coil-Head is invincible but completely harmless while watched.** The real threat is your own panic. Teams wipe because someone looks away to check their map, not because the monster outplayed them.
+- **Hoarding Bugs are loot magnets.** They collect scrap into piles. Stealing from their nest is profitable, but staring at the bug triggers rage. Grab and go without making eye contact.
+- **Killing a Nutcracker gives you a shotgun, but firing it attracts every Eyeless Dog outside.** That 90-credit shotgun becomes a liability if you blast it on the walk back to the ship. Save shells for indoor emergencies.
 
 ## Emergency Quick Reference
 
-Use this table when you encounter a monster mid-game and need a fast reminder:
+Use this list when you encounter a monster mid-game and need a fast reminder:
 
-| Monster | Counter | Can Kill? | Run or Face? |
-|---------|---------|-----------|--------------|
-| Bracken | Look away, back away slowly | Yes (5 shovel) | Face (slowly) |
-| Coil-Head | Maintain eye contact | No | Face |
-| Thumper | Break LOS, use doors | Yes (3 shovel) | Run (juke) |
-| Eyeless Dog | Stand still, be silent | Yes (5 shovel) | Freeze |
-| Forest Keeper | Break LOS, hide behind trees | Yes (8 shovel) | Run for cover |
-| Jester (winding) | Evacuate facility | No | Run |
-| Snare Flea | Look up, shovel ceiling | Yes (1 shovel) | Look up |
-| Hoarding Bug | Ignore it, avoid eye contact | Yes (2 shovel) | Face |
-| Hygrodere | Walk around it | No | Walk away |
-| Spore Lizard | Ignore entirely | No | Ignore |
-| Ghost Girl | Leave facility, cannot stop | No | N/A |
-| Nutcracker | Hide during scan, attack during reload | Yes (4 shovel) | Face |
-
----
+- **Bracken** — Look away, back away slowly. Can be killed with 5 shovel hits. Face it slowly, do not run.
+- **Coil-Head** — Maintain eye contact at all times. Cannot be killed. Face it and back away.
+- **Thumper** — Break line of sight, use doors to slow it. Can be killed with 3 shovel hits. Run and juke around corners.
+- **Eyeless Dog** — Stand completely still and silent. Can be killed with 5 shovel hits. Freeze on sight.
+- **Forest Keeper** — Break line of sight behind trees or terrain. Can be killed but takes 8 shovel hits. Run for cover or enter the facility.
+- **Jester (winding)** — Evacuate the facility immediately. Cannot be killed. Run for the exit.
+- **Snare Flea** — Look up at ceilings, hit it with one shovel swing. Can be killed. Stay alert.
+- **Hoarding Bug** — Avoid eye contact, move through quickly. Can be killed with 2 shovel hits. Face it only if needed.
+- **Hygrodere** — Walk around it. Cannot be killed. Simply walk away.
+- **Spore Lizard** — Ignore it entirely. Cannot be killed and is harmless.
+- **Ghost Girl** — Leave the facility and wait near the ship. Cannot be killed. No direct counter exists.
+- **Nutcracker** — Hide during its scan, attack during reload. Can be killed with 4 shovel hits. Face it with timing.
 
 ## Conclusion
 
-Knowing your monsters is the difference between a successful run and a squad wipe in Lethal Company. Each entity has a specific behavioral pattern and a counter-strategy. The most dangerous situations arise when multiple monster types appear together — a Coil-Head blocking a corridor while a Bracken stalks you from behind, or a Jester winding up while Eyeless Dogs patrol outside.
+Knowing your monsters is the difference between a profitable run and a squad wipe. Each entity has a specific behavioral pattern and a counter-strategy. The most dangerous moments come from combinations — a Coil-Head blocking a corridor while a Bracken stalks from behind, or a Jester winding up while Eyeless Dogs patrol outside.
 
-Master the monsters one at a time. Learn the Bracken dance before you tackle Titan. Practice the Coil-Head stare on Assurance. Use the terminal `bestiary` command to review scanned entities in-game, and always, always check the ceiling. For a full list of terminal commands, see our [Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/).
+Master the monsters one at a time. Learn the Bracken look-away on Assurance. Practice the Coil-Head stare with a teammate. Use the terminal `bestiary` command to review scanned entities in-game, and always check the ceiling before you enter a room. For a full list of terminal commands, see our [Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/).
 
 ---
 
