@@ -2,7 +2,7 @@
 title: "TDS Tower Placement Theory — Why Your S-Tier Tower Is Leaking (And the 2-Tile Rule That Fixes It)"
 description: "You placed your Minigunner in what looks like a great spot. But it's doing 30% less damage than if you'd placed it 2 tiles to the left. Here's the placement theory that top players use — sightlines, chokepoints, overlap zones, and the '2-tile rule' that wins games."
 date: 2026-06-05
-lastmod: 2026-06-24
+lastmod: 2026-08-03
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Placement", "Strategy", "tds-placement"]
 categories: ["Roblox Guides"]
@@ -18,9 +18,13 @@ faq:
     answer: "Place DJ first. DJ has the larger buff radius, so DJ's position determines where your overlap zone can be. Once DJ is down, place Commander inside DJ's radius. Then place your main DPS tower where both buffs reach. Placing Commander first locks you into a smaller radius and often forces your DPS tower into a worse position."
   - question: "Is it worth selling a well-placed early tower for a better late-game tower?"
     answer: "Yes, almost always. A level 3 Militant in wave 25 does a fraction of the damage a level 0 Minigunner would do in the same spot. The 30% sell penalty hurts, but the performance gain from swapping an outdated tower for a top-tier tower in a strong position is usually 3x or more. Sell early towers when you're ready to place your main DPS — the freed cash helps with the first upgrade."
+  - question: "Why does my tower sometimes stop firing when enemies are clearly in range?"
+    answer: "It's probably rotating. Towers have a facing delay — when enemies exit range on one side and enter on the other, the tower has to physically turn to face them. That rotation takes time. A tower at a corner where enemies approach from the west and leave north spends fractions of every wave spinning instead of shooting. Fix this by placing towers where the longest approach vector aligns with the tower's default facing direction."
+  - question: "Should I cluster all my DPS towers in the same overlap zone?"
+    answer: "No. Keep your two best DPS towers at least 4-5 tiles apart. If a single enemy with AOE damage or a stun effect reaches a clustered defense, your entire damage output goes offline at once. Put one DPS in the main overlap zone and the second in a secondary strong position covering a different track segment. If one goes down, the other keeps firing."
 ---
 
-*Last updated: June 24, 2026.*
+*Last updated: August 3, 2026.*
 
 ## The Wave 28 Leak That Shouldn't Have Happened
 
@@ -46,23 +50,47 @@ This is tower placement theory. It's the most under-taught skill in TDS and the 
 
 ---
 
-## What Players Get Wrong About Placement
+## Failure Mode 1: The One-Zone Illusion
 
-Most TDS players treat placement like decoration. They find a spot that looks central, drop their best tower, and call it a day. Here's what actually goes wrong.
+This is the most common placement mistake in TDS, and it's invisible until you know what to look for. A player drops their best tower in a spot that feels central. The range circle looks huge. It touches the track in multiple places. They feel great about it.
 
-**Placing towers too early without scouting the full path.** You drop your Minigunner on wave 5 because you have the cash. But you haven't seen the whole track yet. By wave 15, you realize the path loops back behind your tower, and there's a whole segment it never covers. Now you're stuck with a tower in the wrong spot because selling it costs you 30%.
+Then the wave comes. And the tower fires for about 3 seconds, then sits there idle while enemies walk through a completely different part of the map. The tower's range technically touches the track, but in the wrong place — it's covering a tiny sliver of one segment instead of the full length of multiple segments.
 
-**Ignoring map-specific chokepoints.** Every map has a geometry fingerprint. Crossroads has a 4-way intersection. Harbor has a U-bend. Winter Bridge has a narrow crossing. Players who treat every map the same place their Minigunner in the "center" regardless of whether the center is actually good. On Harbor, the center is garbage. The U-bend is everything.
+The one-zone illusion happens because the human eye is drawn to the center of the map, not the geometry of the track. Players think "center" means "best." But in TDS, "best" means "the spot where the range circle intersects the maximum number of straight track segments."
 
-**Not thinking about range overlap.** A single tower in a great spot is good. Two towers whose ranges overlap on the same track segment create a kill zone. Most players spread their towers out evenly like they're decorating a cake. What they should be doing is clustering DPS towers so their ranges overlap on the most dangerous track segments.
+**How to spot it:** Before you finalize any tower placement, zoom out and trace the enemy path with your eyes. Count how many straight segments fall inside the tower's range circle. If the answer is 1, you're in a one-zone trap. Move the tower.
 
-**Forgetting that towers have a facing delay.** When enemies exit a tower's range on one side and enter on another, the tower has to rotate to face them. That rotation takes time. A tower placed at a corner where enemies approach from the west and leave to the north spends a fraction of each wave rotating instead of firing. Smart placement minimizes rotation time by aligning the tower's position with the longest approach vector.
-
-**Treating all enemies the same.** A placement that's perfect for slow, bulky enemies is terrible for fast, hidden enemies. Slow enemies give your tower time to rotate and acquire targets. Fast enemies are past your range before the tower finishes turning. If your placement only covers long straightaways, you're vulnerable to fast leaks.
+**The fix:** Walk the entire track from entrance to exit before you place anything. Find the intersections, corners, and U-bends. Those are your multi-zone positions. The center of the map is only good if it's also a track intersection.
 
 ---
 
-## The Placement Priority Framework
+## Failure Mode 2: The Rotation Tax
+
+Every tower in TDS has a facing direction. When enemies leave a tower's range on one side and new enemies enter from the opposite side, the tower has to physically rotate. That rotation takes time — fractions of a second per turn. Over a 40-wave match, a poorly positioned tower can spend 15-20% of its total time rotating instead of firing.
+
+This is invisible damage loss. You don't see the tower failing. It's still shooting. It's just shooting less often than it could be.
+
+The rotation tax hits hardest on corner placements. A tower placed at a 90-degree bend has enemies approaching from the west and leaving to the north. Every time a new group enters, the tower spins 90 degrees. Double that if the next group comes from the opposite direction. On maps with winding paths, the rotation tax can steal a third of your tower's effective DPS.
+
+**How to spot it:** Watch your tower during a wave. Does it spin back and forth between groups? If yes, you're paying the rotation tax.
+
+**The fix:** Align your tower's position with the longest approach vector on the map. If enemies spend 80% of their time walking east-to-west on a long straightaway, place your tower so it faces that direction. The tower will spend most of the wave firing, not turning.
+
+---
+
+## Failure Mode 3: The Buff Cascade Collapse
+
+This failure mode is a chain reaction. It starts with one small placement mistake and cascades into a complete support breakdown by wave 30.
+
+Here's how it happens. A player places their Commander first — in a spot that looks good for Commander. Then they place DJ nearby. Then they drop their Minigunner where it fits. On wave 25, they realize their Minigunner isn't getting Commander's fire rate buff. The Commander is just barely out of range. They can't move the Commander without selling it. They can't move the Minigunner without losing the spot. They're stuck.
+
+The buff cascade collapse happens because players place support towers without checking which DPS position they're actually buffing. Commander's radius is smaller than DJ's. If you place Commander first, you're anchoring your entire defense to a smaller circle. Everything else has to squeeze into that circle — and often, the best DPS position doesn't fit.
+
+**The fix:** Change the placement order. Always place DJ first — its radius is the largest constraint. Then place Commander inside DJ's radius. Only then do you place your DPS tower where both buffs overlap. This order guarantees that your DPS tower gets both buffs, because you built the support infrastructure around the DPS position, not the other way around.
+
+---
+
+## The Placement Decision Framework
 
 When you load into a map, don't place anything for the first 10 seconds. Instead, run through this checklist.
 
@@ -82,13 +110,13 @@ When you load into a map, don't place anything for the first 10 seconds. Instead
 
 8. **Place Farms last, in the safest back corners.** Never compromise DPS placement for Farm safety, but never risk a Farm near the track either.
 
-That's the framework. Most players do the opposite: they place their DPS tower first, then try to squeeze DJ and Commander nearby. That works sometimes, but it's backwards. DJ's radius is the largest constraint. Anchor DJ, then build around it.
+Most players do the opposite: they place their DPS tower first, then try to squeeze DJ and Commander nearby. That works sometimes, but it's backwards. DJ's radius is the largest constraint. Anchor DJ, then build around it.
 
 ---
 
-## Counter-Intuitive: The "Dead Zone" Placement That Wins Games
+## 5 Counter-Intuitive Placement Truths
 
-Here's something that breaks every beginner's brain. Sometimes the best place for a high-range tower is where its range circle barely touches the track at all.
+### Truth 1: The Dead Zone Beats the Center
 
 Players instinctively hug the track. They think, "If I'm closer, I hit sooner and harder." But a tower like Accelerator has 25+ range. It doesn't need to be close. It needs to be alive.
 
@@ -97,6 +125,34 @@ Placing Accelerator at the back edge of the map — far from the track, with its
 The dead-zone placement costs you maybe 5% coverage. It buys you 100% survivability. On Hardcore mode, where one leaked enemy can end your run, that trade isn't even close.
 
 The real placement meta isn't maximum coverage. It's maximum sustainable coverage — the most track segments your tower can cover without dying.
+
+### Truth 2: The Back of a Straightaway Beats the Front
+
+New players always place towers at the front of a straight segment. The logic seems sound: "I'll hit them as early as possible." But front-placement is a trap. Enemies spend 2 seconds in your range before they're past you. A tower at the back of the same straightaway hits enemies for the entire length of the segment — 8, 10, sometimes 12 seconds of continuous fire.
+
+The math is simple. A tower's total damage on a wave equals (DPS) x (time enemies spend in range). Front-placement minimizes time-in-range. Back-placement maximizes it. You're not losing damage by placing further back. You're gaining it.
+
+Place DPS towers at the middle-to-back of straight segments. Not the front.
+
+### Truth 3: Sell Your Best Early Tower for a Mediocre Late Tower
+
+This one hurts. You've invested 3,000 coins into your level 3 Militant. It's served you well through wave 20. Now you want to place a Minigunner. But you're short on coins. The instinct is to keep the Militant and save up.
+
+Don't. A level 0 Minigunner in a 4-zone position does more damage than a level 3 Militant in the same spot. The 30% sell penalty on the Militant stings. But the performance gap between an early-game tower at wave 25 and a late-game tower at wave 25 is 3x or more. The math favors selling.
+
+Sell your early tower, place the late tower, and use the freed coins to fund the first upgrade. The net damage output jumps immediately.
+
+### Truth 4: Spread Your DPS or Lose Everything
+
+The overlap zone is valuable. But if you put all three of your DPS towers inside it, you've created a single point of failure. One enemy with AOE damage, one stun from a Fallen, one boss ability — and your entire damage output goes offline.
+
+Keep your two best DPS towers at least 4-5 tiles apart. Put one in the main overlap zone. Put the second in a secondary strong position covering a different track segment. If one goes down, the other keeps firing. Diversification isn't just for stocks.
+
+### Truth 5: A B-Tier Tower in a 4-Zone Spot Beats an S-Tier Tower in a 1-Zone Spot
+
+Tier lists rank towers in a vacuum. They assume perfect placement. In real matches, placement is the multiplier. A Militant in a 4-zone position on Crossroads will out-damage an Accelerator placed in a 1-zone side pocket. Every time.
+
+This means your placement priority should be: find the best position first, then put your best tower in it. Don't put your best tower in a mediocre spot just because you had the cash for it sooner. Wait. Save. Place the S-tier tower in the S-tier position.
 
 ---
 
@@ -125,7 +181,7 @@ The 2-tile rule also applies to buff placement. Commander's buff radius is small
 
 ---
 
-## Commander & DJ Placement: The Overlap Zone
+## Commander & DJ: The Overlap Zone
 
 Commander and DJ aren't damage towers, but their placement matters just as much. Both provide buffs in a radius around them. The "overlap zone" — where both Commander's fire rate buff and DJ's range buff overlap — is where your DPS towers should go.
 
@@ -142,9 +198,9 @@ But here's the nuance most guides miss: the overlap zone doesn't have to be at t
 
 ---
 
-## Map-Specific Placement: Where Your Minigunner Goes on Every Map
+## Map-Specific DPS Positions
 
-The coverage zone theory applies universally, but each map has a known optimal DPS position that experienced players use. Here they are.
+The coverage zone theory applies universally, but each map has a known optimal DPS position that experienced players use.
 
 ### Crossroads
 The central intersection covers 4 track segments. Place your Minigunner 2 tiles back from the exact center, on the side closest to the entrance. This captures 3 segments (approaching, leaving-left, leaving-right) while keeping the tower protected behind the small barrier at the intersection.
@@ -158,37 +214,19 @@ Similar to Harbor but longer. The turn at the far end covers enemies on both the
 ### Winter Bridge
 The bridge center covers enemies from both ends — they approach from the left and right simultaneously. A tower at the exact center of the bridge covers both approach segments plus the bridge crossing. This is rare: a 3-zone position on an otherwise linear map.
 
+### Badlands
+The figure-8 layout creates two natural chokepoints at the crossing points. Place your main DPS at the intersection where the track crosses itself. The tower covers enemies on both loops simultaneously. Place secondary DPS at the outer bend of the second loop.
+
+### Grass Isle
+The island's circular path means enemies loop around the entire perimeter. The best position is on the inner edge of the island, facing outward. Your range circle covers enemies on the near side of the loop and the far side — effectively two zones from a single position.
+
 ---
 
-## The Farm Placement Difference
+## Farm Placement: The Exception
 
 Farm towers don't need coverage zones — they need to be as far from the track as possible. Farms placed near the track get destroyed by leaked enemies, and a destroyed Farm costs you all the coins it would have generated for the rest of the match. Place Farms in the back corners of the map, as far from enemy paths as possible.
 
 The 10% coin loss from placing them outside DJ's discount radius is less than the 100% loss from a destroyed Farm. Safety over optimization for Farms. The DJ discount saves you about 10% on upgrades. Losing a Farm costs you 100% of its future income. Don't optimize Farms into danger.
-
----
-
-## The Common Placement Mistakes (And Their Exact Fixes)
-
-### Mistake: Placing DPS towers at the very front of the track
-**Why players do it:** "I want to hit enemies as early as possible."
-**Why it's wrong:** Front-placement gives enemies the maximum time to damage your tower before they exit its range. A tower at the back of a long straightaway hits enemies for the entire length of the segment. A tower at the front hits them for 2 seconds before they're past it.
-**The fix:** Place DPS towers at the MIDDLE of straight segments, not the front. They get equal time hitting enemies from both directions — those approaching and those leaving.
-
-### Mistake: Placing all towers on one side of the track
-**Why players do it:** It's easier to manage visually.
-**Why it's wrong:** Enemies that leak on the unguarded side walk past with zero resistance. A split defense catches leaks from both directions.
-**The fix:** Split your towers 60/40 across both sides of the track. The 60% side is your main DPS position. The 40% side is your leak insurance.
-
-### Mistake: Never selling and replacing towers
-**Why players do it:** "Selling costs me 30% of the coins I spent."
-**Why it's wrong:** A wave-10 tower in a wave-30 position is doing 10% of the damage a wave-30 tower would do. The 30% sell penalty is less than the 90% performance penalty of keeping the wrong tower in the right spot.
-**The fix:** When you place a major upgrade (Minigunner, Accelerator), sell the early-game tower it replaces. The freed coins partially fund the new tower's first upgrade level.
-
-### Mistake: Clustering all buffs and DPS in one tiny zone
-**Why players do it:** "I want everything in the overlap zone."
-**Why it's wrong:** If a single enemy with AOE damage or a stun effect reaches that cluster, your entire damage output goes offline at once. Diversification isn't just for stocks.
-**The fix:** Keep your two best DPS towers at least 4-5 tiles apart. Put one in the main overlap zone and the second in a secondary strong position. If one goes down, the other keeps firing.
 
 ---
 
@@ -200,3 +238,4 @@ The 10% coin loss from placing them outside DJ's discount radius is less than th
 - [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
 - [TDS Tower Synergy Combos — Best Pairings for Every Mode](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Loadout Guide — Building the Perfect Team](/posts/tower-defense-simulator/loadout-guide/)
+- [TDS Complete Loadout Strategy & Optimization Guide](/posts/tower-defense-simulator/loadout-strategy-optimization/)
