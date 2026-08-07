@@ -33,8 +33,9 @@
     </div>
 </section>
 
-{{/* ---- Latest Updates (recently modified articles, excluding featured above) ---- */}}
-{{- $latest := $allPosts | complement $featured | first 5 }}
+{{/* ---- Latest Updates (most recent by date, excluding featured above) ---- */}}
+{{- $latest := ($allPosts | complement $featured).ByDate.Reverse | first 5 }}
+
 <section class="home-section home-latest">
     <h2 class="section-title">📝 Latest Updates</h2>
     <div class="latest-list">

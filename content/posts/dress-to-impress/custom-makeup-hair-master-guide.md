@@ -5,7 +5,7 @@ lastmod: 2026-07-20
 description: "Master custom makeup and hair in Dress to Impress. Best makeup combos for every theme, hair selection strategy, color theory tips, and how beauty decisions impact your final podium score."
 summary: "Your face and hair choices can make or break a DTI round. This guide covers custom makeup techniques, winning hair-makeup combinations for every theme category, color matching secrets, and the scoring logic behind beauty decisions."
 cover:
-  image: "images/covers/dti/custom-makeup-hair.webp"
+  image: "/cover-image/dti-custom-makeup-hair/cover.webp"
   alt: "Dress to Impress custom makeup and hair styling guide"
 slug: "custom-makeup-hair-master-guide"
 tags: ["Dress to Impress", "DTI guide", "custom makeup", "hair styles", "beauty tips", "makeup combos", "DTI scoring", "fashion game guide"]
