@@ -11,7 +11,6 @@ slug: "custom-makeup-hair-master-guide"
 tags: ["Dress to Impress", "DTI guide", "custom makeup", "hair styles", "beauty tips", "makeup combos", "DTI scoring", "fashion game guide"]
 games: ["Dress to Impress"]
 categories: ["Guides"]
-weight: 5
 related:
   - /posts/dress-to-impress/theme-cheat-sheet/
   - /posts/dress-to-impress/vip-servers-guide/
