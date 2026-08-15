@@ -1,10 +1,10 @@
 ---
-title: "Pet Simulator 99 Rebirth Guide: All Rebirths, Rewards & Prestige Strategy (2026)"
-description: "Everything you need to know about Pet Simulator 99 Rebirth Guide. Pet Simulator 99 rebirth system. All 9 rebirth statue locations, permanent rewar..."
+title: "Pet Simulator 99 Rebirth Guide: Every Rebirth, Super Rebirth & When to Reset (2026)"
+description: "You hit Rebirth 6 and a Garden Missions board appears. Here's every PS99 rebirth, how to unlock Super Rebirth after Rebirth 6, and when resetting pays."
 date: 2026-05-14
-lastmod: 2026-05-16
+lastmod: 2026-08-15
 draft: false
-tags: ["Pet Simulator 99", "Roblox", "Rebirth Guide", "Prestige System", "Progression", "ps99 rebirth", "ps99 world unlocks", "ps99 kawaii world"]
+tags: ["Pet Simulator 99", "Roblox", "Rebirth", "Super Rebirth", "Progression", "ps99 rebirth", "ps99 prestige"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]
 cover:
@@ -13,169 +13,133 @@ cover:
   caption: "Pet Simulator 99 Rebirth & Prestige Guide"
 faq:
   - question: "What does rebirth do in Pet Simulator 99?"
-    answer: "Rebirth resets your coins and area progress back to spawn, but you keep all pets, inventory items, diamonds, and enchants. In exchange, you get permanent pet strength bonuses, unlock new features (Clans, Auto Hatch, trading), and gain access to new worlds beyond the current area cap. Each rebirth makes future runs faster because your pets hit harder."
-  - question: "How many times can you rebirth in Pet Simulator 99?"
-    answer: "There are 9 rebirths total in Pet Simulator 99, each at a specific rebirth statue located at: Area 25 (Tiki), Area 50 (Fire Dojo), Area 75 (Haunted Forest), Area 99 (Rainbow Road), Area 125 (Frosted City), Area 150 (Alien Mothership), Area 175 (Dominus Lair), Area 199 (Tech World), and Area 219/220 (Millionaire World). Each statue can only be used once per account."
-  - question: "Should I rebirth as soon as possible or wait?"
-    answer: "Rebirth as soon as you reach each statue's area. The permanent pet strength bonus (+75% per rebirth, stacking) dramatically speeds up future progression, and features like Auto Hatch and Clans (unlocked at Rebirth 2) are too valuable to delay. There is no benefit to waiting beyond saving enough coins to reach the statue."
+    answer: "Rebirth resets your coins to zero and sends your area progress back to Area 1, but you keep every pet, gem, inventory item, enchantment, and mastery level. In exchange you get a permanent bonus for that rebirth — plus damage, an extra pet or egg slot, or access to a new world. The catch is that the reset itself costs you time: you have to earn back every area you just cleared."
+  - question: "How many rebirths are there, and where are the statues?"
+    answer: "There are 8 rebirths in the current game, each at a statue in a specific area: R1 at Area 25 (+10% Damage), R2 at Area 50 (+1 Pet Slot), R3 at Area 75 (+1 Egg Slot), R4 at Area 100 (+5% Luck), R5 at Area 125 (Fantasy World access), R6 at Area 150 (+1 Pet Slot), R7 at Area 180 (+5% Shiny Chance), and R8 at Area 219 (Void World access). Each statue can be used once per account."
+  - question: "What is Super Rebirth and how do I unlock it?"
+    answer: "Super Rebirth is the new progression layer added in Update 87 (Plant & Combine, August 1 2026). It unlocks after you reach Rebirth 6 and finish all three Garden Missions: defeat coins, harvest crops, and rack up rebirths. The mission board pays out XP Tokens along the way, and once all three are done, Super Rebirth opens a tougher biome with bigger rewards than the normal rebirth zones."
+  - question: "Should I rebirth the moment a statue unlocks?"
+    answer: "No. Treat the statue as permission, not an order. You should only reset when you have enough coins saved to buy the best Area 1 egg immediately and reach Area 10 in about 5 minutes. Rushing R1 at Area 25 with a few thousand coins strands you in Area 1 for 45 minutes earning less than you would have if you'd just kept pushing forward."
+  - question: "Is Super Rebirth worth rushing as soon as it appears?"
+    answer: "Usually not on day one. Super Rebirth dumps you into a harder biome, so entering it broke means crawling through tougher breakables with an empty bank. Build your coin reserve and pet team at Rebirth 6 first, knock out the Garden Missions passively while you farm, then step into Super Rebirth with enough coins to actually buy the new zone's eggs."
+related:
+  - /posts/pet-simulator-99/rebirth-math-guide/
+  - /posts/pet-simulator-99/world-progression-unlock-guide/
+  - /posts/pet-simulator-99/pinata-maze-maximization-guide/
+  - /posts/pet-simulator-99/plant-combine-update-guide/
 ---
 
-## What Is Rebirth in Pet Simulator 99?
+You hit Rebirth 6 at Area 150, and for the first time in hours you actually stop and read the screen. There's a new board pinned to the side — "Garden Missions." Three lines on it: defeat coins, harvest crops, earn rebirths. You've never seen a garden in Pet Simulator 99. You tap it, and underneath the three tasks is a single line of text: "Super Rebirth."
 
-Rebirth is the core prestige mechanic in Pet Simulator 99. When you rebirth, you voluntarily reset your coin balance and area progression back to Spawn, but you keep all pets, inventory items, diamonds, enchants, and masteries. In return, you receive permanent bonuses that make every future run progressively faster and more rewarding.
+Now you're staring at the exact decision that separates a fast account from a stalled one. Rebirth already resets your coins and drops you back to Area 1 every single time. Do you burn another reset chasing this Super Rebirth thing, or do you keep farming where you're already strong? Get it right and you're in a new biome pulling bigger rewards by tonight. Get it wrong and you're broke in Area 1 again, watching your pets chip at wooden crates you outgrew three weeks ago.
 
-Think of rebirth as a "reset to get stronger" loop. Each time you go through it, your pets hit harder, you unlock new features, and you gain access to worlds that were previously unreachable.
+This guide walks the whole rebirth system — all eight rebirths, what each one actually gives you, how Super Rebirth slots into the picture, and the reset-now-versus-keep-farming rule that keeps you from wasting days. If you want the exact coin math behind each threshold, the [PS99 Rebirth Math Guide](/posts/pet-simulator-99/rebirth-math-guide/) has the full tables; this one is the map.
 
-### What You Keep vs What You Lose
+## What Rebirth Actually Costs You
+
+You're standing at the giant golden cat statue in Area 25. The button says "Rebirth." A tooltip promises "permanent bonuses." It does not mention the cost, so here it is up front: rebirth wipes your coin balance to zero and throws your area progress back to Area 1.
+
+What you keep, and what gets reset, is the part most players never learn until they're already stuck:
 
 | Kept After Rebirth | Reset After Rebirth |
 |--------------------|---------------------|
 | All pets (equipped and stored) | Coins (set to 0) |
-| Diamonds | Area unlocks (back to Spawn) |
-| Inventory items (potions, boosts, keys) | Rebirth quest progress |
-| Enchantments and enchant slots | -- |
-| Mastery levels and capes | -- |
-| Rank and stars | -- |
-| Exclusive shop purchases | -- |
+| Gems and diamonds | Area unlocks (back to Area 1) |
+| Inventory items, potions, and keys | Rebirth quest progress |
+| Enchantments and mastery levels | Your current farming momentum |
 
----
+Pets and gems persist. Your address resets. That last row — momentum — is the one the game never tells you about, and it's the reason a rebirth that looks like free power can cost you an hour of crawling through early areas with an empty wallet.
 
-## All 9 Rebirth Statues — Locations & Rewards
+The reward for that reset is a permanent bonus tied to a specific rebirth. Some of those bonuses are worth the pain almost immediately. Some are nearly useless on their own. The order matters a lot.
 
-Each rebirth requires reaching a specific area and interacting with the giant golden cat statue there. The area number tells you how far you need to push from Spawn.
+## Every Rebirth From R1 to R8
 
-### Rebirth 1 — Area 25 (Tiki)
+Each rebirth is a statue in a specific area, and each one hands out a different permanent bonus. Here's the full ladder, in the order you'll hit it:
 
-**Cost to reach**: ~750K coins in area unlocks
+**Rebirth 1 — Area 25 — +10% Damage.** The weakest bonus in the entire chain, and somehow the most-frequently wasted. A flat 10% damage bump does almost nothing in Areas 1 through 10, because your pets already one-shot those breakables. Its real value shows up at Areas 20 and beyond, when the extra damage starts to matter again. Rushing this one broke is the classic new-player trap.
 
-**Rewards**:
-- **Teleport Cannon**: Teleport to any previously unlocked area instantly
-- **+75% permanent pet strength**: All pets deal 75% more damage, permanently
-- **Castle Key**: Unlocks the Castle in Area 3, which houses the Trading Plaza, Spinny Wheel, and vending machines
-- **~10,000 Diamonds** (amount varies slightly)
+**Rebirth 2 — Area 50 — +1 Pet Slot.** Now we're talking. An extra pet slot is roughly 20% more damage from your whole team, and it's permanent. This is the first rebirth that genuinely changes your clear speed, and the first one most veterans call "mandatory."
 
-This is the most impactful single rebirth because it unlocks the Trading Plaza and gives you the Teleport Cannon, which eliminates walk-back time on all future runs.
+**Rebirth 3 — Area 75 — +1 Egg Slot.** An extra egg slot means you hatch one more egg per cycle without slowing down. It's a throughput bonus rather than a power bonus — useful, but it won't make your current pets hit any harder.
 
-### Rebirth 2 — Area 50 (Fire Dojo)
+**Rebirth 4 — Area 100 — +5% Luck.** A small luck bump on your egg rolls. Real but tiny. Most players barely notice it, and you shouldn't reset early just to grab it.
 
-**Cost to reach**: ~2.5M coins total from Spawn
+**Rebirth 5 — Area 125 — Fantasy World access.** This is the first rebirth that unlocks a whole new world instead of a stat. Fantasy World opens a fresh set of areas, eggs, and pets past the normal world cap. It's worth it, but only if you walk in with a bankroll — more on that below.
 
-**Rewards**:
-- **Clans unlocked**: Join or create a clan for clan battles, bonuses, and social features
-- **Auto Hatch unlocked**: Automatically hatch eggs without clicking — essential for AFK and efficiency
-- **+75% permanent pet strength** (stacks with Rebirth 1 for +150% total)
-- **~25,000 Diamonds**
+**Rebirth 6 — Area 150 — +1 Pet Slot.** The second pet slot, and the biggest single power spike after R2. This is also the gate for two things that arrived in Update 87: the limited Gargantuan Rose Wolf and, more importantly, Super Rebirth itself. If you were going to linger anywhere, this is the place.
 
-Auto Hatch alone makes this rebirth mandatory. Combined with Clans, Rebirth 2 transforms how you play the game.
+**Rebirth 7 — Area 180 — +5% Shiny Chance.** A slightly higher chance to roll shiny pets. Like the luck bump at R4, it's marginal on its own. Skip it early; come back when you're pushing for collection goals.
 
-### Rebirth 3 — Area 75 (Haunted Forest)
+**Rebirth 8 — Area 219 — Void World access.** The current end of the normal rebirth line. Void World is the gateway to the late-game zones, and it's the rebirth that finally opens the top end of the progression curve.
 
-**Rewards**: +75% pet strength (total +225%), ~50K diamonds, access to Haunted Forest breakables and exclusive pets in that zone.
+Here's the whole ladder as a quick reference:
 
-### Rebirth 4 — Area 99 (Rainbow Road)
+| Rebirth | Area | Bonus |
+|---------|------|-------|
+| R1 | 25 | +10% Damage |
+| R2 | 50 | +1 Pet Slot |
+| R3 | 75 | +1 Egg Slot |
+| R4 | 100 | +5% Luck |
+| R5 | 125 | Fantasy World access |
+| R6 | 150 | +1 Pet Slot |
+| R7 | 180 | +5% Shiny Chance |
+| R8 | 219 | Void World access |
 
-**Rewards**: +75% pet strength (total +300%), ~75K diamonds. Rainbow Road breakables have higher coin and diamond drop rates than previous zones.
+If you want the full area-by-area unlock order for each of these zones, the [PS99 World Progression Guide](/posts/pet-simulator-99/world-progression-unlock-guide/) breaks down every power threshold and coin requirement.
 
-### Rebirth 5 — Area 125 (Frosted City)
+## Super Rebirth: The Layer Past Rebirth 6
 
-**Rewards**: +75% pet strength (total +375%), ~100K diamonds. Frosted City introduces ice-themed breakables with unique drop tables.
+This is the piece that changed in Update 87 ("Plant & Combine," August 1 2026). Before this update, Rebirth 6 was just a pet slot and a checkpoint on the way to R8. Now it's a fork in the road.
 
-### Rebirth 6 — Area 150 (Alien Mothership)
+Super Rebirth is a new progression layer that sits past Rebirth 6. You don't reset into the normal Area 1 loop — you reset into a tougher biome with bigger rewards than anything in the standard zones. Think of it as the game's answer to players who hit Rebirth 6 and asked "what's actually next that isn't just another +stat."
 
-**Rewards**: +75% pet strength (total +450%), ~150K diamonds. Alien Mothership breakables drop rare enchant books at higher rates.
+Here's how the unlock works:
 
-### Rebirth 7 — Area 175 (Dominus Lair)
+1. **Reach Rebirth 6.** That's the hard gate. Super Rebirth doesn't exist for accounts still crawling toward Area 150.
+2. **Finish all three Garden Missions.** The new Garden Missions board tasks you with three things: defeat coins, harvest crops, and rack up rebirths. Each one pays out XP Tokens as you go.
+3. **Super Rebirth opens.** Once all three missions are complete, you can step into the harder biome and start pulling the bigger rewards.
 
-**Rewards**: +75% pet strength (total +525%), ~200K diamonds. Dominus Lair is the final normal-world rebirth before the endgame begins.
+The important thing to understand about Super Rebirth is how it relates to normal rebirth. It's not a replacement for Rebirth 7 and 8 — it's a parallel track that branches off at Rebirth 6. You can keep climbing the normal ladder toward Void World, or you can side-step into Super Rebirth for a different, harder reward curve. The two paths coexist, and plenty of players do both over time.
 
-### Rebirth 8 — Area 199 (Tech World)
+The other Update 87 changes feed into this same loop. The [Plant & Combine Update Guide](/posts/pet-simulator-99/plant-combine-update-guide/) covers the Combine-o-Matic — where you feed pets in to merge them up the chain toward a Huge or Titanic — plus the new Garden eggs that can hatch as Gold, Shiny, and Rainbow variants dealing up to 5x damage. Those variants are exactly what you want before you step into a biome with tougher breakables, which is why the "build your team first" advice matters so much here.
 
-**Rewards**: +75% pet strength (total +600%), ~300K diamonds, unlocks **Void World** access.
+## Reset Now or Keep Farming: The Decision Framework
 
-This is the gateway to the endgame. Void World contains the portals to Kawaii World and Elemental World, making Rebirth 8 essential for accessing late-game content.
+Most rebirth questions come down to one choice: do I hit the statue now, or do I keep earning? Here's the framework I use, and it replaces "whenever I feel like it" with four checks.
 
-### Rebirth 9 — Area 219/220 (Millionaire World)
+**Check 1 — The bankroll.** Can you buy the best Area 1 egg the moment you reset, equip it, and reach Area 10 in about five minutes? For R1 that means roughly 50,000–100,000 coins saved before you press the button. For R6 it's more like 2 million or more. If you can't clear this check, farm longer. A reset with a thin wallet is a reset that costs you an hour.
 
-**Rewards**: +75% pet strength (total +675%), ~500K diamonds, unlocks **Kawaii World** and **Elemental World** access through Void World cannons.
+**Check 2 — The recovery budget.** Do you have 30–90 uninterrupted minutes to ride back to your previous area right now? Rebirth recovery needs momentum: buy egg, equip pets, push areas, repeat, no pauses. If you're about to log off for the night, this is the worst possible time to reset. Farm, log off, and reset fresh tomorrow.
 
-Rebirth 9 is the current maximum. Once completed, you have full access to every world in the game.
+**Check 3 — The next-unlock distance.** How many areas until the next rebirth statue? If you're within 10 or so, push to the next unlock and reset once with a fat bankroll instead of resetting now and again in 10 areas. One big rebirth beats two small ones. Every time.
 
----
+**Check 4 — The Super Rebirth gate.** If you're at Rebirth 6 and eyeing Super Rebirth, ask a different question: have I actually completed the three Garden Missions, and do I have the coins to buy eggs in the new biome? If the missions aren't done, resetting now just means you'll do them broke. Knock out the missions passively while you farm at R6, then step into Super Rebirth with a full wallet.
 
-## Rebirth Statue Summary Table
+A quick way to sanity-check the whole thing: if the answer to "would I be better off in 90 minutes if I just kept breaking crates here?" is yes, don't reset. The statue will still be there. Your coins won't be.
 
-| Rebirth | Area | World Name | Key Unlock | Diamonds |
-|---------|------|------------|------------|----------|
-| 1 | 25 | Tiki | Trading Plaza, Teleport Cannon | ~10K |
-| 2 | 50 | Fire Dojo | Clans, Auto Hatch | ~25K |
-| 3 | 75 | Haunted Forest | Area 76-99 access | ~50K |
-| 4 | 99 | Rainbow Road | Area 100-125 access | ~75K |
-| 5 | 125 | Frosted City | Area 126-150 access | ~100K |
-| 6 | 150 | Alien Mothership | Area 151-175 access | ~150K |
-| 7 | 175 | Dominus Lair | Area 176-199 access | ~200K |
-| 8 | 199 | Tech World | Void World access | ~300K |
-| 9 | 219 | Millionaire World | Kawaii & Elemental Worlds | ~500K |
+## Where Players Blow It — And How to Dig Out
 
-Total diamond rewards across all 9 rebirths: **~1.41 million diamonds**.
+Two mistakes account for almost every rebirth horror story I've seen, and they're both fixable.
 
----
+**The rushed R1.** A player hits Area 25, sees the rebirth button light up, and resets with 15,000 coins in the bank. They spawn in Area 1, buy the cheapest egg, and then sit there for 45 minutes earning 65 coins a minute, watching their "stronger" pets one-shot crates they already outgrew. *Why it happened:* they read "permanent bonus" as "free upgrade" and didn't realize the +10% damage is useless when your pets already one-shot early areas. The bottleneck in Areas 1–10 isn't damage — it's breakable respawn speed. *How to recover:* stop hatching in low zones, rush back toward Area 10 using your existing pets (they're still better than anything the first few eggs offer), and don't reset again until you can pass Check 1. The damage is done, but the account isn't — you just need to rebuild the bankroll you should've had the first time.
 
-## Fastest Rebirth Strategy
+**The day-one Super Rebirth sprint.** Update 87 dropped, a player who just barely hit Rebirth 6 immediately grinds all three Garden Missions, resets into Super Rebirth, and lands in a tougher biome with 4,000 coins and a pet team built for Area 150. Everything takes two or three hits instead of one, the first eggs cost more than they have, and they spend a session going backward. *Why it happened:* they treated Super Rebirth like an upgrade instead of a relocation. A harder biome with bigger rewards is only "bigger rewards" if you can actually break things in it. *How to recover:* you can leave the Super Rebirth biome and drop back into your normal Rebirth 6 farming spot to rebuild. Bank coins, hatch the new Garden eggs for better variants, and only step back in when your team clears the biome's first area in a couple of seconds. Super Rebirth doesn't lock you out of the normal track — it just punishes you for walking in broke.
 
-### Early Game: Rebirth 1-3
+Both mistakes share a root cause: treating the reset itself as the reward. The reset is the cost. The bankroll and the pet team you carry into it are what decide whether you come out ahead.
 
-Your top priority is reaching Area 25 for Rebirth 1. Open the cheapest eggs you can afford at each area to get incrementally stronger pets. Don't spend diamonds on anything except egg openings — every diamond goes toward getting the strongest pet available in your current area.
+## Counterintuitive Rebirth Truths
 
-After Rebirth 1, use the Teleport Cannon to skip walking. Buy the strongest egg in each new area and immediately move forward. With +75% pet strength from Rebirth 1, early areas melt.
+**Your rebirth bonus does almost nothing for early recovery.** +10% damage on pets that already one-shot crates is +0% speed. +5% luck on eggs you can't afford is 0% value. The bonus only matters once you're back at your old area. Until then, your saved coins are doing 100% of the work. This is the single most useful thing to internalize, because it runs against everything the tooltip implies.
 
-### Mid Game: Rebirth 4-7
+**Fewer, fatter rebirths beat more, thinner ones.** Two resets with small bankrolls means crawling through early areas twice. One reset with a huge bankroll gets you back to endgame faster. Frequency hurts you. Bulk helps you. A player at Rebirth 4 with 2 million coins saved will outpace a player who did six broke resets, even though the second player's rebirth counter is higher.
 
-By this point, you should have a solid team of pets and some enchant slots. Configure enchants for maximum damage output:
+**The "weakest" rebirth is the one most people waste.** R1's +10% damage is the smallest buff in the chain, and it's also the most commonly rushed, because it's the first one and new players don't yet respect how slow Area 1 feels. The rebirth that teaches you the lesson is the one you throw away.
 
-- **Strong Pets** + **Critical** as your core damage pair
-- **Speed** to move between areas faster
-- **Magnet** to auto-collect coins without detouring
-
-Open eggs at every 5th area (every new egg tier) rather than every single area. Use the coins saved to push further between egg upgrades.
-
-### Late Game: Rebirth 8-9
-
-For the final two rebirths, you need optimized setups:
-
-- Equip your strongest pets (Huge/Titanic if you have them)
-- Use **Exotic Pet** + **Strong Pets** + **Critical** enchants
-- Activate Oranges (coin boost) and Diamonds Potions before the final push
-- Skip non-essential areas — only break enough to afford the next area unlock
-
-A well-optimized player can complete Rebirth 8 from Spawn in under 30 minutes. Rebirth 9 takes about 45-60 minutes with a strong team.
-
----
-
-## World Unlock Progression
-
-After completing all 9 rebirths, here is the full world access path:
-
-`Spawn → Tiki → Fire Dojo → Haunted Forest → Rainbow Road → Frosted City → Alien Mothership → Dominus Lair → Tech World → Void World → Kawaii World / Elemental World`
-
-Kawaii World and Elemental World are the current endgame zones with the highest-tier eggs, breakables, and exclusive pets.
-
----
-
-## Common Rebirth Mistakes
-
-**Rebirthing without spending your coins first.** Before you hit the rebirth button, spend every coin on eggs, upgrades, or items. Coins are wiped to zero regardless, so use them or lose them.
-
-**Skipping the Teleport Cannon.** After Rebirth 1, the Teleport Cannon appears in your inventory. Use it. Walking manually after each rebirth wastes enormous amounts of time.
-
-**Waiting too long to rebirth.** There's no reason to delay. The pet strength bonus from rebirthing is permanent and makes everything faster. If you can reach the statue, rebirth immediately.
-
-**Ignoring Auto Hatch.** After Rebirth 2, enable Auto Hatch in settings and let it run while farming. It passively generates pets and mastery XP with zero extra effort.
-
----
+**Skipping a rebirth can be the optimal play.** If you're at Area 140 and the R5 statue is at 125, you might feel pressure to reset. Don't. Push to Area 150, then reset straight to R6 with a bigger bankroll. The game rewards patience, not button-mashing.
 
 ## Related Guides
 
-- [Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/) — Getting started from zero
-- [Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets to use at each stage
-- [Pet Simulator 99 Enchantments & Upgrades Guide](/posts/pet-simulator-99/enchantments-upgrades-guide/) — Optimal enchant setups for rebirth runs
-- [Pet Simulator 99 Gems & Coins Guide](/posts/pet-simulator-99/gems-coins-guide/) — Funding your rebirth pushes
+- [PS99 Rebirth Math Guide](/posts/pet-simulator-99/rebirth-math-guide/) — exact coin thresholds and recovery times for each rebirth
+- [PS99 World Progression & Area Unlock Order](/posts/pet-simulator-99/world-progression-unlock-guide/) — the full path from Spawn to Void World
+- [PS99 Plant & Combine Update Guide](/posts/pet-simulator-99/plant-combine-update-guide/) — everything in Update 87, including the Garden Missions and Combine-o-Matic
+- [PS99 Piñata Maze Maximization Guide](/posts/pet-simulator-99/pinata-maze-maximization-guide/) — if you'd rather farm a limited event than grind rebirths
