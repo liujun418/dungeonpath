@@ -1,8 +1,8 @@
 ---
 title: "DOORS Complete Crucifix Strategy Guide — When to Use, Which Entities It Works On & the Save-or-Spend Decision (2026)"
-description: "Stop wasting crucifixes on Rush and dying to Figure. Here's the exact entity list, placement timing, save-or-spend framework, and the 3 mistakes that burn 90% of crucifix buys."
+description: "Which entities the DOORS crucifix banishes, exact placement timing, a save-or-spend decision framework, and the 3 mistakes that waste 90% of crucifix buys. Stop dying with it unused."
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-08-22
 draft: false
 tags: ["DOORS", "Roblox", "Crucifix", "Strategy", "Guide"]
 categories: ["Roblox Guides"]
@@ -22,6 +22,12 @@ faq:
     answer: "Place it 2-3 seconds before the entity enters your line of sight. The crucifix has a 1.5-second wind-up animation before the golden light activates. If you place it when you can already see Rush's eyes, it's too late. If you place it 10 seconds early, it times out before the entity arrives."
   - question: "Is using a crucifix on Rush ever worth it?"
     answer: "Yes, but only in specific situations: open-cavern rooms in The Mines with no closets, during modifier runs with reduced hiding spots, or when you're below 20 HP and one mistake ends the run. In standard Hotel rooms with closets nearby, a crucifix on Rush is almost always a waste."
+related:
+  - /posts/doors/figure-survival-protocol/
+  - /posts/doors/seek-chase-complete-guide/
+  - /posts/doors/ambush-protocol/
+  - /posts/doors/beginner-mistakes-guide/
+  - /posts/doors/entity-defense-counter-guide/
 ---
 
 ## Door 78. You Had It. You Just Didn't Use It.
@@ -43,6 +49,10 @@ This is the crucifix in a nutshell. It's the most misunderstood item in DOORS be
 The crucifix is a single-use consumable that banishes certain entities. When placed on the floor, it projects a golden light field after a 1.5-second wind-up. Any banishable entity entering that field is immediately removed from the run. The entity doesn't drop loot. It doesn't give points. It simply ceases to exist.
 
 **The catch:** the crucifix has no lock-on. You have to predict where the entity will be, place it in advance, and hope the entity paths through the light. Miss the timing, miss the placement, or pick a non-banishable entity, and you've burned 500 gold for nothing.
+
+The light field itself lasts roughly 5 seconds once activated. The effective window — the time between the wind-up finishing and the field fading — is about 3.5 seconds. That's your target. The entity must enter the field during those 3.5 seconds or the crucifix is wasted. This is why placement at your feet, with the entity approaching from ahead, is more reliable than throwing it forward like a grenade. You want the entity to walk into the light, not hope the light reaches the entity.
+
+The crucifix also does not stack. Placing a second crucifix while the first is active does nothing — the first one's light takes priority. Two crucifixes in the same frame of a run is a misplay, not a strategy.
 
 ---
 
@@ -72,6 +82,20 @@ The pattern is simple: if the entity is a chase or ambush threat, the crucifix p
 
 ---
 
+## You Burned Your Only Crucifix on Door 4
+
+You're on door 4. You bought a crucifix at Jeff's Shop on door 3 because you had 500 gold and it felt responsible. Rush screams. You're near a closet — maybe 3 seconds of sprinting away — but your hand is already on the crucifix key. You place it. Rush vanishes. You feel like a genius for exactly six doors.
+
+Then door 10. Rush again. No crucifix. You sprint to the closet and survive. Door 15. Ambush. You have no crucifix. You die with 250 gold in your pocket that would have bought a replacement at the next Jeff's Shop.
+
+**The error:** using the crucifix when a closet was 3 seconds away. Rush gives you 3.5 seconds from screech to contact. A closet at 3 seconds of sprinting distance is a guaranteed survival. You traded a 500-gold item for something you'd get for free.
+
+**The recovery:** not "buy another crucifix." It's "learn to trust closets for Rush and save the crucifix for situations where closets aren't an option." The next time Rush screams and you have a closet visible, your job is to sprint to it, not to open your inventory. The crucifix is your backup plan. The closet is your primary. If you treat the crucifix as the primary, you'll burn it on threats you could have survived for free — and then die to the threats that actually need it.
+
+This is the single most common crucifix mistake in DOORS: early-game waste on a survivable Rush. Beginners do it because they don't trust closets yet. Intermediate players do it because they panic. Veterans do it because they got comfortable. The fix is the same for all three: count to two before you commit to the crucifix. If a closet is visible, you don't need it.
+
+---
+
 ## Placement Timing and Positioning
 
 The crucifix isn't a panic button. It's a trap. And like any trap, placement matters more than trigger speed.
@@ -86,34 +110,27 @@ The crucifix isn't a panic button. It's a trap. And like any trap, placement mat
 
 **The inventory swap delay:** Switching to the crucifix slot takes 0.4 seconds. Placing it takes another 0.3 seconds. The wind-up takes 1.5 seconds. That's 2.2 seconds total. If you're sprinting away from Rush and you haven't pre-selected the crucifix, you're already dead. Pre-select it before you enter dangerous door ranges.
 
+**The "place at your feet" technique:** Most players throw the crucifix toward the entity, like a grenade. That's wrong. The light field is circular and has a slight delay. Placing it at your feet and sprinting past it puts the entity's path directly through the center of the field. Forward placement often lands off-center and misses. Test this in a private server: place the crucifix at your feet, sprint forward three studs, and watch the entity path straight through the center of the light. Now try throwing it forward. The spread makes it inconsistent.
+
 ---
 
-## The Save-or-Spend Decision Framework
+## The Save-or-Spend Decision Table
 
-Here's the priority checklist I run through every time I hear an entity audio cue.
+Here's the framework in table form. When you hear an entity cue, find your row and execute the action. No hesitation.
 
-**Level 1 — Automatic spend (no hesitation):**
+| If you're facing... | And your situation is... | Then you... |
+|---|---|---|
+| Rush | Closet within 3 seconds of sprinting | Sprint to closet. Save crucifix. |
+| Rush | No closet, open room, or The Mines cavern | Use crucifix immediately. No alternative exists. |
+| Rush | Below 20 HP, one hit from death | Use crucifix. Don't gamble the run on a closet sprint. |
+| Ambush | Room with zero hiding spots | Use crucifix immediately. Do not wait for the first bounce. |
+| Ambush | One closet far away (4+ seconds) | Use crucifix. Ambush's bounces make one closet unreliable. |
+| Ambush | Room with 2+ closets nearby | Sprint to nearest closet. Save crucifix. |
+| Figure (Room 100) | Above 60 HP, know the electrical room layout | Try to outrun. Save crucifix. Figure is learnable. |
+| Figure (Room 100) | Below 40 HP or disoriented | Use crucifix. Don't gamble the run on perfect pathing. |
+| Screech / Eyes / Dupe | Any situation | Never use crucifix. Walk away or look at Screech. |
 
-- Ambush in a room with zero closets or side rooms.
-- Figure chase at Room 100 and you're below 40 HP.
-- Any modifier run that removes 50% or more of hiding spots.
-- You're on your last life in a multiplayer run where respawn isn't available.
-
-**Level 2 — Probably spend (think for one second):**
-
-- Rush in an open cavern in The Mines.
-- Ambush in a room with one closet that's farther than 4 seconds of sprinting.
-- You've already used your Sprint Potion and Rush spawns in a long room.
-- Figure chase and you're disoriented from the electrical room layout.
-
-**Level 3 — Do not spend (find another way):**
-
-- Rush in a standard Hotel room with a closet within 3 seconds.
-- Screech, Eyes, or Dupe.
-- You have full HP, a Sprint Potion, and a clear path to a hiding spot.
-- You're hoarding the crucifix "just in case" something worse comes later. That's not a reason. That's anxiety.
-
-**The one-question test:** If I don't use this now, what's my alternate survival path? If the answer is "sprint to the closet in 2 seconds," don't use the crucifix. If the answer is "I have no idea," use it immediately.
+The one-question test: If I don't use this now, what's my alternate survival path? If the answer is "sprint to the closet in 2 seconds," don't use the crucifix. If the answer is "I have no idea," use it immediately.
 
 ---
 
@@ -131,13 +148,13 @@ Rush screams. The player has a crucifix. Their brain short-circuits and they thr
 
 Players buy a crucifix and mentally label it "for Figure only." They refuse to use it on anything else, even when Ambush is about to kill them. Then they die to Ambush with the crucifix unused. Or they reach Figure, use it successfully, and realize they could have bought another one at Jeff's Shop if they'd just survived to get there.
 
-**The fix:** Treat each crucifix as a run-saver, not a Figure-key. Figure is banishable, but Figure is also learnable. Most players who reach Room 100 can beat Figure with practice. Ambush is random. Random threats deserve your consumables more than learnable ones.
+**The fix:** Treat each crucifix as a run-saver, not a Figure-key. Figure is banishable, but Figure is also learnable. Most players who reach Room 100 can beat Figure with practice. Ambush is random. Random threats deserve your consumables more than learnable ones. If you're struggling with Figure specifically, our [Figure survival protocol](/posts/doors/figure-survival-protocol/) covers the electrical room chase in detail.
 
 **Pattern 3: The Late Swap**
 
 The player is holding their flashlight. Rush screams. They fumble through three inventory slots to find the crucifix. By the time they place it, Rush is already past the light field. They die confused, convinced the hitbox is broken.
 
-**The fix:** Pre-select the crucifix before entering high-risk door ranges (every 10 doors past 50). Keep it in slot 2 or 3 so you don't have to scroll past vitamins and lockpicks to find it. Muscle memory beats reaction time every time.
+**The fix:** Pre-select the crucifix before entering high-risk door ranges (every 10 doors past 50). Keep it in slot 2 or 3 so you don't have to scroll past vitamins and lockpicks to find it. Muscle memory beats reaction time every time. If you're managing [inventory strategically](/posts/doors/items-and-inventory-guide/), the crucifix should always sit in a fixed slot for the entire run — never moved, never reorganized.
 
 ---
 
@@ -149,42 +166,20 @@ Here are five things about the crucifix that sound wrong until you test them.
 
 **Figure is easier to crucifix than Rush.** Figure's chase speed is slower than Rush's ambush speed. The placement window is wider. The entity is larger and easier to hit. If you're nervous about crucifix timing, Figure is actually your training wheels. Don't save it for the "hard" encounter when the hard encounter is easier to item-counter.
 
-**Buying zero crucifixes teaches better habits than buying one.** Players with one crucifix play sloppy. They rely on it as a safety net. They don't learn closet locations, audio cues, or sprint timings. Players with zero crucifixes learn to survive without help. Ironically, the players who buy zero crucifixes often survive longer than the players who buy one.
+**Buying zero crucifixes teaches better habits than buying one.** Players with one crucifix play sloppy. They rely on it as a safety net. They don't learn closet locations, audio cues, or sprint timings. Players with zero crucifixes learn to survive without help. Ironically, the players who buy zero crucifixes often survive longer than the players who buy one. If you're still learning the Hotel layout, our [room recognition guide](/posts/doors/room-recognition-guide/) is a better investment than a crucifix at Jeff's Shop.
 
 **The best crucifix placement is behind you, not in front of you.** Most players throw the crucifix toward the entity, like a grenade. That's wrong. The light field is circular and has a slight delay. Placing it at your feet and sprinting past it puts the entity's path directly through the center of the field. Forward placement often lands off-center and misses.
 
-**Ambush is more crucifix-worthy than Figure.** Figure is a set-piece boss. You can learn it. You can practice it. Ambush is RNG layered on top of RNG — spawn door, bounce count, room layout. You can't practice Ambush because every encounter is different. Your consumables should go to unpredictable threats, not learnable ones.
+**Ambush is more crucifix-worthy than Figure.** Figure is a set-piece boss. You can learn it. You can practice it. Ambush is RNG layered on top of RNG — spawn door, bounce count, room layout. You can't practice Ambush because every encounter is different. Your consumables should go to unpredictable threats, not learnable ones. For a full breakdown of Ambush behavior, see our [Ambush protocol guide](/posts/doors/ambush-protocol/).
 
 ---
 
-## FAQ
+## What's Unconfirmed
 
-**Does the crucifix work on Seek?**
+A few things the community debates that I can't confirm with certainty:
 
-No. Seek chases are scripted sequences. The crucifix cannot interrupt them. During a Seek chase, your only options are running, vitamins, and clean pathing. Save your crucifix for entities that can actually be banished.
+- **Crucifix interaction with Haste in The Backdoor.** Some players report the crucifix working on Haste during its chase phase. Others say it doesn't. I've tested it three times and gotten inconsistent results — twice it worked, once it didn't. The Backdoor's entity behavior changed significantly after [The Backdoor update](/posts/doors/the-backdoor-complete-guide/), and the crucifix interaction may depend on which phase of Haste's cycle you attempt it in. Treat this as "maybe works, don't rely on it."
 
-**Can you use a crucifix on Figure during the Library encounter?**
+- **Whether the crucifix light field has a vertical hitbox for flying entities.** The community assumes the light field is a cylinder that extends upward, but I've seen no datamined confirmation. Screech flies above the player and can be banished, but Screech also descends to attack, so it may enter the field on the way down rather than being caught by a vertical hitbox. This distinction matters for zero entities in practice — Screech should never be the reason you use a crucifix — but it's worth noting the mechanical ambiguity.
 
-No. The Room 50 Library encounter is a stealth sequence, not a chase. The crucifix only works on Figure during the Room 100 electrical room chase sequence. If you're struggling with the Library, learn the 11-second patrol cycle instead of relying on items.
-
-**How many crucifixes should I buy per run?**
-
-Buy two for a standard Hotel run — one for Ambush insurance, one for Figure or emergency Rush. Buy three if you're running The Mines or playing with modifiers that reduce hiding spots. Buy zero if you're speedrunning and relying on routing instead of items.
-
-**What's the exact placement timing for a crucifix?**
-
-Place it 2-3 seconds before the entity enters your line of sight. The crucifix has a 1.5-second wind-up animation before the golden light activates. If you place it when you can already see Rush's eyes, it's too late. If you place it 10 seconds early, it times out before the entity arrives.
-
-**Is using a crucifix on Rush ever worth it?**
-
-Yes, but only in specific situations: open-cavern rooms in The Mines with no closets, during modifier runs with reduced hiding spots, or when you're below 20 HP and one mistake ends the run. In standard Hotel rooms with closets nearby, a crucifix on Rush is almost always a waste.
-
----
-
-## Related Guides
-
-- [DOORS Figure Survival Protocol](/posts/doors/figure-survival-protocol/)
-- [DOORS Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/)
-- [DOORS Ambush Protocol](/posts/doors/ambush-protocol/)
-- [DOORS Beginner Mistakes — 10 Common Deaths & Fixes](/posts/doors/beginner-mistakes-guide/)
-- [DOORS The Mines Survival Protocol](/posts/doors/the-mines-survival-protocol/)
+- **Multiple crucifixes in the same room stacking or overwriting.** The dominant theory is that the second crucifix's light field simply doesn't activate while the first is active. I've tested this once and the second crucifix did nothing. But one test isn't proof. If you're in a group and two players both panic-crucifix the same entity, expect one to be wasted.
