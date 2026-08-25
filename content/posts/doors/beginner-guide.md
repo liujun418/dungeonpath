@@ -1,8 +1,8 @@
 ---
 title: "How to Play DOORS — From First Death to First Hotel Clear (2026)"
-description: "New to DOORS and dying before Room 10? Here's your first clear route — what to buy, how to recognize Rush vs Ambush by sound, and the 3-minute practice drill that teaches you entity patterns faster than dying 50 times."
+description: "New to DOORS? Learn audio cues, closet timing, and item strategy that turn 50 deaths into a first Hotel clear. Room-by-room walkthrough plus the 3-Minute Drill."
 date: 2026-06-01
-lastmod: 2026-07-29
+lastmod: 2026-08-25
 draft: false
 tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
@@ -22,6 +22,15 @@ faq:
     answer: "Figure is blind — it tracks by sound, not sight. Never run or jump in the Library. Crouch-walk at all times. When Figure is on the far side, walk (still crouched) to cross open areas. Press E on bookshelves to throw books — Figure investigates the sound, giving you a window to move. The library layout is identical every run, so memorize the shelf positions. If Figure is on your side, stay still and wait."
   - question: "Rush vs Ambush — how is hiding different?"
     answer: "Rush makes one pass through the room. Hide in a closet, count to 3 after the screen shake, then exit. Ambush makes 2-5 passes. If you exit after the first pass thinking it is Rush, Ambush loops back and kills you outside the closet. Sound tells them apart: Rush has a single rising screech that peaks and fades. Ambush has a stuttering, multi-stage screech that sounds like it bounces off walls. When unsure, stay in the closet until you hear 15 seconds of silence."
+related:
+  - /posts/doors/room-recognition-guide/
+  - /posts/doors/room-50-library-walkthrough/
+  - /posts/doors/beginner-mistakes-guide/
+  - /posts/doors/ambush-vs-rush-audio-differences/
+  - /posts/doors/entities-bestiary/
+  - /posts/doors/seek-chase-complete-guide/
+  - /posts/doors/figure-survival-protocol/
+  - /posts/doors/items-and-inventory-guide/
 ---
 
 The lights flicker once. Then twice. You are in Room 7 of the Hotel, and the grandfather clock in the corner ticks louder than it did a moment ago. A high-pitched screech tears through the hallway — the kind of sound that drops your stomach before your brain can process what it means. You freeze. Your eyes dart around looking for a closet, but you wasted those first two seconds thinking instead of moving. The screech peaks. The screen flashes red. You are dead.
@@ -54,38 +63,43 @@ This drill works because DOORS deaths have no penalty — items don't carry over
 
 ## Failure Analysis: 5 Ways Beginners Die and the Fix for Each
 
-Every death in DOORS is a lesson. Here are the five most common beginner deaths, the mistake that causes them, and the fix that prevents them forever.
+Every death in DOORS is a lesson. Here are the five most common beginner deaths, the mistake that causes them, the fix that prevents them, and what to do if you survive the mistake.
 
 **1. Freezing on the Rush Audio Cue**
 *The scenario:* You enter a room, the lights flicker, and a rising screech begins. You stop moving to identify the sound. By the time you realize it is Rush, look for a closet, and reach it, the screech is at its peak. You die at the closet door.
 *The mistake:* Your brain treats "unknown screech" as "identify threat first" rather than "move to safety first."
 *The fix:* Train the flicker-closet reflex. The instant lights flicker and you hear any screech, move toward the nearest closet. Identify the closest hiding spot when you enter every room — before you need it. This habit saves the 1.5 seconds of panic-searching that causes 80% of early deaths.
+*Recovery:* If you survived by reaching the closet at the last moment but took damage, you are now at 50-75 HP. Your next priority is finding a Medkit. Play every subsequent room as if you have no health buffer — because you don't. One more mistake and the run is over.
 
 **2. Looting Before Checking for Threats**
 *The scenario:* You see a drawer with items near the middle of the room. You run to loot it. Rush spawns at the door behind you and travels the full room length in 2 seconds. You cancel the loot animation, but there is no closet nearby. You die holding a candle.
 *The mistake:* Item greed overrides threat assessment.
 *The fix:* When you enter a room, scan for the exit and the nearest closet first. Close the door behind you. Wait 3 seconds. If no flicker or screech, then loot. The items will still be there in 10 seconds. Rush will not wait.
+*Recovery:* The instant you hear any sound while looting, cancel the animation — jump or move away from the drawer — and head for the nearest closet. The items will still be in the drawer after the entity passes. You will not be there if you keep looting.
 
 **3. Running in the Library (Room 50)**
 *The scenario:* Figure appears at the far end of the library. Your instinct says run to the opposite side. Your footsteps echo. Figure locks onto your position and crosses the room in 4 seconds. You are cornered.
 *The mistake:* Running is the default response to every monster in every game. Figure specifically punishes this instinct.
 *The fix:* Crouch-walk at all times in the Library. Walk (still crouched) only when Figure is more than 3 shelf-lengths away. If Figure is on your side, stay still. Use bookshelves to create sound distractions — press E to throw a book, then move while Figure investigates the noise.
+*Recovery:* If Figure hears you and starts moving toward your position, stop moving immediately. Crouch, stay still, and throw a book in the opposite direction if you're near a bookshelf. Figure investigates the thrown book, not your last known position. Wait until Figure is fully on the far side before moving again.
 
 **4. Exiting the Closet Too Early During Ambush**
 *The scenario:* Ambush screeches, you hide in a closet. The screen shakes once. You count to 3 and exit. Ambush loops back on its second pass and kills you outside the closet.
 *The mistake:* Ambush sounds similar to Rush, and beginners treat every passing entity the same.
 *The fix:* Learn the sound difference. Rush has a single rising screech that peaks and fades. Ambush has a stuttering, multi-stage screech that bounces off walls. If you hear the screech fade and return, stay in the closet. Count 15 seconds of silence after the last screech before exiting. Ambush makes 2-5 passes — never assume the first pass is the last.
+*Recovery:* If you exit the closet and hear the screech returning, get back in the same closet immediately. You have a brief window before Ambush reaches the room. If you're too far from the closet, hug the wall — Ambush travels down the center of the room, and the wall gives you a small chance of surviving the pass.
 
 **5. Ignoring Screech's "Psst" in Dark Rooms**
 *The scenario:* You are in a dark room without a flashlight. You hear a soft "psst" sound and keep walking. Screech latches onto your face, dealing 50 damage. You now have 50 HP remaining. One more mistake ends the run.
 *The mistake:* The "psst" is subtle and easy to miss when you are focused on navigation.
 *The fix:* The instant you hear any "psst" sound, spin 360 degrees. Screech spawns behind you with glowing eyes. Looking directly at it makes it disappear without attacking. This is a free save that costs nothing — no items needed, no damage taken.
+*Recovery:* After taking the hit, look directly at Screech to prevent a second attack — it will try again if you keep your back turned. You are now at 50 HP. Find a Medkit before Floor 50. If you don't have one, avoid all dark rooms by hugging walls with your flashlight on. A second Screech hit ends the run.
 
 ---
 
 ## Decision Framework: Your First 150 Credits
 
-You reach the pre-lobby shop with 150 credits from achievements. The shop offers items that change how your run plays. Here is how to decide what to buy for your first clear attempt.
+You reach the pre-lobby shop with 150 credits from achievements. The shop offers items that change how your run plays. For a full breakdown of what each item does, see the [DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/). Here is how to decide what to buy for your first clear attempt.
 
 **Path A: Gummy Flashlight (150 credits)**
 - What you get: Infinite battery, bright light, zero darkness deaths
@@ -140,19 +154,27 @@ This feels wrong. You want to move. The Hotel is dangerous. But the danger is tr
 
 ---
 
-## Your First Clear: The Practical Route
+## Your First Clear: A Room-by-Room Walkthrough
 
-After the drill, here's the route to your first clear:
+After the drill, here is what a successful first clear looks like, walked room by room. Every entity in the Hotel has a predictable audio cue — [learn the full bestiary here](/posts/doors/entities-bestiary/) so no sound surprises you.
 
-**Before starting:** Buy Gummy Flashlight (150 Credits) + 2 Medkits (100 Credits). No batteries to manage. No complex items to juggle. Just light and healing.
+**Pre-Run Shop (The Courtyard):** Buy a Flashlight (75 credits) and a Medkit (50 credits). If you have extra credits from achievements, grab a second Medkit. Do not buy lockpicks — the loot inside locked rooms is random, and you need guaranteed healing more than a gamble. Skip the Gummy Flashlight for now; battery management is easier than surviving without a heal.
 
-**Floors 1-10:** Practice the room protocol: enter, identify exit, note nearest closet. Screech will appear in dark rooms — spin 360° when you hear "psst."
+**Rooms 1-10: The Protocol Phase.** Every single room: enter, close the door behind you, scan for the exit door, note the nearest closet, wait 3 seconds. If nothing happens, loot. If the lights flicker and you hear a screech, you already know where the closet is — move there instantly. Screech spawns in dark rooms during this phase. The instant you hear a "psst," spin 360 degrees. Look directly at Screech's glowing eyes and it disappears without dealing damage.
 
-**Floors 11-30:** Rush and Ambush are active. Closet discipline: enter immediately on screech, exit after pass for Rush, stay for all passes for Ambush.
+**Rooms 11-30: Rush and Ambush Go Live.** Both entities are active now. The protocol stays the same: enter, scan closet, wait, then loot. The difference is that the screech now means an entity is coming through the room. Rush is one pass — hide, count to 3 after the screen shake, exit. Ambush is 2-5 passes with a stuttering screech — stay in the closet until you hear 15 seconds of silence. Never guess. If you are not sure which entity you heard, treat it as Ambush and wait.
 
-**Floor 50 (Library):** Figure encounter. Walk only. Crouch when Figure listens. Place books when Figure is on the far side. It's a rhythm puzzle, not a stealth test.
+**Rooms 30-35: The First Seek Chase.** The lights go out and eyes appear on the walls. Follow the glowing blue eyes — they mark the correct path. Run through doorways, not around furniture. Do not look back. Seek is scripted and cannot be killed; your only option is to stay ahead of it. If you fall behind, Seek's hand reaches through doors and deals damage. Keep moving forward and you will reach the exit. This sequence appears twice in a full Hotel run — the second chase (Rooms 80-85) is longer and more aggressive, but the strategy is identical. For a full breakdown of every Seek encounter, see the [Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/).
 
-**Floors 51-100:** Rush, Ambush, and Seek chase repeat. You've handled all of these before. The late Hotel is an endurance test, not a skill test.
+**Room 50: The Library (Figure).** Figure is blind and tracks by sound. Crouch-walk at all times. Never run or jump — the sound brings Figure to your position in seconds. When Figure moves to the far side of the room, walk (still crouched) to cross open areas. Press E on bookshelves to throw books as sound distractions. The library layout is the same every run, so memorize the bookshelf positions during your first few attempts. If Figure is on your side of the room, stay completely still and wait. For advanced tactics including the bookshelf loop, see the [Figure Survival Protocol](/posts/doors/figure-survival-protocol/).
+
+**Rooms 51-80: The Mid-Game Endurance Test.** No new entities appear. Rush, Ambush, and Screech cycle through the same patterns you've already mastered. The challenge here is mental — after 50 rooms, complacency sets in. You stop scanning for closets when you enter a room. You get greedy with loot. You exit the closet a second too early. This is where most runs die, not because the game gets harder, but because players get comfortable. Stay disciplined. Every room gets the full protocol. If you used your Medkit, play extra cautiously — you are one mistake from death.
+
+**Rooms 80-85: The Second Seek Chase.** Same strategy as the first chase, but the path is longer and Seek is more aggressive. Follow the eyes, run through doors, don't look back. The main difference is the room layout — the second chase routes through larger rooms with more furniture, so pay attention to the eye markers and avoid getting caught on objects.
+
+**Rooms 86-100: The Final Stretch.** Entity density is at its highest. Rush and Ambush appear more frequently. Dark rooms are more common. If you still have a Medkit, this is when you need it most. Do not take risks — skip optional loot, focus on the exit, and keep moving. If you found a Crucifix earlier in the run, equip it now — [using it correctly](/posts/doors/crucifix-usage-guide/) can save you from a late-run Rush or Ambush. Room 100 is the exit. The door opens. You've cleared the Hotel.
+
+**After Your First Clear:** You unlock Modifiers — optional difficulty settings that change entity behavior, room layouts, and item spawns. The [Modifiers Guide](/posts/doors/modifiers-guide/) covers every setting and how they change your runs. But first, take the win. You've earned it.
 
 ---
 
@@ -161,4 +183,8 @@ After the drill, here's the route to your first clear:
 - [DOORS Room Recognition — 2-Second Navigation](/posts/doors/room-recognition-guide/)
 - [DOORS Room 50 Library Walkthrough — Surviving Figure](/posts/doors/room-50-library-walkthrough/)
 - [DOORS Beginner Mistakes — 10 Common Deaths & Fixes](/posts/doors/beginner-mistakes-guide/)
-- [DOORS Entity Timing Windows — Exact Seconds to React](/posts/doors/entity-timing-windows/)
+- [DOORS Ambush vs Rush — How to Tell Them Apart by Sound](/posts/doors/ambush-vs-rush-audio-differences/)
+- [DOORS Entities Bestiary — Every Monster's Audio Cue and Behavior](/posts/doors/entities-bestiary/)
+- [DOORS Seek Chase Complete Guide — Surviving Every Chase Sequence](/posts/doors/seek-chase-complete-guide/)
+- [DOORS Figure Survival Protocol — Advanced Library Tactics](/posts/doors/figure-survival-protocol/)
+- [DOORS Items and Inventory Guide — What Every Item Does](/posts/doors/items-and-inventory-guide/)

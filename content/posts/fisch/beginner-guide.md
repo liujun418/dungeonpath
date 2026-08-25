@@ -1,8 +1,8 @@
 ---
 title: "Fisch Beginner Guide — Your First 3 Hours, Every Rod Worth Buying & What to Skip (2026)"
-description: "New to Fisch and overwhelmed by 227+ fish, 30+ rods, and a map with no directions? Here's exactly what to do in your first session, which purchases are traps, and the 3 early mistakes that make new players quit before catching anything good."
+description: "New to Fisch? A session-by-session plan for your first 3 hours: which rods to buy, which purchases are traps, and how to land your first Legendary fish."
 date: 2026-05-29
-lastmod: 2026-07-29
+lastmod: 2026-08-25
 draft: false
 tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing"]
 categories: ["Roblox Guides"]
@@ -22,6 +22,13 @@ faq:
     answer: "No. Glowing rods are usually event items (like the Rod of the Depths) or cosmetic skins — they look impressive but aren't stat upgrades over the Steady or Mythical rod for early progression. The Rowboat (5,000 C$, unlocked at level 30) is worth buying for travel speed, but motorboats and cosmetics are luxuries to ignore until you're earning 20,000+ C$/hour. Focus on Luck and Resilience stats, not appearances."
   - question: "Should I skip every intermediate rod and save exclusively for the Mythical Rod?"
     answer: "That's the most common trap for ambitious beginners. If you skip Carbon Rod and Steady Rod to save for Mythical (110,000 C$), you fish with the Flimsy Rod for 10+ hours at ~3,000 C$/hour. The path through Carbon Rod then Steady Rod reaches Mythical faster — 9-10 hours total — because each upgrade multiplies your earning rate. An intermediate rod is not a detour; it's a turbo boost for the same road."
+related:
+  - /posts/fisch/best-rods-tier-list/
+  - /posts/fisch/rod-progression-timeline/
+  - /posts/fisch/mythic-progression-path/
+  - /posts/fisch/money-farming-guide/
+  - /posts/fisch/rare-mythic-fish-guide/
+  - /posts/fisch/codes-and-rewards-guide/
 ---
 
 The boat drops you at Moosewood Island under a sky the color of watered-down milk. The dock creaks. An NPC in a raincoat gestures toward a pond so small you could skip a stone across it. "Cast your line," he says. Your first catch: a Common Carp, worth 11 C$. You cast again. Another Carp. In the distance, another player reels in something that glows purple and thrashes — a Mythic. Your Carp flops next to your feet. The cheerful title screen said "Fisch," but right now it feels like a lottery where you didn't buy a ticket.
@@ -70,6 +77,8 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 
 **What to spend:** Nothing yet. Your next purchase target is the Steady Rod (25,000 C$) or, if you're ambitious, saving all the way to Mythical Rod (110,000 C$). At 10,000 C$/hour with Carbon Rod at Roslit Bay, Mythical is about 10 hours away — too far for session 2. Steady Rod at 25,000 is reachable in hour 3-4.
 
+**Pro tip:** Before you spend another hour grinding, check if any active codes give free C$. Fisch releases codes with every update, and a single code can drop 2,000-5,000 C$ — enough to skip the Carbon Rod grind entirely. See the [full codes list](/posts/fisch/codes-and-rewards-guide/) for what's currently active.
+
 ### Session 3 (Hour 2-3): The Steady Rod Decision Framework
 
 **The situation:** You've fished for 2-3 hours and have 25,000 C$ saved. The Steady Rod (25,000 C$, 15% Luck, +30% Resilience) is within reach — but the Mythical Rod (110,000 C$, 25% Luck) is the endgame goal. Do you buy the intermediate rod or save every C$ for the best-in-slot?
@@ -88,7 +97,16 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 - **Total time from start to Mythical:** ~13-14 hours
 - **Hidden cost:** Carbon Rod's low Resilience means 2-3x more escaped fish. Each escape costs you the C$ that fish would have sold for plus the time you spent catching it
 
-**Verdict:** Path A reaches Mythical Rod 3-4 hours faster despite the 25,000 C$ detour. The +30% Resilience nearly eliminates fish escape losses, boosting effective C$/hour by 50% — a multiplier that compounds over every hour you fish. An intermediate rod isn't a detour from the goal; it's a speed boost on the only road there.
+**Verdict:** Path A reaches Mythical Rod 3-4 hours faster despite the 25,000 C$ detour. The +30% Resilience nearly eliminates fish escape losses, boosting effective C$/hour by 50% — a multiplier that compounds over every hour you fish. An intermediate rod isn't a detour from the goal; it's a speed boost on the only road there. For the full unlock timeline including post-Mythical rods, see the [rod progression timeline](/posts/fisch/rod-progression-timeline/).
+
+### Quick Decision Table: What to Buy at Every Stage
+
+| If you have... | Then your move is... | Because... |
+|---|---|---|
+| Under 2,000 C$, Flimsy Rod equipped | Fish Moosewood Pier, sell everything, buy Carbon Rod at exactly 2,000 C$ | Flimsy Rod's 0% Luck caps income at ~3,000 C$/hour; every minute on Flimsy is a minute wasted |
+| 2,000-25,000 C$, Carbon Rod equipped | Fish Roslit Bay or Deep Ocean, skip bait shops, save every C$ for Steady Rod | Carbon Rod's 10% Luck already beats any bait you can afford; consumables delay your rod upgrade |
+| 25,000-110,000 C$, Steady Rod equipped | Buy Steady Rod now, then fish wherever Rare+ fish spawn, save for Mythical | Steady Rod's +30% Resilience prevents fish escapes that drain C$ and morale |
+| 110,000+ C$ | Buy Mythical Rod immediately, then start targeting Mythic fish at high-tier locations | 25% Luck opens the Mythic rarity tier that was previously inaccessible with any earlier rod |
 
 ---
 
@@ -102,7 +120,7 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 
 **The principle:** Fisch's economy runs on rarity, not volume. One Legendary (~2,000 C$) is worth 40 Commons (~50 C$). Anything that boosts quantity without boosting rarity is a trap.
 
-**When it's actually useful:** Late-game C$ farming with a high-Luck rod in a good location. As a second rod for speed farming — not as your primary.
+**When it's actually useful:** Late-game C$ farming with a high-Luck rod in a good location. Pairing a fast rod with the right bait can optimize your C$/hour once your base Luck is already solid. The [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) covers which pairings make speed actually pay off.
 
 ### 2. Buying a Cheaper Rod First Gets You to the Best Rod Faster
 
@@ -146,7 +164,17 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 
 **Why it fails:** Each server hop costs 30-60 seconds of loading screen. At 4 hops per hour, you lose 2-4 minutes — that's 8-16 casts you didn't make. Worse: you reset your location knowledge each time. You never learn where the good spots are on any server because you never stay long enough to map them.
 
-**The fix:** Pick a server with reasonable ping and commit to 1 hour minimum before switching. Log your catch rates during that hour — if you're averaging less than 2 Rares per hour, consider moving. But let data drive the decision, not impatience.
+**The fix:** Pick a server with reasonable ping and commit to 1 hour minimum before switching. Log your catch rates during that hour — if you're averaging less than 2 Rares per hour, consider moving. But let data drive the decision, not impatience. Some fish spawn only during specific weather or time-of-day — check the [weather and time guide](/posts/fisch/weather-time-season-guide/) before blaming the server.
+
+---
+
+## Codes and Free Boosts — Don't Leave Money on the Table
+
+Fisch regularly releases codes that give free C$, bait, and temporary Luck boosts. Redeeming codes takes 30 seconds and can drop enough C$ to skip an hour of grinding at the starter pond. The codes menu is in the settings panel — paste them in, claim the rewards, and they're yours.
+
+One common mistake: new players redeem codes on their first login, collect 5,000 C$, then spend it on bait and cosmetics. Don't. Put every C$ from codes toward your next rod upgrade. 5,000 C$ from codes gets you to the Carbon Rod in 20 minutes instead of an hour.
+
+Codes rotate with each update — some expire within days. Check the [active codes page](/posts/fisch/codes-and-rewards-guide/) before each session.
 
 ---
 
@@ -168,6 +196,8 @@ If you're far behind this pace, check: are you still at Moosewood Pond? Still on
 ## Related Guides
 
 - [Fisch Best Rods Tier List — Every Rod Ranked](/posts/fisch/best-rods-tier-list/)
+- [Fisch Rod Progression Timeline — Every Unlock from Start to Endgame](/posts/fisch/rod-progression-timeline/)
 - [Fisch Progression Path — Your First Mythic Fish](/posts/fisch/mythic-progression-path/)
 - [Fisch Money Farming Guide — Best Ways to Earn C$](/posts/fisch/money-farming-guide/)
 - [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/posts/fisch/rare-mythic-fish-guide/)
+- [Fisch Codes and Rewards — Active Codes and How to Redeem Them](/posts/fisch/codes-and-rewards-guide/)
