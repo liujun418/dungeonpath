@@ -1,10 +1,8 @@
 ---
-
-
 title: "Tower Defense Simulator Co-op Guide: Multiplayer Strategies, Communication & Team Tower Placements (2026)"
-description: "Tower Defense Simulator co-op guide: multiplayer tower coordination, communication strategies, team role assignments, and optimal tower placement for group play."
+description: "Win Tower Defense Simulator co-op with role assignments, tower coordination, and wave-by-wave teamwork for 2-4 player teams across Normal, Hard, and Fallen."
 date: 2026-05-12
-lastmod: 2026-05-12
+lastmod: 2026-08-26
 draft: false
 tags: ["Tower Defense Simulator", "Roblox", "Co-op", "Multiplayer", "tds co-op strategy", "tds team towers", "tds multiplayer guide"]
 categories: ["PC Game Guides"]
@@ -13,11 +11,10 @@ cover:
   image: "/cover-image/tds-coop/cover.webp"
   alt: "Tower Defense Simulator Co-op Guide"
   caption: "Tower Defense Simulator Co-op Guide"
-
 howto:
   steps:
     - name: "Read the Full Guide"
-      text: "Read this complete Tower Defense Simulator Co-op Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to tables and tier rankings for quick reference."
+      text: "Read this complete Tower Defense Simulator Co-op Guide from start to finish. Understanding the full strategy before acting prevents costly mistakes. Pay attention to the role and placement sections for quick reference."
     - name: "Apply Strategies in Tower Defense Simulator"
       text: "Open Tower Defense Simulator and implement the recommendations. Start with beginner-friendly options, then progress to advanced setups as you gain experience and resources."
     - name: "Practice and Adapt"
@@ -27,254 +24,151 @@ howto:
     - "This guide (reference while playing)"
 faq:
   - question: "What's the best tower combination for co-op in TDS?"
-    answer: "A balanced team runs one economy tower (Farm), two DPS towers (Ranger + Accelerator), and one support (Commander or DJ). Coordinate with teammates so you're not duplicating the same role — four DPS players with no Farm will lose to eco starvation."
+    answer: "A balanced team covers three jobs: one economy tower like the Farm, at least one heavy DPS tower such as the Accelerator or Minigunner, and a support option like the Commander or DJ. Coordinate before the first wave so nobody doubles up on the same role. Four damage players with no Farm is the classic losing lobby — everyone has towers, but no one has the gold to level them. Talk through who brings what, then let the economy player build first and funnel the spare gold into upgrading the DPS towers."
   - question: "How many players can play TDS co-op?"
-    answer: "Co-op mode supports 2-4 players. Enemy health and count scale with player count, so 4-player lobbies face the hardest waves but earn the most rewards. 2-player duo is the sweet spot for balance between difficulty and coordination."
+    answer: "Co-op supports two to four players. Enemy health and spawn count scale up as your lobby fills, so a four-player run faces the thickest waves but also has the most combined damage potential. A two-player duo is the easiest to coordinate because there are only two build orders to sync. If you are queuing with randoms, a smaller lobby is often smoother — fewer players means fewer chances for overlapping towers or a missing role."
   - question: "Is co-op easier than solo in TDS?"
-    answer: "Co-op is generally easier than solo when playing with coordinated teammates who understand their roles. With random players, solo is often more consistent since you control the entire loadout and economy."
-
+    answer: "Co-op is usually easier than solo when you play with teammates who know their roles and communicate. Splitting economy, damage, and support across players is stronger than one person juggling everything alone. With random players who don't talk, solo is often more consistent because you control the whole loadout and economy yourself. If you queue alone, be ready to fill whatever role the team is missing instead of stacking a second DPS tower."
+  - question: "What's the best role for a new player in a co-op lobby?"
+    answer: "A new player should start on economy or support. The Farm and Commander are forgiving: the Farm just generates gold, and the Commander's buffs help everyone without demanding perfect placement. Heavy DPS towers like the Accelerator need the right position and level timing, which is harder to get right on a first run. Handle early waves with a cheap tower like the Scout, keep your Farm running, and watch what experienced players place so you learn their build order."
+  - question: "How do I coordinate with teammates who don't have voice chat?"
+    answer: "Text chat and pings cover most of it. Agree on roles and placement zones before the game starts, then use short callouts in chat: 'boss next,' 'left lane leaking,' or 'holding ability.' A few pre-typed messages beat silence. If text is too slow mid-wave, ping the lane that needs help. Voice is better for Fallen and Hardcore runs, but a plan agreed up front keeps a text-only lobby smooth on most maps."
+related:
+  - "/posts/tower-defense-simulator/strategy-guide/"
+  - "/posts/tower-defense-simulator/loadout-guide/"
+  - "/posts/tower-defense-simulator/towers-tier-list/"
+  - "/posts/tower-defense-simulator/tower-synergy-combos/"
+  - "/posts/tower-defense-simulator/tower-placement-theory/"
+  - "/posts/tower-defense-simulator/coin-farming-guide/"
+  - "/posts/tower-defense-simulator/fallen-mode-guide/"
+  - "/posts/tower-defense-simulator/hardcore-mode-guide/"
+  - "/posts/tower-defense-simulator/golden-mode-guide/"
+  - "/posts/tower-defense-simulator/best-maps-guide/"
 ---
 
-> *Last updated: May 12, 2026. This guide covers co-op strategies in Tower Defense Simulator, including team tower coordination, player role assignments, communication protocols, and optimal tower placement for 2-4 player groups across all difficulties.*
+> *Last updated: August 26, 2026. This guide covers co-op strategies in Tower Defense Simulator, including team tower coordination, player role assignments, communication protocols, and optimal tower placement for 2-4 player groups across all difficulties.*
 
 ## Co-op Basics in Tower Defense Simulator
 
-Tower Defense Simulator (TDS) supports 1-4 players in co-op mode. Playing with a team changes everything -- tower economy, placement strategy, tower roles, and wave management all function differently than in solo play.
+You load into Fallen with a random teammate. You both drop a Farm in the first thirty seconds, then realize nobody brought early DPS. Wave 3 leaks, and the run is over before it started. That is the co-op learning curve in one scene: every extra player multiplies your gold, but only if you don't all build the same thing.
 
-### Player Count Impact
+Tower Defense Simulator lobbies hold two to four players. Enemy count and health scale with your headcount, and each player keeps their own loadout and economy. A two-player duo is the easiest to coordinate — only two build orders to sync. A four-player lobby is harder to manage but packs the most combined damage when everyone does their job.
 
-| Players | Gold Income | Difficulty | Recommended Strategy |
-|---------|------------|------------|---------------------|
-| 1 (Solo) | 100% | Standard | Self-sufficient, balanced towers |
-| 2 | 150% per player | Moderate | Role specialization, split lanes |
-| 3 | 175% per player | Moderate-Hard | Dedicated roles, coordinated placement |
-| 4 | 200% per player | Hard (but highest DPS potential) | Full specialization, complex coordination |
-
-With more players, each player gets more gold, but the waves scale in enemy count and HP. A well-coordinated 4-player team can handle significantly harder content than any solo player.
+More players means more gold in circulation, but it also means four separate build orders that can clash. The core rule of co-op is simple: **never duplicate a role without agreeing first.** Two Farms early is fine. Two Accelerators in the same corner is wasted gold.
 
 ## Team Role Assignments
 
-The most effective co-op teams assign specific roles to each player. Each role focuses on a particular aspect of the defense:
+You and your duo are on a hard map. Wave 18 hits and the left lane leaks. One of you is sitting on a maxed Commander while the other has no DPS down yet. The problem isn't the wave — it's that nobody agreed on who does what.
 
-### The Four Core Roles
+Every strong co-op team splits into four jobs: **main DPS**, **support/buffer**, **crowd control**, and **economy**. Main DPS carries the boss kills with heavy towers like the Accelerator, Minigunner, or Ranger. Support buffs everyone else with the DJ, Commander, or Scientist. Crowd control slows and stalls small enemies with towers like the Sledger or Cryomancer. Economy builds Farms early so the whole team can afford upgrades.
 
-| Role | Primary Responsibility | Key Towers | Player Count |
-|------|----------------------|------------|-------------|
-| **Main DPS** | Primary damage output, boss killing | Accelerator, Minigunner, Ranger | 1-2 players |
-| **Support/Buffer** | Buffing towers, healing, slowing | DJ, Commander, Scientist, Sledger | 1 player |
-| **Crowd Control** | Handling waves of small enemies, slowing | Sledger, Cryomancer, Electroshocker | 1 player |
-| **Early Game / Economy** | Fast early waves, gold generation, flexible | Scout, Cashier, Farmer, Demoman | 1 player (flexible late-game) |
+With two players, each of you covers two jobs. One runs DPS plus crowd control; the other runs support plus early game. With three or four, you can split more cleanly and let one player go full economy through the early waves.
 
-### Role Distribution by Player Count
+### A Quick "Who Builds What" Decision Table
 
-#### 2-Player Team
+| If... | Then you should... |
+|-------|-------------------|
+| Your teammate picks a heavy DPS tower (Accelerator, Minigunner) | Pick a Farm or support tower so gold and buffs cover them |
+| Nobody has a Farm by wave 5 | Drop yours now and let economy lead, even if it means skipping early DPS |
+| You are past wave 20 with spare gold | Shift economy into DPS or support instead of hoarding |
+| The boss wave is next | Whoever holds buff towers saves abilities for that wave |
 
-| Player | Role | Tower Priorities |
-|--------|------|-----------------|
-| Player 1 | Main DPS + Crowd Control | Minigunner (DPS), Sledger (CC) |
-| Player 2 | Support + Early Game | DJ/Commander (Buffer), Scout (Early) |
+### The Counter-Intuitive Truth
 
-**Why this works:** With only two players, each must cover multiple roles. Player 1 handles all damage output, while Player 2 supports and manages early waves.
-
-#### 3-Player Team
-
-| Player | Role | Tower Priorities |
-|--------|------|-----------------|
-| Player 1 | Main DPS | Accelerator, Ranger, Minigunner |
-| Player 2 | Support/Buffer | DJ, Commander, Scientist |
-| Player 3 | Crowd Control + Early Game | Sledger, Cryomancer, Scout |
-
-**Why this works:** Dedicated DPS player can focus purely on damage maximization. Support player ensures all towers are buffed. CC/Early player handles wave management and early economy.
-
-#### 4-Player Team (Optimal)
-
-| Player | Role | Tower Priorities |
-|--------|------|-----------------|
-| Player 1 | Main DPS | Accelerator (primary boss killer) |
-| Player 2 | Secondary DPS | Minigunner or Ranger (sustained damage) |
-| Player 3 | Support/Buffer | DJ, Commander, Scientist |
-| Player 4 | Crowd Control + Early Game | Sledger, Cryomancer, Scout, Demoman |
-
-**Why this works:** Full role specialization. Two DPS players can focus fire on bosses and high-priority targets. Support maximizes their output. CC/Early player ensures small enemies never overwhelm the defense.
+The player with the least damage is often the most important person on the team. A dedicated Farm-and-support player makes everyone else's towers hit harder and level faster. Don't judge contribution by the damage board. A support player who times a Commander or DJ ability on a boss wave swings the run more than a third DPS tower ever will.
 
 ## Tower Placement Strategy for Co-op
 
-Co-op tower placement requires coordination to avoid overlapping coverage and ensure complete lane coverage.
+Two of you build Minigunners on the exact same corner. One of them never gets a clean line of sight. That gold could have covered the empty far lane instead.
 
-### Placement Principles
+Placement in co-op is about coverage, not raw count. First, don't overlap: two towers shooting the same stretch of path is redundant. Second, cover every lane — a leak on the far side is a wipe no matter how strong your choke point is. Third, keep buff towers inside range of the towers they boost; a DJ placed out of reach is just decoration. Fourth, spread your Farms so each player builds near their own economy. Fifth, funnel enemies through one boss-kill zone where your highest DPS towers sit.
 
-| Principle | Description | Why It Matters |
-|-----------|-------------|---------------|
-| **No Overlap** | Don't place towers that cover the same enemies | Wasted gold, inefficient DPS |
-| **Lane Coverage** | Ensure every enemy path is covered by at least one tower | Prevents gaps in defense |
-| **Buffer Range** | Place buff towers within range of maximum towers they can affect | Buffs must reach the towers they're buffing |
-| **Economy Spread** | Distribute economy towers across different points on the map | Each player can build near their own economy tower |
-| **Boss Focus Zone** | Concentrate highest-DPS towers at one chokepoint | Bosses should pass through maximum DPS |
+The mistakes repeat every game. Players all build the same tower type. Buff towers end up too far from the damage. Nobody builds early game and wave 4 leaks. Towers block each other's line of sight. Or an entire spawn point goes unguarded. Assign tower types before the first wave and check buff ranges before you commit.
 
-### Recommended Placement Layout (4-Player)
-
-| Zone | Towers | Player | Placement Notes |
-|------|--------|--------|-----------------|
-| **Zone A (Entry)** | Scout, Cashier | Player 4 (Early Game) | Near spawn point, handles first waves |
-| **Zone B (Mid-Lane)** | Minigunner, Sledger | Player 3 (CC) | Mid-path, covers the longest stretch |
-| **Zone C (Chokepoint)** | Accelerator, Commander | Player 1 (Main DPS) | Tight chokepoint where all enemies funnel |
-| **Zone D (Support Hub)** | DJ, Scientist | Player 2 (Support) | Central location, within range of Zones B and C |
-
-### Placement Mistakes to Avoid
-
-| Mistake | Impact | Solution |
-|---------|--------|----------|
-| All players building the same tower type | Redundant coverage, wasted gold | Assign tower types per player before starting |
-| Buff towers too far from damage towers | Buffs don't reach intended towers | Check buff radius before placing |
-| No early game towers | Wipe on Wave 1-5 | Always have at least one player with Scout/Cashier |
-| Towers blocking each other's line of sight | Reduced effective DPS | Stagger towers at different heights/positions |
-| Ignoring enemy spawn points | Enemies bypass defenses | Place at least one tower near each spawn point |
+For a deeper look at where to build, read our [Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/).
 
 ## Communication Strategies
 
-Communication is the most critical factor in co-op TDS success.
+Communication is the difference between a clean run and a slow leak that nobody notices. Before the game starts, settle four things: which map, which difficulty, who brings which towers, and who builds economy first. A thirty-second plan beats an entire run of guessing.
 
-### Pre-Game Communication Checklist
+In-game, callouts should be short and specific: "boss next," "left lane leaking," "holding ability." Voice chat is the best tool for Fallen and Hardcore runs because boss phases need instant reactions. Text chat is fine for setup but too slow mid-combat. Pings and markers are a good supplement, not a replacement.
 
-| Item | Discussion Point | Decision Needed |
-|------|-----------------|----------------|
-| Map | Which map are you playing? | Agree on placement zones |
-| Difficulty | Normal, Hard, Molten, Fallen? | Adjust tower tiers accordingly |
-| Tower assignments | Who brings what towers? | No overlap, full coverage |
-| Economy plan | Who builds Cashier/Farmer first? | Agree on gold generation priority |
-| Boss strategy | How do you handle boss waves? | Focus fire plan, ability timing |
+If you can't use voice, agree on a few pre-typed phrases before the wave starts. The goal is always the same: tell the team what is happening before it becomes a problem.
 
-### In-Game Communication Protocol
-
-| Situation | What to Say | Why |
-|-----------|------------|-----|
-| New wave starting | "Wave X incoming, [enemy type]" | Team prepares appropriate towers |
-| Boss appearing | "Boss on Wave X, focus fire Zone C" | All DPS converges on boss |
-| Low gold | "Need gold, slow down tower placement" | Economy player prioritizes Cashier |
-| Tower underleveled | "My Accelerator needs leveling" | Support player can use buff abilities |
-| Enemy leaking | "Enemies getting through Zone B!" | CC player reinforces weak point |
-| Ability ready | "DJ drop ready, using on Wave X" | Coordinate buffs with boss waves |
-
-### Voice vs Text Communication
-
-| Communication Type | Best For | Recommendation |
-|-------------------|----------|----------------|
-| **Voice Chat (Discord)** | Real-time coordination, boss fights, complex maps | Essential for Fallen/Hard mode |
-| **Text Chat** | Pre-game planning, tower assignments | Good for setup, insufficient during combat |
-| **Pings/Markers** | Quick callouts during combat | Supplement voice, not replace |
+Build a short callout set before you start and stick to it. A workable four-message kit: "farm down" when your economy is placed, "boss next" one wave before the boss spawns, "leak left/right/mid" the second an enemy passes your line, and "holding" right before you pop a buff or a stun. Repeating the same four phrases makes them automatic — teammates react to the word, not the typing. The teams that wipe at wave 30 are not the ones without microphones, they are the ones who never agreed on what "help" means.
 
 ## Wave-by-Wave Co-op Strategy
 
-### Early Waves (1-10)
+The run has three phases, and the decisions change at each one.
 
-| Wave | Priority | Action |
-|------|----------|--------|
-| 1-3 | Economy | Build Cashier/Farmer towers first. Do NOT spend gold on DPS yet. |
-| 4-6 | Basic Defense | Each player builds 1-2 basic towers (Scout, Minigunner level 1-2). |
-| 7-10 | Transition | Start upgrading to level 3 towers. Economy should be established. |
+**Early waves (roughly 1-10):** build economy first. Farms and cheap towers come before anything expensive. Do not dump gold into a big DPS tower before your economy is running — a team with strong economy and mid-level towers outlasts a team with one maxed tower and no gold.
 
-**Key rule:** Never fall behind on economy. A team with strong economy and level 2 towers outperforms a team with level 3 towers but no gold for upgrades.
+**Mid waves (roughly 11-25):** this is where damage comes online. Every DPS player should have a solid upgraded tower down, and the support player starts stacking buffs on the primary damage dealer. Crowd control fills in the gaps so nothing sneaks through the sides.
 
-### Mid Waves (11-25)
+**Late waves (roughly 26+):** the economy player transitions into a second DPS role. All main towers go to max level, buffs stay running, and everyone focuses the boss spawn point when the big one arrives.
 
-| Wave | Priority | Action |
-|------|----------|--------|
-| 11-15 | Core DPS | All DPS players should have at least one level 4 tower. |
-| 16-20 | Buff Stacking | Support player stacks DJ + Commander + Scientist buffs on primary DPS. |
-| 21-25 | CC Reinforcement | Crowd control player ensures all paths have slowing effects. |
+The through-line: **never fall behind on economy.** A team with level 2 towers and full gold outperforms a team with level 3 towers and nothing in the bank.
 
-**Buff stacking order:**
-1. Commander places beacon (increases tower range and damage)
-2. DJ drops beat (increases fire rate)
-3. Scientist uses stim (increases damage)
-4. All buffs should hit the Accelerator or Ranger for maximum effect
+### When a Teammate Drops Mid-Run
 
-### Late Waves (26-40+)
-
-| Wave | Priority | Action |
-|------|----------|--------|
-| 26-30 | Max Level | All DPS towers should be at max level. Economy player transitions to DPS. |
-| 31-35 | Boss Preparation | Focus fire on boss spawn point. All buffs active. |
-| 36-40 | Endgame | Survive. Economy player is now full DPS. Support keeps buffs running. |
+Someone disconnects on wave 22 and the lobby does not refill. Your build order is now wrong — you planned for four players of damage and you have three. The fastest recovery is to accept the loss of the missing role instead of trying to cover it. If the Farm player left, someone sells their weakest DPS and rebuilds economy; the gold gap will kill you slower than the missing tower. If the crowd-control player left, buy the cheapest slow you can afford and park it on the spawn side, because the summon-heavy waves will hit you first. Reset expectations too: a four-player build running on three players usually ends around wave 27-29, so push for a clean score rather than a desperate one. Most teams that panic and sell everything die on the very next wave.
 
 ## Tower Synergies in Co-op
 
-Certain tower combinations are exponentially more effective when played by different players:
+Some towers get far stronger when a teammate builds the other half of the pair.
 
-### Synergy: Accelerator + Commander + DJ
+The classic is the **Accelerator with a Commander and a DJ**. The Accelerator is your ramping boss killer; the Commander's ability and the DJ's beat push its damage and fire rate higher. Stack those buffs on one target and a hard boss melts noticeably faster than an unbuffed tower would manage on its own.
 
-| Tower | Contribution | Combined Effect |
-|-------|-------------|-----------------|
-| Accelerator | Primary DPS, ramping damage | Base: ~2,000 DPS at max level |
-| Commander | +25% damage, +15% range | Accelerator DPS: ~2,500 |
-| DJ | +30% fire rate | Accelerator DPS: ~3,250 |
-| **Total** | **Buff-stacked Accelerator** | **~3,250 DPS (63% increase)** |
+The **Sledger plus Cryomancer** is the crowd-control pair. The Sledger slows and damages a crowd, while the Cryomancer freezes enemies so every other tower on the field deals bonus damage to them. Slowed and frozen enemies spend more time in your kill zone.
 
-### Synergy: Sledger + Cryomancer
+**Minigunner plus Ranger plus Scientist** gives you sustained damage and single-target burst under one buff. The Minigunner holds the line while the Ranger focuses the biggest enemy, and the Scientist's stim pushes both higher.
 
-| Tower | Contribution | Combined Effect |
-|-------|-------------|-----------------|
-| Sledger | Slows enemies by 30%, AoE damage | Base slow + damage |
-| Cryomancer | Freezes enemies, +15% damage to frozen | Enemies take 15% more from ALL towers |
-| **Total** | **Frozen and slowed enemies** | **All towers deal +15% to frozen targets, enemies move at 30% speed** |
-
-### Synergy: Minigunner + Ranger + Scientist
-
-| Tower | Contribution | Combined Effect |
-|-------|-------------|-----------------|
-| Minigunner | Sustained DPS, consistent damage | Reliable baseline damage |
-| Ranger | Single-target burst, boss killer | High damage on focused target |
-| Scientist | +20% damage stim | Both DPS towers deal +20% damage |
-| **Total** | **Dual DPS with buff** | **Sustained + burst damage, both boosted** |
+For a full breakdown of which pairs are worth building, see our [Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/) guide.
 
 ## Mode-Specific Co-op Strategies
 
-### Normal Mode
+**Normal** is forgiving. Two players with basic coordination clear it, and the priority is economy first, damage second. It's a good place to practice role assignments before harder modes.
 
-| Aspect | Recommendation |
-|--------|---------------|
-| Team Size | 2+ players recommended |
-| Difficulty | Manageable with basic coordination |
-| Tower Priority | Economy first, DPS second |
+**Hard and Molten** demand real specialization. Molten enemies resist slows, so lean harder on pure DPS and less on crowd control. Buff towers stop being optional here — a team without a Commander or DJ is working with one hand tied.
 
-### Hard Mode
+**Fallen** is where a four-player team earns its keep. Fallen bosses carry huge health pools and summons, so you need max buff stacking on your best DPS tower plus dedicated crowd control for the extra enemies. Designate one shot-caller, usually the main DPS player, and call out boss phases as they happen.
 
-| Aspect | Recommendation |
-|--------|---------------|
-| Team Size | 3+ players essential |
-| Difficulty | Requires role specialization and buff stacking |
-| Tower Priority | Buff towers are mandatory, not optional |
+**Hardcore** is the level-gated extreme. It pushes everything harder and punishes a missing role immediately. Bring a practiced four-player setup. We cover it in our [Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/), and the Fallen specifics live in the [Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/).
 
-### Molten Mode
+## Boss Wave Coordination: Splitting Jobs Mid-Fight
 
-| Aspect | Recommendation |
-|--------|---------------|
-| Team Size | 4 players optimal |
-| Difficulty | Extreme -- enemies have molten armor (reduces slow effects) |
-| Tower Priority | Pure DPS, less reliance on CC. Molten enemies resist slows. |
+The Fallen boss spawns. Your team has thirty seconds to get every ability on cooldown in the right order, and nobody has time to discuss it. This is where a pre-agreed job split pays for itself.
 
-### Fallen Mode
+Give each player one job before the wave starts. The **shot-caller**, usually your main DPS player, watches the boss's HP and calls the moment its shield breaks. The **buffer** holds Commander or DJ ability for that call, not for random early waves. One **crowd-control player** ignores the boss entirely and handles the summon wave — those small enemies are what actually kills a team, because everyone is staring at the boss and nobody sees the summons flanking. The **economy player** either finishes a tower or pre-places a second DPS near the boss path so damage is already coming online.
 
-| Aspect | Recommendation |
-|--------|---------------|
-| Team Size | 4 players mandatory |
-| Difficulty | Hardest -- Fallen bosses have massive HP and unique abilities |
-| Tower Priority | Max buff stacking on Accelerator, dedicated CC for Fallen summons |
+The sequence should be mechanical: summons spawn, the CC player stuns the pack, the shot-caller says "buff," the buffer pops Commander and DJ, and everyone focuses the boss head. If the CC player panics and burns the stun on the boss itself, the summon pack walks through and the run ends at 85%. Practice the order on Normal first so the muscle memory is there before Fallen.
 
-**Fallen Mode Communication Plan:**
-- One player must be designated shot-caller (usually the main DPS player).
-- Boss phases must be called out: "Phase 1, normal DPS" / "Phase 2, summon incoming" / "Phase 3, enrage, all abilities".
-- Economy is critical -- Fallen Mode has more waves, meaning more gold generation time.
+## What Went Wrong: The Wave 24 Leak
+
+Our first serious Fallen run fell apart at wave 24, and it was our own fault.
+
+**The mistake:** all four of us built heavy DPS towers and skipped a dedicated crowd-control tower. The early waves died fast, so we felt strong and kept spending on damage.
+
+**Why it failed:** the small, fast enemies arrived in a wave our single-target towers couldn't clear quickly. They streamed through the gap between two Minigunners, and by the time anyone called the leak, three of them were already through. We had the gold to fix it, but no tower was in position to cover the gap in time.
+
+**The recovery:** we restarted, put one player on a Sledger near the spawn, and agreed that the crowd-control player calls out the moment anything reaches the halfway point. That one adjustment turned the leak into a non-event on the next attempt. The lesson stuck: **a role you skip to afford more damage is a leak waiting to happen.**
 
 ## Cross-References
 
 - For general strategy and tower rankings, see our [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)
 - For loadout recommendations, see our [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/)
 - For tower rankings and tier data, see our [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
+- For economy setup and gold generation, see our [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
 
 ## Related Guides
 
 - [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)
 - [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
+- [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
+- [TDS Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/)
+- [TDS Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)
+- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)
+- [TDS Golden Mode Guide](/posts/tower-defense-simulator/golden-mode-guide/)
+- [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)
