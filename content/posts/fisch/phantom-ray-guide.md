@@ -1,11 +1,11 @@
 ---
 title: "You've Fished 3 Hours for Phantom Ray and It Never Bit — Here Are the 3 Hidden Conditions (2026)"
-description: "You have the right rod. The right bait. You're at the Haunted Shipwreck. And still nothing. That's because Phantom Ray has THREE hidden spawn gates — season, time, and weather — and missing even one means the game never even rolls for it. Here's how to check all three in 30 seconds."
+description: "Phantom Ray only bites at night in Fisch, and without Nocturnal bait you can fish all night and never hook one. Here's the time, bait, rod, and Grand Reef spot."
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-08-27
 draft: false
-tags: ["Fisch", "Roblox", "Phantom Ray", "Mythic Fish", "Fishing", "fisch-phantom-ray"]
-categories: ["Roblox Guides"]
+tags: ["Fisch", "Roblox", "Phantom Ray", "Mythic Fish", "Legendary Fish", "Nocturnal Bait", "Fishing", "fisch-phantom-ray"]
+categories: ["Roblox Guides", "Fisch"]
 games: ["Fisch"]
 cover:
   image: "/cover-image/fisch-phantom-ray/cover.webp"
@@ -13,105 +13,173 @@ cover:
   caption: "Fisch Phantom Ray Guide"
 faq:
   - question: "Why haven't I caught a Phantom Ray after hours of fishing?"
-    answer: "Because you're probably missing one of the three required conditions. Phantom Ray needs ALL THREE: Autumn (season) AND Night (10 PM - 4 AM) AND Foggy weather. If any one of these is wrong, the Phantom Ray is literally not in your catch pool — the game never rolls for it, regardless of your rod, bait, or Luck. Most players miss the season requirement: they fish at night in fog during Spring or Summer and waste hours on a fish that cannot spawn. Check all three conditions before you cast."
+    answer: "Because you're missing one of three conditions: in-game night, the Grand Reef area, or Nocturnal bait. The bait is the one people skip. A legendary rarity doesn't mean more Luck — for a nocturnal fish, the bait is what unlocks the roll. Check all three before you blame your rod."
+  - question: "Is the Phantom Ray weather-gated?"
+    answer: "No. You don't need rain or fog. The ray cares about time of day and bait, not weather. If someone told you to wait for fog, they're thinking of a different fish."
+  - question: "What bait do I actually need?"
+    answer: "Nocturnal bait — the squid-line baits, with Black Squid being the most commonly named. Put it on before dusk and fish the night window. Without it, the same hours at the same spot tend to produce nothing."
+  - question: "Do I need a high-Luck rod to catch it?"
+    answer: "No. Lure Speed matters more, because more casts per night window means more rolls at the ray. A fast rod with Nocturnal bait beats a Luck rod with neutral bait."
+  - question: "Where exactly does the Phantom Ray spawn?"
+    answer: "In the ocean around the Grand Reef, including the deeper water just off its edge. It's tied to the reef's cast pool, so it won't appear at ponds, docks, or unrelated beaches."
+related:
+  - /posts/fisch/fish-location-map/
+  - /posts/fisch/complete-location-map/
+  - /posts/fisch/best-rods-tier-list/
+  - /posts/fisch/bait-economy-guide/
+  - /posts/fisch/weather-time-season-guide/
 ---
 
-## You're Not Unlucky. You're Fishing for a Fish That Isn't There.
+## You Fished All Night and Never Saw a Glow
 
-I get this message at least once a week: "I've been at the Haunted Shipwreck for 4 hours with a Destiny Rod and Night Shrimp and the Phantom Ray never bit. Is my game bugged?"
+It's 3 AM in-game, and the water around the Grand Reef has gone still. You've been out here for three real hours. Decent rod. Good luck. Right reef, the whole time. You've pulled up a bucket of squid, a few lanternfish, nothing worth keeping. Not once has a pale, wing-shaped shadow drifted up to your line.
 
-Your game isn't bugged. You're fishing in Summer. Phantom Ray requires Autumn. The game never told you.
+You glance at the clock. Night's nearly done. You reel in, close the game, and tell yourself the Phantom Ray is just that rare.
 
-Fisch has a layered condition system that most players never fully understand. Each Mythic fish has 1-3 spawn gates — season, time of day, and weather. These aren't "boosted rates" or "better odds." These are hard gates. The fish literally does not exist in your catch pool if the conditions aren't met. You can have the best rod in the game, 90% effective Luck, and perfect bait — and you will never catch a Phantom Ray in Summer at noon on a clear day because the game never adds it to the possible fish list for that cast.
+It isn't. Not that rare. You were short one piece of bait.
 
-This guide is about the specific case that traps the most Fisch players: Phantom Ray. But the framework applies to every condition-gated fish in the game.
+That's the Phantom Ray trap in a nutshell. It's a legendary fish with a clean, learnable catch routine — right time, right spot, right bait — but the bait step is the one everyone skips, because "legendary" makes players reach for more Luck and a better rod. That's backwards. The answer is Nocturnal bait. Put it on, and the exact same three-hour session that produced zero rays starts producing them.
 
----
+## What the Phantom Ray Actually Is
 
-## The Three Gates: Season, Time, Weather
+The Phantom Ray is a legendary-class fish, and it's one of the few catches in Fisch that people hunt on purpose instead of finding by accident. It's a manta-shaped fish with a pale, translucent body that glows faintly in dark water — that glow is the whole "phantom" identity. It isn't the rarest fish in the game, but it's high enough on the ladder that it shows up on collection checklists, and it sells for real C$.
 
-Phantom Ray requires all three conditions simultaneously. Miss one, and you're fishing blind.
+Here's the profile at a glance:
 
-| Gate | Phantom Ray's Requirement | How to Check | Time to Next Opportunity If Wrong |
-|------|--------------------------|-------------|----------------------------------|
-| **Season** | Autumn (Sep-Nov in-game) | Season display on HUD | Up to 21 real days (if Spring just started) |
-| **Time of Day** | Night (10 PM - 4 AM in-game) | In-game clock | Up to 12 real minutes (if noon, wait until night) |
-| **Weather** | Foggy | Weather Station on Moosewood Island | 8-15 minutes per weather cycle, but Fog is rare |
+| Trait | Phantom Ray |
+|---|---|
+| Rarity | Legendary |
+| Habitat | Grand Reef area (ocean) |
+| Bite window | Night only |
+| Key bait | Nocturnal bait (squid line) |
+| Weather | Not weather-gated |
+| Stat that matters | Lure Speed |
 
-### Gate 1: Season — The Gate That Traps 80% of Players
+Players chase it for three reasons, usually in this order: bestiary completion, the C$ sell value, and progression toward the rarer mythics that sit above it. If you're building toward the [rare and mythic fish](/posts/fisch/rare-mythic-fish-guide/) tier, the Phantom Ray is a mid-ladder box you have to tick.
 
-This is the most common Phantom Ray mistake. Players hear "Phantom Ray is at Haunted Shipwreck" and go there immediately, without checking the season. They fish for hours in Spring or Summer while Autumn is 2 real weeks away.
+## Where: The Grand Reef, Not "Anywhere in the Ocean"
 
-Seasons in Fisch last 7 real days. The rotation is fixed: Spring → Summer → Autumn → Winter → repeat. If you're in Summer day 2, Autumn is 5 real days away. Fishing for Phantom Ray during those 5 days is impossible.
+The Phantom Ray is an ocean fish, and the anchor spot is the Grand Reef area plus the deeper water right off its edge. You don't need one exact pixel — the ray lives in the reef's cast pool, so any cast that rolls the reef's fish table at night can include it.
 
-**The fix:** Check the season display on your HUD before any targeted Mythic hunting session. If your target's season is wrong, switch targets. Don't fight the calendar.
+Two things matter more than your exact standing spot:
 
-### Gate 2: Time of Day — The 6-Hour Window
+- Fish from the reef itself, or from a boat just off the drop-off. Either works.
+- Don't substitute. The ray won't show at the Moosewood docks, a pond, or some random beach. It's tied to the reef's pool, so check the [Fisch location map](/posts/fisch/fish-location-map/) if you aren't sure where the Grand Reef sits on the map, or the [complete location map](/posts/fisch/complete-location-map/) for the deeper spots around it.
 
-Phantom Ray spawns only at night: 10 PM to 4 AM in-game time. That's 6 in-game hours, which is 6 real minutes. The day cycle in Fisch is 24 real minutes (1 real minute = 1 in-game hour), so night represents roughly 25% of the cycle.
+A word of caution: the exact radius the game counts as "the reef" shifts between updates. Treat the Grand Reef as the center, fish close to it, and don't drift miles out assuming the ray follows you. Exact bounds are flagged below in What's Still Unconfirmed.
 
-**The timing strategy:** Arrive at Haunted Shipwreck at 9:30 PM in-game time. Cast your line 30 seconds before night starts. That way your bait is in the water the moment the night window opens. You get a full 6 minutes of eligible casts. If you arrive at 11 PM, you've already lost 1/6 of your window.
+## When: Night Only — and That's the In-Game Night
 
-### Gate 3: Weather — The Unpredictable Gate
+The Phantom Ray is nocturnal. It only bites during the in-game night window, and this is the classic failure: players show up in broad daylight, fish for an hour, and leave convinced the ray doesn't exist.
 
-Fog is one of the rarest weather conditions in Fisch. The Weather Station cycles every 8-15 real minutes, but Fog appears in roughly 10-15% of cycles. You can wait 2+ hours for Fog to appear on a single server.
+Check the in-game clock, not your bedroom wall. The game runs its own day-night cycle — a full in-game day is roughly 15 to 20 real minutes, give or take by server, so night comes around fast. That's a good thing: it means you're never more than a few real minutes from your next window. But it also means real-world time tells you nothing. Your 11 PM is not the reef's 11 PM.
 
-**The server-hop strategy:** Don't wait for Fog. Open the Weather Station. If Fog isn't currently active and isn't forecast as the next weather, server-hop. Joining a new server resets the weather cycle. On average, you'll find Fog within 3-5 server hops. That takes 2-3 minutes, compared to potentially 2 hours of waiting.
+Here's the routine to avoid the daytime trap: show up just before dusk. Get positioned, bait on, line in the water before the sky goes fully dark. Then fish the entire night window without stopping to check your phone or switch spots. When the sun comes up, the ray's gone from the roll — stop casting, and either wait for the next night or go do something else.
 
----
+For the fuller picture on how time, seasons, and weather interact with spawns, the [weather, time, and seasons guide](/posts/fisch/weather-time-season-guide/) covers the whole system.
 
-## The 30-Second Pre-Fishing Check
+## Bait: Nocturnal Bait Is the Real Gate
 
-Before you cast a single line for Phantom Ray, run through these checks:
+Here's where most Phantom Ray hunts die, and it's worth reading slowly.
 
-1. **Season check (2 seconds):** Is it Autumn on your HUD? No → Phantom Ray cannot spawn. Change targets or wait for season rotation.
-2. **Time check (2 seconds):** Is it between 10 PM and 4 AM? No → Wait for night, or change targets.
-3. **Weather check (5 seconds):** Open Weather Station. Is it currently Foggy? No → Is Fog forecast next? If yes, wait one weather cycle. If no, server-hop.
+The ray is a nocturnal fish, and in Fisch, nocturnal fish are gated by Nocturnal bait. Not by Luck. Not by your rod. The game weights a nocturnal fish's roll heavily toward Nocturnal bait — put the right bait on, and the ray enters your catch table with real weight. Fish the same spot with maggots or shrimp at midnight, and you can cast until dawn and never hook one. You'll catch night-fish that don't care about bait, sure, but not the Phantom Ray.
 
-**Three yes answers = cast now. Two yes + one "waiting for weather" = wait one cycle, then recheck. One yes + two wrong = you're wasting your time. Change targets or come back in a different season.**
+What counts as Nocturnal bait: the squid-line baits — Black Squid is the one most players name, and the other squid-derived nocturnal baits do the same job. They're the "night" option on the bait menu.
 
----
+Where to get it depends on the update. Squid-line baits come from squid you catch, from bait crates, and sometimes straight from the bait shop. The reliable route is to catch squid and open crates until you've got a stack, then hold it for night. Stock up before the hunt — bait burns per catch, so a full night window will chew through a surprising amount. If your bait economy is thin, the [bait economy guide](/posts/fisch/bait-economy-guide/) covers how to keep a stack without going broke, and the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) shows how the pairing math works.
 
-## Phantom Ray's Exact Spawn Math
+## Rod & Setup: Lure Speed First, Luck Second
 
-With all three gates open, Phantom Ray has a base spawn rate of approximately 0.3% — roughly 1 in 330 casts. Here's how your gear changes those odds:
+Here's the counterintuitive part, and it flips the way most people gear for a legendary.
 
-| Setup | Effective Luck | Phantom Ray Chance per Cast | Expected Casts for One | Expected Time |
-|-------|---------------|---------------------------|----------------------|---------------|
-| Carbon Rod + Maggots | 15% | ~0.35% | ~290 | ~72 min |
-| Steady Rod + Shrimp | 30% | ~0.39% | ~255 | ~64 min |
-| Mythical Rod + Shrimp | 40% | ~0.42% | ~240 | ~60 min |
-| Destiny Rod + Night Shrimp (night) | 70% | ~0.51% | ~195 | ~49 min |
+For a single targeted fish, Lure Speed beats Luck. Lure Speed controls how fast bites come, which controls how many rolls you get during one night window. The Phantom Ray is one entry in the reef's pool, so your real enemy is low cast count, not a bad rarity roll. Every extra cast during the night is another shot at the ray.
 
-The difference between "worst viable setup" and "best setup" is roughly 23 minutes of fishing — not the 3x difference most players expect. Phantom Ray's rarity is dominated by the 0.3% base rate, and even 70% effective Luck only boosts it to 0.51%. The real skill isn't gear optimization. It's making sure the three gates are actually open.
+Luck still helps a little — it nudges the rarity roll — but it's the smaller lever. If you have to choose between a fast rod with so-so Luck and a slow Luck monster, take the fast one.
 
----
+Rod picks, in order of what you probably own:
 
-## The "I'll Just Fish Until It Bites" Fallacy
+- Any high-Lure-Speed rod you already have. That's the default answer.
+- A rod with a lure mutation or lure enchant. Stacking Lure Speed on an already-fast rod is even better.
+- Enough Max Kg to actually land the ray. It's legendary, not necessarily heavy, but don't bring a starter twig.
 
-This is the most expensive mindset in Fisch. You're at the Shipwreck. It's Summer. You know Phantom Ray requires Autumn. But you think: "Maybe I'll get lucky. Maybe the wiki is wrong. Maybe there's a glitch."
+If you're still deciding which rod to build toward, the [best rods tier list](/posts/fisch/best-rods-tier-list/) ranks the Lure Speed options, and the [rod progression timeline](/posts/fisch/rod-progression-timeline/) shows what to aim for at your level.
 
-There is no glitch. The game's spawn logic doesn't make exceptions. If the season condition isn't met, the Phantom Ray object is never instantiated in the catch pool. You can cast 10,000 times in Summer and the result will be identical to fishing at Moosewood Pond — zero chance.
+## The Reliable Catch Routine
 
-**The math that should convince you:** With all three gates open and an optimized setup, your per-cast Phantom Ray chance is about 0.5%. That's 200 casts for a 63% cumulative probability. Without the gates open: 0.0% per cast. The difference between "very unlikely" and "literally impossible" is the three gates. Don't fish when they're closed.
+Put it together, and the whole hunt is six steps:
 
----
+1. Check the in-game clock. If it's day, wait — don't cast yet.
+2. Travel to the Grand Reef and get close to the reef's edge or a boat off it.
+3. Put Nocturnal bait on before dusk. Don't wait until midnight to fiddle with your loadout.
+4. Equip your fastest Lure Speed rod.
+5. Cast and fish normally through the entire night window. Every catch is a roll; reel each one in fast and get the line back out.
+6. If you don't hook the ray before sunrise, re-bait and wait for the next night — or server-hop and hope for a fresh clock. Don't fish through daylight on hope.
 
-## A Real Player's Timeline: From Frustrated to First Catch
+The dry spell is normal. With the bait on and the window open, you're rolling every few seconds. It feels unlucky for a while, then it hits — usually a soft bite and a bar that behaves like any other legendary.
 
-I tracked a player (level 85, Mythical Rod, Shrimp bait) who had been trying to catch Phantom Ray for two real-life weeks without success. Here's what changed:
+## Failure Retrospective: Three Hours, Zero Rays
 
-**Week 1-2 (0 Phantom Rays):** Fishing at Haunted Shipwreck whenever they had time. No season check. No weather check. Just showing up and casting. They were fishing roughly 50% of the time with all gates closed, 30% with two gates, and only 20% with all three open. In two weeks, they had about 3 hours of eligible casts — and with ~0.4% per cast, that's roughly a 51% cumulative chance. They got unlucky, but not unreasonably unlucky.
+This is the exact failure from the top of the guide, broken into the three parts that matter.
 
-**Week 3 (first Phantom Ray, day 3):** Started checking all three conditions before every session. Only fished when Autumn + Night + Fog were all active. First eligible session: 45 minutes of casting, no Phantom Ray. Second session: 30 minutes, no Phantom Ray. Third session: 22 minutes in, the Phantom Ray bit. Total time to catch after checking gates: about 97 minutes of eligible fishing. Total real-world time from starting the hunt to catching: 17 days, but only 97 minutes of actual eligible casts.
+- Error: three real hours at the Grand Reef, correct night window, decent rod — and no Nocturnal bait on the hook.
+- Cause: treated a legendary fish as a Luck problem. Bought a better rod, stacked Luck, never touched the bait menu. The ray's roll never entered the catch table with any weight, so the three hours were casting at a fish that effectively wasn't there.
+- Recovery: kept the same rod, kept the same spot, added Nocturnal bait. First Phantom Ray inside the hour.
 
-The lesson isn't "Phantom Ray takes 17 days." The lesson is "Phantom Ray takes about 1.5 hours of eligible fishing, but most players spread that 1.5 hours across two weeks because they fish with the gates closed 80% of the time."
+Same shape, second common version: show up at noon, cast for an hour, leave angry. Error is daytime fishing; cause is checking the real clock instead of the in-game one; recovery is waiting for the in-game night. Both failures cost zero C$ to fix — they're conditions, not gear.
 
----
+## If-Then: What to Do Based on What You Own
+
+| If you... | Then... |
+|---|---|
+| Have a high-Lure-Speed rod | Equip it, add Nocturnal bait, fish the Grand Reef at night. Don't chase more Luck. |
+| Only own a high-Luck rod | Keep it for now, but spend your C$ on Nocturnal bait before you spend it on a new rod. |
+| Have no Nocturnal bait | Farm squid and crates first. Do not start the hunt without it — it's the gate. |
+| Can't find the Grand Reef | Pull up the location map. Don't substitute another ocean dock; the pool won't match. |
+| It's daytime in-game | Wait for night or fish something else. The ray won't bite no matter the bait. |
+
+## Counterintuitive: Your Luck Stat Is Not the Problem
+
+Say it one more time, because it's the single thing players get wrong. When a legendary fish won't bite, the instinct is to stack Luck. For the Phantom Ray, that instinct points at the wrong lever.
+
+The gate is Nocturnal bait, and the clock is your cast count. Lure Speed is what raises your casts per night window, so it's the stat that actually moves your odds. Luck only trims the rarity roll on a fish you've already unlocked. Fix the bait, run a fast rod, fish the full night — and you'll land it with worse Luck than the guy burning three hours on a Luck rod with maggots.
+
+## What's Still Unconfirmed
+
+A few details here are soft, because Fisch patches spawn tables without announcing it. Treat these as approximate:
+
+- Exact spawn radius around the Grand Reef. "The reef and nearby deep spots" is the community consensus; the precise boundary shifts between updates.
+- Exact base catch rate and the exact preferred-luck weighting on Nocturnal bait. The numbers behind the roll aren't published.
+- Whether Nocturnal bait is a hard requirement or just a very strong weight. The practical outcome is the same — fish without it and you'll feel like the ray doesn't exist — but the strictness is unconfirmed.
+- Weather interaction. There's no evidence the ray is weather-gated, but whether any weather boosts it is unconfirmed.
+- Exact night hours and day-cycle length. The window is "night," but the precise in-game hour range and cycle length vary by server.
+- Bait sources by update. Squid-line bait reliably comes from squid and crates, but whether the current shop also sells it changes patch to patch.
+
+## FAQ
+
+### Why haven't I caught a Phantom Ray after hours of fishing?
+
+Because you're missing one of the three conditions: in-game night, the Grand Reef area, or Nocturnal bait. The bait is the one people skip. A legendary rarity doesn't mean "more Luck" — for a nocturnal fish, the bait is what unlocks the roll. Check all three before you blame your rod.
+
+### Is the Phantom Ray weather-gated?
+
+No. You don't need rain or fog. The ray cares about time of day and bait, not weather. If someone told you to wait for fog, they're thinking of a different fish.
+
+### What bait do I actually need?
+
+Nocturnal bait — the squid-line baits, with Black Squid being the most commonly named. Put it on before dusk and fish the night window. Without it, the same hours at the same spot tend to produce nothing.
+
+### Do I need a high-Luck rod to catch it?
+
+No. Lure Speed matters more, because more casts per night window means more rolls at the ray. A fast rod with Nocturnal bait beats a Luck rod with neutral bait.
+
+### Where exactly does the Phantom Ray spawn?
+
+In the ocean around the Grand Reef, including the deeper water just off its edge. It's tied to the reef's cast pool, so it won't appear at ponds, docks, or unrelated beaches.
 
 ## Related Guides
 
-- [Fisch Beginner Guide — Rods, Bait & First Catch](/posts/fisch/beginner-guide/)
-- [Fisch Weather, Time & Seasons — Hidden Spawn Mechanics](/posts/fisch/weather-time-season-guide/)
-- [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/posts/fisch/rare-mythic-fish-guide/)
-- [Fisch Progression Path — Your First Mythic](/posts/fisch/mythic-progression-path/)
+- [Fisch Fish Location Map — Find Any Spawn Spot](/posts/fisch/fish-location-map/)
+- [Fisch Complete Location Map — Every Zone & Deep Spot](/posts/fisch/complete-location-map/)
+- [Fisch Best Rods Tier List — Lure Speed vs Luck](/posts/fisch/best-rods-tier-list/)
+- [Fisch Bait Economy Guide — Stocking Nocturnal Bait](/posts/fisch/bait-economy-guide/)
+- [Fisch Weather, Time & Seasons — The Spawn Clock](/posts/fisch/weather-time-season-guide/)
