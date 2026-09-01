@@ -70,16 +70,6 @@
       "statusCode": 301
     },
     {
-      "source": "/posts/blade-ball/gales-edge-v7-guide",
-      "destination": "/games/blade-ball/",
-      "statusCode": 301
-    },
-    {
-      "source": "/posts/blade-ball/gales-edge-v7-guide/",
-      "destination": "/games/blade-ball/",
-      "statusCode": 301
-    },
-    {
       "source": "/posts/blade-ball/game-modes-guide",
       "destination": "/games/blade-ball/",
       "statusCode": 301
