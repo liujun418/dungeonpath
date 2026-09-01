@@ -4,6 +4,7 @@ description: "You have good aim. You have good movement. You're still losing fig
 date: 2026-07-16
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "game sense", "positioning", "guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

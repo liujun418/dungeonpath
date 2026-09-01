@@ -10,6 +10,7 @@ cover:
   caption: "Palworld Boss & Tower Guide"
 lastmod: 2026-06-22
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]

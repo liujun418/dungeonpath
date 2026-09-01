@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Co-op Team Roles Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Co-op", "Strategy Guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

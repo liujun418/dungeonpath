@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Best Pets Guide"
 lastmod: 2026-06-23
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Tier List", "Best Pets", "ps99 best pets", "ps99 tier list", "ps99 huge pets"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

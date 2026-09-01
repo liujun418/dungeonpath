@@ -4,6 +4,7 @@ description: "Stop landing on the wrong moon. Every Lethal Company moon ranked b
 date: 2026-08-14
 lastmod: 2026-08-14
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Moons", "Profit", "Tier List", "Scrap", "Moon Ranking", "Quota", "best-moons-profit"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

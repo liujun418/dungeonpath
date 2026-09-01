@@ -4,6 +4,7 @@ description: "Stop guessing which XP method works. Learn the exact XP curve per 
 date: 2026-08-03
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "leveling", "XP farming", "monster guide", "mobile games", "strategy guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

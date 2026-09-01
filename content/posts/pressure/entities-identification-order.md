@@ -4,6 +4,7 @@ description: "Learn the optimal order to identify every Pressure entity by audio
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Entities", "Survival", "pressure-entities", "entity-identification", "angler-family", "horror-survival", "roblox-guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

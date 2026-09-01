@@ -4,6 +4,7 @@ description: "Standing still to aim is getting you killed. Snipe's movement mech
 date: 2026-06-18
 lastmod: 2026-06-18
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "FPS", "Movement Guide", "Ranked", "Advanced Techniques"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

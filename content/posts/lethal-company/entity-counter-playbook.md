@@ -4,6 +4,7 @@ description: "The 3-second audio protocol for every Lethal Company entity: hear 
 date: 2026-06-17
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Entity Guide", "Survival", "Counter Strategy", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

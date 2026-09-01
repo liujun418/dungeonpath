@@ -4,6 +4,7 @@ description: "You can hit every quickscope in the lobby and still lose every rou
 date: 2026-06-28
 lastmod: 2026-06-28
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "Communication", "Callouts", "Team Play", "FPS Guide"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

@@ -4,6 +4,7 @@ description: "Four randoms with good aim lose to a coordinated team with mediocr
 date: 2026-06-07
 lastmod: 2026-06-07
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Team Strategy", "Ranked", "rivals-team"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

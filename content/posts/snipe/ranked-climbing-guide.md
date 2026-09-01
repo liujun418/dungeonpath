@@ -4,6 +4,7 @@ description: "Hardstuck Gold while your aim is decent? SNIPE ranked climbing is 
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Ranked", "Competitive", "Climbing", "snipe-ranked-guide"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

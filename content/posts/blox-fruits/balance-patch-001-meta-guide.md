@@ -4,6 +4,7 @@ description: "Kitsune is dead, Dark is mandatory, and Spider got the biggest sin
 date: 2026-08-22
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "PvP Meta", "Balance Patch 001", "Best Fruits", "bf-pvp-meta"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

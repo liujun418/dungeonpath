@@ -8,6 +8,7 @@ cover:
   caption: "DOORS Solo vs Team Strategy Guide"
 lastmod: 2026-06-24
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Strategy Guide", "Solo", "Team", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

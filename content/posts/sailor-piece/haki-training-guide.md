@@ -4,6 +4,7 @@ description: "You unlocked Kenbunshoku Haki first because it was available earli
 date: 2026-06-11
 lastmod: 2026-08-01
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Haki", "Training", "Busoshoku", "Kenbunshoku", "sailor-piece-haki"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

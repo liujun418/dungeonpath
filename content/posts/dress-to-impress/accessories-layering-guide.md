@@ -4,6 +4,7 @@ description: "Master accessory layering in Dress to Impress: a priority framewor
 date: 2026-07-06
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["Dress to Impress", "accessories", "layering", "fashion", "Roblox", "guide"]
 categories: ["Roblox Guides"]
 games: ["Dress to Impress"]

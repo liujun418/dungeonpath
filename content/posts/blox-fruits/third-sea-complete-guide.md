@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Third Sea guide"
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["blox-fruits", "third-sea", "endgame", "progression", "grinding", "roblox"]
 categories: ["Blox Fruits"]
 games: ["Blox Fruits"]

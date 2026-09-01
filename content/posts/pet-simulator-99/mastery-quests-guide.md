@@ -4,6 +4,7 @@ description: "Everything you need to know about Pet Simulator 99 Mastery & Quest
 date: 2026-05-14
 lastmod: 2026-05-16
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Mastery Guide", "Rank Quests", "Daily Rewards", "ps99 mastery", "ps99 max rank", "ps99 capes"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

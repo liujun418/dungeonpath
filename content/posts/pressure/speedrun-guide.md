@@ -4,6 +4,7 @@ description: "Want to clear the Hotel in under 30 minutes? Here are the exact sp
 date: 2026-05-28
 lastmod: 2026-06-30
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Speedrun", "Fast Clear", "pressure-speedrun"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

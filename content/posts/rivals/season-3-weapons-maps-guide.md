@@ -9,6 +9,7 @@ cover:
   caption: "RIVALS Season 3 Guide"
 lastmod: 2026-05-15
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Season 3", "Weapons Guide", "Maps Guide", "FPS", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

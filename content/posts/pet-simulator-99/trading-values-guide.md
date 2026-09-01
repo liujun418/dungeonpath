@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Trading Values Guide"
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Trading", "Values", "ps99 trading guide", "ps99 values", "ps99 scam prevention"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

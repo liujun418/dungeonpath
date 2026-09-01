@@ -4,6 +4,7 @@ description: "Kitakami Era guide for Monster Legends: how the new Wind element, 
 date: 2026-08-15
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Kitakami Era", "Wind Element", "Season 1", "Mythic", "monster-legends-kitakami"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

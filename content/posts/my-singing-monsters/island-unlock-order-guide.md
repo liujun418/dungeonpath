@@ -4,6 +4,7 @@ description: "The exact order to unlock every MSM island, what each costs, and t
 date: 2026-07-10
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "islands", "unlock order", "progression", "mobile games", "guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

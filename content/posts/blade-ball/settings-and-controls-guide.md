@@ -8,6 +8,7 @@ cover:
   caption: "Blade Ball Settings and Controls Guide"
 lastmod: 2026-07-01
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Settings", "Controls"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

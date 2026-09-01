@@ -9,6 +9,7 @@ cover:
   caption: "Fisch Enchantments Guide"
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

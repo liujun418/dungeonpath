@@ -4,6 +4,7 @@ description: "Best Pals tier list that actually works. Which Pal to get for your
 date: 2026-05-10
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Tier List", "Combat", "Mounts", "Base Work", "Progression"]
 categories: ["PC Games"]
 games: ["Palworld"]

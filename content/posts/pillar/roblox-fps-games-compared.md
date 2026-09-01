@@ -4,6 +4,7 @@ description: "Comparing the best Roblox FPS games — Arsenal, Rivals, Snipe, Ba
 date: 2026-05-18
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "FPS", "Comparison", "Arsenal", "Rivals", "Snipe", "Bad Business", "best roblox fps 2026"]
 categories: ["Roblox Guides"]
 cover:

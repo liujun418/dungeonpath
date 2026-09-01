@@ -4,6 +4,7 @@ description: "Stuck on the Atlantean Storm bestiary in Fisch? All 8 Grand Reef w
 date: 2026-08-22
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Atlantean Storm", "Grand Reef", "Bestiary", "fisch-atlantean-storm"]
 categories: ["Fisch"]
 games: ["Fisch"]

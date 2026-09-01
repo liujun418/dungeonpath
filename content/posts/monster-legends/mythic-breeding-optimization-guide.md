@@ -4,6 +4,7 @@ description: "You've got 200 gems and a dream. Here's the exact breeding math, t
 date: 2026-06-28
 lastmod: 2026-06-28
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Mythic", "Optimization"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

@@ -4,6 +4,7 @@ description: "The Hellsing update brought Crimson Art, a 1500-level raid boss, a
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Hellsing Update", "Crimson Art", "Fighting Styles", "sp-hellsing"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

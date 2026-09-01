@@ -4,6 +4,7 @@ description: "Stop wasting hours on slow XP methods. Learn the best grinding spo
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Leveling", "XP Farming", "Guide", "sailor-piece-leveling", "Hellsing Update", "Grinding Spots", "Second Sea"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

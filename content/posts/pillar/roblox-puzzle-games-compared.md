@@ -8,6 +8,7 @@ cover:
   caption: "Best Roblox Puzzle Games 2026"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["Pillar", "Roblox", "Puzzle Games", "Escape Room", "Comparison", "Ranking"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

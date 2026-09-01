@@ -4,6 +4,7 @@ description: "How to climb through every Blade Ball rank tier, counter the 4 maj
 date: 2026-07-18
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Ranked", "Competitive", "Strategy", "Playstyle Counters", "blade-ball-ranked"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

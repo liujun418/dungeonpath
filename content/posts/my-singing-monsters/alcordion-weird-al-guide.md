@@ -4,6 +4,7 @@ description: "Weird Al Yankovic joins My Singing Monsters as Legendary Alcordion
 date: 2026-08-14
 lastmod: 2026-08-14
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Weird Al", "Alcordion", "DIPSTER DIGS", "Legendary Monster", "Air Island", "msm-alcordion"]
 categories: ["My Singing Monsters"]
 games: ["My Singing Monsters"]

@@ -4,6 +4,7 @@ description: "You're still fishing at Moosewood Pier at level 50 because 'it's c
 date: 2026-06-05
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Money", "Farming", "C$", "fisch-money"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

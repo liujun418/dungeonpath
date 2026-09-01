@@ -7,6 +7,7 @@ cover:
   caption: "Dress To Impress VIP Guide"
 lastmod: 2026-07-28
 draft: false
+author: "Alex Turner"
 description: "Is Dress To Impress VIP worth the Robux? We compare VIP vs Free Play perks side by side, including Custom Makeup, exclusive items, priority lobbies, and whether the benefits justify the cost for casual and competitive players."
 tags: ["Dress To Impress", "Roblox"]
 category: "Roblox Guides"

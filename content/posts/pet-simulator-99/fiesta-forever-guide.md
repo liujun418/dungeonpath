@@ -4,6 +4,7 @@ description: "PS99 Fiesta Forever Update 89 guide: how the Eternal Maze, Cursed 
 date: 2026-08-16
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Fiesta Forever", "Eternal Maze", "Cursed Mode", "Update 89", "ps99-fiesta"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

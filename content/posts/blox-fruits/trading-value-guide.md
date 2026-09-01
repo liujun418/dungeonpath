@@ -4,6 +4,7 @@ description: "Everything you need to know about Blox Fruits Trading Guide. Blox 
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Trading Guide", "Fruit Values", "Economy"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

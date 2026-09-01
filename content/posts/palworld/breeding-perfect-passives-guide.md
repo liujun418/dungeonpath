@@ -8,6 +8,7 @@ cover:
   caption: "Palworld Perfect Passives Breeding Guide"
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Breeding Guide", "Passives", "Optimization", "Pals"]
 categories: ["Game Guides"]
 games: ["Palworld"]

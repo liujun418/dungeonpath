@@ -4,6 +4,7 @@ description: "Should you grind XP or farm Beli in Sailor Piece? The wrong choice
 date: 2026-07-22
 lastmod: 2026-07-22
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Leveling", "Money Farming", "XP Guide", "Beli Farming", "sailor-piece-leveling-money"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

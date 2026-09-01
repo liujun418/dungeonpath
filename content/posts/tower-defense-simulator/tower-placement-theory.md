@@ -4,6 +4,7 @@ description: "You placed your Minigunner in what looks like a great spot. But it
 date: 2026-06-05
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Placement", "Strategy", "tds-placement"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

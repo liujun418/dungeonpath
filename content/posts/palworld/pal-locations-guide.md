@@ -8,6 +8,7 @@ cover:
   caption: "Palworld Pal Locations Guide"
 lastmod: 2026-07-20
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Maps", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]

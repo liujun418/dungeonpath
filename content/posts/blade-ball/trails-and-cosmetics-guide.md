@@ -9,6 +9,7 @@ cover:
   caption: "Blade Ball Trails and Cosmetics Guide"
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Cosmetics", "Items Guide", "Equipment Guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

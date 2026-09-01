@@ -4,6 +4,7 @@ description: "Dying because your shots don't register? SNIPE hit registration is
 date: 2026-05-20
 lastmod: 2026-05-20
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Settings", "Optimization", "best-snipe-settings", "hit-registration"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

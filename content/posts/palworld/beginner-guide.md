@@ -4,6 +4,7 @@ description: "You built your first base at the spawn point and now you're walkin
 date: 2026-06-02
 lastmod: 2026-06-02
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Beginner Guide", "Base Building", "Pals", "Survival"]
 categories: ["Game Guides"]
 games: ["Palworld"]

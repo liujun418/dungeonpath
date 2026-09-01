@@ -4,6 +4,7 @@ description: "Still wearing the basic Cape you found on Starter Island? Here are
 date: 2026-05-23
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Accessories", "Items", "Equipment", "Tier List", "best-accessories-blox-fruits"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

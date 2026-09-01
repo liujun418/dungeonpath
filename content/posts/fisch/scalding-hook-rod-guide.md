@@ -4,6 +4,7 @@ description: "How to get the Scalding Hook in Fisch's The Deep update: Vesper's 
 date: 2026-08-15
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Scalding Hook", "The Deep", "Rod Guide", "fisch-scalding"]
 categories: ["Fisch"]
 games: ["Fisch"]

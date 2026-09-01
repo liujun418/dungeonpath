@@ -9,6 +9,7 @@ cover:
   caption: "Pet Simulator 99 Clan Battles Guide"
 lastmod: 2026-05-16
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Clan Battles", "Titanic Pets", "Multiplayer", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

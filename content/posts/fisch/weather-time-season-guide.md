@@ -4,6 +4,7 @@ description: "You've been fishing for 3 hours at the Haunted Shipwreck and the P
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Weather", "Time", "Seasons", "Mechanics", "fisch-weather-guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

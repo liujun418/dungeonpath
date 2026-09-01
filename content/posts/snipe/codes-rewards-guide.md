@@ -4,6 +4,7 @@ description: "Looking for working SNIPE codes? Here are all active and tested co
 date: 2026-05-21
 lastmod: 2026-05-21
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Codes", "Free Rewards", "Credits"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

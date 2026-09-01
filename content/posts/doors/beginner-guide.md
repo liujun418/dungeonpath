@@ -4,6 +4,7 @@ description: "New to DOORS? Learn audio cues, closet timing, and item strategy t
 date: 2026-06-01
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Beginner Guide", "Horror", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

@@ -4,6 +4,7 @@ description: "Carbon Rod or Steady Rod in Fisch? Compare price, luck, lure, cont
 date: 2026-08-13
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Rods", "Comparison", "Fisch Beginner Guide", "carbon rod vs steady rod", "fisch rod progression", "The Deep", "Luminous Rod", "mid-game rod"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

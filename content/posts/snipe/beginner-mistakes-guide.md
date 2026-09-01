@@ -4,6 +4,7 @@ description: "Losing gunfights you should win? Here are the 10 most common SNIPE
 date: 2026-05-26
 lastmod: 2026-05-26
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Beginner Guide", "Tips", "Mistakes", "snipe-beginner-mistakes"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

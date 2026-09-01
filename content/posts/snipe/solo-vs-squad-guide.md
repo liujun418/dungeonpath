@@ -4,6 +4,7 @@ description: "Solo queuing into Squad is an RP trap. Compare SNIPE's solo and sq
 date: 2026-05-27
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Solo", "Squad", "Strategy", "snipe-solo-vs-squad"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

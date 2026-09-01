@@ -8,6 +8,7 @@ cover:
   caption: "Sailor Piece Codes Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Codes and Rewards", "Free Items", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

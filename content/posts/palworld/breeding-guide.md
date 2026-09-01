@@ -9,6 +9,7 @@ cover:
   caption: "Palworld Breeding Guide"
 lastmod: 2026-06-21
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Survival", "Tips"]
 categories: ["PC Games"]
 games: ["Palworld"]

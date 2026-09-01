@@ -4,6 +4,7 @@ description: "Your base is crumbling, the timer's ticking, and three titans are 
 date: 2026-05-18
 lastmod: 2026-06-30
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Late Game", "Wave Survival", "Boss Guide", "bf late game strategy", "bf wave 50 survival"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

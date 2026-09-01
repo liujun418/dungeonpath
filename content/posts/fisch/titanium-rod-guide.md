@@ -4,6 +4,7 @@ description: "The Titanium Rod needs Level 250, two questlines, and 200,000 C$. 
 date: 2026-08-13
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Titanium Rod", "The Deep", "Rod Guide", "fisch-titanium"]
 categories: ["Fisch"]
 games: ["Fisch"]

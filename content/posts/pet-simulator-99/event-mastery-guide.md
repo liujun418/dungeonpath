@@ -4,6 +4,7 @@ description: "Every PS99 event has the same structure: limited pets, boosted rat
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Events", "Strategy", "ps99-events"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

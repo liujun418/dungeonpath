@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Monster Bestiary: Every Entity Explained (2026) Guide"
 lastmod: 2026-08-01
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Bestiary", "Monsters", "Entities", "Lethal Company monsters", "Bracken counter", "Coil-Head strategy"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

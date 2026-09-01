@@ -4,6 +4,7 @@ description: "Your crew keeps dying on day 2? Here are the 10 most common Lethal
 date: 2026-08-08
 lastmod: 2026-08-08
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Beginner Guide", "Tips", "Mistakes", "Survival", "lc-beginner-mistakes"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

@@ -4,6 +4,7 @@ description: "Learn from a top DOORS speedrunner who completed the game in under
 date: 2026-06-15
 lastmod: 2026-06-15
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Speedrunning", "Room Recognition", "doors-interview"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

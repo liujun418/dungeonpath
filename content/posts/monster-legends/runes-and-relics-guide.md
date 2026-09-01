@@ -7,6 +7,7 @@ cover:
   caption: "Monster Legends Runes & Relics Guide"
 lastmod: 2026-07-15
 draft: false
+author: "Alex Turner"
 description: "Your max-level runes could be sabotaging you. Learn the rune priority framework, counter-intuitive speed traps, and relic combos that actually win wars in Monster Legends."
 tags: ["Monster Legends", "Mobile Games", "Equipment Guide"]
 category: "Mobile Games"

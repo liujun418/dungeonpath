@@ -4,6 +4,7 @@ description: "Pet Sim 99 luck potion stacking actually works differently than yo
 date: 2026-08-07
 lastmod: 2026-08-07
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Luck", "Boosting", "Huge Pets", "Strategy"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

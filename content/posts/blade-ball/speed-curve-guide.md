@@ -4,6 +4,7 @@ description: "You survive deflections 1-4 consistently, then die instantly on de
 date: 2026-06-01
 lastmod: 2026-06-01
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Mechanics", "Speed Curve", "blade-ball-speed"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

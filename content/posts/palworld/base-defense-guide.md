@@ -4,6 +4,7 @@ description: "Came back to a destroyed base because a raid hit while you were AF
 date: 2026-06-16
 lastmod: 2026-07-09
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Base Building", "Defense", "Automation", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]

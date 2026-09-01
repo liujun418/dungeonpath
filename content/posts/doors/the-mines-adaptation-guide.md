@@ -4,6 +4,7 @@ description: "You cleared the Hotel and thought you were ready for The Mines. Yo
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Mines", "Survival", "Strategy", "doors-mines"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

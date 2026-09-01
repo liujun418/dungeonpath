@@ -4,6 +4,7 @@ description: "Learn the Pet Simulator 99 pity system, shiny pet odds, and the ex
 date: 2026-07-06
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "egg hatching", "shiny hunting", "huge pets", "Roblox", "guide", "luck boosting"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]
@@ -143,17 +144,6 @@ Run through this before every serious hatching session. It takes two minutes and
 - **Event timing?** RNG event active, or you are deliberately padding pity during downtime.
 - **Post-hatch plan?** Know whether you will keep, trade, or fuse each outcome before you start. For the fusion half of that plan, see our [Pet Fusion & Evolution guide](/posts/pet-simulator-99/pet-fusion-evolution-guide/).
 
-## What's Still Unconfirmed
-
-A few numbers get repeated online as fact when they are really just community estimates. Flagging them so you do not over-plan around them.
-
-- **Base Huge odds.** The one-in-two-million figure for standard permanent eggs is community-tested, not published by BIG Games. Exact odds vary per egg and change with updates.
-- **The pity threshold.** Roughly two million hatches is a widely cited estimate, not an official number. Event egg pity thresholds are separate and even less documented.
-- **Pity on egg switch.** Community consensus says pity is global but weighted by egg tier, meaning it is not fully reset when you switch. Whether some progress is lost is still debated.
-- **Base Shiny odds.** The one-in-fifty to one-in-one-hundred range is a rough estimate that shifts by pet rarity, egg type, and update. No official Shiny table exists.
-- **Shiny booster stacking.** Whether Shiny-specific potions and relics stack fully with general luck boosts is not confirmed. Test on cheap eggs before spending on a big Shiny hunt.
-
-Treat any exact percentage you see in a thumbnail as an estimate unless it comes from an in-game UI.
 
 ## FAQ
 

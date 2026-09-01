@@ -8,6 +8,7 @@ cover:
   caption: "Doors Seek chase survival guide"
 lastmod: 2026-07-19
 draft: false
+author: "Alex Turner"
 tags: ["doors", "seek", "chase", "survival", "roblox", "horror"]
 categories: ["Doors"]
 games: ["Doors"]

@@ -8,6 +8,7 @@ cover:
   caption: "Roblox survival horror games comparison"
 lastmod: 2026-06-29
 draft: false
+author: "Alex Turner"
 tags: ["pillar", "roblox", "survival", "horror", "comparison", "doors", "pressure"]
 categories: ["Pillar"]
 games: ["Pillar", "Doors", "Pressure"]

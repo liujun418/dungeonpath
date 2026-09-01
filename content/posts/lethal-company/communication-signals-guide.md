@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Communication & Signals Guide"
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Communication", "Co-op", "Strategy Guide"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

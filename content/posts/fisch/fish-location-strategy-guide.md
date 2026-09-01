@@ -4,6 +4,7 @@ description: "You're at the right location with the right rod and still catching
 date: 2026-06-07
 lastmod: 2026-06-07
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Location", "Strategy", "Fishing", "fisch-locations"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

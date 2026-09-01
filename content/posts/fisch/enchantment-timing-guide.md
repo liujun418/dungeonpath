@@ -4,6 +4,7 @@ description: "Master Fisch enchantment timing in 2026 with The Deep Update's new
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Enchantments", "Strategy", "fisch-enchantment-timing", "the-deep-update", "mutations", "rod-progression"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

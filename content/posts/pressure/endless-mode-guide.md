@@ -9,6 +9,7 @@ cover:
   caption: "Pressure Endless Mode Guide"
 lastmod: 2026-06-21
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

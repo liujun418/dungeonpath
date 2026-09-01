@@ -4,6 +4,7 @@ description: "Wave 40 was fine. Then wave 50 hit and your entire Titan lineup di
 date: 2026-06-12
 lastmod: 2026-07-06
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Boss Guide", "Waves", "bbf-boss"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

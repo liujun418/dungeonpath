@@ -4,6 +4,7 @@ description: "You matched the theme but still got 2 stars. Here's what actually 
 date: 2026-06-01
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Beginner Guide", "Fashion", "dti-beginner"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

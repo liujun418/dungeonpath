@@ -8,6 +8,7 @@ cover:
   caption: "Sailor Piece race awakening guide"
 lastmod: 2026-07-01
 draft: false
+author: "Alex Turner"
 tags: ["sailor-piece", "race-awakening", "v2", "v3", "builds", "roblox"]
 categories: ["Sailor Piece"]
 games: ["Sailor Piece"]

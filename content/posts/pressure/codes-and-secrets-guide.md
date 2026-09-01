@@ -8,6 +8,7 @@ cover:
   caption: "Pressure Codes and Secrets Guide"
 lastmod: 2026-08-26
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Codes", "Secrets"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

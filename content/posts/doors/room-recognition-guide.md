@@ -4,6 +4,7 @@ description: "Can't tell a library from a storage room until it's too late? Lear
 date: 2026-08-08
 lastmod: 2026-08-08
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Room Recognition", "Hotel", "Survival", "doors-room-types"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

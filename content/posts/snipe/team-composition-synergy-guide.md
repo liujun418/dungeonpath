@@ -4,6 +4,7 @@ description: "Four S-tier abilities on one team should dominate. Instead, you're
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "FPS", "Team Composition", "Synergy", "Squad", "Team Play", "snipe-team-composition"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

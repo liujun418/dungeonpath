@@ -4,6 +4,7 @@ description: "You've been walking past Gold Bars, Apparatus rooms, and Nutcracke
 date: 2026-08-03
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Rare Items", "Secret Loot", "Artifacts", "Farming Guide", "PC Games"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

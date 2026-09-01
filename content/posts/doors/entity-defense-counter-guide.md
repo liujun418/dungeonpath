@@ -4,6 +4,7 @@ description: "Master every entity encounter in Doors with exact counter-strategi
 date: 2026-07-15
 lastmod: 2026-07-15
 draft: false
+author: "Alex Turner"
 tags: ["Doors", "Roblox", "entity", "defense", "counter", "guide"]
 categories: ["Roblox Guides"]
 games: ["Doors"]

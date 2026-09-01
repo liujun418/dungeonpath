@@ -8,6 +8,7 @@ cover:
   caption: "Pressure Entity Timing Guide"
 lastmod: 2026-06-27
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Entity Guide", "Timing", "Survival", "Mechanics"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

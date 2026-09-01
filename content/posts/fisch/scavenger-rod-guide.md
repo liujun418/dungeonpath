@@ -4,6 +4,7 @@ description: "Fisch Scavenger Rod guide: finish Dr. Crookspine's three-part oil 
 date: 2026-08-26
 lastmod: 2026-08-26
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Scavenger Rod", "Dr. Crookspine", "Astral Observatory", "Lunar String"]
 categories: ["Fisch"]
 games: ["Fisch"]
@@ -133,9 +134,6 @@ The fast way is to force the mutation up front. A **Mutation Totem** at the appr
 
 The same logic applies to bait. Players assume more luck is always better, but for low-rarity quest items, Garbage Bait is the correct call because it keeps the pool clean. Want the full breakdown of how bait affects your rolls? See the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) and the [bait economy guide](/posts/fisch/bait-economy-guide/).
 
-## What's Still Unconfirmed
-
-The exact patch date is approximate (around August 22, 2026), and the "easiest of the three" label is community consensus rather than an official rating. The Scavenged mutation's 40% trigger rate and 3x multiplier come from the rod description, but how that interacts with the Rare-Finds passive in specific spots is still being tested by players. Treat the stat table as accurate to the rod card, not as a deep-dive into hidden multipliers.
 
 ## FAQ
 

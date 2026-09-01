@@ -4,6 +4,7 @@ description: "You brought your best Arena team into the Dungeon, steamrolled Flo
 date: 2026-06-22
 lastmod: 2026-06-22
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Dungeon Guide", "Adventure", "Strategy", "Team Building"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

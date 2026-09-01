@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Leveling Guide"
 lastmod: 2026-07-19
 draft: false
+author: "Alex Turner"
 description: "Ultimate Blox Fruits leveling guide for 2026. Fastest XP method revealed, complete island quest list for all three seas, best grinding fruit and build, and tips to reach max level 2600 fast."
 tags: ["Blox Fruits", "Roblox", "Leveling", "Farming Guide", "Progression"]
 categories: ["Roblox Guides"]

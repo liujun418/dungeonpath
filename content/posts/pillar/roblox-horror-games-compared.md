@@ -4,6 +4,7 @@ description: "DOORS or Pressure? We compare both Roblox horror giants across dif
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "DOORS", "Pressure", "Horror", "Comparison", "Best", "doors vs pressure", "roblox horror games compared"]
 categories: ["Roblox Guides"]
 cover:

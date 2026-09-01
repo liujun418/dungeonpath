@@ -4,6 +4,7 @@ description: "Everything you need to know about Blockade Battlefront Characters 
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Characters", "Skins", "Team Composition", "bf characters guide", "bf best units"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

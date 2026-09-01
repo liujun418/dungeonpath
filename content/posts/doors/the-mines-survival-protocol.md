@@ -4,6 +4,7 @@ description: "You cleared the Hotel 20 times and walked into The Mines thinking 
 date: 2026-06-06
 lastmod: 2026-06-06
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Mines", "Survival", "Strategy", "doors-mines-protocol"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

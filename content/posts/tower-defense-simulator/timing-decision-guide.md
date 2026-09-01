@@ -4,6 +4,7 @@ description: "You have 800 coins on wave 15. Do you upgrade your Farm to level 3
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Timing", "Economy", "Strategy", "tds-timing"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

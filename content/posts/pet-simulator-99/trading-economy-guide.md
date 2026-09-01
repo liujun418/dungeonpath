@@ -4,6 +4,7 @@ description: "You bought a Huge for 25M Gems because the seller said 'Cosmic say
 date: 2026-06-14
 lastmod: 2026-06-14
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Trading", "Economy", "RAP", "ps99-trading"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

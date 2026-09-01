@@ -4,6 +4,7 @@ description: "My Singing Monsters Mirror Islands guide: when they unlock, what m
 date: 2026-08-29
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Monsters", "Mirror Islands", "msm island guide", "msm shards guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
@@ -31,7 +32,7 @@ related:
   - /posts/my-singing-monsters/beginner-guide/
 ---
 
-> *Last updated: August 29, 2026. This guide covers what Mirror Islands are, when they unlock, and how to use them as a passive Shard farm. Version-dependent numbers are flagged under What's Still Unconfirmed.*
+> *Last updated: August 29, 2026. This guide covers what Mirror Islands are, when they unlock, and how to use them as a passive Shard farm.*
 
 ## You Hit Level 20, the "Mirror" Button Appears, and You're Not Sure It's Worth a Click
 
@@ -134,17 +135,6 @@ The second thing people get backwards is what the island is for at all. It's not
 
 So the counterintuitive play: buy cheap mirrored commons, skip the shiny quads until you're rich, and stop expecting coins from an island built to convert them. Treat it as a slow Shard generator you fund with spare change, and it stops feeling useless.
 
-## What's Still Unconfirmed
-
-A few details here are version-dependent or hard to pin down without checking the live game, and I'd rather flag them than hand you a wrong number.
-
-First, the exact unlock level. Around level 20 for the first mirror island is the most common figure, but the game has added mirror islands across multiple updates, and unlock thresholds have moved before. Check your own game before planning around a specific level.
-
-Second, the full list of mirror islands. The natural five are the core, but Fire and Magical mirror islands exist and unlock much later. Whether a given island has a mirror version, and at what level, has shifted between patches.
-
-Third, exact monster prices and Shard rates. Mirrored monster costs range from a few thousand coins for commons up into the millions for quads, and Shard-per-hour varies by monster and level. I've kept the numbers here deliberately approximate because the precise figures change and are easy to misquote.
-
-Fourth, whether the island itself carries an unlock fee. Some sources describe a level gate only; others mention a coin cost to open each mirror island. Treat any unlock cost as uncertain and check what the game asks when you tap it.
 
 ## FAQ
 

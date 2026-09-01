@@ -4,6 +4,7 @@ description: "You installed Pressure, walked three rooms, heard a screech, and d
 date: 2026-07-24
 lastmod: 2026-07-24
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Beginner Guide", "Survival", "Complete Guide", "First Win", "pressure-beginner-survival"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

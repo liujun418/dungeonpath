@@ -4,6 +4,7 @@ description: "You built the exact team from a tier list and you're still stuck i
 date: 2026-05-12
 lastmod: 2026-06-16
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Arena PvP", "Strategy Guide", "Speed Meta", "Team Building"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

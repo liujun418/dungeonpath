@@ -4,6 +4,7 @@ description: "You bred the right element pair 30 times and still got zero Mythic
 date: 2026-06-16
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Breeding", "Mythic", "Wind Element", "Aristocratic Era", "Hidden Mechanics"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

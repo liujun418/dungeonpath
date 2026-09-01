@@ -4,6 +4,7 @@ description: "S-tier lists tell you Dragon is the best fruit. But you're level 7
 date: 2026-06-02
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Tier List", "Devil Fruits", "PvP", "Grinding"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

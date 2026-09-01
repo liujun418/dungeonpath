@@ -4,6 +4,7 @@ description: "Stop burning diamonds on panic speed-ups. This MSM collecting guid
 date: 2026-07-16
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "rare", "seasonal", "collection", "guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

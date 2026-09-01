@@ -9,6 +9,7 @@ cover:
   caption: "Palworld Resources & Materials Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Farming Guide", "Survival"]
 categories: ["PC Games"]
 games: ["Palworld"]

@@ -4,6 +4,7 @@ description: "The Blox Fruit dealer is offering you a fruit for 50,000 Beli. Sho
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Beginner Guide", "Leveling", "Walkthrough"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

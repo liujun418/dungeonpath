@@ -4,6 +4,7 @@ description: "Palworld 1.1 is coming, but Pocketpair already ruled out new islan
 date: 2026-08-19
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "1.1", "Pocketpair", "Update Guide", "palworld-1-1"]
 categories: ["PC Games"]
 games: ["Palworld"]

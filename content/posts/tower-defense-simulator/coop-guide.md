@@ -4,6 +4,7 @@ description: "Win Tower Defense Simulator co-op with role assignments, tower coo
 date: 2026-05-12
 lastmod: 2026-08-26
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Co-op", "Multiplayer", "tds co-op strategy", "tds team towers", "tds multiplayer guide"]
 categories: ["PC Game Guides"]
 games: ["Tower Defense Simulator"]

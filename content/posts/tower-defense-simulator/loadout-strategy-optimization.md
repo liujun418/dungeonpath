@@ -8,6 +8,7 @@ cover:
   caption: "Loadout optimization multiplies your effective power more than any single tower upgrade"
 lastmod: 2026-07-29
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Loadout Strategy", "Loadout Optimization", "Tower Synergy", "TDS Guide", "TDS Loadout Framework"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

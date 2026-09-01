@@ -4,6 +4,7 @@ description: "You're stuck at 200K coins while other players fly past millions. 
 date: 2026-07-20
 lastmod: 2026-07-20
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Coin Economy", "Coin Farming", "Optimization", "Economy Guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

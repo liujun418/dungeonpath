@@ -9,6 +9,7 @@ cover:
   caption: "RIVALS Codes Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Codes and Rewards", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

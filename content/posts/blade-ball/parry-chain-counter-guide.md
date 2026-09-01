@@ -8,6 +8,7 @@ cover:
   caption: "Blade Ball Parry Chain & Counter Guide"
 lastmod: 2026-06-26
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Parry Guide", "Combat", "PvP", "Mechanics"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

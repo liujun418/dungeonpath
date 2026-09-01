@@ -4,6 +4,7 @@ description: "The JJK Expansion adds Shinjuku Island, two Gojo-and-Sukuna-inspir
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "JJK Expansion", "Shinjuku Island", "Fighting Styles", "sp-jjk"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

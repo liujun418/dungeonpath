@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 exclusive pets investment"
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 tags: ["pet-simulator-99", "trading", "investment", "exclusive-pets", "economy", "roblox"]
 categories: ["Pet Simulator 99"]
 games: ["Pet Simulator 99"]

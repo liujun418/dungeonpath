@@ -4,6 +4,7 @@ description: "Sailor Piece Sea Beast hunting is not luck. Learn the exact spawn 
 date: 2026-06-19
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Sea Beasts", "Boss Hunting", "Ship Combat", "Farming Guide", "Ocean Bosses"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]
@@ -258,16 +259,6 @@ The fourth mistake is letting the wrong player drive. If they panic-turn every t
 
 The fifth mistake is greed. If the Beast is badly positioned, reset the angle. If the crew is dead, stop pulling deeper.
 
-## What's Still Unconfirmed
-
-Sailor Piece updates its spawn and drop systems often enough that exact numbers drift. Treat these as approximate, and re-test them on a fresh server before committing a full farm:
-
-- **Exact spawn timer values.** The spawn window and the despawn timer both shift between updates. The 200–600 stud band and the "more bounty means more spawns" rule hold, but the precise seconds are not fixed.
-- **How bounty scales spawn rate.** It is clear that stacked bounty improves pace. Whether it scales in a smooth line or in breakpoints is unconfirmed. Our best results came around 20M+ total, but we did not isolate the exact threshold.
-- **Drop rates for Bloodline Stone and Clan Reroll.** These are the drops everyone wants, and the community has never agreed on a reliable rate. Volume farming is the only strategy that consistently pays out, which is why kills per hour beats chasing one lucky drop.
-- **Whether Beast HP scales with crew size.** Fights feel shorter with a full crew, but that may be uptime rather than a scaling mechanic. We have not confirmed either way.
-
-If you discover a consistent spawn timer or drop rate, verify it across three different servers before you trust it. Server hopping changes things more than most players admit.
 
 ## Sea Beast Hunting FAQ
 

@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Codes Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 description: "All active Blox Fruits codes tested and verified for May 2026. Redeem for free rewards, boosts, and exclusive items before they expire. Updated regularly."
 tags: ["Blox Fruits", "Roblox", "Codes", "Free Items"]
 categories: ["Roblox Guides"]

@@ -4,6 +4,7 @@ description: "Sailor Piece races and hybrid builds guide for 2026. Complete race
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Races Guide", "Build Guide", "Tier List"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

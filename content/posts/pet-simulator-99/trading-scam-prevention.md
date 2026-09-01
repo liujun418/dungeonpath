@@ -4,6 +4,7 @@ description: "Learn how to avoid the 7 most common trading scams in Pet Simulato
 date: 2026-06-15
 lastmod: 2026-06-15
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Trading", "Scam Prevention", "ps99-trading-scams"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

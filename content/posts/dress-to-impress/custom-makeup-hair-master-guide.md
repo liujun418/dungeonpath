@@ -1,6 +1,7 @@
 ---
 title: "DTI Complete Custom Makeup & Hair Mastery Guide: Looks That Win"
 date: 2026-07-20
+author: "Alex Turner"
 lastmod: 2026-07-20
 description: "Master custom makeup and hair in Dress to Impress. Best makeup combos for every theme, hair selection strategy, color theory tips, and how beauty decisions impact your final podium score."
 summary: "Your face and hair choices can make or break a DTI round. This guide covers custom makeup techniques, winning hair-makeup combinations for every theme category, color matching secrets, and the scoring logic behind beauty decisions."

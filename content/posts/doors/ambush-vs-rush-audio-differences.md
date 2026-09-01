@@ -4,6 +4,7 @@ description: "Learn the exact audio cues that distinguish DOORS Ambush from Rush
 date: 2026-06-15
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Ambush", "Rush", "Audio Recognition", "doors-ambush-rush"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

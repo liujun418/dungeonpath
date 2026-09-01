@@ -4,6 +4,7 @@ description: "What does AP mean in Blade Ball? What's a perfect parry vs a clash
 date: 2026-05-25
 lastmod: 2026-05-25
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Mechanics", "Glossary", "AP", "Parry", "blade-ball-ap"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

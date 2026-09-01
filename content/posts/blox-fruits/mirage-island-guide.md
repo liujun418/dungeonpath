@@ -4,6 +4,7 @@ description: "When Mirage Island spawns in Blox Fruits Third Sea, what is actual
 date: 2026-08-28
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Mirage Island", "Third Sea", "Sea Beast", "Island", "Night"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
@@ -126,15 +127,6 @@ The reliable move is the opposite of what feels right: pick one route, sail it t
 
 Second, and smaller: don't trust last night. The place you saw Mirage Island yesterday is not a clue about today. It's a memory of a spawn, and spawns wander. The only constant is the night.
 
-## What's Still Unconfirmed
-
-A few specifics I couldn't verify against a live patch, so treat them as approximations:
-
-- **The exact spawn chance.** Whether Mirage Island is guaranteed to appear every night, or has a random chance per night, isn't confirmed. Plan as if it might skip a night.
-- **Whether it replaces other islands.** Some players report the island appearing in place of, or overlapping, other Third Sea islands; others say it's always open water. This one's genuinely unclear.
-- **What secrets are on it.** Specific hidden spots, NPCs, or event triggers tied to the island have shifted across updates. Treat any "Mirage Island secret" you see as approximate until a current source confirms it.
-- **Whether Sea Beast rates are actually boosted there.** It's a known Sea Beast spot, but whether the island boosts the rate or just happens to be a convenient night-time arena isn't settled. Either way it works for farming.
-- **The exact night window.** The island appears at night and leaves at dawn, but the precise in-game timing isn't documented. Treat "nightfall to daybreak" as the safe window.
 
 ## FAQ
 

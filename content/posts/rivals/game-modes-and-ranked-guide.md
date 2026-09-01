@@ -9,6 +9,7 @@ cover:
   caption: "RIVALS Game Modes and Ranked Guide"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Game Modes", "Competitive", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

@@ -4,6 +4,7 @@ description: "RIVALS Season 3 Battle Pass has the Spear on the FREE track — a 
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Battle Pass", "Season 3", "Spear", "RIVALS Season 3 Pass", "RIVALS Spear Weapon", "Grappler"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

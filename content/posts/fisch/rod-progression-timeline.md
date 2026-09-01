@@ -4,6 +4,7 @@ description: "Still using the Carbon Rod at level 50 because it 'feels fine'? Th
 date: 2026-06-13
 lastmod: 2026-06-13
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Rods", "Progression", "fisch-rods"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

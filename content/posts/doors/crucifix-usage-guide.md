@@ -4,6 +4,7 @@ description: "Which entities the DOORS crucifix banishes, exact placement timing
 date: 2026-08-01
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Crucifix", "Strategy", "Guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

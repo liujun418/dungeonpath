@@ -4,6 +4,7 @@ description: "The Deep update added a trench biome, Deep Survey Device, and four
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "The Deep", "v1.96", "Update", "New Rods", "fisch-the-deep"]
 categories: ["Fisch"]
 games: ["Fisch"]

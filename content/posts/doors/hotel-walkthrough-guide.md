@@ -4,6 +4,7 @@ description: "You've died 30 times before Room 50 and you're starting to think t
 date: 2026-06-07
 lastmod: 2026-07-27
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Hotel", "doors-walkthrough"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

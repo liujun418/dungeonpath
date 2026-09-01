@@ -4,6 +4,7 @@ description: "Stuck in Gold for 200 hours while your aim is 'fine'? Most SNIPE p
 date: 2026-07-21
 lastmod: 2026-07-21
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Ranked", "Roadmap", "Competitive", "Skill Milestones", "snipe-ranked-roadmap"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

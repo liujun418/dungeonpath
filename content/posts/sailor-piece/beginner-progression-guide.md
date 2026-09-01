@@ -4,6 +4,7 @@ description: "You hit level 400 with evenly spread stats, no race awakening, and
 date: 2026-07-26
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Progression Guide", "Beginner to Endgame", "Leveling Route"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

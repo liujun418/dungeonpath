@@ -3,6 +3,7 @@ title: "Palworld Dungeon & Cave Exploration Guide (2026): Every Location, Boss, 
 date: 2026-07-18
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 description: "Complete Palworld dungeon guide covering every cave and sealed realm on all islands. Level recommendations, boss spawn tables, loot percentages, navigation tips, and why most players waste hours fighting the wrong enemies."
 tags: ["Palworld", "PC Games", "Exploration Guide", "Dungeon Guide"]
 categories: ["PC Games"]

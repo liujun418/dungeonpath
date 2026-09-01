@@ -4,6 +4,7 @@ description: "Expert strategies for surviving deeper into Pressure. Master consu
 date: 2026-07-14
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "advanced", "survival", "strategy", "guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

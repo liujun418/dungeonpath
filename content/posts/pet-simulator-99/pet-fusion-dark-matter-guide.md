@@ -4,6 +4,7 @@ description: "You finally got enough Dark Matter material. You converted the wro
 date: 2026-07-23
 lastmod: 2026-07-23
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Pet Fusion", "Dark Matter", "Fusion Guide", "DPS Optimization", "Economy"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

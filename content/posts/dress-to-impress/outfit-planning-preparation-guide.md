@@ -4,6 +4,7 @@ description: "Stop losing Dress to Impress rounds to poor planning. Learn the me
 date: 2026-07-15
 lastmod: 2026-07-15
 draft: false
+author: "Alex Turner"
 tags: ["Dress to Impress", "outfit", "planning", "themes", "guide"]
 categories: ["Roblox Guides"]
 games: ["Dress to Impress"]

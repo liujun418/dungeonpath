@@ -4,6 +4,7 @@ description: "Master SNIPE's most advanced techniques — frame-perfect movement
 date: 2026-05-18
 lastmod: 2026-06-24
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Advanced Techniques", "Ranked", "Movement Tech", "snipe advanced guide", "snipe ranked climb"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

@@ -4,6 +4,7 @@ description: "Want more Cen in Blockade Battlefront without wasting hours? These
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Titans", "Upgrades", "Cen Farming", "Build Guide", "bf titans guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

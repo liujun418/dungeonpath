@@ -4,6 +4,7 @@ description: "You had the right ability, the right angle, and the right read. Yo
 date: 2026-08-03
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Energy", "Stamina", "Guide", "blade-ball-energy-management"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

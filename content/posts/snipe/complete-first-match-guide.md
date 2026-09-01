@@ -4,6 +4,7 @@ description: "Your first Snipe match will feel like a firing squad. You load in,
 date: 2026-07-29
 lastmod: 2026-07-29
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "FPS", "Beginner Guide", "First Match", "Getting Started"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

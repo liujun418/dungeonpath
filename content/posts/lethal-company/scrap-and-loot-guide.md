@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Scrap and Loot Guide"
 lastmod: 2026-07-03
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Items Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

@@ -9,6 +9,7 @@ cover:
   caption: "Sailor Piece PvP Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "PvP", "Combat", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

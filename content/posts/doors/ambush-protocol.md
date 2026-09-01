@@ -4,6 +4,7 @@ description: "You heard a screech, hid in a closet, waited one second, and walke
 date: 2026-06-14
 lastmod: 2026-06-14
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Ambush", "Survival", "doors-ambush"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

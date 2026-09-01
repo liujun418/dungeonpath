@@ -4,6 +4,7 @@ description: "Stop dying because you sprinted at the wrong time. Learn DOORS spr
 date: 2026-08-07
 lastmod: 2026-08-07
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Movement", "Stamina", "Strategy"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

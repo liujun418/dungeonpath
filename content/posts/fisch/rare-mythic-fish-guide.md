@@ -4,6 +4,7 @@ description: "Been fishing for hours with no Mythic to show for it? Here is exac
 date: 2026-05-23
 lastmod: 2026-07-27
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Rare Fish", "Mythic Fish", "Fishing", "rare-mythic-fisch"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

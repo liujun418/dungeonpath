@@ -4,6 +4,7 @@ description: "You're down 1-3 in ranked and it's match point against you. Here's
 date: 2026-07-08
 lastmod: 2026-07-08
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "clutch", "comeback", "ranked", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

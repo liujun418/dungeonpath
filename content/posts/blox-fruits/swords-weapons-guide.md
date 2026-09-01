@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Swords Guide"
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 description: "Stop wasting Beli on the wrong sword. Exact upgrade paths, hidden tricks, and PvP combos that actually work in Blox Fruits 2026."
 tags: ["Blox Fruits", "Roblox", "Weapons", "Tier List"]
 categories: ["Roblox Guides"]

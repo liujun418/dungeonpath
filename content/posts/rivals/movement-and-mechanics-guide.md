@@ -8,6 +8,7 @@ cover:
   caption: "RIVALS Movement and Mechanics Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

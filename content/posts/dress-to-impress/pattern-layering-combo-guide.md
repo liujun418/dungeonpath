@@ -8,6 +8,7 @@ cover:
   caption: "Dress to Impress Pattern & Layering Guide"
 lastmod: 2026-06-24
 draft: false
+author: "Alex Turner"
 tags: ["Dress to Impress", "Roblox", "Fashion Guide", "Patterns", "Layering", "Styling"]
 categories: ["Roblox Guides"]
 games: ["Dress to Impress"]

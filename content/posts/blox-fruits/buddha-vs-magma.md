@@ -4,6 +4,7 @@ description: "Buddha or Magma in Blox Fruits? Post-Summer PvP Update comparison:
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Fruits", "Comparison", "blox fruits buddha vs magma", "best grinding fruit blox fruits", "Summer PvP Update", "bf-pvp-meta", "grinding guide", "fruit comparison 2026", "Sea Events"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

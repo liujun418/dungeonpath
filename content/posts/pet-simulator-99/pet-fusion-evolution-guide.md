@@ -4,6 +4,7 @@ description: "You saved up 50 million gems, fused your best pets, and ended up w
 date: 2026-06-19
 lastmod: 2026-06-19
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Pet Fusion", "Evolution Guide", "Gem Strategy", "DPS Optimization"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

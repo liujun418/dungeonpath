@@ -4,6 +4,7 @@ description: "Struggling to afford Upgraded Titan TV Man before wave 50? Here ar
 date: 2026-05-20
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Cen Farming", "Economy", "Money Guide", "cen-farming-bbf"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

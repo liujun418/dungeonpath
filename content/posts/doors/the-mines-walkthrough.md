@@ -4,6 +4,7 @@ description: "Hotel veterans walk into The Mines and die to Grumble on Room 3 be
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Mines", "Walkthrough", "Horror", "doors-mines"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

@@ -8,6 +8,7 @@ cover:
   caption: "My Singing Monsters Seasonal Event Calendar Guide"
 lastmod: 2026-06-26
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Event Calendar", "Breeding", "Limited-Time"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

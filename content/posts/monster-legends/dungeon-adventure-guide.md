@@ -4,6 +4,7 @@ description: "Stuck on a dungeon boss? Here's every Monster Legends dungeon mech
 date: 2026-05-26
 lastmod: 2026-07-23
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Dungeons", "Adventure Map", "Bosses", "ml-dungeon-guide"]
 categories: ["Mobile Game Guides"]
 games: ["Monster Legends"]

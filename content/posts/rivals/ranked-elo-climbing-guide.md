@@ -4,6 +4,7 @@ description: "You queue up, you grind, and your rank barely moves. Here is exact
 date: 2026-07-30
 lastmod: 2026-07-30
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "ranked", "ELO", "climbing", "guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

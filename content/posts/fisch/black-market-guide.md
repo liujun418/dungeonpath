@@ -4,6 +4,7 @@ description: "Fisch Black Market guide: the Sunday restock schedule, this week's
 date: 2026-08-20
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Black Market", "Shady Bazaar", "C$", "fisch-black-market"]
 categories: ["Fisch"]
 games: ["Fisch"]

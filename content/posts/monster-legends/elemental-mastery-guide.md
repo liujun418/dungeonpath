@@ -8,6 +8,7 @@ cover:
   caption: "Monster Legends elemental mastery"
 lastmod: 2026-07-01
 draft: false
+author: "Alex Turner"
 tags: ["monster-legends", "elements", "team-building", "counters", "pvp"]
 categories: ["Monster Legends"]
 games: ["Monster Legends"]

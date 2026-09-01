@@ -4,6 +4,7 @@ description: "You're holding what you think is a power position, scoped in on th
 date: 2026-06-22
 lastmod: 2026-06-22
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "FPS", "Positioning", "Angles", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

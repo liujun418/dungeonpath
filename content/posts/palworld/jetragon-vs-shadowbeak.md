@@ -4,6 +4,7 @@ description: "Jetragon or Shadowbeak in Palworld 1.0.3? Jetragon's tech dropped 
 date: 2026-08-14
 lastmod: 2026-08-14
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Comparison", "Pals", "jetragon vs shadowbeak", "best combat pal palworld", "best mount palworld", "update 103", "Jetragon", "Shadowbeak", "legendary pals", "level 70 unlock", "flying mount"]
 categories: ["PC Games"]
 games: ["Palworld"]

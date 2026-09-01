@@ -4,6 +4,7 @@ description: "Activated Zynth first because Reddit said so, then realized you ha
 date: 2026-06-16
 lastmod: 2026-06-16
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Wublin Island", "Currency Optimization", "Wake-Up Order", "Strategy"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

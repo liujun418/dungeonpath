@@ -4,6 +4,7 @@ description: "You're hardstuck Gold and don't know why. Here's exactly what chan
 date: 2026-06-05
 lastmod: 2026-06-05
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "1v1", "Ranked", "Climbing", "blade-ball-ranked"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

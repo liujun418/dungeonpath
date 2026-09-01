@@ -4,6 +4,7 @@ description: "Spending diamonds on speed-ups? Placing monsters randomly? Here ar
 date: 2026-05-28
 lastmod: 2026-05-28
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "MSM", "Beginner Guide", "Tips", "Mistakes", "msm-beginner-mistakes"]
 categories: ["Mobile Game Guides"]
 games: ["My Singing Monsters"]

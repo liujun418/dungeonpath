@@ -4,6 +4,7 @@ description: "You are stuck at 32 minutes and cannot break the sub-30 barrier. H
 date: 2026-07-21
 lastmod: 2026-07-21
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Speedrun", "Optimization", "PB", "pressure-speedrun-optimization"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

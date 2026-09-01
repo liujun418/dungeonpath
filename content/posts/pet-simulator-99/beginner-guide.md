@@ -4,6 +4,7 @@ description: "New to PS99 and not sure whether to save Gems or spend them? Here'
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Beginner Guide", "Walkthrough", "ps99 beginner"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

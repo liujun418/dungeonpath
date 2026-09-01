@@ -4,6 +4,7 @@ description: "Blade Ball Ranked Season 20 guide: how the Champion sword, Top 200
 date: 2026-08-14
 lastmod: 2026-08-14
 draft: false
+author: "Alex Turner"
 categories: ["Blade Ball"]
 games: ["Blade Ball"]
 cover:

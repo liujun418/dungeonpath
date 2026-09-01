@@ -8,6 +8,7 @@ cover:
   caption: "Rivals Sensitivity & Crosshair Guide"
 lastmod: 2026-06-23
 draft: false
+author: "Alex Turner"
 tags: ["Rivals", "Roblox", "FPS Guide", "Sensitivity", "Crosshair", "Aim Training"]
 categories: ["Roblox Guides"]
 games: ["Rivals"]

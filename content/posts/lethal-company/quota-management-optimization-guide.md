@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Quota Management Guide"
 lastmod: 2026-07-09
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Horror", "Co-op", "Quota Guide", "Strategy", "Economy"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

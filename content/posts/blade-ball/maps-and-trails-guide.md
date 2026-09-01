@@ -8,6 +8,7 @@ cover:
   caption: "Blade Ball Maps and Trails Guide"
 lastmod: 2026-06-21
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Maps", "Cosmetics", "Locations"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

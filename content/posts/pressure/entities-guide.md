@@ -4,6 +4,7 @@ description: "You hear a sound, freeze, and die because you do not know what it 
 date: 2026-06-14
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Entities", "Monsters", "pressure-entities"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

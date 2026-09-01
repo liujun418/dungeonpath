@@ -4,6 +4,7 @@ description: "Wave 28 leaks cost you the run at wave 30. Here is every BBF enemy
 date: 2026-07-14
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "waves", "enemy", "counter", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

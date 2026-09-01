@@ -8,6 +8,7 @@ cover:
   caption: "Sailor Piece Bounty & Honor PvP Guide"
 lastmod: 2026-06-23
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "PvP Guide", "Bounty System", "Honor", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

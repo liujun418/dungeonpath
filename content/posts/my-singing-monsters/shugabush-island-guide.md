@@ -4,6 +4,7 @@ description: "MSM Shugabush Island unlock guide: verified Shugafamily breeding c
 date: 2026-08-07
 lastmod: 2026-08-07
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "MSM", "Shugabush Island", "Breeding", "Strategy"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

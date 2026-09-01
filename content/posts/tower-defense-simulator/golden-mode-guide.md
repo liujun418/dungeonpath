@@ -5,6 +5,7 @@ description: "Which golden tower should you unlock first in TDS? We crunched the
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Golden Towers", "Golden Crate", "DPS Guide", "tds golden", "tds golden minigunner", "tds golden crate"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

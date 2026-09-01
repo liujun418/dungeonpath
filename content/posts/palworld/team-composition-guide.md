@@ -4,6 +4,7 @@ description: "Five maxed Jetragons still wipe to Tower bosses. Learn the 5-role 
 date: 2026-06-21
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Team Building", "Combat Guide", "Tower Boss", "Synergy", "Party Setup"]
 categories: ["PC Games"]
 games: ["Palworld"]
@@ -235,17 +236,6 @@ You'll clear the boss that wiped your five Jetragons in under three minutes. Not
 
 Now go breed a tank.
 
-## What's Still Unconfirmed
-
-A few numbers here are approximate — check them against the current patch before committing resources.
-
-- **Exact HP and defense values.** Anubis ~4,500, Astegon ~5,900, Blazamut ~6,800 are ballpark, patch-dependent, and shifted by IVs.
-- **The 150% Dragon-to-Dark weakness.** The direction (Dark beats Dragon) is solid; the multiplier may have moved.
-- **Pyrin Noct's "roughly 40%" fire aura.** Buff values aren't always documented and can shift. The effect is real; the number is approximate.
-- **Support buffs from the sphere.** Partner-skill auras need active deployment, but a few passives behave inconsistently. Test yours before a real attempt.
-- **Saya & Selyne (Neutral/Dark).** Newer content; the counter-pick consensus is still settling. Dragon plus crowd control is my read.
-
-If any of these matter for a hard clear, verify them in the [Palworld 1.1 update guide](/posts/palworld/palworld-1-1-update-guide/).
 
 ## FAQ
 

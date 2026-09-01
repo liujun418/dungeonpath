@@ -4,6 +4,7 @@ description: "Master Pressure's locker mini-game, entity-specific hiding rules, 
 date: 2026-07-09
 lastmod: 2026-07-09
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "locker", "hiding", "survival", "guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

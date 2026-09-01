@@ -4,6 +4,7 @@ description: "Still buying every Titan you can afford? Spamming abilities off co
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Beginner Guide", "Tips", "Mistakes", "bbf-beginner-mistakes"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

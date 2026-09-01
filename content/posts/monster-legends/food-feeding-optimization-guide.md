@@ -4,6 +4,7 @@ description: "Stop bleeding food on the wrong monsters. Learn the exact feeding 
 date: 2026-07-09
 lastmod: 2026-07-09
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "food", "feeding", "optimization", "mobile games", "guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

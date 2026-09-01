@@ -4,6 +4,7 @@ description: "Struggling to find the right Roblox fighting game? We compare comb
 date: 2026-07-20
 lastmod: 2026-07-20
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "fighting games", "comparison", "The Strongest Battlegrounds", "Combat Warriors", "Brawlhallah", "Anime Battle Arena", "best roblox fighting games 2026"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

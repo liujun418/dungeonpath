@@ -4,6 +4,7 @@ description: "You just hit 1,000 Credits and blew them on a cosmetic. Now you ca
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Credits", "Economy", "Guide", "pressure-credits-economy"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

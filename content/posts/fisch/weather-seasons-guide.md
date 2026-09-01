@@ -4,6 +4,7 @@ description: "Fish gone quiet on a sunny afternoon? Learn how Fisch weather and 
 date: 2026-08-08
 lastmod: 2026-08-08
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Weather", "Seasons", "Fishing", "fisch-weather"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

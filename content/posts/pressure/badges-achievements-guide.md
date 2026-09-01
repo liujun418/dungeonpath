@@ -9,6 +9,7 @@ cover:
   caption: "Pressure Badges & Achievements Guide"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Badges", "Achievements", "Survival", "Completionist"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

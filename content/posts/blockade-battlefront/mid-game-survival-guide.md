@@ -4,6 +4,7 @@ description: "You breeze through wave 30 then suddenly everything falls apart. T
 date: 2026-05-29
 lastmod: 2026-05-29
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Mid-Game", "Strategy", "Survival", "bbf-mid-game"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

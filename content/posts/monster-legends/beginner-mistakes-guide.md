@@ -4,6 +4,7 @@ description: "New to Monster Legends? Stop wasting gems on speed-ups and food on
 date: 2026-07-13
 lastmod: 2026-07-13
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "beginner", "mistakes", "tips", "mobile games", "guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

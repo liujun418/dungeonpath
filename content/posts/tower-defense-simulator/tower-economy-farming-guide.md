@@ -4,6 +4,7 @@ description: "You placed the 'best' towers but bled coins every wave. Here's the
 date: 2026-07-21
 lastmod: 2026-07-21
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Economy", "Farm", "Coins", "Strategy", "tds-economy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

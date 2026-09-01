@@ -4,6 +4,7 @@ description: "Compare the best Roblox tycoon games for 2026. We break down depth
 date: 2026-07-13
 lastmod: 2026-07-13
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "tycoon games", "comparison", "best games", "2026", "guide"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

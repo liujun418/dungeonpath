@@ -4,6 +4,7 @@ description: "Hard mode isn't Normal with bigger numbers. Shielded enemies hit a
 date: 2026-08-06
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Hard Mode", "Difficulty", "Strategy", "bbf-hard-mode"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

@@ -4,6 +4,7 @@ description: "The Noiseform Rod hides 290% Luck and infinite Max Kg behind Fisch
 date: 2026-08-21
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Noiseform Rod", "Shady Bazaar", "Cyan Candles", "Mysterious Shadow", "fisch-noiseform"]
 categories: ["Fisch"]
 games: ["Fisch"]

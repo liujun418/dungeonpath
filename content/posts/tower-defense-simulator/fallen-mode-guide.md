@@ -4,6 +4,7 @@ description: "Master Fallen mode in Tower Defense Simulator with this complete g
 date: 2026-05-10
 lastmod: 2026-08-27
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Endgame Guide", "Strategy Guide", "tds mode strategy", "tds loadout guide", "tds fallen mode", "tds boss guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
@@ -176,16 +177,6 @@ Use this when you are not sure what to build next.
 
 Skipping the damage tower to fix your economy is the single most important Fallen skill. Every new player's instinct is "I'm losing damage, buy more damage." In Fallen that's backwards. The tower you skip at wave 10 becomes three towers at wave 20 if the gold goes into Farms instead. A maxed Farm beats a second DPS tower in the mid-game: the Farm prints gold while the extra DPS tower sits idle. When in doubt, build the Farm.
 
-## What's Still Unconfirmed
-
-A few details I could not pin down exactly, because balance patches shuffle them. Treat these as approximate:
-
-- **Exact wave numbers for the mini-bosses.** The Void Reaver sits "around wave 20" in most versions, but patches have nudged it. Check the in-game wave preview before you commit a plan.
-- **The Fallen King's exact HP pool.** It is hundreds of thousands and scales with player count, but the precise number drifts between updates.
-- **Fallen enemy HP multipliers.** I've seen 1.5x to 3x cited for different enemy types. The ratios hold even if the exact numbers move.
-- **Whether Electroshocker or Sledger is the better crowd-control pick.** It shifts with balance; both work, so bring whichever you have leveled.
-
-When a stat matters mid-run, confirm it on the wiki or the in-game wave preview before you rely on it. For a reference list of enemies and their wave patterns, see the [Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/).
 
 ## Frequently Asked Questions
 
@@ -222,4 +213,3 @@ For raw coin-per-hour, not always. Fallen pays well but takes longer and risks m
 - [TDS Co-op Guide](/posts/tower-defense-simulator/coop-guide/)
 - [TDS Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/)
 - [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)
-

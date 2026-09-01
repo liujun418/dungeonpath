@@ -4,6 +4,7 @@ description: "Chasing the wrong badges wastes dozens of runs. Here is every Pres
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Badges", "Achievements", "pressure-badges-guide"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

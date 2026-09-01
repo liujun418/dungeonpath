@@ -9,6 +9,7 @@ cover:
   caption: "Dress To Impress Seasonal Events Guide"
 lastmod: 2026-07-22
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Seasonal Events", "Events Guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

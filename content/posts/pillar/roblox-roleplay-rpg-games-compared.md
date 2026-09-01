@@ -4,6 +4,7 @@ description: "Bloxburg, Blox Fruits, or Brookhaven? We compare 6 Roblox roleplay
 date: 2026-07-31
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "Roleplay", "RPG", "Comparison", "Best", "Brookhaven", "Deepwoken", "roblox roleplay games 2026", "roblox rpg compared"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

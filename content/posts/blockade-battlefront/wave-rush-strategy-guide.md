@@ -8,6 +8,7 @@ cover:
   caption: "Blockade Battlefront Wave Rush Strategy Guide"
 lastmod: 2026-06-23
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Strategy Guide", "Wave Rush", "Speedrun"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

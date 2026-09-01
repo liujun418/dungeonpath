@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Gems and Coins Guide"
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Currency", "Farming", "Gems", "Coins", "Diamonds", "Fiesta Points", "Fiesta Orbs", "Piñata Maze", "ps99 gems guide", "ps99 coins guide", "ps99 farming"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

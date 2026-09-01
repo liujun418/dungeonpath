@@ -9,6 +9,7 @@ cover:
   caption: "DOORS The Outdoors Walkthrough"
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Walkthrough", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

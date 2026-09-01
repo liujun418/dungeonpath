@@ -4,6 +4,7 @@ description: "Every RIVALS season wipes your rank, resets your battle pass, and 
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Season Guide", "Battle Pass", "Rank Reset", "Seasonal Events", "F2P"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

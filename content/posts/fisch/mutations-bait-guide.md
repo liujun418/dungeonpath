@@ -4,6 +4,7 @@ description: "Every Fisch mutation multiplier, the best bait combos, and the rod
 date: 2026-05-14
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Mutations", "Bait Guide", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

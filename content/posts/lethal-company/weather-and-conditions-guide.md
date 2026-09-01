@@ -7,6 +7,7 @@ cover:
   caption: "Lethal Company Weather & Conditions Guide"
 lastmod: 2026-07-20
 draft: false
+author: "Alex Turner"
 description: "Lethal Company weather guide 2026. Eclipsed, Flooded, Stormy, Foggy, Rainy effects with scrap value multipliers, spawn changes, and survival strategies."
 tags: ["Lethal Company", "PC Games", "Weather Guide", "Survival", "Mechanics"]
 categories: ["PC Games"]

@@ -4,6 +4,7 @@ description: "Stop getting one-shot by bounty hunters with a meta fruit but no p
 date: 2026-06-17
 lastmod: 2026-06-17
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "PvP", "Bounty Hunting", "Combat Guide", "Strategy"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

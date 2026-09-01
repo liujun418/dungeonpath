@@ -4,6 +4,7 @@ description: "Dying before Room 20 every run? These 12 mistakes — from confusi
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Beginner Guide", "Tips", "Mistakes", "Survival", "Hotel", "doors-beginner-mistakes", "Entity Guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

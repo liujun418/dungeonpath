@@ -4,6 +4,7 @@ description: "Everything you need to know about Dress To Impress Makeup & Pose G
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Makeup Guide", "Pose Guide", "Runway Tips", "dti custom makeup", "dti poses", "dti runway"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

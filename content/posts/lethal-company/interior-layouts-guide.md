@@ -7,6 +7,7 @@ cover:
   caption: "Lethal Company Interior Guide"
 lastmod: 2026-07-22
 draft: false
+author: "Alex Turner"
 description: "Lethal Company interior guide 2026. Facility and Mansion dungeons mapped with room types, navigation tips, trap patterns, strategies to never get lost inside."
 tags: ["Lethal Company", "PC Games", "Maps", "Mechanics"]
 categories: ["PC Games"]

@@ -4,6 +4,7 @@ description: "You loaded into Rooftops with the default sniper and died 15 times
 date: 2026-06-01
 lastmod: 2026-06-01
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Beginner Guide", "Sniper", "Movement"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

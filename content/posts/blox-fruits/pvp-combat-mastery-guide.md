@@ -4,6 +4,7 @@ description: "You queued into a Sea 3 arena match with your Dough fruit, Dark Co
 date: 2026-07-22
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "PvP", "Combat Guide", "Arena Strategy", "Combo Mastery"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

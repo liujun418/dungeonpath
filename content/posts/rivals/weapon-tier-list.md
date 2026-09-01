@@ -9,6 +9,7 @@ cover:
   caption: "RIVALS Weapon Tier List (May 2026): Every Weapon Ranked Guide"
 lastmod: 2026-05-15
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Tier List", "Weapons", "Loadout Guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

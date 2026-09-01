@@ -4,6 +4,7 @@ description: "Dress To Impress Free vs VIP Guide — which one should you choose
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "VIP Guide", "Free Items", "Game Pass", "dti vip", "dti free vs paid", "dti worth it"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

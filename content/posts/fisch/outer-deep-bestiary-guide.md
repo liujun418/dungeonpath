@@ -4,6 +4,7 @@ description: "The Outer Deep bestiary has 21 entries with specific bait, weather
 date: 2026-08-13
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Outer Deep", "Bestiary", "The Deep", "fisch-bestiary"]
 categories: ["Fisch"]
 games: ["Fisch"]

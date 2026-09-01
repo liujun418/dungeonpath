@@ -4,6 +4,7 @@ description: "You just installed TDS and have no idea what to do first. Here is 
 date: 2026-07-17
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "beginner roadmap", "first week", "tips", "guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

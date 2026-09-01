@@ -4,6 +4,7 @@ description: "Can't choose between Pet Simulator 99 and Fisch? We compare grindi
 date: 2026-05-19
 lastmod: 2026-05-19
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "Pet Simulator 99", "Fisch", "Comparison", "Simulator", "Best", "ps99 vs fisch", "best roblox simulator games"]
 categories: ["Roblox Guides"]
 cover:

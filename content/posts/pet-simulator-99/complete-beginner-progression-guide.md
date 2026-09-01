@@ -2,6 +2,7 @@
 title: "Pet Simulator 99 Complete Beginner to Pro Progression Path"
 description: "The exact progression path from your first pet to endgame in Pet Simulator 99. Stage-by-stage milestones, rebirth timing, coin targets, and the optimal sequence most players skip."
 date: 2026-07-27
+author: "Alex Turner"
 lastmod: 2026-07-27
 cover:
   image: "/cover-image/pet-sim-99-beginner-progression/cover.webp"

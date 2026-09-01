@@ -4,6 +4,7 @@ description: "You're baking treats constantly but your monsters are still under-
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Food Guide", "Monster Feeding", "Treats", "Optimization", "Bakery Guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

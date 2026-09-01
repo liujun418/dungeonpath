@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Bosses & Raids Guide"
 lastmod: 2026-06-19
 draft: false
+author: "Alex Turner"
 description: "You brought Buddha, your friend brought Magma, and you still wiped on Dough King at 10%. The problem isn't your fruit — it's that you don't know the phase transition triggers, the aggro management, or the exact dodge timing for each boss's one-shot move. Here's the boss-by-boss survival framework."
 tags: ["Blox Fruits", "Roblox", "Bosses", "Raids", "Strategy Guide"]
 categories: ["Roblox Guides"]

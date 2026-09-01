@@ -4,6 +4,7 @@ description: "Hotel, The Mines, or the upcoming Archives — which DOORS floor b
 date: 2026-05-18
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Walkthrough", "Comparison", "The Archives", "The Rooms", "doors hotel vs mines", "doors floor difficulty comparison"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

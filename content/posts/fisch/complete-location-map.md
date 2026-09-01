@@ -4,6 +4,7 @@ description: "You're using a location map that shows where fish spawn but never 
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Location", "Map", "Fish", "fisch-locations"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

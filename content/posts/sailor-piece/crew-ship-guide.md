@@ -4,6 +4,7 @@ description: "Everything you need to know about Sailor Piece Crew & Ship Guide. 
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Crew", "Ship"]
 categories: ["PC Game Guides"]
 games: ["Sailor Piece"]

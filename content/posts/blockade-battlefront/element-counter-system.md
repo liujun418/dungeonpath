@@ -4,6 +4,7 @@ description: "Stop throwing your S-tier Titan at every wave and wondering why it
 date: 2026-06-18
 lastmod: 2026-06-18
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Element Counter", "Strategy Guide", "Nightmare Mode", "Titan Guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

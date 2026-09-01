@@ -4,6 +4,7 @@ description: "Complete guide to The Rooms in DOORS: how to find the flickering d
 date: 2026-08-29
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Rooms", "A-60", "A-120", "endless", "survival"]
 categories: ["Doors"]
 games: ["Doors"]
@@ -156,16 +157,6 @@ The room you just left is usually safer than the one ahead. A-60 and A-120 move 
 
 Your flashlight is a false friend. Light feels safe, but it drains battery you cannot refill, and it drowns out the one signal that actually saves you. Use it in short bursts to read geometry, then go dark. Your ears work better in the dark, and the hum is louder against the silence.
 
-## What's Still Unconfirmed
-
-This area has shifted across updates, so several details are honestly up in the air.
-
-- The entrance door's exact spawn room and visual tell. "No number" and "flickering frame" are the common reports, but the room-50-to-60 figure is approximate and has moved between versions.
-- The exit door's location. "Around room 500" is the older community figure, not a hard number, and it has drifted with patches.
-- The full entity roster. A-60 and A-120 are confirmed. A-90, A-200, and other A-series names come from the crossover and may or may not appear in every build.
-- Whether the Crucifix works on A-60 and A-120 here. Reports are mixed, and The Rooms plays by looser rules than the Hotel. Treat it as unreliable, not a panic button.
-- The naming. Some builds and players call The Backdoor "The Rooms," but they are separate areas. This guide is about the grey endless stretch with no lockers. For the locker-based sub-floor, see [The Backdoor guide](/posts/doors/the-backdoor-complete-guide/).
-- The exact room geometry. The precise shape of the recesses, walls, and corners varies, so "get out of the lane" is the reliable principle even when the specific safe spots shift.
 
 ## Frequently Asked Questions
 

@@ -2,11 +2,17 @@
 title: "About DungeonPath — Free Game Guides & Walkthroughs"
 description: "DungeonPath provides expert, up-to-date game guides for Roblox, mobile, and PC games. Free walkthroughs, tier lists, breeding charts, and strategy tips. No paywalls, no accounts required."
 date: 2026-05-09
-lastmod: 2026-05-10
+lastmod: 2026-09-01
 draft: false
 ---
 
-**Last updated: May 10, 2026**
+**Last updated: September 1, 2026**
+
+---
+
+## Who Writes DungeonPath
+
+DungeonPath is written and maintained by **Alex Turner**, a long-time player of the games we cover. Alex plays each title before writing about it, and keeps the guides updated when games change. You can read more on the [author page](/authors/alex-turner/).
 
 ---
 

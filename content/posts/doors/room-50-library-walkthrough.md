@@ -4,6 +4,7 @@ description: "Figure keeps snapping your neck in the Library? You're not bad at 
 date: 2026-05-29
 lastmod: 2026-05-29
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Library", "Figure", "Walkthrough", "doors-room-50"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

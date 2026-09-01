@@ -4,6 +4,7 @@ description: "Should you grind Golden Mode for Golden Towers, Fallen for skins, 
 date: 2026-05-21
 lastmod: 2026-05-21
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "TDS", "Golden Mode", "Fallen Mode", "Hardcore Mode", "Comparison"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

@@ -9,6 +9,7 @@ cover:
 cover-slug: blox-fruits-first-sea-complete
 lastmod: 2026-07-30
 draft: false
+author: "Alex Turner"
 tags: ["blox-fruits", "first-sea", "leveling", "progression", "beginner-guide", "roblox"]
 categories: ["Blox Fruits"]
 games: ["Blox Fruits"]

@@ -4,6 +4,7 @@ description: "PS99 codes come and go in hours. Here's where to actually find the
 date: 2026-05-29
 lastmod: 2026-05-29
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Codes", "Free Rewards", "ps99 codes", "ps99 promo codes"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

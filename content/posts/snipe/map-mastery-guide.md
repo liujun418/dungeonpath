@@ -4,6 +4,7 @@ description: "Your Heavy Sniper dominates on Bridge but gets you destroyed on Wa
 date: 2026-06-10
 lastmod: 2026-07-13
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Maps", "Strategy", "snipe-maps"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

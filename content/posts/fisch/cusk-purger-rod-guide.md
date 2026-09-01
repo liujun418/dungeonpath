@@ -4,6 +4,7 @@ description: "The Cusk Purger is Fisch's most expensive rod with the best Distur
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Cusk Purger", "The Deep", "Rod Guide", "Crafting", "fisch-cusk-purger"]
 categories: ["Fisch"]
 games: ["Fisch"]

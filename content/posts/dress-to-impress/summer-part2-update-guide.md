@@ -4,6 +4,7 @@ description: "Dress to Impress Summer 2026 Part 2 added 64 new items and a new c
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["Dress to Impress", "Roblox", "Summer Update", "New Items", "Codes", "dti-summer"]
 categories: ["Roblox Guides"]
 games: ["Dress to Impress"]

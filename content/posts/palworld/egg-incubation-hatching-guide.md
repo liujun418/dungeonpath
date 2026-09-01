@@ -4,6 +4,7 @@ description: "Learn how to find rare eggs, optimize incubation temperature, and 
 date: 2026-07-07
 lastmod: 2026-07-07
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "egg incubation", "egg hatching", "breeding", "guide"]
 categories: ["Game Guides"]
 games: ["Palworld"]

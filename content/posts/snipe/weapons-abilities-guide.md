@@ -4,6 +4,7 @@ description: "Everything you need to know about SNIPE Weapons & Abilities Guide.
 date: 2026-05-17
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Weapons Guide", "Abilities", "Loadout", "Tier List", "snipe abilities roblox"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

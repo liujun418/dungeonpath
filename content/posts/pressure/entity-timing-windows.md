@@ -4,6 +4,7 @@ description: "You heard Rush's screech but don't know if you have 2 seconds or 5
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Entities", "Timing", "pressure-entity-timing"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

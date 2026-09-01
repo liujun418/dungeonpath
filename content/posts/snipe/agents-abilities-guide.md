@@ -4,6 +4,7 @@ description: "Seven abilities, seven different ways to play. Some complement agg
 date: 2026-07-17
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "FPS", "Abilities", "Agents", "Tier List", "Playstyle Guide", "snipe-abilities-guide"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

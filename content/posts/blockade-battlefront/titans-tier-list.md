@@ -4,6 +4,7 @@ description: "Spent 15K Cen on an S-tier Titan that died in 8 seconds? Here is t
 date: 2026-05-20
 lastmod: 2026-08-05
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Tier List", "Titans", "best-titans-bbf", "wave-strategy"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

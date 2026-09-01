@@ -4,6 +4,7 @@ description: "You've been bleeding Credits on the wrong items and dying to puzzl
 date: 2026-06-10
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Items", "Puzzles", "pressure-items"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

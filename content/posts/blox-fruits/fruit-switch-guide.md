@@ -4,6 +4,7 @@ description: "You ate Flame at level 50. Now you're level 300 and it's holding y
 date: 2026-05-31
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Devil Fruits", "Progression", "fruit-switch-blox-fruits"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

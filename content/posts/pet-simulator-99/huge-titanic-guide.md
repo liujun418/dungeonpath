@@ -7,6 +7,7 @@ cover:
   alt: "Pet Simulator 99 Huge, Titanic, and Gargantuan pets size and rarity comparison"
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Huge Pets", "Titanic Pets", "Gargantuan", "ps99 huge pets guide", "ps99 titanic pets", "ps99 gargantuan"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

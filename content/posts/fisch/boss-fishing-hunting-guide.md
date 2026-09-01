@@ -4,6 +4,7 @@ description: "You showed up at the Megalodon Hunt event with your best rod and b
 date: 2026-06-20
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Boss Fishing", "Megalodon", "Kraken", "Event Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

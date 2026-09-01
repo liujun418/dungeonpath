@@ -8,6 +8,7 @@ cover:
   caption: "Sailor Piece Trading and Economy Guide"
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Money Farming", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

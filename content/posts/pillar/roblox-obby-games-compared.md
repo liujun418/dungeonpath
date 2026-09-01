@@ -4,6 +4,7 @@ description: "Compare the best Roblox obby games — difficulty, checkpoints, le
 date: 2026-07-06
 lastmod: 2026-07-06
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "obby games", "obstacle course", "parkour", "comparison", "guide", "Tower of Hell", "JToH", "Mega Fun Obby"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

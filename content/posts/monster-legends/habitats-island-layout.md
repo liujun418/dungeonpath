@@ -4,6 +4,7 @@ description: "Your islands are a mess and gold production is slow? Here's how to
 date: 2026-08-08
 lastmod: 2026-08-08
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Habitats", "Island Layout", "Gold", "ml-habitats"]
 categories: ["Mobile Game Guides"]
 games: ["Monster Legends"]

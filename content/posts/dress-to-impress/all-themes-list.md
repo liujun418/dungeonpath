@@ -4,6 +4,7 @@ description: "You got 'Cottagecore' and spent 60 seconds panicking because you d
 date: 2026-06-10
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Themes", "dtithemes"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

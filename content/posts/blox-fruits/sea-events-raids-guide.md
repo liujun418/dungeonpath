@@ -4,6 +4,7 @@ description: "Every Blox Fruits sea event explained with Danger Level mechanics 
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Sea Events", "Sea Beast", "Terror Shark", "Danger Level", "Third Sea", "Farming", "Raids", "Leviathan", "blox-fruits-sea-events"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

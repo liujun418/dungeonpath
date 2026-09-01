@@ -4,6 +4,7 @@ description: "Grinding TDS coins feels slow? Here are the exact coin-per-hour ra
 date: 2026-05-26
 lastmod: 2026-06-28
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Coins", "Gems", "Farming", "Economy", "tds-coin-farming"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

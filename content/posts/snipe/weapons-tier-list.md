@@ -4,6 +4,7 @@ description: "SNIPE has 14 weapons and 8 abilities but only 2 loadout slots. Aft
 date: 2026-05-20
 lastmod: 2026-05-20
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Weapons", "Abilities", "Tier List", "best-snipe-weapons"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

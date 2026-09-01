@@ -4,6 +4,7 @@ description: "You can clear Hardcore but die in Golden Mode at wave 28. Or vice 
 date: 2026-07-25
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Hardcore Mode", "Golden Mode", "Endgame Guide", "tds hardcore", "tds golden mode", "tds endgame strategy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

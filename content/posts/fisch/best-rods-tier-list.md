@@ -9,6 +9,7 @@ cover:
   caption: "Fisch Best Rods Tier List (June 2026): Every Rod Ranked Guide"
 lastmod: 2026-07-21
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Tier List", "Equipment Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

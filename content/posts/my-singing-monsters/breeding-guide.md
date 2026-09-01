@@ -4,6 +4,7 @@ description: "You've been following breeding charts for weeks and still don't ha
 date: 2026-05-10
 lastmod: 2026-06-16
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "Ethereal", "Element Math", "Strategy"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

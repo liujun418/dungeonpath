@@ -4,6 +4,7 @@ description: "Master the lobby shop with our item priority tier list, gold budge
 date: 2026-07-08
 lastmod: 2026-07-08
 draft: false
+author: "Alex Turner"
 tags: ["Doors", "Roblox", "preparation", "checklist", "survival", "guide"]
 categories: ["Roblox Guides"]
 games: ["Doors"]

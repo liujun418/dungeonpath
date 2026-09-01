@@ -9,6 +9,7 @@ cover:
   caption: "Tower Defense Simulator Loadout Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Loadout Guide", "Strategy Guide", "tds loadout guide", "tds tower guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

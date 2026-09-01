@@ -9,6 +9,7 @@ cover:
   caption: "Monster Legends Gold and Food Farming Guide"
 lastmod: 2026-07-28
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Farming Guide", "Money Farming"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

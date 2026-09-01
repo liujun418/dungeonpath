@@ -4,6 +4,7 @@ description: "Your FFA loadout is getting you killed in 1v1. Here's how every Bl
 date: 2026-06-07
 lastmod: 2026-06-07
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Game Modes", "Strategy", "blade-ball-modes"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

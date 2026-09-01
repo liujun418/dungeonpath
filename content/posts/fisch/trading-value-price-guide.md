@@ -8,6 +8,7 @@ cover:
   caption: "Fisch Trading Value Guide"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Trading Guide", "Values", "Economy", "Market"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

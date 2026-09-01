@@ -8,6 +8,7 @@ cover:
   caption: "Dress To Impress Freeplay and Advanced Tips Guide"
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Advanced Guide", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

@@ -4,6 +4,7 @@ description: "You hit max level in Sailor Piece and now you're drowning in daili
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Endgame Guide", "Daily Routine", "Boss Farming", "Sea Beasts", "Bounty Hunting"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

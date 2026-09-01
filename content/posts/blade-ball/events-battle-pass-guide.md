@@ -4,6 +4,7 @@ description: "Blade Ball events and battle pass guide for 2026. Track active eve
 date: 2026-05-14
 lastmod: 2026-05-14
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Battle Pass", "Events Guide", "Limited Items"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

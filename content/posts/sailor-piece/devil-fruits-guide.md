@@ -9,6 +9,7 @@ cover:
   caption: "Sailor Piece Devil Fruits Guide"
 lastmod: 2026-07-28
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "Trading"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

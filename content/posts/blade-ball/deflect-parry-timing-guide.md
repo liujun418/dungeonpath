@@ -4,6 +4,7 @@ description: "You can curve the ball, you know every ability, and you still lose
 date: 2026-06-20
 lastmod: 2026-07-15
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Deflect Guide", "Parry Timing", "PvP", "Frame Data"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

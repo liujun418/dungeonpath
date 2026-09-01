@@ -4,6 +4,7 @@ description: "Playing RIVALS on controller and losing every 1v1 to PC players? C
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Controller", "Console", "Settings", "rivals-controller-settings"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

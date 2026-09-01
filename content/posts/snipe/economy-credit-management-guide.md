@@ -4,6 +4,7 @@ description: "Master Snipe's credit economy with round-by-round buy strategies, 
 date: 2026-07-07
 lastmod: 2026-07-07
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "economy", "credits", "buy phase", "guide"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

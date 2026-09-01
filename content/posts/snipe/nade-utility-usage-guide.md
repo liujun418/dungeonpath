@@ -4,6 +4,7 @@ description: "Master every smoke, flash, and frag in Snipe. Learn map lineups, r
 date: 2026-07-11
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Snipe", "Roblox", "grenades", "utility", "flash", "smoke", "guide"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

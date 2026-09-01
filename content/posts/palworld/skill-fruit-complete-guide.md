@@ -8,6 +8,7 @@ cover:
   caption: "Palworld skill fruit guide"
 lastmod: 2026-07-03
 draft: false
+author: "Alex Turner"
 tags: ["palworld", "skill-fruits", "skills", "breeding", "combat", "optimization"]
 categories: ["Palworld"]
 games: ["Palworld"]

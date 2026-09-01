@@ -4,6 +4,7 @@ description: "Your Keys are scarce this season — here's the honest Season 4 we
 date: 2026-08-21
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Season 4", "Weapon Tier List", "Weapons Guide", "Permafrost", "Meta"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

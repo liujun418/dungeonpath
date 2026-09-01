@@ -4,6 +4,7 @@ description: "You placed 5 Militants and still died on wave 15. Here's why — t
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Beginner Guide", "Tips", "Walkthrough"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

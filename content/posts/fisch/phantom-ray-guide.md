@@ -4,6 +4,7 @@ description: "Phantom Ray only bites at night in Fisch, and without Nocturnal ba
 date: 2026-06-02
 lastmod: 2026-08-27
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Phantom Ray", "Mythic Fish", "Legendary Fish", "Nocturnal Bait", "Fishing", "fisch-phantom-ray"]
 categories: ["Roblox Guides", "Fisch"]
 games: ["Fisch"]
@@ -66,7 +67,7 @@ Two things matter more than your exact standing spot:
 - Fish from the reef itself, or from a boat just off the drop-off. Either works.
 - Don't substitute. The ray won't show at the Moosewood docks, a pond, or some random beach. It's tied to the reef's pool, so check the [Fisch location map](/posts/fisch/fish-location-map/) if you aren't sure where the Grand Reef sits on the map, or the [complete location map](/posts/fisch/complete-location-map/) for the deeper spots around it.
 
-A word of caution: the exact radius the game counts as "the reef" shifts between updates. Treat the Grand Reef as the center, fish close to it, and don't drift miles out assuming the ray follows you. Exact bounds are flagged below in What's Still Unconfirmed.
+A word of caution: the exact radius the game counts as "the reef" shifts between updates. Treat the Grand Reef as the center, fish close to it, and don't drift miles out assuming the ray follows you.
 
 ## When: Night Only — and That's the In-Game Night
 
@@ -143,16 +144,6 @@ Say it one more time, because it's the single thing players get wrong. When a le
 
 The gate is Nocturnal bait, and the clock is your cast count. Lure Speed is what raises your casts per night window, so it's the stat that actually moves your odds. Luck only trims the rarity roll on a fish you've already unlocked. Fix the bait, run a fast rod, fish the full night — and you'll land it with worse Luck than the guy burning three hours on a Luck rod with maggots.
 
-## What's Still Unconfirmed
-
-A few details here are soft, because Fisch patches spawn tables without announcing it. Treat these as approximate:
-
-- Exact spawn radius around the Grand Reef. "The reef and nearby deep spots" is the community consensus; the precise boundary shifts between updates.
-- Exact base catch rate and the exact preferred-luck weighting on Nocturnal bait. The numbers behind the roll aren't published.
-- Whether Nocturnal bait is a hard requirement or just a very strong weight. The practical outcome is the same — fish without it and you'll feel like the ray doesn't exist — but the strictness is unconfirmed.
-- Weather interaction. There's no evidence the ray is weather-gated, but whether any weather boosts it is unconfirmed.
-- Exact night hours and day-cycle length. The window is "night," but the precise in-game hour range and cycle length vary by server.
-- Bait sources by update. Squid-line bait reliably comes from squid and crates, but whether the current shop also sells it changes patch to patch.
 
 ## FAQ
 

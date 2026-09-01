@@ -4,6 +4,7 @@ description: "You spent 50,000 C$ enchanting your Steady Rod with Lucky and now 
 date: 2026-06-14
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Enchantments", "Strategy", "fisch-enchantments"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

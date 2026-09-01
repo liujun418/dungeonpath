@@ -4,6 +4,7 @@ description: "Dress To Impress dressing and scoring guide: theme interpretation 
 date: 2026-05-12
 lastmod: 2026-06-26
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Fashion", "Scoring"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

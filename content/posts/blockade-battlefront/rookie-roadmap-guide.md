@@ -4,6 +4,7 @@ description: "Most BBF players plateau because they don't know what to practice 
 date: 2026-07-22
 lastmod: 2026-07-22
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Roadmap", "Progression", "Beginner to Pro", "Skill Guide", "bbf-rookie-roadmap"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

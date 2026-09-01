@@ -8,6 +8,7 @@ cover:
   caption: "Fisch Desolate Deep guide"
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 tags: ["fisch", "desolate-deep", "fishing", "roblox", "area-guide"]
 categories: ["Fisch"]
 games: ["Fisch"]

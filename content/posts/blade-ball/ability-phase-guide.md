@@ -4,6 +4,7 @@ description: "You use your ability the moment it comes off cooldown regardless o
 date: 2026-06-13
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Abilities", "Strategy", "blade-ball-abilities"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

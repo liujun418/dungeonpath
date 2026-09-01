@@ -4,6 +4,7 @@ description: "You spent three minutes on a perfect Gothic outfit then stood ther
 date: 2026-06-11
 lastmod: 2026-06-11
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Poses", "Animation", "dti-poses"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

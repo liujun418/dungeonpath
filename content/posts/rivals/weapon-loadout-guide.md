@@ -4,6 +4,7 @@ description: "Stop losing to 'worse' players with better loadouts. Here's the co
 date: 2026-07-19
 lastmod: 2026-08-03
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Loadout", "Weapons", "Synergy", "Meta"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

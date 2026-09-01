@@ -4,6 +4,7 @@ description: "Solo queue in Blockade Battlefront feels rigged because your team 
 date: 2026-07-10
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "solo queue", "survival", "carry", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

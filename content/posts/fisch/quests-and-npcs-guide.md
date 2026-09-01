@@ -4,6 +4,7 @@ description: "You're running every NPC quest and wasting hours on tasks that pay
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Quests", "NPCs", "fisch-npcs"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

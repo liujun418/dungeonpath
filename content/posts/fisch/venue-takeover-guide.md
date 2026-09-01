@@ -8,6 +8,7 @@ cover:
   caption: "Fisch Venue Takeover Guide"
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Venue Takeover", "Developer Rods", "Soul Reaper Rod", "Wingkeeper Rod", "Remembrance Rod", "Underground Music Venue", "Event Guide", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]
@@ -210,14 +211,6 @@ Overlapping is how you turn eight solo grinds into maybe four or five combined s
 
 Before you do anything else, redeem code `VenueTakeover` in the in-game code menu. It pays out 1,000 coins, a Giant Driftwood Boat, 5 Golden Tentacles, and one random item. It's a small pile, but it's free, and the boat is genuinely useful for the travel-heavy questlines like Rivet's bike leg.
 
-## What's Still Unconfirmed
-
-A few details around this event aren't nailed down, and I'd rather flag them than invent precision:
-
-- The exact end date. The devs said the NPCs "won't be sticking around long" but never gave a date. Treat anything you read as a guess.
-- The Lullaby Rod questline. Still being mapped; the "A Secret Lullaby" structure is early community reporting, not confirmed.
-- Exact drop rates for the shiny quest fish (Shiny Flying Fish, Shiny Blessed Harmonic Dove, and the like) were never published. Assume low and luck-stack accordingly.
-- Whether the VenueTakeover code expires before the event does. Codes in Fisch don't always share the event's window, so redeem it early.
 
 ## FAQ
 

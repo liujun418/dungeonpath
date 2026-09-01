@@ -7,6 +7,7 @@ cover:
   caption: "Roblox Rivals Limited-Time Events Guide"
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 description: "RIVALS limited-time events guide for 2026. Learn how seasonal events work, which exclusive rewards to chase first, how to avoid wasting event currency, and how to finish events with limited playtime."
 tags: ["RIVALS", "Roblox", "Events Guide", "Seasonal Events"]
 category: "Roblox Guides"

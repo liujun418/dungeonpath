@@ -4,6 +4,7 @@ description: "You equipped the best rod with the best bait and still catch junk.
 date: 2026-07-17
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Rod Bait", "Combination Guide", "Synergy", "Fishing", "fisch-rod-bait-guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

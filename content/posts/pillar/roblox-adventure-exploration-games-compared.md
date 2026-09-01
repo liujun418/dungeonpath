@@ -4,6 +4,7 @@ description: "Not every Roblox adventure game scratches the same itch. We compar
 date: 2026-07-24
 lastmod: 2026-07-24
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "Adventure", "Exploration", "Comparison", "Fisch", "Blox Fruits", "World // Zero", "Sailor Piece", "Best", "best roblox adventure games 2026", "roblox exploration games compared"]
 categories: ["Roblox Guides"]
 cover:

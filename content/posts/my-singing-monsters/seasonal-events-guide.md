@@ -8,6 +8,7 @@ cover:
   caption: "My Singing Monsters Seasonal Events Guide"
 lastmod: 2026-07-30
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Seasonal Events", "Events Guide", "msm events guide", "msm beginner guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

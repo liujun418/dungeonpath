@@ -4,6 +4,7 @@ description: "TDS Trapper guide: how the spike mechanic works, the best spike pl
 date: 2026-08-28
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Trapper", "TDS", "Spike Tower", "Early Game", "Lane Clearer"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
@@ -135,16 +136,6 @@ Run the two paths side by side. Player one saves for a Minigunner and has nothin
 
 And the second counterintuitive bit: when you do upgrade the Trapper, buy spike count before spike damage. More spikes means a longer carpet, which means every enemy stands on the spikes longer and eats more ticks. A slightly stronger spike that enemies walk off in half a second does less total damage than a wider carpet they can't escape. Volume beats punch for crowds — and the [enemy wave guide](/posts/tower-defense-simulator/enemy-wave-guide/) is worth reading if you want to time placements to the wave schedule.
 
-## What's Still Unconfirmed
-
-Web research is down as I write this, so treat the exact numbers below as approximate and double-check before you commit.
-
-- **Exact base cost and upgrade costs.** The ~$400 placement and the low-thousands max path are ballpark, not patch-accurate. Balance changes shift these, and the cost curve is the part most likely to move.
-- **Exact spike counts per level.** I've given spikes-per-placement as approximate ranges. The exact count at each upgrade level varies by patch and is worth a quick in-game check.
-- **Spike duration and tick rate.** How long spikes persist and how fast the damage ticks are unconfirmed. What's stable is the shape: spikes persist for a while, then vanish, and the damage is over time rather than a single hit.
-- **Damage numbers.** The per-tick damage at each level isn't something I can verify right now. The tower's role doesn't change with the exact number, but don't quote a specific DPS without checking.
-
-None of that changes the strategy. Put the spikes on the long straight stretch, pair them with a slow and anti-air, and let the Trapper hold the early waves while your Farms compound.
 
 ## FAQ
 

@@ -4,6 +4,7 @@ description: "New to Fisch? A session-by-session plan for your first 3 hours: wh
 date: 2026-05-29
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Beginner Guide", "Walkthrough", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

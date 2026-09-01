@@ -4,6 +4,7 @@ description: "Every Pressure entity telegraphs by sound. Learn Angler, Blitz, Fr
 date: 2026-06-21
 lastmod: 2026-08-27
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Audio Guide", "Entity Identification", "Survival", "Horror", "Angler", "Pandemonium", "Sound Cues"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
@@ -164,9 +165,6 @@ Train this until it's automatic.
 
 **In a group, deliberate noise is a tool.** Solo, be silent. In a team, a loud "ANGLER LEFT" beats quiet deaths, because your teammate is hearing the same ambiguous echo and one wrong guess kills both of you.
 
-## What's Still Unconfirmed
-
-A few details sit in the gray zone. The exact warning window per variant — silence to arrival — shifts with distance and may have changed across updates, so treat any second-count as approximate. Pinkie's audio is genuinely debated: most players treat it as silent, but some report a faint cue on certain hardware; if it exists, it isn't reliable enough to plan around. Pandemonium's locker test is understood in broad strokes, but when it's safe to exit is still argued about on the Discord. And Chainsmoker's grab range seems to interact with lag in multiplayer, which nobody has pinned down. If you have hard data, the wiki and Discord want it.
 
 ## FAQ
 

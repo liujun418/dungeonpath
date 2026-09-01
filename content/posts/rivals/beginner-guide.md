@@ -4,6 +4,7 @@ description: "New to RIVALS? Here's how to survive your first 10 matches, the we
 date: 2026-05-30
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Beginner Guide", "Tips", "Weapons"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Terminal Commands Guide"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Controls", "Mechanics"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

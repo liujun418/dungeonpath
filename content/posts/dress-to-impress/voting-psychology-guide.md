@@ -4,6 +4,7 @@ description: "You matched the theme, your colors work, your accessories are on p
 date: 2026-05-31
 lastmod: 2026-07-08
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Voting", "Strategy", "Psychology", "dti-voting"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

@@ -4,6 +4,7 @@ description: "Nightmare mode in Blockade Battlefront breaks everything you learn
 date: 2026-07-27
 lastmod: 2026-07-27
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Nightmare Mode", "Endgame", "Wave Survival", "Titans", "bbf-nightmare-endgame"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

@@ -4,6 +4,7 @@ description: "Discover the best accessories and equipment in Sailor Piece for ev
 date: 2026-07-14
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "accessories", "equipment", "build", "guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

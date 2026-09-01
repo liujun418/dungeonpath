@@ -4,6 +4,7 @@ description: "Master every fighting style in Sailor Piece with our ranked guide.
 date: 2026-07-05
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "fighting styles", "combat guide", "melee", "upgrades", "devil fruit pairing"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Raid Boss Strategies Guide"
 lastmod: 2026-06-24
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Raid Guide", "Boss Strategies", "Team Composition"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

@@ -4,6 +4,7 @@ description: "Same hair every round costs you stars. Here are 25 tested hair+mak
 date: 2026-05-21
 lastmod: 2026-05-21
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Hair Combos", "Makeup", "Customization", "Theme Guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

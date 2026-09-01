@@ -4,6 +4,7 @@ description: "Floor 1-20 feels manageable. Then floor 25 hits and suddenly every
 date: 2026-06-10
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Floors", "Locations", "pressure-floors"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

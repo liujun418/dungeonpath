@@ -4,6 +4,7 @@ description: "Wasting credits on items you don't need? Here is every Pressure it
 date: 2026-05-22
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Items", "Loadout", "Tier List", "best-pressure-items"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

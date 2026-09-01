@@ -4,6 +4,7 @@ description: "PS99 events follow the exact same pattern every time. Boosted rate
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Events", "Seasonal", "ps99-events"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

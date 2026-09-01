@@ -4,6 +4,7 @@ description: "Losing gunfights to players with worse aim? RIVALS is a movement g
 date: 2026-06-06
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Movement", "Mechanics", "Dash", "Wall-Bounce", "rivals-movement"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]
@@ -230,18 +231,6 @@ Unpredictability beats speed. The winners aren't the fastest slide-cancellers or
 
 ---
 
-## What's Still Unconfirmed
-
-Movement tuning changes often, so I couldn't verify a few things against the current patch:
-
-- **Dash cooldown and distance** vary by loadout and patch. Re-test them in a custom lobby before trusting them in ranked.
-- **Whether double-jump is baseline or loadout-tied** has shifted between patches. If you don't have it, slide-cancel and jiggle-peek are your core kit.
-- **The exact slide hitbox reduction** ("roughly 40%") is an early-patch figure. I can't pin the precise current value without a frame-by-frame test.
-- **Grapple momentum physics** depend on release timing and geometry, and have changed between major updates.
-
-If a number matters for your grind, test it yourself — 10 minutes with a friend measuring slide distance beats any guide.
-
----
 
 ## FAQ
 

@@ -4,6 +4,7 @@ description: "You landed on Rend during a storm and your crew died before reachi
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Weather", "Strategy", "lc-weather"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

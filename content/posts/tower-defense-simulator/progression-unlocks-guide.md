@@ -4,6 +4,7 @@ description: "The fastest way to level up, unlock every tower, and progress from
 date: 2026-07-04
 lastmod: 2026-07-04
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "progression", "unlocks", "leveling", "beginner guide", "endgame"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

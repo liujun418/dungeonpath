@@ -4,6 +4,7 @@ description: "You spent your first 50 Diamonds on speed-ups and now you're waiti
 date: 2026-06-11
 lastmod: 2026-06-11
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "MSM", "Beginner Guide", "Breeding", "msm-beginner"]
 categories: ["Mobile Game Guides"]
 games: ["My Singing Monsters"]

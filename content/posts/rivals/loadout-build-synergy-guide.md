@@ -8,6 +8,7 @@ cover:
   caption: "Rivals loadout build synergy guide"
 lastmod: 2026-06-29
 draft: false
+author: "Alex Turner"
 tags: ["rivals", "roblox", "fps", "loadout", "weapons", "builds", "synergy"]
 categories: ["Rivals"]
 games: ["Rivals"]

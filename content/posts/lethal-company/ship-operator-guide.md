@@ -4,6 +4,7 @@ description: "Your crew thinks ship duty is for the player too scared to enter t
 date: 2026-06-11
 lastmod: 2026-06-11
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Ship Operator", "Radar", "Terminal", "lc-ship-operator"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 auto-farm optimization"
 lastmod: 2026-07-13
 draft: false
+author: "Alex Turner"
 tags: ["pet-simulator-99", "roblox", "farming", "auto-farm", "coins", "afk"]
 categories: ["Pet Simulator 99"]
 games: ["Pet Simulator 99"]

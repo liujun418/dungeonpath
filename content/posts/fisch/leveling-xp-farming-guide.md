@@ -4,6 +4,7 @@ description: "Grinding levels in Fisch feels endless? Here's the exact XP/hour a
 date: 2026-08-01
 lastmod: 2026-08-01
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Leveling", "XP", "Guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

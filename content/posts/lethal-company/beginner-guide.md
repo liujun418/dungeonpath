@@ -4,6 +4,7 @@ description: "Your first quota is 130 credits and you have 3 days. Here's exactl
 date: 2026-05-30
 lastmod: 2026-05-30
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Beginner Guide", "Survival", "Tips"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

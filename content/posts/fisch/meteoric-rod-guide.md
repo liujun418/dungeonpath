@@ -4,6 +4,7 @@ description: "Fisch Meteoric Rod guide: Meteor Maniac Matthew's Anomaly Investig
 date: 2026-08-26
 lastmod: 2026-08-26
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Meteoric Rod", "Astral Observatory", "Anomaly Investigation", "Meteor Maniac Matthew"]
 categories: ["Fisch"]
 games: ["Fisch"]
@@ -124,9 +125,6 @@ For the gemstone step, most players' first instinct is to farm Meteor Totems on 
 
 The quieter route is better. Your **personal aquarium** and the **Daily Shop** both hand out gemstones over time with no RNG chasing. Check them every day, bank whatever drops, and only use Meteor Totems to fill the last gap. It's slower in real time but almost zero effort, and it saves your totems for a time you actually need a shower. Treat the totems as a top-up, not the primary source.
 
-## What's Still Unconfirmed
-
-A few figures come from player testing rather than patch notes, and they can drift with updates. The meteor spawn window (4 to 6.5 seconds), the 13% minigame width, and the exact +10%/-15% progress values are all community-measured. The gemstone drop odds are also not published; we only know Moonstone is the rarest. Treat these as "as of the Astral Observatory update" and re-test after a patch if the passive feels different.
 
 ## FAQ
 

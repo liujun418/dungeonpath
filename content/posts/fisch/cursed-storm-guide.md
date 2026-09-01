@@ -4,6 +4,7 @@ description: "The Cursed Storm turns the sky black and opens a short window for 
 date: 2026-08-25
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Cursed Storm", "Weather Totem", "Cyan Candles", "Noiseform Rod"]
 categories: ["Fisch"]
 games: ["Fisch"]
@@ -136,17 +137,6 @@ If you need both, be in the Bazaar. Light the candles in three minutes. Talk to 
 
 The mistake is popping the totem from Moosewood pier and then reading this guide for the first time while the clock ticks. Learn the checklist first. Pop the totem second.
 
-## What's Still Unconfirmed
-
-A few details come from community reports rather than data-mining or developer confirmation.
-
-**Exact totem prices.** The Aurora Totem's 500,000 C$ figure is widely cited and stable, but the Cursed Storm Totem's price is less documented — it may vary by vendor or update. Check the in-game shop.
-
-**The full fish list tied to the Cursed Storm weather tag.** The Compact Disc is the only confirmed storm-exclusive item from the Hawaii pool. Other fish may prefer or require the Cursed Storm condition, but the exact list is not publicly documented. If you catch something unusual during a storm, check its Fischpedia entry.
-
-**The 20% Aurora Totem roll rate.** This is a community estimate based on player testing, not a data-mined probability. The actual rate may be slightly higher or lower. The pattern holds regardless: the Aurora Totem is not the reliable way to get a storm.
-
-**Mutation rate claims.** Some players report higher mutation rates during storms, but this is anecdotal. The storm's confirmed mechanics are the quest gates and the weather tag. Treat mutation claims as unverified.
 
 ## Related Guides
 

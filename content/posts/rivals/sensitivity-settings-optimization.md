@@ -8,6 +8,7 @@ cover:
   alt: "RIVALS Complete Sensitivity and Settings Optimization Guide"
   caption: "RIVALS Complete Sensitivity and Settings Optimization Guide"
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Sensitivity", "Settings", "Optimization"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

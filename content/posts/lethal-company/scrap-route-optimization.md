@@ -4,6 +4,7 @@ description: "You hit every room on Assurance, checked every corner, and still c
 date: 2026-06-21
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Scrap Guide", "Route Optimization", "Quota", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

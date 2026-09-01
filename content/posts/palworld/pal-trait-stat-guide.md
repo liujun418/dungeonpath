@@ -8,6 +8,7 @@ cover:
   caption: "Palworld Pal Traits & Stats Optimization Guide"
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Traits", "Stats", "Passives", "Optimization", "Guide"]
 categories: ["Game Guides"]
 games: ["Palworld"]

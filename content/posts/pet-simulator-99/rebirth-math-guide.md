@@ -4,6 +4,7 @@ description: "You rebirth at Area 25 and suddenly can't afford the first egg. No
 date: 2026-06-05
 lastmod: 2026-07-08
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Rebirth", "Progression", "ps99-rebirth"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

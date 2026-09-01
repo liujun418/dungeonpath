@@ -4,6 +4,7 @@ description: "You bred your first Ghazt and bought Magical Sanctum, but your sha
 date: 2026-07-28
 lastmod: 2026-07-28
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Ethereal Island", "Magical Sanctum", "Shard Farming", "Breeding Guide", "Endgame Strategy"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

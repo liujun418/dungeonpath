@@ -4,6 +4,7 @@ description: "Building your base in the wrong spot? Catching Pals you don't need
 date: 2026-05-26
 lastmod: 2026-05-26
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Beginner Guide", "Tips", "Mistakes", "Base Building", "palworld-beginner-mistakes"]
 categories: ["Game Guides"]
 games: ["Palworld"]

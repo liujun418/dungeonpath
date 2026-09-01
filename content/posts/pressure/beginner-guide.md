@@ -4,6 +4,7 @@ description: "You have died 8 times before floor 10 and you do not know what Rus
 date: 2026-06-12
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Beginner Guide", "Survival", "pressure-beginner"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

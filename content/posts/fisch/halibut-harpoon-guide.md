@@ -4,6 +4,7 @@ description: "How to get the Halibut Harpoon in Fisch: Dr. Monty's puzzle answer
 date: 2026-08-16
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Halibut Harpoon", "Developer Gift", "The Deep", "fisch-halibut"]
 categories: ["Fisch"]
 games: ["Fisch"]

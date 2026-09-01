@@ -4,6 +4,7 @@ description: "Every island in Blox Fruits mapped by level, sea, and danger. Know
 date: 2026-07-15
 lastmod: 2026-07-15
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "islands", "locations", "map", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

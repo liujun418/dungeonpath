@@ -4,6 +4,7 @@ description: "SNIPE game modes explained for 2026. Master FFA rules, scoring mec
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Game Modes", "FFA", "snipe game modes", "snipe match types"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

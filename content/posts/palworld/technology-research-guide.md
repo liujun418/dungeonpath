@@ -8,6 +8,7 @@ cover:
   alt: "Palworld Complete Technology & Research Optimization Guide"
   caption: "Palworld Technology Research & Optimization Guide"
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Technology Tree", "Research", "Optimization", "Progression"]
 categories: ["Game Guides"]
 games: ["Palworld"]

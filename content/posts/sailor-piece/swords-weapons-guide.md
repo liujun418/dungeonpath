@@ -4,6 +4,7 @@ description: "Stop chasing legendary swords that don't match your build. Learn t
 date: 2026-07-09
 lastmod: 2026-07-09
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "swords", "weapons", "build", "guide"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

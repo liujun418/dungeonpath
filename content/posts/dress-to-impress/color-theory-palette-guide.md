@@ -4,6 +4,7 @@ description: "You matched the theme, used every accessory slot, and copied a Tik
 date: 2026-06-19
 lastmod: 2026-08-06
 draft: false
+author: "Alex Turner"
 tags: ["Dress to Impress", "Roblox", "Color Theory", "Fashion Guide", "Theme Matching", "Styling Tips"]
 categories: ["Roblox Guides"]
 games: ["Dress to Impress"]

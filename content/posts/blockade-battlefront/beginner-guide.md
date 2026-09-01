@@ -4,6 +4,7 @@ description: "You are placing Titans randomly, buying everything you can afford,
 date: 2026-06-12
 lastmod: 2026-06-12
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Tower Defense", "Beginner Guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

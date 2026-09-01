@@ -4,6 +4,7 @@ description: "Monster Legends' Aristocratic Era adds the Wind element and Pseudo
 date: 2026-08-18
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Aristocratic Era", "Wind Element", "Pseudo Ancestor", "Mythic", "Season 1", "Update"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

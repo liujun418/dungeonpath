@@ -9,6 +9,7 @@ cover:
   caption: "My Singing Monsters Ethereal Island Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Monsters", "msm island guide", "msm events guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

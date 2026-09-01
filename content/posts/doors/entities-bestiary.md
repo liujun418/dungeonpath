@@ -9,6 +9,7 @@ cover:
   caption: "DOORS Entities Bestiary — Entity-by-Entity Survival Playbook"
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Entities", "Bestiary", "Survival"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

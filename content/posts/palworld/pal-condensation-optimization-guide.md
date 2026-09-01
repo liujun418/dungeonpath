@@ -8,6 +8,7 @@ cover:
   caption: "Palworld Pal Condensation optimization"
 lastmod: 2026-07-14
 draft: false
+author: "Alex Turner"
 tags: ["palworld", "condensation", "pal-essence", "optimization", "farming"]
 categories: ["Palworld"]
 games: ["Palworld"]

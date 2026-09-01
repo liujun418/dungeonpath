@@ -9,6 +9,7 @@ cover:
   caption: "Sailor Piece Haki and Combat Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Haki", "Combat", "PvP"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

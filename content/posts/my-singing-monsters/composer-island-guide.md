@@ -7,6 +7,7 @@ cover:
   caption: "My Singing Monsters Composer Island Guide"
 lastmod: 2026-07-04
 draft: false
+author: "Alex Turner"
 description: "Master MSM Composer Island in 2026: grid mechanics, monster instrument guide, song recreation framework, and failure-proof composition tips."
 tags: ["My Singing Monsters", "Mobile Games", "msm island guide", "msm beginner guide"]
 category: "Mobile Games"

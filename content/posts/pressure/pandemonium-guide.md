@@ -4,6 +4,7 @@ description: "Pressure's rarest monster doesn't just pass by — Pandemonium hun
 date: 2026-08-29
 lastmod: 2026-08-29
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Pandemonium", "Survival", "Entity Guide", "Horror", "Monster"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
@@ -136,15 +137,6 @@ Everything in Pressure teaches you to freeze. Angler comes, you hide, you stay s
 
 Pandemonium inverts it. Because it hunts rather than passes, the safest player is often the one moving, not the one frozen. A stationary target in a locker is something it can reach. A player who breaks line of sight and keeps repositioning is harder to pin down. Treat the locker as a brief shield, not a destination — hide, then move when the gap comes, the way you'd handle a real pursuer instead of a passing train. The spot that feels wrong, the one that points away from the threat, is the one that saves you.
 
-## What's Still Unconfirmed
-
-A lot of Pandemonium sits in the gray zone. Treat every hard number as approximate.
-
-The spawn rate isn't pinned down. "Very rare" is agreed; the percentage isn't, and reports vary between players and updates. The precise warning window — ambience drop to first contact — seems to shift with distance and map geometry, so any second-count is a rough guide.
-
-Whether Pandemonium can kill through a locker is genuinely debated. Most agree it tests lockers, but reports on whether it can fully break a door are inconsistent, and it may depend on locker type or door state. When it's safe to exit is argued about on the Discord, as is whether it can come back for a second pass — some runs report one, others a loop.
-
-Its multiplayer behavior — whether it prioritizes the loudest player, the nearest player, or is just unpredictable — hasn't been nailed down. If you have hard data, the wiki and the Discord want it.
 
 ## FAQ
 

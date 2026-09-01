@@ -4,6 +4,7 @@ description: "The Piñata Maze is live in Pet Simulator 99. Here's how the maze 
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Piñata Maze", "Event", "2026", "ps99-pinata"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

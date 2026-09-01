@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Event Mastery Guide"
 lastmod: 2026-06-25
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Event Guide", "Optimization", "Farming", "Strategy"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

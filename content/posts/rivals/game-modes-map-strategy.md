@@ -4,6 +4,7 @@ description: "You know the maps. You know the modes. But do you know how they br
 date: 2026-07-23
 lastmod: 2026-07-23
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Game Modes", "Map Strategy", "rivals-modes"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

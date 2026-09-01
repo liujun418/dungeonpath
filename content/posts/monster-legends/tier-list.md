@@ -8,6 +8,7 @@ cover:
   caption: "Monster Legends Tier List: Best Monsters for PvP, Wars, and Adventure (May 2026) Guide"
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Tier List", "PvP", "Ranking", "Kitakami Era", "Wind Element"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

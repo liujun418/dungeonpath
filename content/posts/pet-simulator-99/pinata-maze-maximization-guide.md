@@ -4,6 +4,7 @@ description: "The Piñata Maze is live in Pet Simulator 99. Here's how to stack 
 date: 2026-08-13
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Piñata Maze", "Fiesta Points", "Event", "2026", "ps99-pinata-max"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

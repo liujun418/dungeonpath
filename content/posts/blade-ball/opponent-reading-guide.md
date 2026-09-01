@@ -4,6 +4,7 @@ description: "The player who beat you 3-0 isn't faster than you — they read yo
 date: 2026-05-30
 lastmod: 2026-07-20
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "1v1", "Strategy", "PvP", "blade-ball-opponent-reading"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

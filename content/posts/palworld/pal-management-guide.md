@@ -4,6 +4,7 @@ description: "Your Palbox has 200 Pals and you're afraid to get rid of any of th
 date: 2026-06-01
 lastmod: 2026-06-01
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Pal Management", "Condense", "Guide", "palworld-pal-management"]
 categories: ["Game Guides"]
 games: ["Palworld"]

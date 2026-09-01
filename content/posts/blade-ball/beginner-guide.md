@@ -4,6 +4,7 @@ description: "You've played 10 matches and haven't won one yet. That's normal â€
 date: 2026-05-29
 lastmod: 2026-05-29
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Beginner Guide", "Tips", "PvP"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

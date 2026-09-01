@@ -4,6 +4,7 @@ description: "The exact level-by-level path from Level 1 to endgame in TDS. What
 date: 2026-07-11
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "progression", "beginner", "leveling", "guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

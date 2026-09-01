@@ -4,6 +4,7 @@ description: "You blew 5,000 C$ on Shrimp bait at level 15 when Maggots would ha
 date: 2026-06-01
 lastmod: 2026-06-01
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Bait", "Economy", "Fishing", "fisch-bait-guide"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

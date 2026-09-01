@@ -4,6 +4,7 @@ description: "Amber Island vessels take weeks to fill and the Colossingum tourna
 date: 2026-05-21
 lastmod: 2026-05-21
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "MSM", "Amber Island", "Colossingum", "Endgame", "Vessels", "Relics"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

@@ -4,6 +4,7 @@ description: "Running the same pets for farming, clan battles, and events? Each 
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Team Composition", "Pets", "best-team-ps99", "builds"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

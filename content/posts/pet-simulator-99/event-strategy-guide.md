@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Event & Seasonal Strategy Guide"
 lastmod: 2026-07-19
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Event Guide", "Seasonal Events", "Strategy", "Economy", "Leaderboard"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

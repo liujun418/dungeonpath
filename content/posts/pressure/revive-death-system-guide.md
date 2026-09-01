@@ -4,6 +4,7 @@ description: "Died at Door 76 and lost the run? Here's what Pressure really take
 date: 2026-08-19
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Revive", "Defibrillator", "Death Penalty", "Multiplayer", "pressure-revive"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

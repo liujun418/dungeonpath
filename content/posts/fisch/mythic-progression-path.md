@@ -4,6 +4,7 @@ description: "Still using the starter rod and wondering why you never see Mythic
 date: 2026-05-29
 lastmod: 2026-05-29
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Progression", "Mythic", "Beginner Path", "fisch-progression"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

@@ -4,6 +4,7 @@ description: "Stop wasting hours in the wrong world. Here's the exact unlock ord
 date: 2026-07-11
 lastmod: 2026-07-11
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "world progression", "area unlock", "Roblox", "guide"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

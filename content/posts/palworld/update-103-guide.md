@@ -4,6 +4,7 @@ description: "Palworld 1.0.3 changed Stat Fruit farming completely. Moonlord rai
 date: 2026-08-14
 lastmod: 2026-08-14
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "1.0.3", "Stat Fruit", "Bounty Tokens", "Jetragon", "palworld-update"]
 categories: ["PC Games"]
 games: ["Palworld"]

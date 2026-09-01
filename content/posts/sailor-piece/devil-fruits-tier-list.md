@@ -4,6 +4,7 @@ description: "We tested all 23 Sailor Piece Devil Fruits across PvP, grinding, b
 date: 2026-05-22
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Devil Fruits", "Tier List", "PvP", "best-devil-fruits-sailor-piece"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

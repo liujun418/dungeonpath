@@ -4,6 +4,7 @@ description: "Missed the last TDS event and can't get that exclusive tower? Here
 date: 2026-05-28
 lastmod: 2026-07-01
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Events", "Event Towers", "Limited", "tds-event-towers"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

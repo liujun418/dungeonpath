@@ -7,6 +7,7 @@ cover:
   caption: "DOORS Modifiers Guide"
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 description: "Stop dying at Door 1. Learn which DOORS modifiers are free knobs, which combos are death traps, and the loadout framework that actually maximizes your payout."
 tags: ["DOORS", "Roblox", "Game Modes"]
 category: "Roblox Guides"

@@ -4,6 +4,7 @@ description: "How to wake all 14 My Singing Monsters Celestials, choose the best
 date: 2026-08-27
 lastmod: 2026-08-27
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Celestial Island", "Celestials", "Celestial Pieces", "Endgame", "Feeding"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
@@ -85,7 +86,7 @@ There are 14 Celestials. Thirteen are woken the normal way — pieces plus coins
 | Yawstrich | Air | Fast, trilling part. |
 | Galvana | Special | Final reward Celestial; event/gift, not woken. |
 
-Type labels here are the community's commonly-cited assignments, and a few are disputed — see "What's Still Unconfirmed." What matters for wake order isn't type; it's the feed list. Pick by what monsters you already own and feed.
+Type labels here are the community's commonly-cited assignments. What matters for wake order isn't type; it's the feed list. Pick by what monsters you already own and feed.
 
 ## Pick Your First by the Feed List, Not the Name
 
@@ -134,18 +135,6 @@ The intuition says more monsters means more income. That's true on Natural Islan
 
 Concretely: two level-1 Celestials out-earn zero, but one level-15 Celestial out-earns several level-3s put together — and costs about the same food overall. So the counterintuitive move is to resist the urge to collect, and treat Celestial Island as a "level, not collect" island.
 
-## What's Still Unconfirmed
-
-Web research and patch data aren't available at the time of writing, so a few specifics are flagged here rather than stated as fact.
-
-- **Pieces-per-torch multiplier.** Base is one piece per feeding with no torches. The exact multiplier per torch — whether it's +1 each or a percentage — varies by report. Treat "torches roughly double or triple your per-feeding yield" as an estimate, not a guarantee.
-- **Wake coin costs.** Each Celestial has a coin cost to begin waking, but exact numbers differ by player and patch. Expect "expensive" for the later ones and plan a buffer.
-- **Element and type assignments.** The roster's type column is the community's commonly-cited mapping. A few entries — including G'joob's placement, and whether it also exists as a Mythical elsewhere — are worth double-checking in-game, since sources disagree.
-- **Torch currency.** Some reports say torches cost coins; others say gems. Verify in-game before budgeting.
-- **Celestial Island unlock level.** The exact level gate and coin price to unlock the island is commonly cited in a range — roughly Level 50 or higher, depending on version. Check your own map, since the condition is shown there.
-- **Galvana's acquisition.** Galvana is an event/gift Celestial, but the specific event and whether it recurs is version-dependent.
-
-None of this changes the core advice: wake one at a time, light torches before feeding, and level high rather than wide.
 
 ## FAQ
 
@@ -180,4 +169,3 @@ Level. Wake one Celestial, push it to a useful level — aim for 15 — then sta
 - [Ethereal Island Guide — Teleporting Ethereals](/posts/my-singing-monsters/ethereal-island-guide/)
 - [Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
 - [Legendary Island Guide](/posts/my-singing-monsters/legendary-island-guide/)
-

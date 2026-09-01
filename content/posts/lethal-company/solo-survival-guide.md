@@ -4,6 +4,7 @@ description: "Playing Lethal Company alone is a completely different game. Witho
 date: 2026-05-23
 lastmod: 2026-05-23
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Solo", "Survival", "Strategy", "solo-guide-lethal-company"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

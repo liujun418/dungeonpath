@@ -4,6 +4,7 @@ description: "Stop grinding flick aim. 80% of RIVALS gunfights are won by crossh
 date: 2026-06-17
 lastmod: 2026-07-04
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "Aim Training", "Crosshair", "Gunfight", "Guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

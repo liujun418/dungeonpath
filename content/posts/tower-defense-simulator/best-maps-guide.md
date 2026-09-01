@@ -9,6 +9,7 @@ cover:
   caption: "Tower Defense Simulator Best Maps Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Maps Guide", "Strategy", "Maps", "tds mode strategy", "tds tower guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

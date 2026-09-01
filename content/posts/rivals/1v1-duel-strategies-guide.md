@@ -4,6 +4,7 @@ description: "Losing 1v1s to players with worse aim? RIVALS duels are won with m
 date: 2026-05-22
 lastmod: 2026-05-22
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "FPS", "1v1", "Duels", "PvP", "rivals-1v1-strategy"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

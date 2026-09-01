@@ -4,6 +4,7 @@ description: "You hit Rebirth 6 and a Garden Missions board appears. Here's ever
 date: 2026-05-14
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Rebirth", "Super Rebirth", "Progression", "ps99 rebirth", "ps99 prestige"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

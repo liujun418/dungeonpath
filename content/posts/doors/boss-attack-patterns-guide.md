@@ -4,6 +4,7 @@ description: "Figure keeps killing you on Room 50? Seek chase feels impossible? 
 date: 2026-05-20
 lastmod: 2026-06-27
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Boss Guide", "Figure", "Seek", "doors-boss-patterns"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

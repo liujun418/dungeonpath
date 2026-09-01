@@ -4,6 +4,7 @@ description: "Fastest ways to farm Beli in Blox Fruits at every level. Best isla
 date: 2026-07-08
 lastmod: 2026-07-08
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "beli farming", "money", "grinding", "Roblox", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

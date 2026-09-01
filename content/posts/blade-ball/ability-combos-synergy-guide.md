@@ -4,6 +4,7 @@ description: "Pick the wrong two abilities and they cancel each other out. Here 
 date: 2026-05-23
 lastmod: 2026-05-23
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Abilities", "Combos", "Synergies", "best-ability-combos-blade-ball"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

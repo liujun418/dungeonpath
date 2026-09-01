@@ -4,6 +4,7 @@ description: "The full skill path from your first deflect to competitive ranked 
 date: 2026-07-23
 lastmod: 2026-07-23
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Beginner Guide", "Pro Guide", "Skill Progression", "Competitive", "How to Improve"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

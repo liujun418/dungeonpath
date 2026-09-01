@@ -4,6 +4,7 @@ description: "Tournament nerves cost you more than bad aim. Learn the bracket fo
 date: 2026-07-05
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Tournaments", "Competitive", "Esports Tips", "Bracket Play"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

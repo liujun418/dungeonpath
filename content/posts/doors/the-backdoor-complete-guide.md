@@ -8,6 +8,7 @@ cover:
   caption: "Doors The Backdoor guide"
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["doors", "backdoor", "sub-floor", "survival", "roblox", "horror", "a-60", "a-120", "guiding-light", "endless"]
 categories: ["Doors"]
 games: ["Doors"]
@@ -164,15 +165,6 @@ Do not trust the Light even while it is alive. It fails around room 100. Treat e
 
 Keep your volume at about 70 to 80 percent. Max volume distorts the hum, and a distorted A-60 rumble reads as silence until it is on top of you. Clean sound, clean reaction. The same audio discipline that separates Rush survivors from Ambush victims applies here, harder.
 
-## What's Still Unconfirmed
-
-This area has shifted across updates, so several details are honestly up in the air.
-
-- The exact entry trigger. Cracked wall, hidden door, lever, switch — reports conflict, and the method has changed between versions.
-- The full entity roster. A-60 and A-120 are confirmed by most players. A-90, A-200 and other A-series names appear in some versions and may be absent in others.
-- The room count where the Guiding Light fails. "Around 100" is the community figure, but it may drift with patches.
-- Whether the Crucifix works on A-60 and A-120. Reports are mixed; treat it as unreliable here, not a panic button. The [entity defense counter guide](/posts/doors/entity-defense-counter-guide/) covers what works on the main Hotel entities, but The Backdoor plays by looser rules.
-- The name itself. Some builds call this area "The Rooms," a nod to the crossover game it borrows its entities from. Which label you see depends on your update.
 
 ## Frequently Asked Questions
 

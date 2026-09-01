@@ -4,6 +4,7 @@ description: "Custom Makeup is DTI's most powerful gamepass but most players bar
 date: 2026-05-24
 lastmod: 2026-05-24
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Custom Makeup", "Face Design", "Color Theory", "dti-custom-makeup"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

@@ -4,6 +4,7 @@ description: "The Spear is a free Season 3 weapon in RIVALS that throws, pins en
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Spear", "Season 3", "Weapons", "rivals-spear"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

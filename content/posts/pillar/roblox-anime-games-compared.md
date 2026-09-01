@@ -4,6 +4,7 @@ description: "Tired of dead servers and cash-grab anime games? We compare the be
 date: 2026-07-16
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "anime games", "comparison", "guide", "Blox Fruits", "Anime Adventures", "Shindo Life", "Project Slayers"]
 categories: ["Roblox Guides"]
 games: ["Pillar"]

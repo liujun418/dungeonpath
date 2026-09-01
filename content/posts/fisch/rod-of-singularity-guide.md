@@ -4,6 +4,7 @@ description: "The Rod of Singularity is Fisch's longest grind: Abyssal Zenith's 
 date: 2026-08-26
 lastmod: 2026-08-26
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Rod of Singularity", "Abyssal Zenith", "Merlin", "Dyson Sphere"]
 categories: ["Fisch"]
 games: ["Fisch"]
@@ -137,13 +138,6 @@ First: **don't high-luck the Nova Gold Pieces.** Your instinct after a quest ful
 
 Second: **group your tasks by location, not by quest order.** Abyssal Zenith covers several requirements at once — the anglerfish, the Nova Hardened Glass, and later Merlin's Stabilizer Core all live in that same cavern. Do everything in the cavern in one trip before you swim out. And keep a **Mutation Totem** in your back pocket as a backup, to force a Nova or Celestial mutation if a roll isn't landing. The less you swim between zones, the faster the whole route closes.
 
-## What's Still Unconfirmed
-
-Two things we're flagging rather than papering over.
-
-First, the big one: **the rod's stats**. As covered above, one source reports roughly 618% Lure, 287% Luck, an infinite kg cap, and Nova/Umbra/Singularity mutations with a ~10% duplication chance, while another lists a ~100,000 kg cap and ~70% Luck. We can't tell you which is real yet, and we're not going to guess. Watch the community's in-game confirmation before you commit weeks to the grind based on a number.
-
-Second, the **update date** is approximate — "around August 22, 2026" is what's circulating, and a small patch drift there doesn't change the quest, but it's worth knowing the exact build isn't pinned down. Treat the item wording (Sparkling *or* Shiny for the anglerfish) as patch-sensitive too — if the quest tracker reads slightly differently after a hotfix, trust your in-game tracker over any guide, including this one.
 
 ## FAQ
 

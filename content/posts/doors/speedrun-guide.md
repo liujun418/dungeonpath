@@ -8,6 +8,7 @@ cover:
   caption: "DOORS Speedrun Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Speedrun", "Strategy Guide", "Horror"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

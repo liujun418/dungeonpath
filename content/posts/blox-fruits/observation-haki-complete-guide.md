@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Observation Haki guide"
 lastmod: 2026-06-30
 draft: false
+author: "Alex Turner"
 tags: ["blox-fruits", "observation-haki", "haki", "dodge", "pvp", "roblox"]
 categories: ["Blox Fruits"]
 games: ["Blox Fruits"]

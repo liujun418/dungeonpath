@@ -4,6 +4,7 @@ description: "You're losing ranked rounds to teams with worse aim because your c
 date: 2026-07-10
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "communication", "callouts", "teamwork", "guide"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

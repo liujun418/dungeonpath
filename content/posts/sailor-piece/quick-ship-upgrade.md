@@ -4,6 +4,7 @@ description: "Your ship's upgrades determine which islands you reach, how fast y
 date: 2026-08-12
 lastmod: 2026-08-12
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Ship Upgrade", "Ships", "Progression", "Shinjuku Island", "Sea Combat", "Material Farming", "JJK Expansion", "sailor-piece-quick-ship-upgrade"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

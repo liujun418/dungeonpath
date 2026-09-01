@@ -4,6 +4,7 @@ description: "Kingpin costs 15,000 coins, 5,500 gems, and a Level 20 Crook Boss.
 date: 2026-08-18
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Kingpin", "Evolved Tower", "Boomerang", "Update", "TDS", "Crook Boss"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

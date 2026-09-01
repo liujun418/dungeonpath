@@ -8,6 +8,7 @@ cover:
   caption: "DOORS Game Modes Guide"
 lastmod: 2026-07-23
 draft: false
+author: "Alex Turner"
 faq:
   - question: "Do Daily Runs reset at the same time for everyone?"
     answer: "Yes. Daily Runs reset at a fixed global time, typically midnight UTC. All players receive the same seed on the same day, which is what makes the leaderboard fair — everyone faces identical rooms, entities, and item placements."

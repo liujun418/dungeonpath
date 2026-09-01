@@ -9,6 +9,7 @@ cover:
   caption: "Tower Defense Simulator Hardcore Mode Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Strategy", "Survival", "tds mode strategy", "tds loadout guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

@@ -8,6 +8,7 @@ cover:
   caption: "RIVALS Settings and Optimization Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Settings", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

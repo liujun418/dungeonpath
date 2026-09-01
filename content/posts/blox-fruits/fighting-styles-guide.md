@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Fighting Styles Guide"
 lastmod: 2026-06-22
 draft: false
+author: "Alex Turner"
 description: "You spent 3 million Beli and 200 Mastery on Superhuman, and you're still losing trades to players with 'worse' styles. Fighting styles in Blox Fruits aren't a linear upgrade path — they're a matchup system where range, combo potential, and fruit synergy matter more than raw damage numbers. Learn the style-by-style matchup framework, the combo extensions each style enables, and which style actually fits YOUR build."
 tags: ["Blox Fruits", "Roblox", "Combat"]
 categories: ["Roblox Guides"]

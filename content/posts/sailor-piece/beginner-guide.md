@@ -4,6 +4,7 @@ description: "You sailed past three islands because they 'looked cool' and docke
 date: 2026-06-11
 lastmod: 2026-06-11
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Beginner Guide", "RPG", "Tips"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

@@ -8,6 +8,7 @@ cover:
   caption: "Advanced Fishing Techniques in Fisch Guide"
 lastmod: 2026-07-07
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Advanced Guide", "Fishing"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

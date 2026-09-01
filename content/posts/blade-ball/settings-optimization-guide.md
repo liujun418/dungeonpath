@@ -4,6 +4,7 @@ description: "Most Blade Ball players lose before the ball spawns because their 
 date: 2026-07-28
 lastmod: 2026-07-28
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Settings", "FPS", "Sensitivity", "Controls", "Optimization", "Competitive"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

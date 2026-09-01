@@ -4,6 +4,7 @@ description: "You're fishing at the right spot but the fish won't bite because y
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Location", "Map", "Fish", "fisch-location-map"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

@@ -9,6 +9,7 @@ cover:
   caption: "Pressure Common Mistakes Guide"
 lastmod: 2026-06-18
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Beginner Guide", "Tips", "Horror"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

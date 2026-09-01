@@ -9,6 +9,7 @@ cover:
   caption: "DOORS Achievements and Secrets Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Achievements", "Secrets"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

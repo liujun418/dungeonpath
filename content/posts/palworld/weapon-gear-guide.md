@@ -5,6 +5,7 @@ description: "Everything you need to know about Palworld Weapon & Gear Guide. Pa
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Weapons", "Armor"]
 categories: ["PC Game Guides"]
 games: ["Palworld"]

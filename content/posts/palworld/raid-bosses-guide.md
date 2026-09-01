@@ -8,6 +8,7 @@ cover:
   caption: "Palworld Raid Bosses Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 description: "Palworld raid bosses guide 2026. Stats, attack patterns, Pal counters, solo strategies, and team builds for Bellanoir, Blazamut Ryu, Xenolord, and Bjorn."
 tags: ["Palworld", "PC Games", "Advanced Guide"]
 categories: ["PC Games"]

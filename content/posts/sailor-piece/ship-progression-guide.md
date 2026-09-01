@@ -4,6 +4,7 @@ description: "Still using the Rowboat at level 80 because you 'do not care about
 date: 2026-06-14
 lastmod: 2026-06-14
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Ships", "Progression", "sailor-piece-ships"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

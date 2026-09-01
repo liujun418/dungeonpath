@@ -4,6 +4,7 @@ description: "How to get the Withered Spear in Fisch: the 100% Tidefall bestiary
 date: 2026-08-20
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Withered Spear", "Withered Mutation", "Tidefall", "fisch-withered"]
 categories: ["Fisch"]
 games: ["Fisch"]

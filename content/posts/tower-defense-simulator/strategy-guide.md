@@ -4,6 +4,7 @@ description: "Learn the 5 decisions that decide every TDS game: Farm vs defense,
 date: 2026-06-06
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Strategy", "Advanced", "tds-strategy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

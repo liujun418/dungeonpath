@@ -4,6 +4,7 @@ description: "You're surviving longer but still losing. Winning in Blade Ball is
 date: 2026-06-05
 lastmod: 2026-06-05
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Strategy", "Winning", "blade-ball-win"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

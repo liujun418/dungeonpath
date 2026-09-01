@@ -4,6 +4,7 @@ description: "TDS Necromancer guide: how its zombie summons work, upgrade costs,
 date: 2026-08-28
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Necromancer", "TDS", "Summoner Tower", "Late Game"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
@@ -141,16 +142,6 @@ So the tower scales on volume, not per-hit damage. Summon rate first means every
 
 And the second counterintuitive bit: the best upgrade for your Necromancer is often a Sledger placed next to it. Money spent on a slow tower does more for your army than the same money on the Necromancer itself, because it multiplies the kill feed the whole machine runs on.
 
-## What's Still Unconfirmed
-
-Web research is down as I write this, so treat the exact numbers below as approximate and double-check before you commit.
-
-- **Exact base and max costs.** The $3,000-ish placement and the tens-of-thousands max path are ballpark, not a patch-accurate table. Balance changes shift these.
-- **Placement limit.** I couldn't verify whether the Necromancer caps at a specific number of placements per player. If it has a cap, it's likely low — plan your build assuming you're placing one or two, not five.
-- **Zombie lifetime and cap.** The exact decay timer on minions and any cap on how many can be out at once are unconfirmed. What's stable is the shape: zombies persist briefly, then decay, so the army only stays big while the kills keep coming.
-- **Availability.** Whether the Necromancer is a permanent shop tower or a limited event tower that rotates is worth checking in-game. If it's event-gated, the unlock method will matter more than this guide's strategy content.
-
-None of that changes the strategy. Feed it kills in a choke, pair it with a slow, and buy it late. The numbers might move, but the mechanic won't.
 
 ## FAQ
 

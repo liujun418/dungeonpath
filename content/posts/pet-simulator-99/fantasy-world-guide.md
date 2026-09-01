@@ -8,6 +8,7 @@ cover:
   caption: "Pet Simulator 99 Fantasy World Guide"
 lastmod: 2026-05-16
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Fantasy World", "Combine-O-Matic", "Time Trials", "Event Guide", "Titanic Pets"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

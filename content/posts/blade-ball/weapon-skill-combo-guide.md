@@ -5,6 +5,7 @@ description: "Master the best weapon and ability combos in Blade Ball. Learn top
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Weapons", "Skills", "Combos"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

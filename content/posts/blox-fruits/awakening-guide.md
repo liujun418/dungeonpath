@@ -5,6 +5,7 @@ description: "Can't beat that Blox Fruits boss? This guide breaks down every att
 date: 2026-05-12
 lastmod: 2026-07-17
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Awakening", "Raids"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

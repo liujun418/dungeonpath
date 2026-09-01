@@ -4,6 +4,7 @@ description: "Balance Patch 001 flipped the sword and fighting style meta. Here'
 date: 2026-08-22
 lastmod: 2026-08-22
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "PvP", "Swords", "Fighting Styles", "Meta", "Balance Patch"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

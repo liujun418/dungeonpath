@@ -4,6 +4,7 @@ description: "You've got 5 islands, 50 monsters, and 12 diamonds to your name. M
 date: 2026-06-20
 lastmod: 2026-06-20
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Diamond Farming", "Coin Guide", "Economy", "Optimization"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

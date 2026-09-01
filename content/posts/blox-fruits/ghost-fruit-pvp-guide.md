@@ -4,6 +4,7 @@ description: "Ghost's rework V mirrors your sword skills for true combos. Learn 
 date: 2026-08-20
 lastmod: 2026-08-20
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Ghost Fruit", "PvP", "Sword Build", "Combo", "blox-fruits-ghost"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

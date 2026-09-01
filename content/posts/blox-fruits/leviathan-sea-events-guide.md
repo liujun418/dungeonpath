@@ -4,6 +4,7 @@ description: "Sea Events in the Third Sea scale up to a Leviathan raid. Here's h
 date: 2026-08-10
 lastmod: 2026-08-10
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Leviathan", "Sea Events", "Third Sea", "bf-leviathan"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

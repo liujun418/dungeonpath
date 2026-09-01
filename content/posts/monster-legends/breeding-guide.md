@@ -9,6 +9,7 @@ cover:
   caption: "Monster Legends Breeding Guide"
 lastmod: 2026-07-21
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Breeding Guide", "Monsters"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

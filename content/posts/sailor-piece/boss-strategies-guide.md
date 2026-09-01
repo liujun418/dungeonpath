@@ -9,6 +9,7 @@ cover:
   caption: "Sailor Piece Boss Strategies Guide"
 lastmod: 2026-07-16
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Boss Guide", "Bosses", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

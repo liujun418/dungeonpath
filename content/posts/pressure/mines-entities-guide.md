@@ -4,6 +4,7 @@ description: "Hotel veterans die to Grumble on Room 3 because nobody taught them
 date: 2026-06-12
 lastmod: 2026-06-12
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "The Mines", "Entities", "pressure-mines-entities"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

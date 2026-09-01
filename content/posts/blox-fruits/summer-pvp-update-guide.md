@@ -4,6 +4,7 @@ description: "The Summer PvP Update rebalanced 100+ items in Blox Fruits. Here's
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Summer PvP Update", "PvP", "Balance Patch", "bf-pvp-meta"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

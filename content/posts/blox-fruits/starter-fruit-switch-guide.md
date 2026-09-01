@@ -4,6 +4,7 @@ description: "You ate Flame at level 50 and it was amazing. Now you're level 300
 date: 2026-06-02
 lastmod: 2026-06-02
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Devil Fruits", "Progression", "Fruit Switch", "blox-fruits-switch"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

@@ -4,6 +4,7 @@ description: "TDS codes expire in days, and most players redeem them wrong. Lear
 date: 2026-08-13
 lastmod: 2026-08-13
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Codes and Rewards", "Free Items", "Tips", "tds codes", "tds beginner guide", "Coins", "Gems", "Crates", "tds-redeem-codes"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

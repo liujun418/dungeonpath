@@ -4,6 +4,7 @@ description: "You've been playing for 3 days, spent 200 Gems on speed-ups, and s
 date: 2026-06-11
 lastmod: 2026-06-11
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Beginner Guide", "Tips", "Walkthrough"]
 categories: ["Mobile Game Guides"]
 games: ["Monster Legends"]

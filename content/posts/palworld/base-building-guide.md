@@ -9,6 +9,7 @@ cover:
   caption: "Palworld Base Building Guide"
 lastmod: 2026-07-22
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Base Building", "Survival", "Crafting"]
 categories: ["PC Games"]
 games: ["Palworld"]

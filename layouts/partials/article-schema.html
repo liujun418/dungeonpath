@@ -8,8 +8,8 @@
   "description": "{{ .Description }}",
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-  "author": { "@type": "Organization", "name": "DungeonPath" },
-  "publisher": { "@type": "Organization", "name": "DungeonPath", "url": "{{ .Site.BaseURL }}" },
+  "author": { "@type": "Person", "name": "{{ .Params.author | default site.Params.author }}" },
+  "publisher": { "@type": "Organization", "name": "{{ site.Title }}", "url": "{{ .Site.BaseURL }}" },
   "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink }}" },
   {{- if .Params.cover.image }}
   "image": "{{ .Site.BaseURL }}{{ .Params.cover.image }}",

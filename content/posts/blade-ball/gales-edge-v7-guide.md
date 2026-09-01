@@ -4,6 +4,7 @@ description: "Master Blade Ball v7.0 Gale's Edge update — complete guide to Ga
 date: 2026-05-17
 lastmod: 2026-05-17
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "Gale's Edge", "Ability Guide", "Meta", "v7.0", "Quantum Arena", "blade ball new abilities"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

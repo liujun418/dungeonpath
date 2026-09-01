@@ -4,6 +4,7 @@ description: "Level 48 with ten islands but gold income stuck at 120K/hour? Here
 date: 2026-07-26
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Island Layout", "Habitat Design", "Base Building", "Gold Farming", "ml-island"]
 categories: ["Mobile Game Guides"]
 games: ["Monster Legends"]

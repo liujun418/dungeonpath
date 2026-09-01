@@ -4,6 +4,7 @@ description: "You upgraded the wrong tower to max level and died on wave 28 with
 date: 2026-08-04
 lastmod: 2026-08-04
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Upgrade Guide", "Tower Paths", "Strategy", "tds-upgrades"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

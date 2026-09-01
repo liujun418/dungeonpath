@@ -4,6 +4,7 @@ description: "The Archives update lands in DOORS on August 28, 2026. Every confi
 date: 2026-08-16
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Archives", "Update Preview", "Subfloor", "doors-archives"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

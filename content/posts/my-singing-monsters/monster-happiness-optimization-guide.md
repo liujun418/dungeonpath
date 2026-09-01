@@ -8,6 +8,7 @@ cover:
   caption: "MSM monster happiness optimization"
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 tags: ["my-singing-monsters", "happiness", "coins", "optimization", "decorations"]
 categories: ["My Singing Monsters"]
 games: ["My Singing Monsters"]

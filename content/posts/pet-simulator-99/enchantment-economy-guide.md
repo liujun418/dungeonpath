@@ -4,6 +4,7 @@ description: "You just spent 500K Gems rolling for Criticals X on your 5th pet a
 date: 2026-06-06
 lastmod: 2026-06-06
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Enchantments", "Economy", "ps99-enchantments"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

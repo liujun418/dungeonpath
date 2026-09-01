@@ -4,6 +4,7 @@ description: "Missed the last SNIPE event and can't get that exclusive skin anym
 date: 2026-05-28
 lastmod: 2026-05-28
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Events", "Seasonal", "Rewards", "snipe-events"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

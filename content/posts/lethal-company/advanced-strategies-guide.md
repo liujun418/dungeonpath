@@ -4,6 +4,7 @@ description: "You've survived your first 5 quotas. Now the game gets serious. He
 date: 2026-06-05
 lastmod: 2026-06-05
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Advanced", "Strategy", "Quota", "lc-advanced"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

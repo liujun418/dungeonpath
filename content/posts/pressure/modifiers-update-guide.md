@@ -4,6 +4,7 @@ description: "Pressure's August 2026 patch added 6 new modifiers, 2 badges, and 
 date: 2026-08-18
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Modifiers", "Update", "Badges", "New Entity", "Strategy"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

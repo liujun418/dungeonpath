@@ -9,6 +9,7 @@ cover:
   caption: "RIVALS Common Mistakes Guide"
 lastmod: 2026-06-19
 draft: false
+author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Tips", "Beginner Guide", "FPS"]
 categories: ["Roblox Guides"]
 games: ["RIVALS"]

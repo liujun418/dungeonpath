@@ -4,6 +4,7 @@ description: "Learn the real difference between shiny and sparkling fish in Fisc
 date: 2026-07-05
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 tags: ["fisch", "roblox", "shiny fish", "sparkling fish", "fishing guide", "rare fish", "spawn rates"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

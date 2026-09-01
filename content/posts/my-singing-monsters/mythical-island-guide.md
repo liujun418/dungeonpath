@@ -4,6 +4,7 @@ description: "How to unlock Mythical Island at Level 20, breed all 12 Mythical m
 date: 2026-08-25
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mythical Island", "Wondermine", "Breeding", "Mythical"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

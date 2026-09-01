@@ -4,6 +4,7 @@ description: "You skipped the last event because the tower looked 'mid,' and now
 date: 2026-06-22
 lastmod: 2026-06-22
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Event Towers", "Strategy Guide", "Meta", "Limited"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

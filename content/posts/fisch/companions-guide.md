@@ -4,6 +4,7 @@ description: "Only one companion buffs you at a time in Fisch. Get Scrapbot, Smu
 date: 2026-08-21
 lastmod: 2026-08-21
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Companions", "Scrapbot", "Smudge", "Ollie the Otter", "Relic Construct", "Mosswaddler"]
 categories: ["Fisch"]
 games: ["Fisch"]

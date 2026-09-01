@@ -4,6 +4,7 @@ description: "You enter a new room and spend 3 seconds looking for the exit whil
 date: 2026-06-14
 lastmod: 2026-06-14
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Navigation", "Room Recognition", "doors-room-types"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

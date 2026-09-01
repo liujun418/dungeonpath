@@ -4,6 +4,7 @@ description: "The Company Cruiser is Lethal Company's drivable van, and it's not
 date: 2026-08-28
 lastmod: 2026-08-28
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Company Cruiser", "Vehicle", "Ship", "Driving", "lc-company-cruiser"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]
@@ -131,17 +132,6 @@ The best exit drivers barely touch the steering. They park nose-out, tap W once,
 
 Smaller note: the Cruiser costs nothing and does not compete with real gear. Spend your money on flashlights, shovels, and teleporters — the [equipment guide](/posts/lethal-company/equipment-guide/) has the buy order. The van is free, which is why its nonsense is forgivable.
 
-## What's Still Unconfirmed
-
-A few Cruiser details we will not pretend to have nailed down, because controls shift between patches and much of what players "know" comes from modded setups.
-
-First, the exact exit key. Depending on patch and bindings, it is reported as left-click or the interact key. Test it before you rely on it mid-panic — you do not want to discover the difference while the van slides toward a teammate.
-
-Second, the horn. Clips show players honking, but it is unclear whether that is base-game or a popular mod. Do not build a plan around honking.
-
-Third, the precise top speed and physics — how hard it hits, whether a flipped van can be righted. We have described behavior, not a spec sheet; the numbers shift between versions. Treat "fast enough to kill" as the only speed figure that matters.
-
-Last, whether the van's position or availability changes on specific ships. It is tied to the ship interior in the versions here, but patch notes can always move it. If your van is missing, check the ship's [terminal commands](/posts/lethal-company/terminal-commands-guide/), then accept it may just be a patch difference.
 
 ## FAQ
 

@@ -4,6 +4,7 @@ description: "Complete breakdown of Normal, Hard, Nightmare and Endless modes in
 date: 2026-05-21
 lastmod: 2026-07-02
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Game Modes", "Difficulty", "Hard Mode", "Nightmare Mode", "Endless Mode", "Farming Guide"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

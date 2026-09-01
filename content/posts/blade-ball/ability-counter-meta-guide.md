@@ -4,6 +4,7 @@ description: "Stop losing ability duels. Here is exactly how to counter every ab
 date: 2026-07-13
 lastmod: 2026-08-01
 draft: false
+author: "Alex Turner"
 tags: ["Blade Ball", "Roblox", "abilities", "counter", "meta", "guide"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]

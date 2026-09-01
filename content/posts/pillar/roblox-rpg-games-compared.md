@@ -4,6 +4,7 @@ description: "Torn between Blox Fruits and Sailor Piece? We compare combat depth
 date: 2026-05-19
 lastmod: 2026-08-05
 draft: false
+author: "Alex Turner"
 tags: ["Roblox", "Blox Fruits", "Sailor Piece", "Comparison", "RPG", "Best", "blox fruits vs sailor piece", "best roblox rpg 2026"]
 categories: ["Roblox Guides"]
 cover:

@@ -8,6 +8,7 @@ cover:
   caption: "Fisch Tournament & Competition Guide"
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Tournament", "Competition", "Event Guide", "The Deep", "Scalding Hook"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

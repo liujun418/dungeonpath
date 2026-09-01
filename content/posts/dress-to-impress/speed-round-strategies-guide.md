@@ -8,6 +8,7 @@ cover:
   caption: "Dress to Impress speed round strategies"
 lastmod: 2026-07-30
 draft: false
+author: "Alex Turner"
 tags: ["dress-to-impress", "speed-round", "strategy", "roblox", "fashion"]
 categories: ["Dress to Impress"]
 games: ["Dress to Impress"]

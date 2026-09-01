@@ -8,6 +8,7 @@ cover:
   caption: "Blox Fruits Second Sea guide"
 lastmod: 2026-07-03
 draft: false
+author: "Alex Turner"
 tags: ["blox-fruits", "second-sea", "leveling", "progression", "roblox"]
 categories: ["Blox Fruits"]
 games: ["Blox Fruits"]

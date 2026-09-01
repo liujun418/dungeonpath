@@ -4,6 +4,7 @@ description: "Every active Fisch code for August 2026, the free Developer Gift, 
 date: 2026-05-10
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Codes", "Rewards", "Developer Gift", "Halibut Harpoon", "The Deep"]
 categories: ["Fisch"]
 games: ["Fisch"]

@@ -4,6 +4,7 @@ description: "You have the items but keep dying anyway. This is the Pressure ite
 date: 2026-07-29
 lastmod: 2026-07-29
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Items", "Inventory", "Economy", "Guide", "pressure-inventory-management"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

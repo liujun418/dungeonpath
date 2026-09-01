@@ -4,6 +4,7 @@ description: "Playing Lethal Company alone changes every decision. Moon choice, 
 date: 2026-07-25
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Solo Guide", "Self-Reliance", "Survival", "LC Solo", "Solo Strategy", "lc-solo-self-reliance"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

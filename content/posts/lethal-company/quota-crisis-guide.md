@@ -4,6 +4,7 @@ description: "Day 3, short 200+ scrap, and your crew is half-dead. Here's exactl
 date: 2026-08-07
 lastmod: 2026-08-07
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Quota", "Crisis", "Strategy", "Day 3"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

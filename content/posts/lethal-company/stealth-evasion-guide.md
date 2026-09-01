@@ -4,6 +4,7 @@ description: "Master Lethal Company stealth: crouch mechanics, sound management,
 date: 2026-07-07
 lastmod: 2026-07-07
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "stealth", "evasion", "survival", "horror", "guide"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

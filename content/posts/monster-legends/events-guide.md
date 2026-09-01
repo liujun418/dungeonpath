@@ -4,6 +4,7 @@ description: "Stop wasting maze coins on dead-end nodes and missing Legendary mo
 date: 2026-08-07
 lastmod: 2026-08-07
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Events", "Maze", "Strategy Guide"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

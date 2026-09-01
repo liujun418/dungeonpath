@@ -4,6 +4,7 @@ description: "You've been running every NPC quest you see and wondering why you'
 date: 2026-06-10
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Quests", "NPCs", "Rewards", "fisch-quests"]
 categories: ["Roblox Guides"]
 games: ["Fisch"]

@@ -4,6 +4,7 @@ description: "Find all 41 Pressure documents across the Hadal Blacksite. Spawn l
 date: 2026-08-25
 lastmod: 2026-08-25
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Documents", "Lore", "Collectibles"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]
@@ -146,9 +147,6 @@ Each counts toward the collection achievement. More importantly, they are the pr
 **Do documents carry over between runs?**
 Yes, collection is persistent. Once picked up, a document is permanently registered. The game tracks which numbers you have found, so you can focus on missing ones in later runs. The achievement is designed for gradual collection across many runs, not a single attempt.
 
-## What's Still Unconfirmed
-
-The community has not reached consensus on a few points. The exact number of collectable documents — some players report 40, others 41, and a few claim 39 — may reflect bugs, seasonal event documents, or the deliberately ambiguous numbering. Several documents in the 30s range have spawn conditions that are not fully understood; players have found them in rooms the community believed could not spawn those documents. The P.AI.nter document set has gaps that may indicate unreleased content or extremely rare triggers. If you have definitive evidence, the Pressure wiki and Discord are the best places to share it.
 
 ## Related Guides
 

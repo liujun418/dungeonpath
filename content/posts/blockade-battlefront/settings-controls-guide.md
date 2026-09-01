@@ -4,6 +4,7 @@ description: "Default keybinds making you slow? Here are the best Blockade Battl
 date: 2026-05-27
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Settings", "Controls", "Keybinds", "bbf-settings"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

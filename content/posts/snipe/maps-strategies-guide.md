@@ -4,6 +4,7 @@ description: "Master every SNIPE map with detailed callouts, power positions, ro
 date: 2026-05-17
 lastmod: 2026-07-01
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Map Guide", "Advanced Tips", "Positioning", "Strategy", "snipe map strategies"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

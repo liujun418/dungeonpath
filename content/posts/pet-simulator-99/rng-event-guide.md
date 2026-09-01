@@ -4,6 +4,7 @@ description: "Cursed Mode is Pet Simulator 99's best RNG farm: 5x Huge and Titan
 date: 2026-05-17
 lastmod: 2026-08-16
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "RNG", "Cursed Mode", "Fiesta Forever", "Huge Pets", "Titanic Pets", "pet sim 99 rng"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

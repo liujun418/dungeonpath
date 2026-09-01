@@ -4,6 +4,7 @@ description: "You've been copying codes from websites that haven't been updated 
 date: 2026-06-10
 lastmod: 2026-06-10
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Codes", "Secrets", "Achievements", "doors-codes"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

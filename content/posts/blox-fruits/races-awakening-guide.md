@@ -4,6 +4,7 @@ description: "Everything you need to know about Blox Fruits Races Guide. Blox Fr
 date: 2026-05-14
 lastmod: 2026-07-24
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Races Guide", "V4 Awakening", "PvP"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]

@@ -4,6 +4,7 @@ description: "Win Dress To Impress without spending Robux. Free items, color tri
 date: 2026-08-01
 lastmod: 2026-08-01
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Free to Play", "F2P", "Guide"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

@@ -4,6 +4,7 @@ description: "Stop mashing abilities and hoping. Learn which SNIPE abilities pai
 date: 2026-07-04
 lastmod: 2026-07-04
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Weapon Combos", "Ability Synergy", "Loadout Guide", "snipe weapon ability combos", "snipe best loadout"]
 categories: ["Roblox Guides"]
 games: ["SNIPE"]

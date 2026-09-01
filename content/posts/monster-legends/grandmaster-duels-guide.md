@@ -4,6 +4,7 @@ description: "Grandmaster Duels locks your team to Aristocratic Era monsters. He
 date: 2026-08-19
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Grandmaster Duels", "Aristocratic Era", "PvP", "Wind Element", "ml-duels"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

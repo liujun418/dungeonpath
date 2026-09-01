@@ -8,6 +8,7 @@ cover:
   caption: "Monster Legends Codes and Rewards Guide"
 lastmod: 2026-07-30
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Codes and Rewards", "Free Items"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

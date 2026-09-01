@@ -5,6 +5,7 @@ description: "Stuck in DOORS? This room-by-room walkthrough covers every entity,
 date: 2026-05-12
 lastmod: 2026-07-10
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Walkthrough", "Hotel"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

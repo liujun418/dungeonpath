@@ -9,6 +9,7 @@ cover:
   caption: "My Singing Monsters Farming Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Farming Guide", "Money Farming", "msm beginner guide", "msm island guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

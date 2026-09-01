@@ -4,6 +4,7 @@ description: "You spent 3 hours camping a boss with a 2% drop rate while someone
 date: 2026-06-28
 lastmod: 2026-06-28
 draft: false
+author: "Alex Turner"
 tags: ["Sailor Piece", "Roblox", "Boss Guide", "Farming", "Drops", "Leveling"]
 categories: ["Roblox Guides"]
 games: ["Sailor Piece"]

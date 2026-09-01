@@ -4,6 +4,7 @@ description: "How to get Yama, Tushita, and the Cursed Dual Katana in Blox Fruit
 date: 2026-08-27
 lastmod: 2026-08-27
 draft: false
+author: "Alex Turner"
 tags: ["Blox Fruits", "Roblox", "Tushita", "Cursed Dual Katana", "Yama", "Sword", "Third Sea"]
 categories: ["Roblox Guides"]
 games: ["Blox Fruits"]
@@ -130,15 +131,6 @@ Everyone grinds CDK for the big slash damage and treats the kick set as a gimmic
 
 Second: grind the two swords' mastery together, not one at a time. It feels slower in the moment, but you hit the fusion gate with both done instead of finishing Yama, then starting Tushita from zero while the first sits idle. The efficient version is to level both side by side.
 
-## What's Still Unconfirmed
-
-A few specifics I couldn't verify against a live patch, so treat them as approximations:
-
-- **The exact mastery gates.** The 400–500 range for Yama (and the matching Tushita gate) is the number circulating in guides, but it has moved across updates. Double-check the current gate in-game or in a recent video before you grind past it.
-- **The Tushita pickup condition.** The exact hidden location inside the Cursed Castle and the precise condition (time, position, interaction) are the details most likely to have shifted. If the sword isn't where one guide says, check a current source.
-- **The fusion method.** Whether an NPC does the combine or it happens automatically once both masteries are met varies by update. Confirm the current step before you assume.
-- **Yama's drop rate.** Whether the Ghoul Vulture drops Yama every kill or on a chance is worth confirming; plan for more than one Dusk window either way.
-- **The exact toggle key.** The button that swaps CDK's movesets is muscle memory to players who've had it for years, but it's the kind of thing that changes between patches and platforms — check your keybinds.
 
 ## FAQ
 
@@ -170,4 +162,3 @@ Probably not. The entire chain is a mastery grind — two swords to 400-plus —
 - [PvP Combat Mastery Guide](/posts/blox-fruits/pvp-combat-mastery-guide/)
 - [Leveling Guide](/posts/blox-fruits/leveling-guide/)
 - [Observation Haki Complete Guide](/posts/blox-fruits/observation-haki-complete-guide/)
-

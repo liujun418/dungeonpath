@@ -4,6 +4,7 @@ description: "Proven breeding combos for every Legendary monster in Monster Lege
 date: 2026-05-22
 lastmod: 2026-08-19
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Breeding", "Legendary", "Recipes", "legendary-breeding-recipes"]
 categories: ["Mobile Game Guides"]
 games: ["Monster Legends"]

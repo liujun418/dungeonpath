@@ -9,6 +9,7 @@ cover:
   caption: "Monster Legends Battle Strategy Guide"
 lastmod: 2026-07-06
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Battle Strategy", "PvP", "Combat"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

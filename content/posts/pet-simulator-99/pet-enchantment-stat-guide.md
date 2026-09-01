@@ -4,6 +4,7 @@ description: "Criticals X doubles damage on one pet and flops on another — enc
 date: 2026-07-31
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Enchantments", "Pet Stats", "ps99-enchants"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

@@ -4,6 +4,7 @@ description: "You bought a Pro-Flashlight, Stun Grenade, and Zap Gun for your fi
 date: 2026-06-10
 lastmod: 2026-07-27
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "Equipment", "Economy", "lcequipment"]
 categories: ["Game Guides"]
 games: ["Lethal Company"]

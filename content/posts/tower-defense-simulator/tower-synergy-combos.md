@@ -4,6 +4,7 @@ description: "Placing the best towers individually doesn't win Fallen mode. Towe
 date: 2026-06-18
 lastmod: 2026-07-07
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Tower Synergy", "Strategy Guide", "Fallen Mode", "Loadout"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

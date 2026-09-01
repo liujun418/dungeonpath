@@ -8,6 +8,7 @@ cover:
   caption: "Dress To Impress Codes Guide"
 lastmod: 2026-07-03
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Codes", "Free Items"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

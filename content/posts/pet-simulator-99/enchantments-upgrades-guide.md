@@ -4,6 +4,7 @@ description: "You have been splitting Gems and Dark Matter between enchanting an
 date: 2026-06-13
 lastmod: 2026-06-13
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Enchantments", "Upgrades", "ps99-enchants"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

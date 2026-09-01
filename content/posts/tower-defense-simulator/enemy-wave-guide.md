@@ -9,6 +9,7 @@ cover:
   caption: "Tower Defense Simulator Enemy and Wave Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Boss Guide", "tds tower guide", "tds mode strategy"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

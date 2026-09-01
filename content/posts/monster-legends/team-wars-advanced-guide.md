@@ -8,6 +8,7 @@ cover:
   alt: "Monster Legends Team Wars Advanced Strategy Cover"
   caption: "Monster Legends Team Wars Advanced Strategy"
 draft: false
+author: "Alex Turner"
 tags: ["Monster Legends", "Mobile Games", "Team Wars", "Advanced Strategy", "PvP"]
 categories: ["Mobile Games"]
 games: ["Monster Legends"]

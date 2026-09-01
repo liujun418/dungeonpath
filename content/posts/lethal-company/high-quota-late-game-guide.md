@@ -4,6 +4,7 @@ description: "Quota 8. Your crew needs 1,250 credits. You have 6,000 in the bank
 date: 2026-07-18
 lastmod: 2026-07-18
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Late Game", "High Quota", "Survival", "Advanced Strategy", "lc-high-quota"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

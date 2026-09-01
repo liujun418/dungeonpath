@@ -4,6 +4,7 @@ description: "You hit 75% accuracy in aim trainers but miss every shot in ranked
 date: 2026-07-25
 lastmod: 2026-07-25
 draft: false
+author: "Alex Turner"
 tags: ["SNIPE", "Roblox", "FPS", "Aim Training", "Accuracy", "Sensitivity", "Muscle Memory", "snipe-aim-training"]
 categories: ["Roblox Guides"]
 games: ["Snipe"]

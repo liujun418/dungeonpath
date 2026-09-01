@@ -4,6 +4,7 @@ description: "Your Pals keep starving mid-battle because you're feeding them raw
 date: 2026-05-22
 lastmod: 2026-05-22
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Food", "Recipes", "Cooking", "Pals", "best-palworld-food"]
 categories: ["Game Guides"]
 games: ["Palworld"]

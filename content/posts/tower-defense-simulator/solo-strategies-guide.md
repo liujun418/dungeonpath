@@ -8,6 +8,7 @@ cover:
   caption: "TDS Solo Strategies Guide"
 lastmod: 2026-07-13
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Solo Guide", "Strategy", "Loadouts", "Fallen Mode"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

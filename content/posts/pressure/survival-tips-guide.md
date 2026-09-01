@@ -4,6 +4,7 @@ description: "Stuck dying between floors 20 and 40 in Pressure? Ten rules — ro
 date: 2026-06-06
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Survival", "Modifiers", "Rush", "Ambush", "Screech", "pressure-survival"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

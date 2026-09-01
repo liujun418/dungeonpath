@@ -4,6 +4,7 @@ description: "You feed your monster to Level 50 every week but your tribe still 
 date: 2026-07-24
 lastmod: 2026-07-24
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Tribal Island", "Elite Strategy", "Shard Efficiency", "Advanced", "Multiplayer Strategy"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

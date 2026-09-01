@@ -4,6 +4,7 @@ description: "You're not dying because you're bad at stealth. You're dying becau
 date: 2026-06-02
 lastmod: 2026-06-02
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Horror", "Figure", "Library", "Boss Guide", "doors-figure"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

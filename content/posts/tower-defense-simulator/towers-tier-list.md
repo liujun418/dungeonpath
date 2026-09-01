@@ -8,6 +8,7 @@ cover:
   caption: "Tower Defense Simulator Towers Tier List: Every Tower Ranked after the v2.3.0 Update Guide"
 lastmod: 2026-08-18
 draft: false
+author: "Alex Turner"
 tags: ["Tower Defense Simulator", "Roblox", "Tier List", "Loadout Guide", "tds tower guide", "tds kingpin", "tds boomerang tower", "tds loadout guide"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]

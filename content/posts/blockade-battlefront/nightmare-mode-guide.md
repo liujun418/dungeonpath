@@ -4,6 +4,7 @@ description: "Nightmare mode doubles enemy speed and halves your Cen income. Her
 date: 2026-05-25
 lastmod: 2026-05-25
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Nightmare Mode", "Difficulty", "Endgame", "bbf-nightmare-mode"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

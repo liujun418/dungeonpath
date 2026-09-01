@@ -4,6 +4,7 @@ description: "Gothic theme in Dress to Impress and you keep placing 4th? Here's 
 date: 2026-08-11
 lastmod: 2026-08-11
 draft: false
+author: "Alex Turner"
 tags: ["Dress To Impress", "Roblox", "Gothic", "Dark Theme", "Horror", "Theme Guide", "DTI Gothic Guide", "Summer 2026 Update", "DTI Codes"]
 categories: ["Roblox Guides"]
 games: ["Dress To Impress"]

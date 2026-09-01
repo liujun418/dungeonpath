@@ -8,6 +8,7 @@ cover:
   caption: "Lethal Company Equipment Guide"
 lastmod: 2026-07-29
 draft: false
+author: "Alex Turner"
 tags: ["Lethal Company", "PC Games", "Equipment Guide", "Loadout Guide", "Co-op"]
 categories: ["PC Games"]
 games: ["Lethal Company"]

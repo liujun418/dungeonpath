@@ -9,6 +9,7 @@ cover:
   caption: "Palworld Technology & Progression Guide"
 lastmod: 2026-05-10
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "PC Games", "Progression", "Leveling"]
 categories: ["PC Games"]
 games: ["Palworld"]

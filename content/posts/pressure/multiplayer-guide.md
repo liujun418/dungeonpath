@@ -8,6 +8,7 @@ cover:
   caption: "Pressure Multiplayer Guide"
 lastmod: 2026-07-05
 draft: false
+author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Co-op", "Horror", "Team Roles"]
 categories: ["Roblox Guides"]
 games: ["Pressure"]

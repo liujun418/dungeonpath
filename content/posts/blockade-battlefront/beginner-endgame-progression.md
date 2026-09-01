@@ -4,6 +4,7 @@ description: "You beat Normal, queued Hard, died at wave 12. Progress in BBF is 
 date: 2026-07-31
 lastmod: 2026-07-31
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Tower Defense", "Progression", "Difficulty", "Endgame"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

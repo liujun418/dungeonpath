@@ -8,6 +8,7 @@ cover:
   caption: "My Singing Monsters Rare and Epic Monsters Guide"
 lastmod: 2026-06-29
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Breeding Guide", "msm rare monsters", "msm events guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

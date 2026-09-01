@@ -4,6 +4,7 @@ description: "Pet Simulator 99 Plant & Combine Update 87 guide: Combine-o-Matic 
 date: 2026-08-15
 lastmod: 2026-08-15
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Plant & Combine", "Combine-o-Matic", "Update 87", "ps99-plant"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

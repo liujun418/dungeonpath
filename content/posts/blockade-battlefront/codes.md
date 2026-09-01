@@ -4,6 +4,7 @@ description: "All working ST Blockade Battlefront codes for May 2026. Redeem for
 date: 2026-05-18
 lastmod: 2026-05-18
 draft: false
+author: "Alex Turner"
 tags: ["Blockade Battlefront", "Roblox", "Codes", "Free Rewards", "Cen", "bf codes 2026", "bf free cen"]
 categories: ["Roblox Guides"]
 games: ["Blockade Battlefront"]

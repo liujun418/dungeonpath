@@ -8,6 +8,7 @@ cover:
   caption: "DOORS Items and Inventory Guide"
 lastmod: 2026-08-05
 draft: false
+author: "Alex Turner"
 tags: ["DOORS", "Roblox", "Items Guide", "Survival", "Strategy Guide"]
 categories: ["Roblox Guides"]
 games: ["DOORS"]

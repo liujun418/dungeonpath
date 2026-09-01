@@ -9,6 +9,7 @@ cover:
   caption: "My Singing Monsters Legendary Island Guide"
 lastmod: 2026-05-12
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Legendary Island", "Breeding Guide", "msm legendary island breeding", "msm legendary monsters", "msm island walkthrough"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]

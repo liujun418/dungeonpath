@@ -4,6 +4,7 @@ description: "You copied the S-tier base layout and assigned the 'best' Pals, ye
 date: 2026-07-26
 lastmod: 2026-07-26
 draft: false
+author: "Alex Turner"
 tags: ["Palworld", "Pal Management", "Base Optimization", "Work Assignments", "Guide", "palworld-pal-management-optimization"]
 categories: ["Game Guides"]
 games: ["Palworld"]

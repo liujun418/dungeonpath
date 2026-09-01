@@ -4,6 +4,7 @@ description: "You walked into the Trading Plaza with 500K Gems and walked out wi
 date: 2026-06-07
 lastmod: 2026-06-07
 draft: false
+author: "Alex Turner"
 tags: ["Pet Simulator 99", "Roblox", "Trading", "Economy", "ps99-trading"]
 categories: ["Roblox Guides"]
 games: ["Pet Simulator 99"]

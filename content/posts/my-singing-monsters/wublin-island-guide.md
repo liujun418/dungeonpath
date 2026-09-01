@@ -9,6 +9,7 @@ cover:
   caption: "My Singing Monsters Wublin Island Guide"
 lastmod: 2026-07-06
 draft: false
+author: "Alex Turner"
 tags: ["My Singing Monsters", "Mobile Games", "Monsters", "msm island guide", "msm beginner guide"]
 categories: ["Mobile Games"]
 games: ["My Singing Monsters"]
