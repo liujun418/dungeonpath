@@ -1310,16 +1310,6 @@
       "statusCode": 301
     },
     {
-      "source": "/posts/tower-defense-simulator/best-maps-guide",
-      "destination": "/games/tower-defense-simulator/",
-      "statusCode": 301
-    },
-    {
-      "source": "/posts/tower-defense-simulator/best-maps-guide/",
-      "destination": "/games/tower-defense-simulator/",
-      "statusCode": 301
-    },
-    {
       "source": "/posts/tower-defense-simulator/coin-farming-guide",
       "destination": "/games/tower-defense-simulator/",
       "statusCode": 301

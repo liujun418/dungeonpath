@@ -30,6 +30,14 @@ howto:
 
 > *Last updated: May 10, 2026. This guide covers all enemy types, boss mechanics, and wave patterns in Tower Defense Simulator as of May 2026, including the latest 2026 balance update changes.*
 
+You're on wave 27 of Fallen Mode. Your defense is solid, your economy is rolling, and you're already thinking about the loot. Then the wave spawns and you see them: burn-immune enemies, walking straight toward your carefully stacked Pyromancer line. For half a second you freeze. Then you start selling. But you're already too late — by the time you've rebuilt three towers, the first enemies are already at the exit. You lose the run to one enemy type you forgot to prepare for.
+
+If that sounds familiar, you're not alone. Most TDS players lose more runs to enemy type mismatches than to bad tower placement or weak loadouts. They build the meta combo, drop it on the best spots, and then watch it fail because the wave in front of them is the one thing their setup can't handle.
+
+Knowing enemies isn't just memorizing stats. It's knowing what counters what, how to spot a threat before it reaches you, and when to swallow the 30% sell penalty and rebuild. This guide covers all of it.
+
+---
+
 ## Why Knowing Enemies Is Your Biggest Advantage
 
 In **Tower Defense Simulator (TDS)**, towers are only half the equation. If you don't understand **what you're fighting** — enemy HP, speed, abilities, resistances, and wave timing — even the best tower setup will fail. Every map has a unique enemy composition, and every gamemode scales enemies differently.
@@ -216,6 +224,84 @@ The 2026 balance update introduced several enemy adjustments that affect strateg
 
 ---
 
+## How to Read a Wave Before It Spawns
+
+Knowing enemy stats on a page is one thing. Reading them in a real game, with twenty seconds before the wave starts and coins on the line, is another. Most players lose not because they don't know the counter, but because they don't recognize the enemy composition fast enough to switch to it.
+
+Here's how to read a wave like a veteran.
+
+**First, look at the spawn icon and the wave number.** Every mode has a rough pattern to what shows up when. Normal Mode waves 1-10 are basics and commons. Waves 11-20 introduce fasts and toughts. Waves 21-30 are where special ability enemies start appearing — healers, summoners, teleporters. Waves 31+ are boss waves mixed with elites. If you know the wave number range, you already know 80% of what's coming, and you can pre-position counters before the wave spawns.
+
+**Second, watch the first three seconds of a new wave.** The spawn tells you everything. If you see a cluster of small enemies, it's a swarm wave — swap to AoE. If you see one big enemy and nothing else, it's a tank or mini-boss — make sure your single-target DPS is maxed. If you see a healer mixed in, it doesn't matter how much DPS you have; you need to kill the healer first, or the wave never ends.
+
+**Third, match the enemy to your weakest tower, not your strongest.** The instinct is "what's my best tower for this wave?" The right question is "which tower on this map is useless against what's coming?" If a burn-immune wave is about to spawn and half your DPS is Pyromancer, you've got a problem — and you need to start selling and rebuilding before the wave hits, not after.
+
+---
+
+## The Three Mistakes That Lose Waves (and How to Fix Them)
+
+**Mistake one: you build for the last wave, not the next one.** Players love saving for Accelerators and big boss-slayers. But if you save too hard and the wave 15 swarm walks right through your four Scouts, you never get to the boss. Build to survive the current wave first, then upgrade for the next one. The pattern: minimum viable defense now, economy in the middle, maxed DPS before the boss.
+
+**Mistake two: you don't respect healers and summoners.** Support enemies are not damage threats, so players ignore them. That's how you lose. A healer can make a wave effectively unkillable if it's protected by tanky units in front. A summoner keeps spawning adds that eat your tower attention while the real enemies get through. Always prioritize support enemies — target them first, even if they have less HP.
+
+**Mistake three: you react instead of predict.** When an enemy type shows up and you go "oh, I should have built for that," you're already late. The best players look at the wave counter, remember the pattern from the last run, and have their counter tower built and upgrading before the wave number changes. Prediction is free. Reaction costs coins.
+
+---
+
+## Common Enemy Combos (and How to Beat Them)
+
+Enemies don't show up alone. The dangerous waves aren't the ones with a single scary enemy — they're the ones that combine two enemy types in a way that breaks your usual defense. Here are the combos that catch players out most often.
+
+**Tank + Healer.** The tank sits in front absorbing damage, the healer sits behind it patching it back up. Your DPS feels like it's doing nothing, because it effectively isn't. The fix is either AoE damage that hits both at once, or enough single-target burst to kill the healer through the tank before it sustains. In a pinch, reposition one of your towers to target the back line — range and angle matter more than raw damage here.
+
+**Swarm + Speedy.** A wave of small, fast enemies that overwhelms single-target builds and leaks through before you can react. The fix is pre-placed AoE with stun support. Freezer or Electroshocker buys your Pyromancer or Rocketeer time to burn the group down. If you only have single-target towers on the field when this wave hits, you will leak.
+
+**Hidden + Tank.** The hidden enemy slips past your front line while the tank distracts everything. By the time you realize what happened, the hidden enemy is already at your base. The fix is permanent detection coverage — at least one Radar or Commander ability available — and enough back-line damage to handle whatever makes it through.
+
+**Burn-immune + Stun-resistant.** This is the worst. Both your usual crowd control and your usual AoE are useless, and you're left with nothing but raw single-target DPS. If your loadout leans on Pyromancer and Freezer, this wave ends your run. The fix is having at least one neutral DPS tower — Accelerator, Turret, Minigunner — that works against every enemy type regardless of resistances. Never build a loadout with no Plan B.
+
+---
+
+## Failure Retrospective: The Run That Broke Me
+
+I lost a Fallen Mode run on Crossroads once that I should have won easily. The loadout was meta: Accelerator, Commander, DJ, Minigunner, Farm. Economy was perfect. Towers were all maxed before wave 30. I was checking out mentally, already thinking about the next run, and then wave 33 hit.
+
+A healer spawned mixed in with a group of tanks. I didn't notice. My Accelerator was chewing through the front tank like always, but the healer behind it was patching everything back up. The wave sat on my final curve for what felt like forever. By the time I registered what was happening, a second healer had spawned, and I couldn't burn through fast enough. Everything leaked. Run over.
+
+The mistake wasn't my loadout and it wasn't my DPS. It was that I wasn't reading the wave composition — I was just watching damage numbers. As soon as I saw the first healer, I should have pivoted: sold a Minigunner on the back line, dropped a Rocketeer to AoE through the front tanks and hit the healer behind them. Ten seconds of attention, one sell and rebuild, and the run is saved.
+
+That's the lesson of enemy wave knowledge, and it applies to every mode: knowing what's coming isn't enough. You have to watch what's actually coming, and you have to be willing to change your plan in the middle of a wave when the composition surprises you. The plan gets you to wave 25. Reading the wave gets you past wave 40.
+
+---
+
+## The Wave Pattern Nobody Talks About
+
+Every TDS mode follows a rough wave arc, and once you see it, you stop being surprised by what comes next. It looks like this:
+
+- **Waves 1-10: the warmup.** Basics, commons, the occasional fast. This is where you build economy and set up your first damage towers. Nothing here should threaten you. If you're struggling in waves 1-10, your loadout or your economy plan is wrong, not your defense.
+
+- **Waves 11-25: the build-up.** Tough enemies, special abilities, the first mini-bosses. This is where most players over-invest in damage too early and run out of economy for the real waves later. The right move is a balance: keep building economy while adding damage, and don't max every tower just because you can.
+
+- **Waves 26-35: the test.** Healers, summoners, resistances, combos. The game starts throwing every enemy type at you and seeing what your loadout can't handle. This is the phase where knowing counters matters most, because one bad matchup can end your run if you didn't prepare for it.
+
+- **Waves 36+: the boss gauntlet.** Boss waves, sometimes multiple at once, mixed with elite adds. Your single-target DPS and your support buff stack decide these waves. If you've built well and your placement is good, this is where it all pays off. If you skimped on economy or buffs, you find out here.
+
+Once you internalize this arc, you stop building for the wave you're on and start building for the wave that's three ahead. That's the difference between players who clear occasionally and players who farm consistently.
+
+---
+
+## Loadout Tiers by Enemy Type
+
+Here's how to think about enemy matchups at a glance, without memorizing a full tier list.
+
+**Against swarms and groups:** bring AoE. Pyromancer, Rocketeer, Mortar. Swarm waves are a volume problem, and volume problems need area damage. If you see six small icons on the wave preview, you want fire and explosions.
+
+**Against single tanks and bosses:** bring single-target burst. Accelerator, Turret, Sniper. Bosses are a DPS race, and you need every second of contact time to count. Stack your single-target towers on the longest path segment and make sure the Commander buffs all of them.
+
+**Against special ability enemies:** bring the specific counter, and bring it before the wave starts. Healers need burst focused on them, not spread out. Teleporters need dense overlapping coverage. Hidden enemies need detection. Stun-resistant enemies need raw DPS, not crowd control. If you know what's coming and you don't pre-build for it, that's on you.
+
+---
+
 ## Enemy-Specific Counter Strategies
 
 ### Countering Specific Enemy Types
@@ -239,6 +325,44 @@ The 2026 balance update introduced several enemy adjustments that affect strateg
 | **Void** | Vulnerable to sustained DPS | 2x Commander + Accelerator + Golden Cowboy | Overlap all tower ranges on boss spawn point |
 | **Titan** | Weak before enrage phase | Save coins, burst after 50% HP | Don't overcommit DPS in phase 1 |
 | **Fallen King** | Vulnerable during phase transitions | Full team coordination, dedicated minion clear | Assign roles: DPS, minion control, support |
+
+---
+
+## When to Hold 'Em, When to Rebuild
+
+Knowing enemy types is useful, but the real skill is knowing when to change your approach mid-game. Here are the decision points that separate consistent players from boom-or-bust players.
+
+**If the next wave is something you can't counter, sell and rebuild before it spawns.** This sounds obvious, but most players don't do it. They look at their perfectly upgraded towers, think about the 30% sell penalty, and decide to "just see if it works." It usually doesn't. The 30% loss is the cost of not losing the whole run.
+
+**If you're ahead, don't spend everything just because you can.** It's tempting to max every tower the second you can afford it. But waves get harder, and if you've spent all your coins, you have no flexibility when a surprise enemy type shows up. Keep a reserve of 10-20% of your total tower value for emergency repositioning or counter towers.
+
+**If you're behind, don't sell your economy towers to build damage.** This is the classic death spiral. You're taking damage, you panic-sell a Farm to build another DPS tower, the DPS tower helps for one wave, then your income drops and you can't afford the next upgrade, and you lose two waves later anyway. Economy wins games. Protect it first.
+
+These rules sound simple. They are. What's hard is following them when the wave counter is ticking down and you can feel the run slipping.
+
+---
+
+## Solo vs Co-op: Why the Enemy Game Changes Completely
+
+The enemy roster is the same whether you play solo or with a team, but the way you approach them is not. Here's what actually changes and why.
+
+**Solo play: you have to cover everything.** One loadout needs to handle swarms, single-target, support counters, and boss damage all at once. That means your loadout is a compromise — you're not the best at any one thing, but you're good enough at everything. In solo, enemy knowledge matters more because you can't rely on a teammate to cover your weakness. If a burn-immune wave shows up and all your damage is Pyromancer, you lose. No teammate is going to save you.
+
+**Co-op play: you can specialize, but you have to communicate.** Two or three players can split roles — one on economy, one on AoE, one on single-target boss DPS — and together you handle everything. The catch is that everyone has to know their job, and someone has to call out surprises. When a wave you didn't expect spawns — a healer, a hidden enemy, a stun-resistant rush — the first person to see it needs to say something.
+
+**The co-op trap: role overlap that wastes coins.** Most co-op teams lose not because they don't have damage, but because two players both built the same thing. Two players both stacking Accelerators means no one brought AoE for swarms, and the first swarm wave leaks. Before the game starts, assign roles. It takes fifteen seconds and it saves half your runs.
+
+---
+
+## Three Drills to Get Better at Reading Waves
+
+You can memorize every counter in the game and still lose if you can't recognize the threat fast enough. Here are three drills that train the instinct.
+
+**Drill 1: The pre-wave callout.** In your next ten games, before every wave starts, say out loud what enemy type you expect and which tower of yours is supposed to counter it. You'll be wrong sometimes — that's the point. The habit of checking before the wave hits trains you to notice surprises immediately instead of after they've already leaked.
+
+**Drill 2: The one-counter game.** Load into Normal mode with a deliberately unbalanced loadout — say, all single-target DPS, no AoE. Play until you lose to a swarm wave. You'll learn exactly which wave composition punishes that specific weakness, and you'll respect that weakness forever after.
+
+**Drill 3: The wave 30 rebuild.** On a map you know well, intentionally save all your heavy DPS tower placement until wave 30. Force yourself to place them in the 15 seconds between wave 29 and 30, under pressure. You'll get faster at reading the map and dropping towers under stress — a skill that matters more in late waves than any stat number.
 
 ---
 

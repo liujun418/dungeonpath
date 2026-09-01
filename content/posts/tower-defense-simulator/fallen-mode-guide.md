@@ -9,7 +9,7 @@ tags: ["Tower Defense Simulator", "Roblox", "Endgame Guide", "Strategy Guide", "
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 cover:
-  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  image: "/cover-image/tds-fallen-mode/cover.webp"
   alt: "Tower Defense Simulator Fallen Mode Guide Cover"
   caption: "Tower Defense Simulator Fallen Mode Guide"
 howto:

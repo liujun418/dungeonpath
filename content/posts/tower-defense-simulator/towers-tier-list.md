@@ -3,7 +3,7 @@ title: "TDS Tower Tier List 2026: Every Tower Ranked for Solo, Co-Op & Fallen (v
 description: "Still losing Fallen Mode wave 30? Here's where every TDS tower lands after the v2.3.0 update — Kingpin and Boomerang included — plus the 5 towers that moved."
 date: 2026-05-10
 cover:
-  image: "/cover-image/tower-defense-simulator-beginner/cover.webp"
+  image: "/cover-image/tds-towers-tier-list/cover.webp"
   alt: "Tower Defense Simulator Towers Tier List: Every Tower Ranked after the v2.3.0 Update Guide Cover"
   caption: "Tower Defense Simulator Towers Tier List: Every Tower Ranked after the v2.3.0 Update Guide"
 lastmod: 2026-08-18
