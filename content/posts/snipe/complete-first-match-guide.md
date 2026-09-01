@@ -235,8 +235,8 @@ One match at a time. The first kill will come. When it does, it's because you su
 
 **Related Guides:**
 
-- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/posts/snipe/snipe-beginner-guide/)
-- [10 SNIPE Beginner Mistakes That Get You Killed](/posts/snipe/beginner-mistakes-guide/)
+- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/games/snipe/)
+- [10 SNIPE Beginner Mistakes That Get You Killed](/games/snipe/)
 - [SNIPE Weapons & Abilities Guide — Best Loadouts](/posts/snipe/weapons-abilities-guide/)
 - [SNIPE Movement Mechanics Guide — Why You're Getting Headshot](/posts/snipe/movement-mechanics-guide/)
-- [SNIPE Settings & FPS Optimization Guide](/posts/snipe/settings-fps-optimization/)
+- [SNIPE Settings & FPS Optimization Guide](/games/snipe/)

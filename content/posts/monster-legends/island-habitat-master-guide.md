@@ -137,7 +137,7 @@ Design for the human, not the spreadsheet. A theoretically optimal base that is 
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide — First 3 Days and Gem Traps](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide — First 3 Days and Gem Traps](/games/monster-legends/)
 - [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/gold-gem-farming-guide/)
 - [Monster Legends Breeding Guide — Full System](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Habitats & Island Layout — Quick Reference](/posts/monster-legends/habitats-island-layout/)

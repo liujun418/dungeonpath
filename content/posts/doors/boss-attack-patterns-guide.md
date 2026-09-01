@@ -272,6 +272,6 @@ The pattern is clear: bosses in DOORS aren't about mechanical skill. They're kno
 
 - [DOORS Entities Bestiary — Every Monster, Behavior & Counter](/posts/doors/entities-bestiary/)
 - [DOORS Solo vs Team Strategy — When to Split, When to Stick](/posts/doors/solo-vs-team-strategy-guide/)
-- [Figure Survival Protocol — Advanced Stealth & Decoy Tactics](/posts/doors/figure-survival-protocol/)
+- [Figure Survival Protocol — Advanced Stealth & Decoy Tactics](/games/doors/)
 - [DOORS Hotel Walkthrough — Room-by-Room Survival Guide](/posts/doors/hotel-walkthrough/)
-- [DOORS The Mines Walkthrough — New Floor Survival Guide](/posts/doors/the-mines-walkthrough/)
+- [DOORS The Mines Walkthrough — New Floor Survival Guide](/games/doors/)

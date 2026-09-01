@@ -209,8 +209,8 @@ Two-book pickups per trip, walk don't crouch when Figure is beyond 20 studs, and
 
 - [Pressure Speedrun Guide — Fastest Routes, Optimal Items & Clear Time Benchmarks](/posts/pressure/speedrun-guide/)
 - [Pressure Entity Timing Guide — When Every Spawn Happens](/posts/pressure/entity-timing-guide/)
-- [Pressure Entity Timing Windows — Safe Movement Frames](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Safe Movement Frames](/games/pressure/)
 - [Pressure Items & Loadout Tier List — Best 5-Slot Loadouts](/posts/pressure/items-loadout-tier-list/)
 - [Pressure Advanced Survival Strategies — Beyond Door 50](/posts/pressure/advanced-survival-strategies-guide/)
-- [Pressure Floors & Locations — What Changes at Each Range](/posts/pressure/floors-and-locations-guide/)
+- [Pressure Floors & Locations — What Changes at Each Range](/games/pressure/)
 - [Pressure Beginner Guide — Entities, Items & First Win](/posts/pressure/beginner-guide/)

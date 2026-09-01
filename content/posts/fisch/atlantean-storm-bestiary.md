@@ -25,8 +25,8 @@ faq:
 related:
   - /posts/fisch/outer-deep-bestiary-guide/
   - /posts/fisch/weather-seasons-guide/
-  - /posts/fisch/rare-mythic-fish-guide/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
 ---
 
@@ -139,7 +139,7 @@ Captain Neptune sits on the pirate ship near the whirlpools. Talk to him to star
 
 Some sources also list 5,000 C$ and 2,500 XP as separate bestiary completion rewards. These may be bundled into the quest turn-in or they may pop automatically when you catch the eighth fish. The exact trigger is unconfirmed — see the section below.
 
-Is the quest worth it? The Hangman's Hooks and Kraken Tentacles are genuinely useful bait that you'd otherwise need to grind for or buy. The Drifter's Tale Bobber is cosmetic, but it's a permanent account unlock and a completion marker. If you're already fishing the Grand Reef for other reasons, the bestiary is a side objective that pays out real bait. If you're coming to the Grand Reef just for this, spend your time on the [best rods tier list](/posts/fisch/best-rods-tier-list/) and [rare and mythic fish guide](/posts/fisch/rare-mythic-fish-guide/) first — the Atlantean Storm is a completionist goal, not a progression requirement.
+Is the quest worth it? The Hangman's Hooks and Kraken Tentacles are genuinely useful bait that you'd otherwise need to grind for or buy. The Drifter's Tale Bobber is cosmetic, but it's a permanent account unlock and a completion marker. If you're already fishing the Grand Reef for other reasons, the bestiary is a side objective that pays out real bait. If you're coming to the Grand Reef just for this, spend your time on the [best rods tier list](/posts/fisch/best-rods-tier-list/) and [rare and mythic fish guide](/games/fisch/) first — the Atlantean Storm is a completionist goal, not a progression requirement.
 
 The quest structure is similar to the [Outer Deep bestiary](/posts/fisch/outer-deep-bestiary-guide/): catch everything, talk to the NPC, collect your rewards. If you've done that one, you know the rhythm.
 
@@ -149,7 +149,7 @@ See the FAQ section in the frontmatter above for the most common questions. Here
 
 **Can I catch these fish outside the whirlpool?** No. The bestiary fish only spawn in the "Atlantean Storm" zone. Fishing elsewhere in the Grand Reef catches native Grand Reef fish. If the zone label isn't on screen, you're in the wrong spot.
 
-**Do I need a specific rod?** No rod is required, but high Luck helps. The No-Life Rod and Rod of the Eternal King are the best options. Avoid rods with low Max Kg — the Maelstorm Shark and Void Angler are heavy and will snap a weak line. Check our [rod progression timeline](/posts/fisch/rod-progression-timeline/) if you're not sure what to use.
+**Do I need a specific rod?** No rod is required, but high Luck helps. The No-Life Rod and Rod of the Eternal King are the best options. Avoid rods with low Max Kg — the Maelstorm Shark and Void Angler are heavy and will snap a weak line. Check our [rod progression timeline](/games/fisch/) if you're not sure what to use.
 
 **How long does the full bestiary take?** Plan for 2 to 4 hours depending on your luck and preparation. If you have all the bait ready and the right totems, two hours is realistic. If you're gathering bait and waiting for natural weather, expect four or more.
 

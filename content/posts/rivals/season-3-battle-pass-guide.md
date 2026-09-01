@@ -235,7 +235,7 @@ There's no wrong answer. But know which column you're in. The frustration comes 
 
 For players in column 2 — the largest group — here's the daily loop: log in, note your challenges, play Duels with ONE specific mechanic in mind ("today I'm practicing crosshair placement at head height"), let the pass XP accumulate. After every death, ask yourself: "Did I lose because of aim, or because of positioning?" Write down the answer. In a week, you'll have both the Spear and a list of your most frequent positioning errors. That list is worth more than any cosmetic on the pass.
 
-For more on Duel strategy and improving your 1v1 win rate, check our [1v1 Duel strategies guide](/posts/rivals/1v1-duel-strategies-guide/).
+For more on Duel strategy and improving your 1v1 win rate, check our [1v1 Duel strategies guide](/games/rivals/).
 
 ---
 
@@ -274,6 +274,6 @@ It depends on how much you play. If you're logging 4+ hours per week and care ab
 ## Related Guides
 
 - [RIVALS Spear Guide — How to Get It Free, Throw Mechanics & The 3-Spear Climb Trick](/posts/rivals/spear-weapon-guide/)
-- [RIVALS Season 3 Weapons & Maps — Full Breakdown of Every New Addition](/posts/rivals/season-3-weapons-maps-guide/)
-- [Win More 1v1 Duels — Best Loadouts, Movement & Mind Games](/posts/rivals/1v1-duel-strategies-guide/)
+- [RIVALS Season 3 Weapons & Maps — Full Breakdown of Every New Addition](/games/rivals/)
+- [Win More 1v1 Duels — Best Loadouts, Movement & Mind Games](/games/rivals/)
 - [RIVALS Weapon Tier List 2026 — All 53 Weapons Ranked](/posts/rivals/weapon-tier-list/)

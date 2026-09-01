@@ -230,8 +230,8 @@ Lower your graphics quality to Manual - Low. Late rounds stack visual effects th
 
 - **[Blade Ball Parry Chain Counter Guide](/posts/blade-ball/parry-chain-counter-guide/)** — Learn how to survive and counter extended parry chains once your settings are locked in.
 - **[Blade Ball Deflect and Parry Timing Guide](/posts/blade-ball/deflect-parry-timing-guide/)** — Dial in the exact timing windows for perfect blocks.
-- **[Blade Ball How to Win Guide](/posts/blade-ball/how-to-win-guide/)** — Combine optimized settings with advanced match strategy.
-- **[Blade Ball Ranked Climbing Decision Guide](/posts/blade-ball/ranked-climbing-decision-guide/)** — Make smarter decisions under pressure to climb the leaderboard.
+- **[Blade Ball How to Win Guide](/games/blade-ball/)** — Combine optimized settings with advanced match strategy.
+- **[Blade Ball Ranked Climbing Decision Guide](/games/blade-ball/)** — Make smarter decisions under pressure to climb the leaderboard.
 
 ---
 

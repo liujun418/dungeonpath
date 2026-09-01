@@ -423,7 +423,7 @@ Many tribes are abandoned by their leaders. You join, place your monster, feed i
 
 Your experience on Tribal Island connects to other parts of the game in several ways:
 
-- **Breeding:** Rare and Epic monsters obtained from the Starpower Shop can be bred on Natural islands. See our [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/) for breeding combinations.
+- **Breeding:** Rare and Epic monsters obtained from the Starpower Shop can be bred on Natural islands. See our [My Singing Monsters Breeding Guide](/games/my-singing-monsters/) for breeding combinations.
 - **Shard Generation:** Wublins and Celestials from [Wublin Island](/posts/my-singing-monsters/wublin-island-guide/) produce shards that fuel your Tribal Island feeding.
 - **Coin Generation:** Higher-level monsters on your Natural islands produce more coins, which convert to shards. A well-developed [farming strategy](/posts/my-singing-monsters/farming-guide/) directly feeds your tribal performance.
 
@@ -453,8 +453,8 @@ A: No, but it helps. Kayna produces shards daily, and collecting them adds up ov
 
 ## Related Guides
 
-- [My Singing Monsters Beginner Guide](/posts/my-singing-monsters/beginner-guide/) — Getting started with the basics
-- [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/) — Breeding Rare and Epic monsters from Starpower eggs
+- [My Singing Monsters Beginner Guide](/games/my-singing-monsters/) — Getting started with the basics
+- [My Singing Monsters Breeding Guide](/games/my-singing-monsters/) — Breeding Rare and Epic monsters from Starpower eggs
 - [My Singing Monsters Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/) — Wublins produce shards for Tribal feeding
 - [My Singing Monsters Farming Guide](/posts/my-singing-monsters/farming-guide/) — Coin farming strategies to fuel shard conversion
 - [My Singing Monsters Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/) — Another endgame island for advanced players

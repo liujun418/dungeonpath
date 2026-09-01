@@ -28,7 +28,7 @@ related:
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/cusk-purger-rod-guide/
   - /posts/fisch/the-deep-update-guide/
-  - /posts/fisch/complete-location-map/
+  - /games/fisch/
 ---
 
 ## You Watch a Withered Fish Pop for 9.5×, Then Choke the Next Five Throws
@@ -148,7 +148,7 @@ You are down to the last few Tidefall entries and you are still casting a mid-ti
 
 **Why it happens:** You are treating the bestiary as a volume problem — "cast more, catch everything." It's a condition problem. The missing fish are gated by time, weather, or depth, and more casts at the wrong setup change nothing.
 
-**Recovery:** Stop casting. Open the bestiary, sort your missing species by condition, and plan around the live weather and clock. Server-hop for the cycle you need. Only cast when the fish is actually in your catch pool. For the full logic of hunting gated fish, our [complete location map](/posts/fisch/complete-location-map/) breaks down the condition system.
+**Recovery:** Stop casting. Open the bestiary, sort your missing species by condition, and plan around the live weather and clock. Server-hop for the cycle you need. Only cast when the fish is actually in your catch pool. For the full logic of hunting gated fish, our [complete location map](/games/fisch/) breaks down the condition system.
 
 ### Mistake 2: Buying the spear and discovering it's locked
 

@@ -272,10 +272,10 @@ Scared survivors are still survivors. Everyone who has cleared the Blacksite sta
 
 - [Pressure Beginner Guide — Your First 20 Floors, Entity Sound Recognition & the Credit-Earning Protocol](/posts/pressure/beginner-guide/)
 - [Pressure Entities Guide — Every Monster, Its Audio Tell & the Exact Counter](/posts/pressure/entities-guide/)
-- [Pressure Entity Timing Windows — Exact Seconds to React](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Exact Seconds to React](/games/pressure/)
 - [Pressure Beginner Mistakes — 15 Ways You Keep Dying at Door 47 With Full Inventory](/posts/pressure/beginner-mistakes-guide/)
 - [Pressure Survival Tips — The 10 Rules That Take You From Floor 20 to Floor 100](/posts/pressure/survival-tips-guide/)
-- [Pressure Items & Puzzles Guide — What to Buy & Every Puzzle Solved](/posts/pressure/items-and-puzzles-guide/)
+- [Pressure Items & Puzzles Guide — What to Buy & Every Puzzle Solved](/games/pressure/)
 - [Pressure Audio Identification Guide — Why You Keep Mixing Up Sounds and Dying at Door 70](/posts/pressure/audio-identification-guide/)
 
 ---

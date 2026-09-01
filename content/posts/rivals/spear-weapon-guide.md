@@ -20,7 +20,7 @@ faq:
     answer: "Yes. Throw 3 Spears into a wall in a staggered pattern — low, mid, high — to create makeshift steps. You can jump onto each Spear shaft like a tiny platform, letting you reach high ledges, escape routes, or sniper perches that are normally inaccessible. The timing is tight and each spear despawns after a set duration, so plan your route before throwing."
 related:
   - /posts/rivals/season-3-battle-pass-guide/
-  - /posts/rivals/season-3-weapons-maps-guide/
+  - /games/rivals/
   - /posts/rivals/movement-and-mechanics-guide/
   - /posts/rivals/weapon-tier-list/
 ---
@@ -158,7 +158,7 @@ If you watch high-level RIVALS players who main Spear, you'll notice they throw 
 
 Next time you have three spears in hand, ask yourself: "Is there a position I can't reach right now that would win this round?" If the answer is yes, those spears are probably better spent climbing than throwing at the first enemy who peeks.
 
-> The Spear's mobility value shifts dramatically depending on the map. For a full breakdown of which weapons excel on which maps in Season 3, see our [Season 3 weapons and maps guide](/posts/rivals/season-3-weapons-maps-guide/).
+> The Spear's mobility value shifts dramatically depending on the map. For a full breakdown of which weapons excel on which maps in Season 3, see our [Season 3 weapons and maps guide](/games/rivals/).
 
 ---
 
@@ -292,6 +292,6 @@ Yes. Throw 3 Spears into a wall in a staggered pattern — low, mid, high — to
 ## Related Guides
 
 - [RIVALS Season 3 Battle Pass Guide — All Rewards, Tiers & Is It Worth It?](/posts/rivals/season-3-battle-pass-guide/)
-- [RIVALS Season 3 Weapons & Maps — Full Breakdown of Every New Addition](/posts/rivals/season-3-weapons-maps-guide/)
+- [RIVALS Season 3 Weapons & Maps — Full Breakdown of Every New Addition](/games/rivals/)
 - [RIVALS Movement & Mechanics Guide — Dashes, Slides, Jumps & Advanced Tech](/posts/rivals/movement-and-mechanics-guide/)
 - [RIVALS Weapon Tier List 2026 — All 53 Weapons Ranked](/posts/rivals/weapon-tier-list/)

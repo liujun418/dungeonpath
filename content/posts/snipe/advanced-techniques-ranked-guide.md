@@ -320,10 +320,10 @@ Advanced techniques in SNIPE aren't flashy extras — they're the baseline requi
 
 **Related Guides:**
 
-- [SNIPE Beginner Guide: Controls, Movement & First Match](/posts/snipe/snipe-beginner-guide/)
+- [SNIPE Beginner Guide: Controls, Movement & First Match](/games/snipe/)
 - [SNIPE Weapons & Abilities Guide: Tier List & Loadouts](/posts/snipe/weapons-abilities-guide/)
 - [SNIPE Maps & Strategies Guide: Positioning & Advanced Tactics](/posts/snipe/maps-strategies-guide/)
-- [SNIPE Game Modes Guide: Every Match Type, Scoring & Win Conditions](/posts/snipe/game-modes-guide/)
-- [SNIPE Positioning & Angles Guide: Win Every Duel](/posts/snipe/positioning-angles-guide/)
+- [SNIPE Game Modes Guide: Every Match Type, Scoring & Win Conditions](/games/snipe/)
+- [SNIPE Positioning & Angles Guide: Win Every Duel](/games/snipe/)
 - [SNIPE Movement Mechanics Guide: B-Hop, Wall Run & Momentum](/posts/snipe/movement-mechanics-guide/)
-- [SNIPE Weapons Tier List: Best Guns for Ranked](/posts/snipe/weapons-tier-list/)
+- [SNIPE Weapons Tier List: Best Guns for Ranked](/games/snipe/)

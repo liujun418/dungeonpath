@@ -40,11 +40,11 @@ related:
   - "/posts/tower-defense-simulator/towers-tier-list/"
   - "/posts/tower-defense-simulator/tower-synergy-combos/"
   - "/posts/tower-defense-simulator/tower-placement-theory/"
-  - "/posts/tower-defense-simulator/coin-farming-guide/"
+  - "/games/tower-defense-simulator/"
   - "/posts/tower-defense-simulator/fallen-mode-guide/"
-  - "/posts/tower-defense-simulator/hardcore-mode-guide/"
-  - "/posts/tower-defense-simulator/golden-mode-guide/"
-  - "/posts/tower-defense-simulator/best-maps-guide/"
+  - "/games/tower-defense-simulator/"
+  - "/games/tower-defense-simulator/"
+  - "/games/tower-defense-simulator/"
 ---
 
 > *Last updated: August 26, 2026. This guide covers co-op strategies in Tower Defense Simulator, including team tower coordination, player role assignments, communication protocols, and optimal tower placement for 2-4 player groups across all difficulties.*
@@ -134,7 +134,7 @@ For a full breakdown of which pairs are worth building, see our [Tower Synergy C
 
 **Fallen** is where a four-player team earns its keep. Fallen bosses carry huge health pools and summons, so you need max buff stacking on your best DPS tower plus dedicated crowd control for the extra enemies. Designate one shot-caller, usually the main DPS player, and call out boss phases as they happen.
 
-**Hardcore** is the level-gated extreme. It pushes everything harder and punishes a missing role immediately. Bring a practiced four-player setup. We cover it in our [Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/), and the Fallen specifics live in the [Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/).
+**Hardcore** is the level-gated extreme. It pushes everything harder and punishes a missing role immediately. Bring a practiced four-player setup. We cover it in our [Hardcore Mode Guide](/games/tower-defense-simulator/), and the Fallen specifics live in the [Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/).
 
 ## Boss Wave Coordination: Splitting Jobs Mid-Fight
 
@@ -159,7 +159,7 @@ Our first serious Fallen run fell apart at wave 24, and it was our own fault.
 - For general strategy and tower rankings, see our [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)
 - For loadout recommendations, see our [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/)
 - For tower rankings and tier data, see our [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
-- For economy setup and gold generation, see our [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
+- For economy setup and gold generation, see our [Coin Farming Guide](/games/tower-defense-simulator/)
 
 ## Related Guides
 
@@ -168,8 +168,8 @@ Our first serious Fallen run fell apart at wave 24, and it was our own fault.
 - [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/)
-- [TDS Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
+- [TDS Coin Farming Guide](/games/tower-defense-simulator/)
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)
-- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)
-- [TDS Golden Mode Guide](/posts/tower-defense-simulator/golden-mode-guide/)
-- [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)
+- [TDS Hardcore Mode Guide](/games/tower-defense-simulator/)
+- [TDS Golden Mode Guide](/games/tower-defense-simulator/)
+- [TDS Best Maps Guide](/games/tower-defense-simulator/)

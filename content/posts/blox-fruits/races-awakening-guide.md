@@ -244,7 +244,7 @@ Each race offers unique abilities that dramatically impact your combat style, mo
 
 ## Related Guides
 
-- [Blox Fruits Beginner Guide](/posts/blox-fruits/beginner-guide/) — Getting started in Blox Fruits
+- [Blox Fruits Beginner Guide](/games/blox-fruits/) — Getting started in Blox Fruits
 - [Blox Fruits Fruits Tier List](/posts/blox-fruits/fruits-tier-list/) — Best fruits for each race
 - [Blox Fruits Fighting Styles Guide](/posts/blox-fruits/fighting-styles-guide/) — Fighting style and race synergy
 - [Blox Fruits Haki & Abilities Guide](/posts/blox-fruits/haki-and-abilities-guide/) — Haki mechanics

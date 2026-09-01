@@ -233,8 +233,8 @@ Standardize your language. Compress your calls. Trust the silence. Your teammate
 
 **Related Guides:**
 
-- [Snipe Positioning & Angles Guide: Win Every Duel](/posts/snipe/positioning-angles-guide/)
+- [Snipe Positioning & Angles Guide: Win Every Duel](/games/snipe/)
 - [Snipe Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)
-- [Snipe Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/)
-- [Snipe Map Mastery Guide](/posts/snipe/map-mastery-guide/)
+- [Snipe Ranked Climbing Guide](/games/snipe/)
+- [Snipe Map Mastery Guide](/games/snipe/)
 - [Snipe Movement Mechanics Guide](/posts/snipe/movement-mechanics-guide/)

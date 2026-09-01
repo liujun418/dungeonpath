@@ -25,12 +25,12 @@ faq:
     answer: "Rush makes one pass through the room. Hide in a closet, count to 3 after the screen shake, then exit. Ambush makes 2-5 passes. If you exit after the first pass thinking it is Rush, Ambush loops back and kills you outside the closet. Sound tells them apart: Rush has a single rising screech that peaks and fades. Ambush has a stuttering, multi-stage screech that sounds like it bounces off walls. When unsure, stay in the closet until you hear 15 seconds of silence."
 related:
   - /posts/doors/room-recognition-guide/
-  - /posts/doors/room-50-library-walkthrough/
+  - /games/doors/
   - /posts/doors/beginner-mistakes-guide/
-  - /posts/doors/ambush-vs-rush-audio-differences/
+  - /games/doors/
   - /posts/doors/entities-bestiary/
   - /posts/doors/seek-chase-complete-guide/
-  - /posts/doors/figure-survival-protocol/
+  - /games/doors/
   - /posts/doors/items-and-inventory-guide/
 ---
 
@@ -167,7 +167,7 @@ After the drill, here is what a successful first clear looks like, walked room b
 
 **Rooms 30-35: The First Seek Chase.** The lights go out and eyes appear on the walls. Follow the glowing blue eyes — they mark the correct path. Run through doorways, not around furniture. Do not look back. Seek is scripted and cannot be killed; your only option is to stay ahead of it. If you fall behind, Seek's hand reaches through doors and deals damage. Keep moving forward and you will reach the exit. This sequence appears twice in a full Hotel run — the second chase (Rooms 80-85) is longer and more aggressive, but the strategy is identical. For a full breakdown of every Seek encounter, see the [Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/).
 
-**Room 50: The Library (Figure).** Figure is blind and tracks by sound. Crouch-walk at all times. Never run or jump — the sound brings Figure to your position in seconds. When Figure moves to the far side of the room, walk (still crouched) to cross open areas. Press E on bookshelves to throw books as sound distractions. The library layout is the same every run, so memorize the bookshelf positions during your first few attempts. If Figure is on your side of the room, stay completely still and wait. For advanced tactics including the bookshelf loop, see the [Figure Survival Protocol](/posts/doors/figure-survival-protocol/).
+**Room 50: The Library (Figure).** Figure is blind and tracks by sound. Crouch-walk at all times. Never run or jump — the sound brings Figure to your position in seconds. When Figure moves to the far side of the room, walk (still crouched) to cross open areas. Press E on bookshelves to throw books as sound distractions. The library layout is the same every run, so memorize the bookshelf positions during your first few attempts. If Figure is on your side of the room, stay completely still and wait. For advanced tactics including the bookshelf loop, see the [Figure Survival Protocol](/games/doors/).
 
 **Rooms 51-80: The Mid-Game Endurance Test.** No new entities appear. Rush, Ambush, and Screech cycle through the same patterns you've already mastered. The challenge here is mental — after 50 rooms, complacency sets in. You stop scanning for closets when you enter a room. You get greedy with loot. You exit the closet a second too early. This is where most runs die, not because the game gets harder, but because players get comfortable. Stay disciplined. Every room gets the full protocol. If you used your Medkit, play extra cautiously — you are one mistake from death.
 
@@ -182,10 +182,10 @@ After the drill, here is what a successful first clear looks like, walked room b
 ## Related Guides
 
 - [DOORS Room Recognition — 2-Second Navigation](/posts/doors/room-recognition-guide/)
-- [DOORS Room 50 Library Walkthrough — Surviving Figure](/posts/doors/room-50-library-walkthrough/)
+- [DOORS Room 50 Library Walkthrough — Surviving Figure](/games/doors/)
 - [DOORS Beginner Mistakes — 10 Common Deaths & Fixes](/posts/doors/beginner-mistakes-guide/)
-- [DOORS Ambush vs Rush — How to Tell Them Apart by Sound](/posts/doors/ambush-vs-rush-audio-differences/)
+- [DOORS Ambush vs Rush — How to Tell Them Apart by Sound](/games/doors/)
 - [DOORS Entities Bestiary — Every Monster's Audio Cue and Behavior](/posts/doors/entities-bestiary/)
 - [DOORS Seek Chase Complete Guide — Surviving Every Chase Sequence](/posts/doors/seek-chase-complete-guide/)
-- [DOORS Figure Survival Protocol — Advanced Library Tactics](/posts/doors/figure-survival-protocol/)
+- [DOORS Figure Survival Protocol — Advanced Library Tactics](/games/doors/)
 - [DOORS Items and Inventory Guide — What Every Item Does](/posts/doors/items-and-inventory-guide/)

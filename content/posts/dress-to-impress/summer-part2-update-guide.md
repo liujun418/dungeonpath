@@ -22,7 +22,7 @@ related:
   - /posts/dress-to-impress/theme-winning-framework/
   - /posts/dress-to-impress/runway-and-voting-guide/
   - /posts/dress-to-impress/gothic-dark-theme-guide/
-  - /posts/dress-to-impress/hair-makeup-combos/
+  - /games/dress-to-impress/
 ---
 
 It's Friday night. You log into DTI, join a Pro server, and the lobby is different. Players are wearing pieces you've never seen. A flowing butterfly-pattern skirt. A corset with summer-bloom embroidery. Someone walks past in iridescent wings that catch the server lighting just right. You open the shop and immediately see it — the Summer Part 2 update dropped while you were at dinner. Sixty-four new items. A new code is already circulating. And half the lobby is already wearing the reworked Lana Tutu dress from **LANADOLLDRESS**.
@@ -244,7 +244,7 @@ The same rules from our [theme-winning framework](/posts/dress-to-impress/theme-
 
 The same [runway psychology](/posts/dress-to-impress/runway-and-voting-guide/) still applies. A clean, readable outfit beats a cluttered, over-accessorized one every time. Sixty-four new items is not an invitation to use six per outfit. It's an invitation to be pickier.
 
-The same [hair and makeup rules](/posts/dress-to-impress/hair-makeup-combos/) still apply. Summer themes need summer hair. A messy bun beats a formal updo on Beach themes. Wind-swept waves beat sleek straight hair on Vacation themes. If you spend all your attention on the new clothes and ignore your hair, your score will tell you what you missed.
+The same [hair and makeup rules](/games/dress-to-impress/) still apply. Summer themes need summer hair. A messy bun beats a formal updo on Beach themes. Wind-swept waves beat sleek straight hair on Vacation themes. If you spend all your attention on the new clothes and ignore your hair, your score will tell you what you missed.
 
 The update is a toolbox. Your fundamentals are the craft. Don't confuse more tools with better results.
 
@@ -268,4 +268,4 @@ The Summer Part 2 window is open. The codes are active. The lobby is full of pla
 - [Theme Winning Framework — The Category System That Beats Memorization](/posts/dress-to-impress/theme-winning-framework/)
 - [Runway & Voting Guide — How to Get Stars Consistently](/posts/dress-to-impress/runway-and-voting-guide/)
 - [Gothic, Dark & Horror Theme Guide — 8 Complete Outfits](/posts/dress-to-impress/gothic-dark-theme-guide/)
-- [Best Hair Combos & Makeup Pairings for Every Theme](/posts/dress-to-impress/hair-makeup-combos/)
+- [Best Hair Combos & Makeup Pairings for Every Theme](/games/dress-to-impress/)

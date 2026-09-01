@@ -24,7 +24,7 @@ faq:
     answer: "No. Wind beats Earth but loses to Dark, and Dark attackers are everywhere in this format. A full Wind lineup is a donation. Run one Wind monster as an anti-Earth flex slot and keep a Dark answer next to it. Don't stack your Wind options."
 related:
   - /posts/monster-legends/aristocratic-era-guide/
-  - /posts/monster-legends/arena-pvp-guide/
+  - /games/monster-legends/
   - /posts/monster-legends/tier-list/
   - /posts/monster-legends/kitakami-era-guide/
   - /posts/monster-legends/elemental-mastery-guide/
@@ -101,7 +101,7 @@ Is the monster Aristocratic Era?
 
 The logic underneath this tree is simple: the only monsters worth your era resources are the ones that pull double duty. A top Aristocratic monster is legal in Grandmaster Duels and still strong in normal Arena, so it's a two-for-one. A mid-tier school Mythic is legal in Duels but weak everywhere, so it's a one-for-one at best. And a non-Aristocratic monster — no matter how good it was last season — is a zero in Duels right now.
 
-If you want the broader picture on how speed and matchups decide Arena fights, the [Arena PvP guide](/posts/monster-legends/arena-pvp-guide/) still holds for the regular ladder. The [tier list](/posts/monster-legends/tier-list/) is the reference for what's worth building across the whole game. But for Grandmaster Duels specifically, the era-lock overrides both of them.
+If you want the broader picture on how speed and matchups decide Arena fights, the [Arena PvP guide](/games/monster-legends/) still holds for the regular ladder. The [tier list](/posts/monster-legends/tier-list/) is the reference for what's worth building across the whole game. But for Grandmaster Duels specifically, the era-lock overrides both of them.
 
 ## Free Player vs Pass Player: Where Your Resources Go
 
@@ -151,4 +151,4 @@ Grandmaster Duels in the Aristocratic Era is not the Arena with a new coat of pa
 
 So build for the format. Pick Thailung as your Season 1 carry, treat Wind as a one-slot flex instead of a strategy, and don't skip Season 1 entirely just because 4-SOSEN looks better in Season 2. Build one solid era-legal monster you can finish before September 9, hold the rest of your gems for the Conjuring channel, and remember that the era-lock cuts both ways — it's the closest thing to a fair fight this mode has given you in a while.
 
-If you want the full Season 1 roster breakdown and the Wind element deep-dive, start with the [Aristocratic Era guide](/posts/monster-legends/aristocratic-era-guide/). For the speed-ordering and matchup rules that still govern every fight, the [Arena PvP guide](/posts/monster-legends/arena-pvp-guide/) and the [elemental mastery guide](/posts/monster-legends/elemental-mastery-guide/) are your next stops. And when the era eventually moves on, the [Kitakami Era guide](/posts/monster-legends/kitakami-era-guide/) shows you what an era-locked roster looked like before this one.
+If you want the full Season 1 roster breakdown and the Wind element deep-dive, start with the [Aristocratic Era guide](/posts/monster-legends/aristocratic-era-guide/). For the speed-ordering and matchup rules that still govern every fight, the [Arena PvP guide](/games/monster-legends/) and the [elemental mastery guide](/posts/monster-legends/elemental-mastery-guide/) are your next stops. And when the era eventually moves on, the [Kitakami Era guide](/posts/monster-legends/kitakami-era-guide/) shows you what an era-locked roster looked like before this one.

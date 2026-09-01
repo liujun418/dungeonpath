@@ -110,7 +110,7 @@ The Haki system is not a choice between equal options. It is a test of whether y
 
 ## Related Guides
 
-- [Sailor Piece Beginner Guide — First Ship, Best Starter Fruit & Island Route](/posts/sailor-piece/beginner-guide/)
+- [Sailor Piece Beginner Guide — First Ship, Best Starter Fruit & Island Route](/games/sailor-piece/)
 - [Sailor Piece Devil Fruits Tier List — Best for PvP & Grinding](/posts/sailor-piece/devil-fruits-tier-list/)
 - [Sailor Piece Leveling & XP Guide — Fast Routes for Every Sea](/posts/sailor-piece/leveling-xp-guide/)
 - [Sailor Piece PvP Battle Guide — Best Builds & Tactics](/posts/sailor-piece/pvp-battle-guide/)

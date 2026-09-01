@@ -168,7 +168,7 @@ Seek's speed scaling is identical in solo and multiplayer. However, other player
 
 ## Related Guides
 
-- [Doors Figure Survival Protocol](/posts/doors/figure-survival-protocol/)
-- [Doors Ambush Protocol](/posts/doors/ambush-protocol/)
+- [Doors Figure Survival Protocol](/games/doors/)
+- [Doors Ambush Protocol](/games/doors/)
 - [Doors Solo vs Team Strategy Guide](/posts/doors/solo-vs-team-strategy-guide/)
 - [Doors Boss Attack Patterns Guide](/posts/doors/boss-attack-patterns-guide/)

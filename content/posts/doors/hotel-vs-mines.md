@@ -38,7 +38,7 @@ howto:
 related:
   - /posts/doors/the-archives-update-guide/
   - /posts/doors/achievements-and-secrets/
-  - /posts/doors/the-mines-adaptation-guide/
+  - /games/doors/
   - /posts/doors/hotel-walkthrough/
   - /posts/doors/entity-defense-counter-guide/
 ---
@@ -80,7 +80,7 @@ The Mines has no respect for any of that. Your first Giggle drops from the ceili
 
 **Why it happens:** The Mines doesn't add difficulty on top of the Hotel — it *inverts* several core survival habits. Looking up was optional in the Hotel; it's mandatory in the Mines. Keeping your light on was the safe default; in the Mines it's a bait that summons enemies. Trusting the layout to provide a hiding spot was reasonable; the Mines hands you open caves with no closet in sight.
 
-**How to recover:** Treat your first three to five Mines runs as scouting, not attempts. Don't try to survive deep — die on purpose and take notes on *where* each new entity comes from and *what* you did right before it killed you. If Giggle got you, you were under a ceiling opening you never checked. If Gloombats got you, you had your light on when you should have listened. Every early death is data. The full adaptation map is in our [Mines survival guide](/posts/doors/the-mines-adaptation-guide/), but the short version is: look up, listen first, and assume the Mines is hostile to your light.
+**How to recover:** Treat your first three to five Mines runs as scouting, not attempts. Don't try to survive deep — die on purpose and take notes on *where* each new entity comes from and *what* you did right before it killed you. If Giggle got you, you were under a ceiling opening you never checked. If Gloombats got you, you had your light on when you should have listened. Every early death is data. The full adaptation map is in our [Mines survival guide](/games/doors/), but the short version is: look up, listen first, and assume the Mines is hostile to your light.
 
 ---
 

@@ -26,10 +26,10 @@ faq:
 related:
   - /posts/doors/entities-bestiary/
   - /posts/doors/entity-defense-counter-guide/
-  - /posts/doors/ambush-vs-rush-audio-differences/
-  - /posts/doors/hotel-walkthrough-guide/
+  - /games/doors/
+  - /games/doors/
   - /posts/doors/beginner-guide/
-  - /posts/doors/the-mines-walkthrough/
+  - /games/doors/
   - /posts/doors/modifiers-guide/
   - /posts/doors/achievements-and-secrets/
 ---
@@ -46,7 +46,7 @@ That is the whole pitch of The Backdoor. It strips away the hand-holding, then s
 
 ## What The Backdoor Actually Is
 
-The Backdoor is not Floor 2. That is [The Mines](/posts/doors/the-mines-walkthrough/), a real level with a start and an end. The Backdoor is a side door off the Hotel that leads into a separate, effectively endless sequence of rooms.
+The Backdoor is not Floor 2. That is [The Mines](/games/doors/), a real level with a start and an end. The Backdoor is a side door off the Hotel that leads into a separate, effectively endless sequence of rooms.
 
 The rooms reuse Hotel assets — the same wallpaper, the same doors, the same lockers. But the logic is different. There is no consistent room numbering you can lean on. There is no friendly voice telling you where to hide. And the entities are not Rush and Ambush from the [main bestiary](/posts/doors/entities-bestiary/). They are a different cast with letter-number names: A-60, A-120, and company.
 
@@ -92,7 +92,7 @@ The Hotel teaches you three habits. The Backdoor breaks all three.
 
 First, the Guiding Light fails. Around room 100 — the community figure, not a hard number — the blue glow goes dark and the voice stops pointing at closets. From then on, you find hiding spots yourself. Lean on that prompt for ninety-nine doors and this is where the run falls apart.
 
-Second, audio becomes everything. With no reliable light-flicker warning, the hum is your only cue. This is the same skill as [telling Rush from Ambush](/posts/doors/ambush-vs-rush-audio-differences/), just under more pressure. If you can't read an approaching sound in under a second, train that before you go deep.
+Second, audio becomes everything. With no reliable light-flicker warning, the hum is your only cue. This is the same skill as [telling Rush from Ambush](/games/doors/), just under more pressure. If you can't read an approaching sound in under a second, train that before you go deep.
 
 Third, lockers are your only real cover. In the Hotel you can sometimes hide under beds or behind furniture. In The Backdoor, the safe answer is a locker — in the current room or the one behind you. There's no third option and no door you can close in its face.
 
@@ -192,9 +192,9 @@ Yes. The area has exclusive badges and, in some versions, limited cosmetics and 
 
 - [DOORS Entities Bestiary: Full Monster Breakdown](/posts/doors/entities-bestiary/)
 - [DOORS Entity Defense Counter Guide](/posts/doors/entity-defense-counter-guide/)
-- [DOORS Ambush vs Rush Audio Differences](/posts/doors/ambush-vs-rush-audio-differences/)
-- [DOORS Hotel Walkthrough Guide](/posts/doors/hotel-walkthrough-guide/)
+- [DOORS Ambush vs Rush Audio Differences](/games/doors/)
+- [DOORS Hotel Walkthrough Guide](/games/doors/)
 - [DOORS Beginner Guide](/posts/doors/beginner-guide/)
-- [DOORS The Mines Walkthrough](/posts/doors/the-mines-walkthrough/)
+- [DOORS The Mines Walkthrough](/games/doors/)
 - [DOORS Modifiers Guide](/posts/doors/modifiers-guide/)
 - [DOORS Achievements and Secrets](/posts/doors/achievements-and-secrets/)

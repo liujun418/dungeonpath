@@ -211,9 +211,9 @@ Utility is often more important than your secondary weapon. A well-timed grenade
 ## Related Guides
 
 - [Rivals Weapon Tier List: Every Gun Ranked for Competitive Play](/posts/rivals/weapon-tier-list/)
-- [1v1 Duel Strategies: How to Win Every Duel in Rivals](/posts/rivals/1v1-duel-strategies-guide/)
+- [1v1 Duel Strategies: How to Win Every Duel in Rivals](/games/rivals/)
 - [Movement Mastery: Advanced Techniques for Rivals](/posts/rivals/movement-mastery-guide/)
-- [Maps and Strategies: Complete Guide to Every Rivals Map](/posts/rivals/maps-and-strategies-guide/)
+- [Maps and Strategies: Complete Guide to Every Rivals Map](/games/rivals/)
 
 ---
 

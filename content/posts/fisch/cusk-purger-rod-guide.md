@@ -21,7 +21,7 @@ faq:
 related:
   - /posts/fisch/the-deep-update-guide/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/boss-fishing-hunting-guide/
+  - /games/fisch/
   - /posts/fisch/money-farming-guide/
 ---
 
@@ -258,5 +258,5 @@ If your goal is hunt fish farming and Monstrous mutation rolls, yes — the +7 D
 
 - [Fisch The Deep Update Guide — Everything New in v1.96](/posts/fisch/the-deep-update-guide/) — Full breakdown of the August 8 update, all new zones, rods, and mechanics.
 - [Fisch Best Rods Tier List (2026)](/posts/fisch/best-rods-tier-list/) — See where the Cusk Purger and Titanium Rod rank against every rod in the game.
-- [Fisch Boss Fishing & Hunt Guide](/posts/fisch/boss-fishing-hunting-guide/) — Master hunt mechanics, boss patterns, and how Disturbance actually works.
+- [Fisch Boss Fishing & Hunt Guide](/games/fisch/) — Master hunt mechanics, boss patterns, and how Disturbance actually works.
 - [Fisch Money Farming Guide — Fastest C$ Methods](/posts/fisch/money-farming-guide/) — The best farming spots, rods, and strategies to hit 750k C$ efficiently.

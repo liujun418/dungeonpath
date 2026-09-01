@@ -24,13 +24,13 @@ faq:
     answer: "Level. Wake one Celestial, push it to a useful level — aim for 15 — then start the next. A level-15 Celestial out-earns several level-1s put together, and food is one shared pool. Leveling high rather than wide is the single best rule on the island."
 related:
   - /posts/my-singing-monsters/island-unlock-order-guide/
-  - /posts/my-singing-monsters/wublin-wake-up-order/
+  - /games/my-singing-monsters/
   - /posts/my-singing-monsters/monster-feeding-food-guide/
   - /posts/my-singing-monsters/coin-economy-optimization-guide/
-  - /posts/my-singing-monsters/breeding-guide/
+  - /games/my-singing-monsters/
   - /posts/my-singing-monsters/mythical-island-guide/
   - /posts/my-singing-monsters/ethereal-island-guide/
-  - /posts/my-singing-monsters/diamond-coin-farming-guide/
+  - /games/my-singing-monsters/
   - /posts/my-singing-monsters/legendary-island-guide/
 ---
 
@@ -54,7 +54,7 @@ But Celestials are also the easiest thing in MSM to waste resources on — wakin
 
 ## Waking Isn't Breeding: Pieces, Feed Lists, and Torches
 
-There's no egg, no timer, no nursery, and no [breeding combo](/posts/my-singing-monsters/breeding-guide/) here. You wake each Celestial by collecting its Celestial Pieces, and you earn pieces by feeding specific monsters while that Celestial's awakening is active.
+There's no egg, no timer, no nursery, and no [breeding combo](/games/my-singing-monsters/) here. You wake each Celestial by collecting its Celestial Pieces, and you earn pieces by feeding specific monsters while that Celestial's awakening is active.
 
 The flow for one Celestial, in order:
 
@@ -92,7 +92,7 @@ Type labels here are the community's commonly-cited assignments. What matters fo
 
 Most guides tell you a "best first Celestial." The honest answer: it's the one whose feed list you can already satisfy. The Celestial whose Perplex matches monsters you've already leveled is nearly free; one that needs monsters you haven't built will stall for weeks while you breed fodder. So open the feed list and cross-check it against your islands before you commit. In practice, Earth- and Plant-leaning Celestials are the most accessible first picks, since those monsters are cheap and you've had them since day one. Torrt is the name most community guides circle as a reasonable first target — but verify against your own roster, not a name.
 
-The second rule: wake one at a time. Do not start Celestial number two until number one is woken and leveled. Every Celestial you're "in the middle of" is a Celestial not earning coins. This is the opposite of [Wublin Island](/posts/my-singing-monsters/wublin-wake-up-order/), where you can prep eggs in advance and wake in batches. Celestial Island doesn't work that way.
+The second rule: wake one at a time. Do not start Celestial number two until number one is woken and leveled. Every Celestial you're "in the middle of" is a Celestial not earning coins. This is the opposite of [Wublin Island](/games/my-singing-monsters/), where you can prep eggs in advance and wake in batches. Celestial Island doesn't work that way.
 
 ## After It Wakes, the Real Cost Is Food
 
@@ -161,11 +161,11 @@ Level. Wake one Celestial, push it to a useful level — aim for 15 — then sta
 ## Related Guides
 
 - [Island Unlock Order Guide — The Most Efficient Path](/posts/my-singing-monsters/island-unlock-order-guide/)
-- [Wublin Wake-Up Order — Why Celestials Aren't Wublins](/posts/my-singing-monsters/wublin-wake-up-order/)
+- [Wublin Wake-Up Order — Why Celestials Aren't Wublins](/games/my-singing-monsters/)
 - [Monster Feeding & Food Guide — Baking and Leveling](/posts/my-singing-monsters/monster-feeding-food-guide/)
 - [Coin Economy Optimization — Never Run Out](/posts/my-singing-monsters/coin-economy-optimization-guide/)
-- [Breeding Guide — Every Combo (Celestials Don't Breed)](/posts/my-singing-monsters/breeding-guide/)
+- [Breeding Guide — Every Combo (Celestials Don't Breed)](/games/my-singing-monsters/)
 - [Mythical Island Guide — Another Endgame Island](/posts/my-singing-monsters/mythical-island-guide/)
 - [Ethereal Island Guide — Teleporting Ethereals](/posts/my-singing-monsters/ethereal-island-guide/)
-- [Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
+- [Diamond & Coin Farming Guide](/games/my-singing-monsters/)
 - [Legendary Island Guide](/posts/my-singing-monsters/legendary-island-guide/)

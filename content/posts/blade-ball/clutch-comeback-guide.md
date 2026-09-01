@@ -195,9 +195,9 @@ Players who use this routine between points win 15-20% more clutch rounds than p
 
 ## Related Guides
 
-- [Blade Ball Ranked Climbing — Decision-by-Decision Through Every Rank](/posts/blade-ball/ranked-climbing-decision-guide/)
+- [Blade Ball Ranked Climbing — Decision-by-Decision Through Every Rank](/games/blade-ball/)
 - [Blade Ball Opponent Reading — Pattern Recognition & Counter-Play](/posts/blade-ball/opponent-reading-guide/)
-- [Blade Ball How to Win Guide — Advanced Strategies](/posts/blade-ball/how-to-win-guide/)
-- [Blade Ball Speed Curve — Why Everything Changes After Deflection 5](/posts/blade-ball/speed-curve-guide/)
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/)
-- [Blade Ball Tournament Competitive Guide](/posts/blade-ball/tournament-competitive-guide/)
+- [Blade Ball How to Win Guide — Advanced Strategies](/games/blade-ball/)
+- [Blade Ball Speed Curve — Why Everything Changes After Deflection 5](/games/blade-ball/)
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/)
+- [Blade Ball Tournament Competitive Guide](/games/blade-ball/)

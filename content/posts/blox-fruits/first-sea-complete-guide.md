@@ -289,9 +289,9 @@ If you know you will play Blox Fruits beyond First Sea, yes. The 2x XP gamepass 
 
 ## Related Guides
 
-- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/posts/blox-fruits/second-sea-complete-guide/)
+- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/games/blox-fruits/)
 - [Blox Fruits Leveling Guide: Fastest Way to Max Level](/posts/blox-fruits/leveling-guide/)
 - [Blox Fruits Fruits Tier List: PvP & PvE Rankings](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Buddha vs Magma: Which Is Better for Grinding?](/posts/blox-fruits/buddha-vs-magma/)
 - [Blox Fruits Haki & Abilities Guide](/posts/blox-fruits/haki-and-abilities-guide/)
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)

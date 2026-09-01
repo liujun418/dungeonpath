@@ -409,7 +409,7 @@ A: Stat resets cost in-game currency (gems) from the Stat Reset NPC. The cost in
 
 ## Related Guides
 
-- [Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/) — Start here if you are new to Sailor Piece
+- [Sailor Piece Beginner Guide](/games/sailor-piece/) — Start here if you are new to Sailor Piece
 - [Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/) — Complete fruit rankings for PvP builds
 - [Sailor Piece Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/) — Master all three Haki types for combat
 - [Sailor Piece Islands Progression Guide](/posts/sailor-piece/islands-progression-guide/) — Navigate the world safely while avoiding PvP threats

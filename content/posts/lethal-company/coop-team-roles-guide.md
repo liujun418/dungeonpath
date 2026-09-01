@@ -415,8 +415,8 @@ Rotate roles regularly so every player understands the challenges of each positi
 
 ### Related Guides
 
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/games/lethal-company/)
 - [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
 - [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)

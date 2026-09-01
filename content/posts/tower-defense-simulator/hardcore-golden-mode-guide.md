@@ -225,8 +225,8 @@ Yes, but it is significantly harder. Without Golden Minigunner or Golden Scout, 
 
 ## Related Guides
 
-- [TDS Golden vs Fallen vs Hardcore — Which Mode to Farm First?](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
-- [TDS Hardcore Mode Guide — Tips, Loadouts, and Strategies](/posts/tower-defense-simulator/hardcore-mode-guide/)
+- [TDS Golden vs Fallen vs Hardcore — Which Mode to Farm First?](/games/tower-defense-simulator/)
+- [TDS Hardcore Mode Guide — Tips, Loadouts, and Strategies](/games/tower-defense-simulator/)
 - [TDS Strategy Guide — The 5 Decisions That Win or Lose Every Game](/posts/tower-defense-simulator/strategy-guide/)
 - [TDS Loadout Guide — Best Tower Combinations](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)

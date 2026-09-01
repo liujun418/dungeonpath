@@ -161,6 +161,6 @@ Every minute spent sailing to the merchant, selling, and sailing back is a minut
 
 - [Fisch Beginner Guide — Your First 3 Hours](/posts/fisch/beginner-guide/)
 - [Fisch Money Farming Guide — C$/Hour at Every Spot](/posts/fisch/money-farming-guide/)
-- [Fisch NPC Quest Priority Guide — Which Quests Are Worth Your Time](/posts/fisch/npc-quest-priority-guide/)
-- [Fisch Rod Progression Timeline — When to Upgrade](/posts/fisch/rod-progression-timeline/)
+- [Fisch NPC Quest Priority Guide — Which Quests Are Worth Your Time](/games/fisch/)
+- [Fisch Rod Progression Timeline — When to Upgrade](/games/fisch/)
 - [Fisch Best Rods Tier List — Every Rod Ranked](/posts/fisch/best-rods-tier-list/)

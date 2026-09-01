@@ -256,6 +256,6 @@ Switching bait types invalidates this cache, forcing a full recalculation. The f
 
 - [Fisch Mutations & Bait Guide](/posts/fisch/mutations-bait-guide/) — All mutation multipliers and bait sources
 - [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/) — Every rod ranked and analyzed
-- [Fisch Bait Economy Guide](/posts/fisch/bait-economy-guide/) — When to buy which bait at every stage
-- [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — How to catch every high-value fish
-- [Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/) — Pro timing and mini-game mastery
+- [Fisch Bait Economy Guide](/games/fisch/) — When to buy which bait at every stage
+- [Fisch Rare & Mythic Fish Guide](/games/fisch/) — How to catch every high-value fish
+- [Fisch Advanced Fishing Techniques](/games/fisch/) — Pro timing and mini-game mastery

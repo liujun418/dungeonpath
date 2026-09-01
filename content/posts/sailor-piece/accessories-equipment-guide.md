@@ -157,7 +157,7 @@ Your build is almost perfect. Equip the right accessories, and it finally will b
 
 ## Related Guides
 
-- [Sailor Piece Beginner's Guide](/posts/sailor-piece/beginner-guide/)
+- [Sailor Piece Beginner's Guide](/games/sailor-piece/)
 - [Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)
 - [Sailor Piece Fighting Styles and Combat Guide](/posts/sailor-piece/fighting-styles-combat-guide/)
 - [Sailor Piece Swords and Weapons Guide](/posts/sailor-piece/swords-weapons-guide/)
@@ -167,8 +167,8 @@ Your build is almost perfect. Equip the right accessories, and it finally will b
 - [Sailor Piece Leveling and XP Guide](/posts/sailor-piece/leveling-xp-guide/)
 - [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)
 - [Sailor Piece Sea Beasts and Boss Hunting Guide](/posts/sailor-piece/sea-beasts-boss-hunting-guide/)
-- [Sailor Piece Ship Progression Guide](/posts/sailor-piece/ship-progression-guide/)
+- [Sailor Piece Ship Progression Guide](/games/sailor-piece/)
 - [Sailor Piece Trading and Economy Guide](/posts/sailor-piece/trading-and-economy-guide/)
 - [Sailor Piece Race Awakening V2 Guide](/posts/sailor-piece/race-awakening-v2-guide/)
-- [Sailor Piece Races and Hybrid Builds Guide](/posts/sailor-piece/races-hybrid-builds-guide/)
+- [Sailor Piece Races and Hybrid Builds Guide](/games/sailor-piece/)
 - [Sailor Piece Crew and Ship Guide](/posts/sailor-piece/crew-ship-guide/)

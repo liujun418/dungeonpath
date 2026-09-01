@@ -157,7 +157,7 @@ The best players in Sailor Piece are not the ones who max everything. They are t
 
 ## Related Guides
 
-- [Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)
+- [Sailor Piece Beginner Guide](/games/sailor-piece/)
 - [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)
 - [Sailor Piece Bounty & Honor PvP Guide](/posts/sailor-piece/bounty-honor-pvp-guide/)
 - [Sailor Piece Codes and Rewards Guide](/posts/sailor-piece/codes-and-rewards-guide/)
@@ -172,8 +172,8 @@ The best players in Sailor Piece are not the ones who max everything. They are t
 - [Sailor Piece PvP Battle Guide](/posts/sailor-piece/pvp-battle-guide/)
 - [Sailor Piece Quick Ship Upgrade](/posts/sailor-piece/quick-ship-upgrade/)
 - [Sailor Piece Race Awakening V2 Guide](/posts/sailor-piece/race-awakening-v2-guide/)
-- [Sailor Piece Races & Hybrid Builds Guide](/posts/sailor-piece/races-hybrid-builds-guide/)
+- [Sailor Piece Races & Hybrid Builds Guide](/games/sailor-piece/)
 - [Sailor Piece Sea Beasts & Boss Hunting Guide](/posts/sailor-piece/sea-beasts-boss-hunting-guide/)
-- [Sailor Piece Ship Progression Guide](/posts/sailor-piece/ship-progression-guide/)
-- [Sailor Piece Ships & Navigation Guide](/posts/sailor-piece/ships-navigation-guide/)
+- [Sailor Piece Ship Progression Guide](/games/sailor-piece/)
+- [Sailor Piece Ships & Navigation Guide](/games/sailor-piece/)
 - [Sailor Piece Trading and Economy Guide](/posts/sailor-piece/trading-and-economy-guide/)

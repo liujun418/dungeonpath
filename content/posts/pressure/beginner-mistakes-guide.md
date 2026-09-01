@@ -283,7 +283,7 @@ Some rooms are inherently safer than others. Locker rooms, medical bays, and sup
 - **Heavy Containment:** Dangerous. Fewer lockers, more entities; enter with caution.
 - **Flesh Room:** Very Dangerous. Unpredictable layout, limited hiding spots; rush through.
 
-**Safe Room Strategy:** When you find a very safe room, take a moment to heal, organize inventory, and prepare for the next stretch. Do not just blast through it. For a complete floor-by-floor guide to room types and layouts, see the [Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/).
+**Safe Room Strategy:** When you find a very safe room, take a moment to heal, organize inventory, and prepare for the next stretch. Do not just blast through it. For a complete floor-by-floor guide to room types and layouts, see the [Floors and Locations Guide](/games/pressure/).
 
 ---
 
@@ -511,11 +511,11 @@ Now that you know what not to do, build your skills with our other Pressure guid
 
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** - Complete walkthrough for new players starting their first run
 - **[Pressure Entities Guide](/posts/pressure/entities-guide/)** - Detailed breakdown of every entity and how to survive them
-- **[Pressure Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)** - Every item, keycard, and puzzle solution explained
+- **[Pressure Items and Puzzles Guide](/games/pressure/)** - Every item, keycard, and puzzle solution explained
 - **[Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)** - Advanced strategies for reaching the deepest floors
 - **[Pressure Multiplayer Guide](/posts/pressure/multiplayer-guide/)** - Co-op strategies, team roles, and communication tips
 - **[Pressure Codes and Secrets Guide](/posts/pressure/codes-and-secrets-guide/)** - Active codes, hidden secrets, and unlockables
-- **[Pressure Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/)** - Room types, floor layouts, and zone strategies
+- **[Pressure Floors and Locations Guide](/games/pressure/)** - Room types, floor layouts, and zone strategies
 
 ---
 

@@ -342,8 +342,8 @@ Master the monsters one at a time. Learn the Bracken look-away on Assurance. Pra
 
 ### Related Guides
 
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/games/lethal-company/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)

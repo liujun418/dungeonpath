@@ -19,7 +19,7 @@ faq:
   - question: "What is the fastest way to get the Titanic Sombrero Chihuahua from the Prize Room?"
     answer: "Run Tier 2 Boss Piñatas exclusively — Tier 3 drops Fiesta Keys at a slightly higher rate (about 12% vs 9%) but takes nearly twice as long to clear. Tier 2 gives you more keys per hour. Pair this with the Fiesta Booster II (Damage) from the Upgrade Machine at level 12+ and target solo runs. With consistent clears, you can farm one Fiesta Key every 8-12 minutes. You need 5 keys per Prize Room unlock, so budget roughly one hour of focused farming per attempt."
 related:
-  - /posts/pet-simulator-99/event-mastery-guide/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/event-strategy-guide/
   - /posts/pet-simulator-99/luck-boosting-guide/
   - /posts/pet-simulator-99/huge-titanic-guide/
@@ -227,7 +227,7 @@ Good luck in the maze.
 
 ## Related Guides
 
-- [PS99 Event Mastery Guide — All Recurring Event Types Explained](/posts/pet-simulator-99/event-mastery-guide/)
+- [PS99 Event Mastery Guide — All Recurring Event Types Explained](/games/pet-simulator-99/)
 - [PS99 Event Strategy — Optimizing Your Team for Limited-Time Content](/posts/pet-simulator-99/event-strategy-guide/)
 - [PS99 Luck Boosting Guide — How Huge Hunter, Lucky, and Ultra Lucky Stack](/posts/pet-simulator-99/luck-boosting-guide/)
 - [PS99 Huge & Titanic Guide — Drop Rates, Enchants, and Farming Routes](/posts/pet-simulator-99/huge-titanic-guide/)

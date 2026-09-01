@@ -85,7 +85,7 @@ Choose your weekly target based on three factors:
 
 If your personal shard budget doesn't match your tribe's target, you are in the wrong tribe. A Level 40 player feeding to Level 20 every week in a tribe that needs Level 70 feeders is wasting their shards — and the tribe is carrying them. Drop down to a tribe that matches your budget, or build up your shard income before moving up.
 
-If you're unsure about your shard income and island development, the [diamond and coin farming guide](/posts/my-singing-monsters/diamond-coin-farming-guide/) covers the coin production systems that feed into shard conversion.
+If you're unsure about your shard income and island development, the [diamond and coin farming guide](/games/my-singing-monsters/) covers the coin production systems that feed into shard conversion.
 
 ## The Elite Tribe Decision Framework
 
@@ -254,7 +254,7 @@ This is the rhythm of an elite tribe. It didn't happen by accident. Someone had 
 ## Related Guides
 
 - [My Singing Monsters Tribal Island Guide](/posts/my-singing-monsters/tribal-island-guide/) — Basic mechanics, Star Power system, and beginner strategies (start here if you haven't read the fundamentals)
-- [My Singing Monsters Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/) — Coin generation systems that fuel shard conversion
+- [My Singing Monsters Diamond & Coin Farming Guide](/games/my-singing-monsters/) — Coin generation systems that fuel shard conversion
 - [My Singing Monsters Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/) — Ethereal Island shard production for Tribal feeding
 - [My Singing Monsters Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/) — Passive shard generation through Wublins and Celestials
 - [My Singing Monsters Rare & Epic Monster Guide](/posts/my-singing-monsters/rare-seasonal-monster-guide/) — StarPower Shop egg priorities for Rare and Epic monsters

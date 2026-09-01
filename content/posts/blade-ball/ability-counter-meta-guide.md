@@ -224,10 +224,10 @@ No. Every ability in Blade Ball has at least one hard counter and one soft count
 ## Related Guides
 
 - [Blade Ball Abilities Tier List — Every Skill Ranked S to D](/posts/blade-ball/abilities-tier-list/)
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/)
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/)
 - [Blade Ball Ability Phase Guide — When to Use Each Ability](/posts/blade-ball/ability-phase-guide/)
-- [Blade Ball How to Win Guide — Advanced Strategies](/posts/blade-ball/how-to-win-guide/)
-- [Blade Ball Ranked Climbing Decision Guide](/posts/blade-ball/ranked-climbing-decision-guide/)
+- [Blade Ball How to Win Guide — Advanced Strategies](/games/blade-ball/)
+- [Blade Ball Ranked Climbing Decision Guide](/games/blade-ball/)
 - [Blade Ball Deflect & Parry Timing Guide](/posts/blade-ball/deflect-parry-timing-guide/)
 - [Blade Ball Opponent Reading Guide](/posts/blade-ball/opponent-reading-guide/)
 

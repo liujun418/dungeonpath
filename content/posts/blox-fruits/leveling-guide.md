@@ -511,5 +511,5 @@ For more information on the best fruits and gear for leveling, check our [Fruits
 
 - [Blox Fruits Fruits Tier List 2026: Best Devil Fruits Ranked](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Swords Guide: Best Weapons Tier List & Locations](/posts/blox-fruits/swords-weapons-guide/)
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)
 - [Blox Fruits Bosses & Raids Guide: All Boss Locations & Raid Strategies](/posts/blox-fruits/bosses-and-raids-guide/)

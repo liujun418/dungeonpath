@@ -297,4 +297,4 @@ Before your next game, open your loadout and audit it against the 7-job framewor
 
 The goal isn't to have 5 S-tier towers. The goal is to have 5 towers that cover every job, exploit every synergy, and leave no gap for the enemy to exploit. That loadout clears wave 40. The tier list loadout might not.
 
-For mode-specific loadout recommendations, check the [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/). For detailed tower synergy breakdowns, see the [Tower Synergy Combos Guide](/posts/tower-defense-simulator/tower-synergy-combos/). For early-game tower choices and progression, start with the [TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/).
+For mode-specific loadout recommendations, check the [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/). For detailed tower synergy breakdowns, see the [Tower Synergy Combos Guide](/posts/tower-defense-simulator/tower-synergy-combos/). For early-game tower choices and progression, start with the [TDS Beginner Guide](/games/tower-defense-simulator/).

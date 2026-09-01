@@ -425,8 +425,8 @@ A well-developed Wublin Island can produce 10-20 diamonds, 50,000+ coins, 50+ sh
 
 ## Related Guides
 
-- [Beginner Guide](/posts/my-singing-monsters/beginner-guide/) -- Getting started in MSM
-- [Breeding Guide](/posts/my-singing-monsters/breeding-guide/) -- All breeding combinations
+- [Beginner Guide](/games/my-singing-monsters/) -- Getting started in MSM
+- [Breeding Guide](/games/my-singing-monsters/) -- All breeding combinations
 - [Farming Guide](/posts/my-singing-monsters/farming-guide/) -- Maximizing resources across all islands
 - [Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/) -- Shard production from Ethereals
 - [Seasonal Events Guide](/posts/my-singing-monsters/seasonal-events-guide/) -- Limited-time event monsters

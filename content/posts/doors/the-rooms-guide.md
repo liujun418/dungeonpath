@@ -24,12 +24,12 @@ faq:
     answer: "A single exit door eventually spawns, commonly cited around room 500 in older versions, and leaving through it drops you back in the Hotel. Until it appears the rooms just keep generating. The number is approximate and has shifted across updates."
 related:
   - /posts/doors/entities-bestiary/
-  - /posts/doors/ambush-vs-rush-audio-differences/
+  - /games/doors/
   - /posts/doors/the-backdoor-complete-guide/
   - /posts/doors/seek-chase-complete-guide/
   - /posts/doors/beginner-guide/
   - /posts/doors/room-recognition-guide/
-  - /posts/doors/the-mines-walkthrough/
+  - /games/doors/
   - /posts/doors/items-and-inventory-guide/
 ---
 
@@ -45,7 +45,7 @@ That hum is the first thing you need to learn, because it is the only warning yo
 
 ## What The Rooms Actually Is
 
-The Rooms is a secret sub-area of DOORS, separate from the Hotel, from [The Mines](/posts/doors/the-mines-walkthrough/), and from [The Backdoor](/posts/doors/the-backdoor-complete-guide/). It is an endless stretch of nearly identical empty grey rooms that keep generating. No Guiding Light. No end in sight.
+The Rooms is a secret sub-area of DOORS, separate from the Hotel, from [The Mines](/games/doors/), and from [The Backdoor](/posts/doors/the-backdoor-complete-guide/). It is an endless stretch of nearly identical empty grey rooms that keep generating. No Guiding Light. No end in sight.
 
 The only creatures here are the A-series entities — A-60, A-120, and whatever else lurks in that family. There are no lockers, no beds, no gold, no loot. Nothing to hide inside. Nothing to pick up.
 
@@ -126,7 +126,7 @@ Error: the hum starts, the player ducks into a doorway recess, and dies anyway.
 
 Cause: they picked the recess on the same side the sound is coming from. A-60's path clips them as it rounds the corner into their room.
 
-Recovery: the safe spot has to be on the far side of the lane from the sound. If the hum is on your left, get to the right side of the room. Pick your side by ear, not by which recess is closest. This is the same ear-training that separates Rush survivors from Ambush victims in the [audio differences guide](/posts/doors/ambush-vs-rush-audio-differences/).
+Recovery: the safe spot has to be on the far side of the lane from the sound. If the hum is on your left, get to the right side of the room. Pick your side by ear, not by which recess is closest. This is the same ear-training that separates Rush survivors from Ambush victims in the [audio differences guide](/games/doors/).
 
 ### The Too-Early Exit
 
@@ -183,10 +183,10 @@ A single exit door eventually spawns, commonly cited around room 500 in older ve
 ## Related Guides
 
 - [DOORS Entities Bestiary: Full Monster Breakdown](/posts/doors/entities-bestiary/)
-- [DOORS Ambush vs Rush Audio Differences](/posts/doors/ambush-vs-rush-audio-differences/)
+- [DOORS Ambush vs Rush Audio Differences](/games/doors/)
 - [DOORS The Backdoor Complete Guide](/posts/doors/the-backdoor-complete-guide/)
 - [DOORS Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/)
 - [DOORS Beginner Guide](/posts/doors/beginner-guide/)
 - [DOORS Room Recognition Guide](/posts/doors/room-recognition-guide/)
-- [DOORS The Mines Walkthrough](/posts/doors/the-mines-walkthrough/)
+- [DOORS The Mines Walkthrough](/games/doors/)
 - [DOORS Items and Inventory Guide](/posts/doors/items-and-inventory-guide/)

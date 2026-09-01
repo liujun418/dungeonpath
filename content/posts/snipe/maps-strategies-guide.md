@@ -230,6 +230,6 @@ Absolutely not. Power positions win you round one. Round two, your opponent pre-
 ## Related Guides
 
 - [SNIPE Map Callouts & Communication Guide](/posts/snipe/map-callouts-communication-guide/)
-- [SNIPE Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/)
+- [SNIPE Ranked Climbing Guide](/games/snipe/)
 - [SNIPE Solo vs Squad Guide](/posts/snipe/solo-vs-squad-guide/)
 - [SNIPE Weapons & Abilities Guide](/posts/snipe/weapons-abilities-guide/)

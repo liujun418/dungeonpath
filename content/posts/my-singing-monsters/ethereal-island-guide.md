@@ -423,8 +423,8 @@ The path to a fully operational Ethereal Island is long, starting with countless
 
 ## Related Guides
 
-- [Beginner Guide]({{< ref "/posts/my-singing-monsters/beginner-guide" >}}) -- Getting started in MSM
-- [Breeding Guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) -- All breeding combinations
+- [Beginner Guide]({{< ref "/games/my-singing-monsters/" >}}) -- Getting started in MSM
+- [Breeding Guide]({{< ref "/games/my-singing-monsters/" >}}) -- All breeding combinations
 - [Rare and Epic Monsters Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) -- Rare and epic variants
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive resource generation
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Coin, diamond, and shard optimization

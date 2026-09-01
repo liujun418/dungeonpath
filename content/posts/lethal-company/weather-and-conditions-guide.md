@@ -33,7 +33,7 @@ Your ship's speaker crackles. "Titan. Eclipsed." The words hang in the cabin air
 
 Weather conditions in Lethal Company transform every moon into a different beast. The strategic layer of choosing where to land based on weather is as important as your equipment loadout or team composition. This guide covers every weather type — Eclipsed, Flooded, Stormy, Foggy, and Rainy — with mechanical breakdowns, scrap multipliers, enemy spawn changes, and survival strategies for each.
 
-For general survival strategies that pair well with weather knowledge, see our [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/). If you need equipment recommendations for different weather conditions, the [Lethal Company Equipment Guide](/posts/lethal-company/equipment-guide/) covers what to bring.
+For general survival strategies that pair well with weather knowledge, see our [Lethal Company Advanced Strategies Guide](/games/lethal-company/). If you need equipment recommendations for different weather conditions, the [Lethal Company Equipment Guide](/posts/lethal-company/equipment-guide/) covers what to bring.
 
 ## The Weather System
 
@@ -387,6 +387,6 @@ For more on team coordination, see our [Lethal Company Co-op Team Roles Guide](/
 ## Related Guides
 
 - [Lethal Company Moon Guide](/posts/lethal-company/moon-guide/) — Detailed moon-by-moon analysis for weather-impacted route planning
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/) — Advanced movement, timing, and survival techniques for all conditions
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/) — Advanced movement, timing, and survival techniques for all conditions
 - [Lethal Company Equipment Guide](/posts/lethal-company/equipment-guide/) — Gear recommendations for every weather type and situation
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/) — Effective team composition and role assignments for weather survival

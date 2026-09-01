@@ -29,7 +29,7 @@ related:
   - /posts/palworld/breeding-guide/
   - /posts/palworld/breeding-perfect-passives-guide/
   - /posts/palworld/pal-condensation-optimization-guide/
-  - /posts/palworld/beginner-guide/
+  - /games/palworld/
 ---
 
 ## 90 Seconds in the Tower
@@ -194,7 +194,7 @@ Your team comp depends on what you can breed and condense. That requires a real 
 - A medical bed station to refill HP between attempts.
 - Enough Pal Souls stockpiled for at least three 4-star condenses.
 
-If your base is just a hut and a campfire, your team will plateau. Breeding farm placement next to the ranch is the difference between 1 egg per hour and 4 — see our [Pal management guide](/posts/palworld/pal-management-guide/) for the layout, and our [condensation guide](/posts/palworld/pal-condensation-optimization-guide/) for spending those Pals efficiently.
+If your base is just a hut and a campfire, your team will plateau. Breeding farm placement next to the ranch is the difference between 1 egg per hour and 4 — see our [Pal management guide](/games/palworld/) for the layout, and our [condensation guide](/posts/palworld/pal-condensation-optimization-guide/) for spending those Pals efficiently.
 
 ## Breeding the Right Passives for Each Role
 
@@ -220,7 +220,7 @@ Here's a concrete level 50 build that handles all Towers with flex swaps:
 
 Total investment: roughly 40 hours, around 80 eggs, about a dozen condenses. Not cheap. But it's a team that clears, not a team that gets wiped.
 
-If you're earlier in the game, the [beginner guide](/posts/palworld/beginner-guide/) walks through the level 1-30 team progression — the tank/DPS/support split applies there too, just with weaker Pals.
+If you're earlier in the game, the [beginner guide](/games/palworld/) walks through the level 1-30 team progression — the tank/DPS/support split applies there too, just with weaker Pals.
 
 ## What to Do Next
 
@@ -266,4 +266,4 @@ No. Most partner skills and buff auras only apply while the Pal is deployed. A P
 - [Palworld Breeding Guide](/posts/palworld/breeding-guide/) — Passive inheritance mechanics.
 - [Palworld Perfect Passives Breeding Guide](/posts/palworld/breeding-perfect-passives-guide/) — The empty-slot strategy that cuts eggs from 100+ to a dozen.
 - [Palworld Condensation Optimization Guide](/posts/palworld/pal-condensation-optimization-guide/) — How to spend Pals on 4-star upgrades.
-- [Palworld Beginner Guide](/posts/palworld/beginner-guide/) — The level 1-30 team progression.
+- [Palworld Beginner Guide](/games/palworld/) — The level 1-30 team progression.

@@ -26,9 +26,9 @@ faq:
 related:
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/rod-bait-combination-guide/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
   - /posts/fisch/enchantment-timing-guide/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
 ---
 
 You have been on the water for three hours. Same dock, same rod, same Common bass rolling in at 1×. Your inventory is full of fish worth pocket change, and you are starting to think everyone else knows a secret you missed. Then the angler one dock over tosses a single glowing worm, reels in a fish that shimmers purple, and the sell number pops at 7.5× right on their screen.
@@ -43,7 +43,7 @@ The error is not the bait. The error is the base fish.
 
 An 8× multiplier on a Common is still a Common-sized payday. Your sell value runs (base fish value) × (mutation) × (attributes), and when the base is nothing, the rest multiplies nothing. The cause is treating the multiplier as the entire equation and ignoring where the fish spawns.
 
-The recovery is simple: pair the 100% bait with a high-value location, not a starter pond. Glowworm at Moosewood is 8× trash. Starlight Worm in a Mythic-heavy zone is 7.5× treasure. The bait is only as good as the water you drop it in. If you want the full bait math, the [bait economy guide](/posts/fisch/bait-economy-guide/) covers when each bait is worth its cost.
+The recovery is simple: pair the 100% bait with a high-value location, not a starter pond. Glowworm at Moosewood is 8× trash. Starlight Worm in a Mythic-heavy zone is 7.5× treasure. The bait is only as good as the water you drop it in. If you want the full bait math, the [bait economy guide](/games/fisch/) covers when each bait is worth its cost.
 
 ## How Mutations Actually Work
 
@@ -188,7 +188,7 @@ Stop guessing and run this in order. It is a plain if-then decision.
 | You want consistent C$ per hour | Starlight Worm in a high-value zone | 7.5× every cast, zero RNG on the mutation |
 | You want jackpot potential | Eclipse weather + Fang of the Eclipse | 15× Umbra ceiling, 2.5× Solarblaze floor |
 | A seasonal event is active | Switch to its event bait immediately | Gravy at 8× is locked to Fischgiving |
-| You are under-leveled and broke | Prioritize your rod first | See the [rod progression timeline](/posts/fisch/rod-progression-timeline/) |
+| You are under-leveled and broke | Prioritize your rod first | See the [rod progression timeline](/games/fisch/) |
 
 Then stack conditions before you cast: preferred season (+25% spawn rate), matching weather (+35%), and the right time of day. These stack on top of your mutation and often move your hourly income more than a rod upgrade does.
 

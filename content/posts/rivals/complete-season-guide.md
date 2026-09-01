@@ -35,7 +35,7 @@ This is the RIVALS season cycle. It happens every 8 weeks, and it catches player
 
 This guide covers the full season system: how seasons work, what resets and what carries over, the battle pass economy, rank reset mechanics, seasonal events, the F2P vs premium decision, and the mistakes that cost players the most each season.
 
-If you need the current season's specific weapon changes and map rotations, pair this with the [RIVALS Season 3 Weapons and Maps Guide](/posts/rivals/season-3-weapons-maps-guide/). For the current battle pass tier list and reward breakdown, see the [RIVALS Season 3 Battle Pass Guide](/posts/rivals/season-3-battle-pass-guide/).
+If you need the current season's specific weapon changes and map rotations, pair this with the [RIVALS Season 3 Weapons and Maps Guide](/games/rivals/). For the current battle pass tier list and reward breakdown, see the [RIVALS Season 3 Battle Pass Guide](/posts/rivals/season-3-battle-pass-guide/).
 
 ---
 
@@ -264,4 +264,4 @@ Complete daily challenges first — they are the most XP-efficient activity. The
 - [RIVALS Limited-Time Events Guide](/posts/rivals/limited-time-events-guide/) — event strategy, reward prioritization, and the tiered buying framework
 - [RIVALS Ranked ELO Climbing Guide](/posts/rivals/ranked-elo-climbing-guide/) — how the rank reset interacts with hidden MMR and climbing strategy
 - [RIVALS Codes and Rewards Guide](/posts/rivals/codes-and-rewards-guide/) — free XP boosts, Credits, and seasonal codes
-- [RIVALS Season 3 Weapons and Maps Guide](/posts/rivals/season-3-weapons-maps-guide/) — current weapon meta and map rotations for the season
+- [RIVALS Season 3 Weapons and Maps Guide](/games/rivals/) — current weapon meta and map rotations for the season

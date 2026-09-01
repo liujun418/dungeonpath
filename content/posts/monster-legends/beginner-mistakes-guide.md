@@ -157,7 +157,7 @@ You will wait until you have a "good" team. You will tell yourself you'll join a
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide — First 3 Days & Gem Traps](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide — First 3 Days & Gem Traps](/games/monster-legends/)
 - [Monster Legends Farming Guide — Gold, Food & Gem Efficiency](/posts/monster-legends/farming-guide/)
 - [Monster Legends Breeding Guide — Full System & Parent Chains](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Habitats & Island Layout](/posts/monster-legends/habitats-island-layout/)

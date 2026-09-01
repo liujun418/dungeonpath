@@ -136,7 +136,7 @@ Element advantage can sometimes overcome a rarity gap, but not always. A legenda
 
 ## Related Guides
 
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/)
+- [Monster Legends Arena PvP Guide](/games/monster-legends/)
 - [Monster Legends Team Wars Guide](/posts/monster-legends/team-wars-guide/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)
 - [Monster Legends Battle Strategy](/posts/monster-legends/battle-strategy/)

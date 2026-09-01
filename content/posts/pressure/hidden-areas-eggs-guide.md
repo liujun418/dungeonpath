@@ -136,13 +136,13 @@ Beyond the standard entities documented in our [Pressure Entities Guide](/posts/
 
 ## Cross-References
 
-- For floor-by-floor navigation, see our [Pressure Floors & Locations Guide](/posts/pressure/floors-and-locations-guide/)
+- For floor-by-floor navigation, see our [Pressure Floors & Locations Guide](/games/pressure/)
 - For entity behavior and strategies, see our [Pressure Entities Guide](/posts/pressure/entities-guide/)
 - For codes and secret rewards, see our [Pressure Codes & Secrets Guide](/posts/pressure/codes-and-secrets-guide/)
 
 ## Related Guides
 
-- [Pressure Floors & Locations Guide](/posts/pressure/floors-and-locations-guide/)
+- [Pressure Floors & Locations Guide](/games/pressure/)
 - [Pressure Entities Guide](/posts/pressure/entities-guide/)
 - [Pressure Codes & Secrets Guide](/posts/pressure/codes-and-secrets-guide/)
 - [Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)

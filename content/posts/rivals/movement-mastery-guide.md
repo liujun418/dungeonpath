@@ -25,11 +25,11 @@ faq:
     answer: "You are probably sliding in a straight line directly toward or away from the enemy. A slide-cancel drops your hitbox, but it does not change your horizontal predictability. If you slide directly at an enemy, they pre-aim your path and headshot you when the slide ends. Always slide at an angle. The hitbox reduction only helps if the enemy is forced to track a direction change at the same time."
 related:
   - /posts/rivals/movement-and-mechanics-guide/
-  - /posts/rivals/aim-training-guide/
+  - /games/rivals/
   - /posts/rivals/game-sense-positioning-guide/
-  - /posts/rivals/1v1-duel-strategies-guide/
-  - /posts/rivals/maps-and-strategies-guide/
-  - /posts/rivals/controller-console-guide/
+  - /games/rivals/
+  - /games/rivals/
+  - /games/rivals/
 ---
 
 ## You Have Good Aim. You're Still Losing.
@@ -125,7 +125,7 @@ Whether double-jump is baseline or loadout-tied has shifted between patches. Wit
 
 **Why:** It exploits reaction time. They see movement, fire, miss because only a sliver was exposed. Their shot goes on cooldown for roughly 0.3-1.5 seconds. You own that whole window.
 
-**Drill:** Friend holds an angle, you jiggle-peek it 20 times. Goal: under 3 hits. A good jiggle-peek makes you unhittable 85%+ of the time. Then chain it into the dash re-peek — the full [1v1 duel](/posts/rivals/1v1-duel-strategies-guide/) entry.
+**Drill:** Friend holds an angle, you jiggle-peek it 20 times. Goal: under 3 hits. A good jiggle-peek makes you unhittable 85%+ of the time. Then chain it into the dash re-peek — the full [1v1 duel](/games/rivals/) entry.
 
 ---
 
@@ -135,7 +135,7 @@ Whether double-jump is baseline or loadout-tied has shifted between patches. Wit
 
 **Why:** Human reaction time averages about 0.25 seconds. Change direction every 0.4-0.5s and their crosshair is always catching up — aiming at where you were 0.2s ago. A predictable left-left-left gets headshot; an unpredictable rhythm is almost impossible to track.
 
-If your strafe feels jittery or you overcorrect, that's usually sensitivity, not rhythm. Lock your sens first in the [sensitivity and crosshair guide](/posts/rivals/sensitivity-crosshair-guide/), then practice the rhythm on top.
+If your strafe feels jittery or you overcorrect, that's usually sensitivity, not rhythm. Lock your sens first in the [sensitivity and crosshair guide](/games/rivals/), then practice the rhythm on top.
 
 ---
 
@@ -173,7 +173,7 @@ Custom lobby, before your first ranked match. 15 minutes beats 2 hours of match 
 
 **Minutes 10-15:** A-D rhythm with a friend tracking your crosshair. They call "hit" when on target; change direction at each call. Goal: hits drop from every 3 seconds to every 8-10.
 
-If you run Dash, add two minutes at the end: dash sideways, fire, dash back. Pair it with the [aim training guide](/posts/rivals/aim-training-guide/) drills for a full warmup.
+If you run Dash, add two minutes at the end: dash sideways, fire, dash back. Pair it with the [aim training guide](/games/rivals/) drills for a full warmup.
 
 ---
 
@@ -221,7 +221,7 @@ Don't try to out-move them. Limit their options.
 
 **Hangar (Long-range):** Jiggle-peek the corners, slide-cancel between plane wreckage. Grapple is limited by the low ceiling.
 
-For power positions and sightlines on every map, the [maps and strategies guide](/posts/rivals/maps-and-strategies-guide/) has the full breakdown.
+For power positions and sightlines on every map, the [maps and strategies guide](/games/rivals/) has the full breakdown.
 
 ---
 
@@ -248,7 +248,7 @@ Solo custom lobby. Slide-cancel the length of a map. Strafe past an object and j
 
 ### Does movement matter on controller, or is it just a keyboard thing?
 
-More, because aim is slower. Predictable movement lets a controller player hold the stick steady and let you walk into shots. Unpredictable A-D rhythm and slide-cancels force constant re-adjustment and raise their miss rate. Full setup in the [controller and console guide](/posts/rivals/controller-console-guide/).
+More, because aim is slower. Predictable movement lets a controller player hold the stick steady and let you walk into shots. Unpredictable A-D rhythm and slide-cancels force constant re-adjustment and raise their miss rate. Full setup in the [controller and console guide](/games/rivals/).
 
 ### Why do I get headshot more when I slide-cancel?
 
@@ -259,9 +259,9 @@ You're sliding in a straight line at or away from them. The cancel drops your hi
 ## Related Guides
 
 - [RIVALS Movement & Mechanics Guide — Wall Run, Grapple & More](/posts/rivals/movement-and-mechanics-guide/)
-- [RIVALS 1v1 Duel Strategies — Peek Timings & Mind Games](/posts/rivals/1v1-duel-strategies-guide/)
-- [RIVALS Aim Training — The Drills That Actually Transfer](/posts/rivals/aim-training-guide/)
+- [RIVALS 1v1 Duel Strategies — Peek Timings & Mind Games](/games/rivals/)
+- [RIVALS Aim Training — The Drills That Actually Transfer](/games/rivals/)
 - [RIVALS Game Sense & Positioning Guide](/posts/rivals/game-sense-positioning-guide/)
-- [RIVALS Maps & Strategies — Every Map Breakdown](/posts/rivals/maps-and-strategies-guide/)
+- [RIVALS Maps & Strategies — Every Map Breakdown](/games/rivals/)
 - [RIVALS Ranked ELO Climbing — From Bronze to Platinum](/posts/rivals/ranked-elo-climbing-guide/)
-- [RIVALS Controller & Console Optimization Guide](/posts/rivals/controller-console-guide/)
+- [RIVALS Controller & Console Optimization Guide](/games/rivals/)

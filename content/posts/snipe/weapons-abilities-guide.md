@@ -273,11 +273,11 @@ Using Platform teaches you to rely on a gimmick angle that doesn't work against 
 
 Match your loadout to the map and mode, not just personal preference. Target dominates on Cargo where angles are everywhere. Thunder Dash rules on tight maps where enemies cluster. Forcefield is the 1v1 Duel king. And if you don't know what to pick — pick Dash. It's never the worst choice.
 
-Ready to put your loadout to the test? Our [SNIPE Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/) breaks down the RP system, optimal queue times, and the best loadouts for climbing through every rank tier.
+Ready to put your loadout to the test? Our [SNIPE Ranked Climbing Guide](/games/snipe/) breaks down the RP system, optimal queue times, and the best loadouts for climbing through every rank tier.
 
 **Related Guides:**
 
-- [SNIPE Beginner Guide: Controls, Movement & Getting Started](/posts/snipe/snipe-beginner-guide/)
+- [SNIPE Beginner Guide: Controls, Movement & Getting Started](/games/snipe/)
 - [SNIPE Map Strategies & Advanced Tips](/posts/snipe/maps-strategies-guide/)
-- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/posts/snipe/game-modes-guide/)
+- [SNIPE Game Modes Guide: Every Match Type & Win Conditions](/games/snipe/)
 - [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)

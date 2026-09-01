@@ -173,8 +173,8 @@ When you pre-fire the exact corner an enemy peeks, it looks like incredible aim.
 
 ## Related Guides
 
-- [RIVALS 1v1 Duel Strategies](/posts/rivals/1v1-duel-strategies-guide/) — apply game sense to win more duels
-- [RIVALS Maps and Strategies](/posts/rivals/maps-and-strategies-guide/) — map-specific positioning fundamentals
+- [RIVALS 1v1 Duel Strategies](/games/rivals/) — apply game sense to win more duels
+- [RIVALS Maps and Strategies](/games/rivals/) — map-specific positioning fundamentals
 - [RIVALS Movement Mastery](/posts/rivals/movement-mastery-guide/) — pair positioning with unpredictable movement
-- [RIVALS Communication & Callouts](/posts/rivals/communication-callouts-guide/) — share game sense with your team
+- [RIVALS Communication & Callouts](/games/rivals/) — share game sense with your team
 - [RIVALS Beginner Mistakes](/posts/rivals/beginner-mistakes-guide/) — common errors that game sense fixes

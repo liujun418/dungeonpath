@@ -645,11 +645,11 @@ A: No. `history` only shows your own command history on that terminal session. I
 
 ### Related Guides
 
-- [Lethal Company Ship Operator Guide](/posts/lethal-company/ship-operator-guide/)
-- [Lethal Company Equipment Economy Guide](/posts/lethal-company/equipment-economy-guide/)
+- [Lethal Company Ship Operator Guide](/games/lethal-company/)
+- [Lethal Company Equipment Economy Guide](/games/lethal-company/)
 - [Lethal Company Scrap Route Optimization](/posts/lethal-company/scrap-route-optimization/)
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/games/lethal-company/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Equipment Guide: Best Items and Loadouts](/posts/lethal-company/equipment-guide/)
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)

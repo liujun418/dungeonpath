@@ -25,8 +25,8 @@ faq:
     answer: "No. Matching accessories to the background actually hurts visibility during voting. Voters see a small thumbnail first, and accessories that blend into the background disappear. Contrast with the stage environment while staying true to the theme."
 related:
   - /posts/dress-to-impress/pattern-layering-combo-guide/
-  - /posts/dress-to-impress/hair-makeup-combos/
-  - /posts/dress-to-impress/voting-psychology-guide/
+  - /games/dress-to-impress/
+  - /games/dress-to-impress/
   - /posts/dress-to-impress/outfit-planning-preparation-guide/
   - /posts/dress-to-impress/dressing-scoring-guide/
 ---
@@ -45,7 +45,7 @@ Here is the autopsy. The veil and the choker occupy the same neck zone. At votin
 
 The fix takes ten seconds: keep the dress, keep the choker, drop the veil, drop eight of the ten rings, and swap the witch hat for a smaller fascinator that leaves the face visible. Same theme, same player, same core items — but the result jumps from a one to a probable four or five. The difference is not in what you wore. It is in what you chose not to wear.
 
-This pattern repeats across every theme. A failed outfit is rarely a bad outfit. It is an outfit where accessories fought each other for space, attention, or both. The fix is almost always subtraction, never addition. Our [voting psychology guide]({{< ref "voting-psychology-guide" >}}) explains why voters punish clutter even when they cannot articulate the problem — the brain processes simple outfits faster, and speed equals stars.
+This pattern repeats across every theme. A failed outfit is rarely a bad outfit. It is an outfit where accessories fought each other for space, attention, or both. The fix is almost always subtraction, never addition. Our [voting psychology guide]({{< ref "/games/dress-to-impress/" >}}) explains why voters punish clutter even when they cannot articulate the problem — the brain processes simple outfits faster, and speed equals stars.
 
 ## Why Your Layered Outfits Keep Losing
 
@@ -176,4 +176,4 @@ The next time you queue into a "Royal Ball" theme, resist the urge to equip ever
 
 Submit with confidence. Your outfit will read as polished, intentional, and thematic. Voters reward that clarity. And if you find yourself in fifth place again, audit your accessories first. The fix is rarely adding more. It is almost always subtracting smarter.
 
-For more Dress to Impress strategy, check our guides on [theme-winning frameworks]({{< ref "theme-winning-framework" >}}), [color theory and palette building]({{< ref "color-theory-palette-guide" >}}), and [beginner fundamentals]({{< ref "beginner-guide" >}}). If accessories are your bottleneck, the [pattern layering guide]({{< ref "pattern-layering-combo-guide" >}}) and [voting psychology breakdown]({{< ref "voting-psychology-guide" >}}) will help you close the gap. Master the layers, and the podium will follow.
+For more Dress to Impress strategy, check our guides on [theme-winning frameworks]({{< ref "theme-winning-framework" >}}), [color theory and palette building]({{< ref "color-theory-palette-guide" >}}), and [beginner fundamentals]({{< ref "/games/dress-to-impress/" >}}). If accessories are your bottleneck, the [pattern layering guide]({{< ref "pattern-layering-combo-guide" >}}) and [voting psychology breakdown]({{< ref "/games/dress-to-impress/" >}}) will help you close the gap. Master the layers, and the podium will follow.

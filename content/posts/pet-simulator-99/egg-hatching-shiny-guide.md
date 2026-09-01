@@ -24,13 +24,13 @@ faq:
   - question: "Is auto-hatching cheap eggs better than hatching one expensive egg for Huge hunting?"
     answer: "Usually. Cheap eggs let you roll far more times per hour, which builds pity faster and gives you more chances to hit the base Huge odds. Expensive eggs are only worth it when their specific Huge pet is best-in-slot for your current world and you can afford the gem drain."
 related:
-  - /posts/pet-simulator-99/beginner-guide/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/best-pets-guide/
   - /posts/pet-simulator-99/huge-titanic-guide/
   - /posts/pet-simulator-99/luck-boosting-guide/
   - /posts/pet-simulator-99/gems-coins-guide/
   - /posts/pet-simulator-99/pet-fusion-evolution-guide/
-  - /posts/pet-simulator-99/trading-economy-guide/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/trading-values-guide/
 ---
 
@@ -102,7 +102,7 @@ New world drops, so you hatch thirty eggs there. An event starts, so you pivot. 
 
 ### Hatch in the Right Season
 
-Hatching outside RNG events is fine for two things: mastery quests and pity padding. It is not a winning strategy for landing Huge pets. The game routinely runs 2x and 3x Huge chance weekends. Gems spent during a normal week could have been doubled during the event. Patient players bank gems for weeks, then explode them all during one stacked event. Impatient players burn gems on Tuesday and wonder why the Saturday event left them broke. If there is no event active and you are not close to pity, close the hatch menu and go farm coins instead. For the full event calendar logic, read our [Events & Seasonal guide](/posts/pet-simulator-99/events-seasonal-guide/).
+Hatching outside RNG events is fine for two things: mastery quests and pity padding. It is not a winning strategy for landing Huge pets. The game routinely runs 2x and 3x Huge chance weekends. Gems spent during a normal week could have been doubled during the event. Patient players bank gems for weeks, then explode them all during one stacked event. Impatient players burn gems on Tuesday and wonder why the Saturday event left them broke. If there is no event active and you are not close to pity, close the hatch menu and go farm coins instead. For the full event calendar logic, read our [Events & Seasonal guide](/games/pet-simulator-99/).
 
 ## Coin-per-Egg Decision Logic
 
@@ -131,7 +131,7 @@ The most expensive egg in a world is usually a trap. Huge odds rarely scale line
 
 Two more counterintuitive habits to lock in:
 
-- **Never trade your first Huge.** New players pull a Huge, see it is worth millions in the plaza, and flip it instantly. That is a long-term disaster. Your first Huge gives a permanent coin and gem multiplier on your whole account, and that passive income out-earns the one-time plaza payout within a month. Keep the ugly Huge. Equip it. Let it farm. Once you have three or four and your income is stable, then flip duplicates. For how the trade side works, see our [Trading Economy guide](/posts/pet-simulator-99/trading-economy-guide/).
+- **Never trade your first Huge.** New players pull a Huge, see it is worth millions in the plaza, and flip it instantly. That is a long-term disaster. Your first Huge gives a permanent coin and gem multiplier on your whole account, and that passive income out-earns the one-time plaza payout within a month. Keep the ugly Huge. Equip it. Let it farm. Once you have three or four and your income is stable, then flip duplicates. For how the trade side works, see our [Trading Economy guide](/games/pet-simulator-99/).
 - **Auto-delete beats a luck potion.** Players obsess over luck boosters and ignore inventory flow. If your bag fills and auto-hatch pauses, your rolls per hour crash to zero. A clean inventory with auto-delete configured correctly nets you more actual hatches per session than most consumable luck items. Before you spend Robux on a temporary boost, spend it on inventory space or spend five minutes setting your delete filters. The players who reach pity first are not always the luckiest. They are the ones who never stopped hatching.
 
 ### Pre-Session Checklist
@@ -169,11 +169,11 @@ Usually. Cheap eggs let you roll far more times per hour, which builds pity fast
 
 ## Related Guides
 
-- [Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)
+- [Pet Simulator 99 Beginner Guide](/games/pet-simulator-99/)
 - [Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)
 - [Huge & Titanic Pets Explained](/posts/pet-simulator-99/huge-titanic-guide/)
 - [Luck Boosting Guide](/posts/pet-simulator-99/luck-boosting-guide/)
 - [Gems & Coins Economy](/posts/pet-simulator-99/gems-coins-guide/)
 - [Pet Fusion & Evolution](/posts/pet-simulator-99/pet-fusion-evolution-guide/)
-- [Trading Economy Guide](/posts/pet-simulator-99/trading-economy-guide/)
+- [Trading Economy Guide](/games/pet-simulator-99/)
 - [Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)

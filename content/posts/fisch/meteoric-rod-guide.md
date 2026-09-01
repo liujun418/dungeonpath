@@ -24,14 +24,14 @@ faq:
     answer: "Yes, for late-game players. It has 75% Lure Speed, 175% Luck, 550,000 max Kg, and a 20% chance to apply the Cragged mutation at a 7x value multiplier. The meteor-dodge passive adds a real skill check: dodging a meteor gives +10% minigame progress, while getting hit costs -15%. If you enjoy active minigames and want a rod that rewards timing, the grind pays off."
 related:
   - /posts/fisch/noiseform-rod-guide/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/atlantean-storm-bestiary/
-  - /posts/fisch/rare-mythic-fish-guide/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/rod-bait-combination-guide/
   - /posts/fisch/codes-and-rewards-guide/
-  - /posts/fisch/weather-time-season-guide/
+  - /games/fisch/
 ---
 
 You spawn at Northern Expedition, run past the camp selling the Avalanche Rod and Pickaxe, and jump up three tiers of stone platforms. At the top stands a wiry guy with a telescope — Meteor Maniac Matthew, the quest marker above his head reading **Anomaly Investigation: SPACE CANDY**. The name sounds silly. The items behind it are not. This questline ends with the Meteoric Rod, one of the more interesting rods added in the Astral Observatory update.
@@ -60,7 +60,7 @@ This first quest is a warm-up, but the Cosmic Relic trip-wires more players than
 
 **2. Moonstone (x1).** You have three routes. Your personal aquarium can produce it passively. A Meteor Totem drop can give it. Or the Daily Shop sells it when it's in stock. The aquarium is the least effort, so check it first before you burn a totem.
 
-**3. Solar Blaze OR Nova Frozen Walnut (x1).** Fish the **Overgrowth Canal** with the **Cerulean Fang Rod** and **Starlight Worm** bait. The result depends on the event running: an **Eclipse** gives you Solar Blaze (the Fan of the Eclipse rod gives the best odds, and the Wicked Fang Rod gives a 30% chance), while a **Starfall** gives the Nova mutation. Check the [weather, time, and season guide](/posts/fisch/weather-time-season-guide/) before you cast so you're not fishing the wrong window.
+**3. Solar Blaze OR Nova Frozen Walnut (x1).** Fish the **Overgrowth Canal** with the **Cerulean Fang Rod** and **Starlight Worm** bait. The result depends on the event running: an **Eclipse** gives you Solar Blaze (the Fan of the Eclipse rod gives the best odds, and the Wicked Fang Rod gives a 30% chance), while a **Starfall** gives the Nova mutation. Check the [weather, time, and season guide](/games/fisch/) before you cast so you're not fishing the wrong window.
 
 Turn the three items in. A cutscene plays and meteors rain down across Northern Expedition. That's your cue — quest two starts immediately.
 
@@ -72,7 +72,7 @@ Four objectives, and this is where the grind actually happens. Go in order; two 
 
 **2. Quartz Glass (x1).** This is an Exotic fish in the **Cryogenic Canal Stone Cavern**, a hidden area. Go under the bridge in the Cryogenic Canal and enter the dark portal at the bottom. Use **Magnet bait** and fish during **Foggy weather**. It won't show up otherwise, so don't camp the cavern in clear weather and wonder why you're skunked.
 
-**3. Solar Blaze Stalactite (x5).** Fish with the **Wicked Fang Rod** and **Garbage Bait** during an active **Eclipse**. Most players grind this in **Crimson Cave**; Tidefall also works. You need five, and the Eclipse window is limited, so have bait and the right rod ready before the event starts. The [bait economy guide](/posts/fisch/bait-economy-guide/) covers stocking up on Garbage Bait without overspending.
+**3. Solar Blaze Stalactite (x5).** Fish with the **Wicked Fang Rod** and **Garbage Bait** during an active **Eclipse**. Most players grind this in **Crimson Cave**; Tidefall also works. You need five, and the Eclipse window is limited, so have bait and the right rod ready before the event starts. The [bait economy guide](/games/fisch/) covers stocking up on Garbage Bait without overspending.
 
 **4. Gemstones — Ruby, Amethyst, Opal, Lapis Lazuli, and Moonstone (one each).** All five drop from **Meteor Totem** events on Ancient Isle, and your aquarium generates them passively. Moonstone is the rarest of the five, so treat it as the bottleneck. More on the smart way to fill this below.
 
@@ -117,7 +117,7 @@ When a step stalls, here's what to do instead of guessing.
 | No Quartz Glass | Go under the Cryogenic Canal bridge, enter the dark portal, use Magnet bait in Foggy weather |
 | No Solar Blaze Stalactite | Wicked Fang Rod + Garbage Bait in Crimson Cave during an Eclipse |
 | Missing gemstones | Check the Daily Shop and aquarium daily; Moonstone is the rare one, so target it |
-| No event running | Check the [weather, time, and season guide](/posts/fisch/weather-time-season-guide/) and wait for Eclipse or Starfall |
+| No event running | Check the [weather, time, and season guide](/games/fisch/) and wait for Eclipse or Starfall |
 
 ## A Counter-Intuitive Tip: Aquarium + Daily Shop Beats Totem Gambling
 
@@ -146,16 +146,16 @@ Equip the Wicked Fang Rod with Garbage Bait and fish during an active Eclipse ev
 
 **Is the Meteoric Rod worth it?**
 
-For late-game players, yes. It has 75% Lure Speed, 175% Luck, 550,000 max Kg, and a 20% Cragged mutation at 7x value. The dodge passive adds a skill layer most rods lack: dodging a meteor gives +10% progress, getting hit costs -15%. If you like active minigames, the grind is worth it; if you want a set-and-forget rod, look at the [rod progression timeline](/posts/fisch/rod-progression-timeline/) for alternatives.
+For late-game players, yes. It has 75% Lure Speed, 175% Luck, 550,000 max Kg, and a 20% Cragged mutation at 7x value. The dodge passive adds a skill layer most rods lack: dodging a meteor gives +10% progress, getting hit costs -15%. If you like active minigames, the grind is worth it; if you want a set-and-forget rod, look at the [rod progression timeline](/games/fisch/) for alternatives.
 
 ## Related Guides
 
 - [Noiseform Rod Guide](/posts/fisch/noiseform-rod-guide/)
-- [Rod Progression Timeline](/posts/fisch/rod-progression-timeline/)
+- [Rod Progression Timeline](/games/fisch/)
 - [Best Rods Tier List](/posts/fisch/best-rods-tier-list/)
 - [Atlantean Storm Bestiary](/posts/fisch/atlantean-storm-bestiary/)
-- [Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/)
-- [Bait Economy Guide](/posts/fisch/bait-economy-guide/)
+- [Rare & Mythic Fish Guide](/games/fisch/)
+- [Bait Economy Guide](/games/fisch/)
 - [Rod & Bait Combination Guide](/posts/fisch/rod-bait-combination-guide/)
 - [Codes & Rewards Guide](/posts/fisch/codes-and-rewards-guide/)
-- [Weather, Time & Season Guide](/posts/fisch/weather-time-season-guide/)
+- [Weather, Time & Season Guide](/games/fisch/)

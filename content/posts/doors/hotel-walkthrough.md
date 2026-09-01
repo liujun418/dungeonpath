@@ -333,7 +333,7 @@ A: 100 rooms, numbered Door 1 through Door 100. Door 100 contains the Figure bos
 A: Yes, but it is not recommended. The items sold there (especially lockpicks and bandages) are essential for later sections and the Figure fight.
 
 **Q: What happens after I complete the Hotel?**
-A: You unlock access to The Mines (Floor 2). See our [The Mines Walkthrough](/posts/doors/the-mines-walkthrough/) for the next floor.
+A: You unlock access to The Mines (Floor 2). See our [The Mines Walkthrough](/games/doors/) for the next floor.
 
 **Q: Does the Figure always appear at Door 100?**
 A: Yes, in the standard Hotel floor. However, modifiers or special game modes can change this behavior.
@@ -349,7 +349,7 @@ A: No. The Crucifix works on Rush, Ambush, and several other entities, but not o
 ## Related Guides
 
 - **[DOORS Beginner Guide](/posts/doors/beginner-guide/)** -- Quick essentials for first-time players before attempting the Hotel
-- **[The Mines Walkthrough](/posts/doors/the-mines-walkthrough/)** -- Complete guide to Floor 2 with all new rooms and entities
+- **[The Mines Walkthrough](/games/doors/)** -- Complete guide to Floor 2 with all new rooms and entities
 - **[Entities Bestiary](/posts/doors/entities-bestiary/)** -- Detailed information on every entity in DOORS
 - **[Items & Inventory Guide](/posts/doors/items-and-inventory-guide/)** -- Every item, where to find it, and how to use it effectively
 - **[Achievements & Secrets](/posts/doors/achievements-and-secrets/)** -- All badges, hidden rooms, and secret content in DOORS

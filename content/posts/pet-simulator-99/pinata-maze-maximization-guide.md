@@ -20,7 +20,7 @@ faq:
     answer: "No for the top prize, yes for the track rewards. The first-to-150,000 Gargantuan Sombrero Cat is already decided by players running 16-hour days — the leader hit 20,000+ in the first 24 hours. But the track pays a Fiesta Gift plus an orb bundle every 1,000 levels, and levels 1,000-20,000 are realistic over the event's run. Run it passively, not as a goal. If you do push, use Insane trios with Booster II (XP) active the whole time."
 related:
   - /posts/pet-simulator-99/pinata-maze-guide/
-  - /posts/pet-simulator-99/event-mastery-guide/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/gems-coins-guide/
   - /posts/pet-simulator-99/luck-boosting-guide/
 ---
@@ -200,6 +200,6 @@ Good luck in the maze.
 ## Related Guides
 
 - [PS99 Piñata Maze Event Guide — How the Maze, Press Your Luck & Piñata Hatching Work](/posts/pet-simulator-99/pinata-maze-guide/)
-- [PS99 Event Mastery Guide — All Recurring Event Types Explained](/posts/pet-simulator-99/event-mastery-guide/)
+- [PS99 Event Mastery Guide — All Recurring Event Types Explained](/games/pet-simulator-99/)
 - [PS99 Gems & Coins Guide — Farming and Spending Priorities](/posts/pet-simulator-99/gems-coins-guide/)
 - [PS99 Luck Boosting Guide — How Huge Hunter, Lucky, and Ultra Lucky Stack](/posts/pet-simulator-99/luck-boosting-guide/)

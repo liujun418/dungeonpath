@@ -253,6 +253,6 @@ Sell when buyers are active and attention is high: weekends, US evening hours, o
 ## Related Guides
 
 - [Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)
-- [Pet Simulator 99 Trading Economy Guide](/posts/pet-simulator-99/trading-economy-guide/)
+- [Pet Simulator 99 Trading Economy Guide](/games/pet-simulator-99/)
 - [Pet Simulator 99 Huge & Titanic Guide](/posts/pet-simulator-99/huge-titanic-guide/)
-- [Pet Simulator 99 Trading Scam Prevention Guide](/posts/pet-simulator-99/trading-scam-prevention/)
+- [Pet Simulator 99 Trading Scam Prevention Guide](/games/pet-simulator-99/)

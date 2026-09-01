@@ -25,7 +25,7 @@ faq:
 related:
   - /posts/pressure/multiplayer-guide/
   - /posts/pressure/complete-beginner-survival-guide/
-  - /posts/pressure/items-and-puzzles-guide/
+  - /games/pressure/
   - /posts/pressure/badges-achievements-guide/
   - /posts/pressure/speedrun-guide/
   - /posts/pressure/speedrun-optimization-tips/
@@ -104,7 +104,7 @@ This is the most important thing to internalize before anything else.
 
 **In solo, revive does not exist.**
 
-The defib only targets another player's body. You cannot revive yourself. If you queue solo and a defib drops, leave it. It's an inventory slot doing nothing. Spend the slot on healing or a Sprint Potion — or check the [items and puzzles guide](/posts/pressure/items-and-puzzles-guide/) for what actually saves solo runs.
+The defib only targets another player's body. You cannot revive yourself. If you queue solo and a defib drops, leave it. It's an inventory slot doing nothing. Spend the slot on healing or a Sprint Potion — or check the [items and puzzles guide](/games/pressure/) for what actually saves solo runs.
 
 **In co-op, revive is the whole game.**
 
@@ -208,7 +208,7 @@ For the full picture on where this badge sits in the completion order, check the
 
 When you die in Pressure, you lose the run and nothing else — you keep your currency and unlocks, and you still get paid for the doors you cleared. The only way back from a full death is the defib, a rare single-use item that only works on other players, needs five batteries to recharge, and glows on your back like a target. Solo, revive doesn't exist. Co-op, revive is the difference between a wipe and a setback, and the whole skill is in the three-second call: confirm the clear, send the healthiest player, and never trade two lives for one.
 
-If you're still working on surviving long enough to need any of this, start with the [beginner survival guide](/posts/pressure/complete-beginner-survival-guide/). If you're building your loadout around a defib, the [items and puzzles guide](/posts/pressure/items-and-puzzles-guide/) covers what else belongs in your five slots.
+If you're still working on surviving long enough to need any of this, start with the [beginner survival guide](/posts/pressure/complete-beginner-survival-guide/). If you're building your loadout around a defib, the [items and puzzles guide](/games/pressure/) covers what else belongs in your five slots.
 
 ---
 

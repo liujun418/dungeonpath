@@ -29,7 +29,7 @@ Rivals limited-time events are built to create pressure. Seasonal modes disappea
 
 This guide is about playing Rivals events with a plan. It covers seasonal event types, exclusive rewards, event currency, challenge strategy, reward prioritization, and the bad habits that make players waste time during the only weeks when the rewards are available.
 
-If you are still learning the current season's weapon pool, pair this guide with the [Rivals Season 3 Weapons and Maps Guide](/posts/rivals/season-3-weapons-maps-guide/). Events are easier when you already know which weapons can farm kills quickly and which maps slow you down.
+If you are still learning the current season's weapon pool, pair this guide with the [Rivals Season 3 Weapons and Maps Guide](/games/rivals/). Events are easier when you already know which weapons can farm kills quickly and which maps slow you down.
 
 ## How Limited-Time Events Work in Rivals
 
@@ -256,5 +256,5 @@ Casual players can earn strong rewards, but they should not plan around clearing
 
 - [Rivals Season 3 Battle Pass Guide](/posts/rivals/season-3-battle-pass-guide/) — Battle pass tiers, premium value, and season reward planning.
 - [Rivals Codes and Rewards Guide](/posts/rivals/codes-and-rewards-guide/) — Extra reward sources, code redemption, and free items.
-- [Rivals Season 3 Weapons and Maps Guide](/posts/rivals/season-3-weapons-maps-guide/) — Current weapons, map changes, and loadout choices for event objectives.
+- [Rivals Season 3 Weapons and Maps Guide](/games/rivals/) — Current weapons, map changes, and loadout choices for event objectives.
 - [Rivals Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/) — Mode rules, ranked basics, and playlist decisions during events.

@@ -160,6 +160,6 @@ A team running the framework on Assurance, Day 3, quota 800.
 
 3 PM: Ship leaves. Nobody died. Nobody got chased home in the dark.
 
-This isn't a fantasy run. It's what happens when you treat the route as the actual mechanic of the game. If you're still learning the basics of moon selection and survival, the [Beginner Guide](/posts/lethal-company/beginner-guide/) covers the foundations — but once you're past Day 5 cycles, route optimization is the only thing standing between you and the firing.
+This isn't a fantasy run. It's what happens when you treat the route as the actual mechanic of the game. If you're still learning the basics of moon selection and survival, the [Beginner Guide](/games/lethal-company/) covers the foundations — but once you're past Day 5 cycles, route optimization is the only thing standing between you and the firing.
 
 Stop checking every room. Pick the right rooms. Get out before sunset.

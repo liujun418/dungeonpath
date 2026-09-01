@@ -209,10 +209,10 @@ Run custom lobbies with Nightmare settings but start at wave 20 or wave 40. This
 
 ## Related Guides
 
-- [BBF Nightmare Mode Guide — Differences, Strategy & Is It Worth It?](/posts/blockade-battlefront/nightmare-mode-guide/)
-- [BBF Late Game Survival Guide — Waves 40-70+ Strategy](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Nightmare Mode Guide — Differences, Strategy & Is It Worth It?](/games/blockade-battlefront/)
+- [BBF Late Game Survival Guide — Waves 40-70+ Strategy](/games/blockade-battlefront/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Titans & Upgrades Guide — Best Builds & Cen Farming](/posts/blockade-battlefront/titans-upgrades-guide/)
-- [BBF Beginner Mistakes Guide — What Wastes Your Cen](/posts/blockade-battlefront/beginner-mistakes-guide/)
+- [BBF Titans & Upgrades Guide — Best Builds & Cen Farming](/games/blockade-battlefront/)
+- [BBF Beginner Mistakes Guide — What Wastes Your Cen](/games/blockade-battlefront/)
 - [BBF Boss Wave Protocol — Every Boss Mechanic Explained](/posts/blockade-battlefront/boss-wave-protocol/)
 - [BBF Cen Farming Guide — How to Maximize Income](/posts/blockade-battlefront/cen-farming-guide/)

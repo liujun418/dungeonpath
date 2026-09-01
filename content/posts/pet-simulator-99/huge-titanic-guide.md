@@ -23,10 +23,10 @@ faq:
   - question: "What is the Huge Rotation and how should I time my hatching around it?"
     answer: "The Huge Rotation is a 2-day cycle that boosts hatch rates for specific Huge pets from the current best egg. The currently boosted pets are displayed on the in-game banner. The optimal strategy: only hatch when the rotation is active for a pet you want, and only burn Prison Keys during a rotation window. Hatching outside rotation is mathematically wasteful — you are rolling the same eggs at the base rate when you could wait 24 hours and roll at a boosted rate for the same cost."
 related:
-  - /posts/pet-simulator-99/trading-economy-guide/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/egg-hatching-shiny-guide/
-  - /posts/pet-simulator-99/events-seasonal-guide/
-  - /posts/pet-simulator-99/team-compositions-guide/
+  - /games/pet-simulator-99/
+  - /games/pet-simulator-99/
   - /posts/pet-simulator-99/gems-coins-guide/
 ---
 
@@ -72,7 +72,7 @@ This is the most common self-inflicted loss in PS99, and it happens because the 
 
 A player who burns 20 Prison Keys while no rotation is active is rolling at 10x the base rate. The same player who waits 12 hours for the rotation to flip is rolling at 10x times the rotation boost. The first player gets nothing. The second player gets a Huge. The gems, the keys, and the time are identical. Only the timing changes.
 
-How to recover: treat Prison Keys as rotation-only items. Do not touch them unless the banner shows a Huge you want and the rotation is live. If you already burned them dry, the fix is simple -- farm more keys, but this time, check the banner first. Our [events and seasonal guide](/posts/pet-simulator-99/events-seasonal-guide/) tracks when major events overlap with rotation windows for maximum efficiency.
+How to recover: treat Prison Keys as rotation-only items. Do not touch them unless the banner shows a Huge you want and the rotation is live. If you already burned them dry, the fix is simple -- farm more keys, but this time, check the banner first. Our [events and seasonal guide](/games/pet-simulator-99/) tracks when major events overlap with rotation windows for maximum efficiency.
 
 ### Best Methods for Your First Huge Pet
 
@@ -82,7 +82,7 @@ How to recover: treat Prison Keys as rotation-only items. Do not touch them unle
 
 **Prison Keys (reliable, rotation-gated).** Unlock Prison World via the Void World cannon. Collect or trade for Prison Keys. Break cells only during a rotation window. Each cell break gives you a 10x shot at a Huge Prison pet.
 
-**Trading up (fastest, requires gems).** This is the route most players ignore because it feels less exciting, but it is mathematically the cheapest. Buy a budget Huge on the trading plaza for gems, then use that Huge to earn more gems faster, then trade up. Our [trading economy guide](/posts/pet-simulator-99/trading-economy-guide/) covers the full loop.
+**Trading up (fastest, requires gems).** This is the route most players ignore because it feels less exciting, but it is mathematically the cheapest. Buy a budget Huge on the trading plaza for gems, then use that Huge to earn more gems faster, then trade up. Our [trading economy guide](/games/pet-simulator-99/) covers the full loop.
 
 ## "I Bought the Huge Hunter Gamepass and Still Have Nothing"
 
@@ -156,7 +156,7 @@ Notable Gargantuan pets include the Dawn Phoenix and Bloom Dominus (2026 Spring 
 
 The trap: a Gargantuan costs the same inventory slot as a Titanic. The power jump from Titanic to Gargantuan is real but marginal compared to the cost. A player with two Titanics and 200 billion gems who sinks everything into one Gargantuan ends up with a weaker team than a player who bought four more Titanics instead. Gargantuans are collector items first, power upgrades second.
 
-The rule of thumb: do not touch Gargantuan crafting until you own at least six Titanics and can afford to lose the fodder. Our [team compositions guide](/posts/pet-simulator-99/team-compositions-guide/) covers the math on when each tier actually improves your clear speed.
+The rule of thumb: do not touch Gargantuan crafting until you own at least six Titanics and can afford to lose the fodder. Our [team compositions guide](/games/pet-simulator-99/) covers the math on when each tier actually improves your clear speed.
 
 ## Decision Framework: Which Route Fits Your Budget
 
@@ -187,7 +187,7 @@ A few things this guide cannot pin down with certainty because BIG Games does no
 
 ## Next Steps
 
-If you are building your first Huge team, start with the [egg hatching and shiny guide](/posts/pet-simulator-99/egg-hatching-shiny-guide/) to optimize your hatch speed. If you have gems to spend, the [trading economy guide](/posts/pet-simulator-99/trading-economy-guide/) walks through the buy-low-sell-high loop. For event timing, the [events and seasonal guide](/posts/pet-simulator-99/events-seasonal-guide/) tracks which events are live and which pets are worth chasing. Once your team is built, the [team compositions guide](/posts/pet-simulator-99/team-compositions-guide/) shows you how to arrange your Huges and Titanics for maximum damage output.
+If you are building your first Huge team, start with the [egg hatching and shiny guide](/posts/pet-simulator-99/egg-hatching-shiny-guide/) to optimize your hatch speed. If you have gems to spend, the [trading economy guide](/games/pet-simulator-99/) walks through the buy-low-sell-high loop. For event timing, the [events and seasonal guide](/games/pet-simulator-99/) tracks which events are live and which pets are worth chasing. Once your team is built, the [team compositions guide](/games/pet-simulator-99/) shows you how to arrange your Huges and Titanics for maximum damage output.
 
 ---
 

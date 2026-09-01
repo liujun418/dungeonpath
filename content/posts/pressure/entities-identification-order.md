@@ -25,7 +25,7 @@ related:
   - title: "Pressure Audio Identification Guide — Recognize Every Sound Cue"
     url: "/posts/pressure/audio-identification-guide/"
   - title: "Pressure Locker Hiding Mechanics — When to Hide and When to Run"
-    url: "/posts/pressure/locker-hiding-mechanics-guide/"
+    url: "/games/pressure/"
   - title: "Pressure Advanced Survival Strategies — Beyond the Basics"
     url: "/posts/pressure/advanced-survival-strategies-guide/"
 ---
@@ -337,5 +337,5 @@ Play sprint runs. Listen to audio comparisons. Die a lot on purpose. In twenty f
 
 - [Pressure Complete Entities Guide — Every Monster Explained](/posts/pressure/entities-guide/) — Deep-dive profiles for every entity, including spawn conditions and damage values.
 - [Pressure Audio Identification Guide — Recognize Every Sound Cue](/posts/pressure/audio-identification-guide/) — Side-by-side audio breakdowns with timestamps for practice drills.
-- [Pressure Locker Hiding Mechanics — When to Hide and When to Run](/posts/pressure/locker-hiding-mechanics-guide/) — Locker occupancy rules, timing windows, and advanced exit strategies.
+- [Pressure Locker Hiding Mechanics — When to Hide and When to Run](/games/pressure/) — Locker occupancy rules, timing windows, and advanced exit strategies.
 - [Pressure Advanced Survival Strategies — Beyond the Basics](/posts/pressure/advanced-survival-strategies-guide/) — Positioning, resource routing, and team coordination for Door 50+.

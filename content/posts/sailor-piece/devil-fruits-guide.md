@@ -521,7 +521,7 @@ Ready to continue your Sailor Piece journey? Check out our other comprehensive g
 
 - **[Sailor Piece Devil Fruits Tier List](/posts/sailor-piece/devil-fruits-tier-list/)** — The full ranked breakdown of every fruit's raw power and potential
 - **[Sailor Piece PvP Battle Guide](/posts/sailor-piece/pvp-battle-guide/)** — Advanced dueling tactics, combo chains, and how to counter every fruit type
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** — Everything new players need to know to start their adventure
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** — Everything new players need to know to start their adventure
 - **[Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)** — Every boss fight, drop tables, and winning tactics
 - **[Sailor Piece Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)** — Master all three Haki types and advanced combat techniques
 - **[Sailor Piece Islands and Progression Guide](/posts/sailor-piece/islands-progression-guide/)** — Complete island-by-island walkthrough for all seas

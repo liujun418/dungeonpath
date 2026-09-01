@@ -475,5 +475,5 @@ For more Lethal Company guides, check our [Equipment Guide](/posts/lethal-compan
 
 - [Lethal Company Moon Guide](/posts/lethal-company/moon-guide/) — Moon-by-moon breakdown of interior types, scrap values, and recommended routes
 - [Lethal Company Monster Bestiary](/posts/lethal-company/monster-bestiary/) — Complete creature database with spawn locations and counter strategies
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/) — Advanced movement, routing, and loot optimization techniques
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/) — Advanced movement, routing, and loot optimization techniques
 - [Lethal Company Scrap & Loot Guide](/posts/lethal-company/scrap-and-loot-guide/) — Complete scrap values, room spawn tables, and quota calculator

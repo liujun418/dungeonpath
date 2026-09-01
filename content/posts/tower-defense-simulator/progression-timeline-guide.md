@@ -134,15 +134,15 @@ If you hit three or more, your timeline is on track. If not, adjust tomorrow. Pr
 
 ## Related Guides
 
-- [TDS Beginner Guide — Your First Win & Farm Economy](/posts/tower-defense-simulator/beginner-guide/)
+- [TDS Beginner Guide — Your First Win & Farm Economy](/games/tower-defense-simulator/)
 - [TDS Progression and Unlocks Guide](/posts/tower-defense-simulator/progression-unlocks-guide/)
 - [TDS Loadout Guide — Best Tower Combos for Every Mode](/posts/tower-defense-simulator/loadout-guide/)
-- [TDS Coin Farming Guide — Best Economy Methods](/posts/tower-defense-simulator/coin-farming-guide/)
+- [TDS Coin Farming Guide — Best Economy Methods](/games/tower-defense-simulator/)
 - [TDS Fallen Mode Guide — Complete Strategy](/posts/tower-defense-simulator/fallen-mode-guide/)
-- [TDS Golden Mode Guide](/posts/tower-defense-simulator/golden-mode-guide/)
-- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)
-- [Golden vs Fallen vs Hardcore — Which Mode to Play](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
+- [TDS Golden Mode Guide](/games/tower-defense-simulator/)
+- [TDS Hardcore Mode Guide](/games/tower-defense-simulator/)
+- [Golden vs Fallen vs Hardcore — Which Mode to Play](/games/tower-defense-simulator/)
 - [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
-- [TDS Timing and Decision Guide](/posts/tower-defense-simulator/timing-decision-guide/)
+- [TDS Timing and Decision Guide](/games/tower-defense-simulator/)
 - [TDS Solo Strategies Guide](/posts/tower-defense-simulator/solo-strategies-guide/)

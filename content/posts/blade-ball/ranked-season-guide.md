@@ -21,8 +21,8 @@ faq:
 related:
   - /posts/blade-ball/ranking-and-competitive-guide/
   - /posts/blade-ball/ranked-competitive-strategy-guide/
-  - /posts/blade-ball/events-battle-pass-guide/
-  - /posts/blade-ball/mechanics-glossary/
+  - /games/blade-ball/
+  - /games/blade-ball/
 tags: ["Blade Ball", "Roblox", "Ranked", "Season 20", "Champion", "V15.0", "bb-ranked"]
 ---
 
@@ -118,7 +118,7 @@ The scene: you've been grinding ranked every day for two weeks straight. You not
 
 **Why it happens:** ranked feels productive because your MMR moves. But MMR is not skill. When your timing or phase recognition slips, ranked is the worst place to rebuild it, because the pressure prevents you from slowing down and isolating the problem.
 
-**The recovery:** pull yourself out of the queue and spend 15 minutes in a practice space or casual before your ranked session. Work the specific thing that's breaking — flash-blocking, deflect angles, whatever it is. Think of ranked as the test and training as the study. You don't prepare for a test by taking more tests. If the terminology in this section is new, the [Blade Ball mechanics glossary](/posts/blade-ball/mechanics-glossary/) defines every mechanic we're talking about.
+**The recovery:** pull yourself out of the queue and spend 15 minutes in a practice space or casual before your ranked session. Work the specific thing that's breaking — flash-blocking, deflect angles, whatever it is. Think of ranked as the test and training as the study. You don't prepare for a test by taking more tests. If the terminology in this section is new, the [Blade Ball mechanics glossary](/games/blade-ball/) defines every mechanic we're talking about.
 
 ### Failure 3: The Reward Eats the Game
 
@@ -148,7 +148,7 @@ The difference shows up in where the competition concentrates. The Champion thre
 
 This sounds lazy, but it's real. Volume is the enemy of a season climb, because fatigue degrades your decisions faster than you notice. A player who queues 20 tilted matches in a night ends up net-negative, while a player who plays 8 focused matches, reviews the losses, and stops wins the week.
 
-The trick is to treat each session like a ladder with a budget. Pick a match count and a stop condition before you start. When you hit either, you're done. This keeps your win rate high enough to actually climb, instead of grinding your MMR back down to where it started. A season is long enough that consistent small gains beat occasional big losses every time. For a deeper look at the when-to-push, when-to-hold logic, see the [ranked climbing decision guide](/posts/blade-ball/ranked-climbing-decision-guide/).
+The trick is to treat each session like a ladder with a budget. Pick a match count and a stop condition before you start. When you hit either, you're done. This keeps your win rate high enough to actually climb, instead of grinding your MMR back down to where it started. A season is long enough that consistent small gains beat occasional big losses every time. For a deeper look at the when-to-push, when-to-hold logic, see the [ranked climbing decision guide](/games/blade-ball/).
 
 ## Deflect Sound 3 and the V15.0 Patch
 
@@ -172,5 +172,5 @@ The sword is proof you climbed. How you climbed is the part you'll actually reme
 
 - [Blade Ball Ranking and Competitive Guide](/posts/blade-ball/ranking-and-competitive-guide/) — MMR, tiers, placement matches, and how the numbers work
 - [Blade Ball Ranked Competitive Strategy Guide](/posts/blade-ball/ranked-competitive-strategy-guide/) — Countering the four playstyles at every bracket
-- [Blade Ball Battle Pass and Events Guide](/posts/blade-ball/events-battle-pass-guide/) — How seasonal rewards and battle passes compare to ranked rewards
-- [Blade Ball Mechanics Glossary](/posts/blade-ball/mechanics-glossary/) — Every deflect, parry, and timing term defined
+- [Blade Ball Battle Pass and Events Guide](/games/blade-ball/) — How seasonal rewards and battle passes compare to ranked rewards
+- [Blade Ball Mechanics Glossary](/games/blade-ball/) — Every deflect, parry, and timing term defined

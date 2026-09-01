@@ -322,10 +322,10 @@ You miss all the event-exclusive items, codes, and themes for that period. Some 
 
 ## Next Steps
 
-1. **[Dress To Impress Seashells and Collectibles Guide](/posts/dress-to-impress/seashells-collectibles/)** — Find every hidden collectible in DTI
-2. **[Dress To Impress Codes Guide](/posts/dress-to-impress/codes-and-items/)** — All active codes and their rewards
-3. **[Dress To Impress Beginner Guide](/posts/dress-to-impress/beginner-guide/)** — Complete walkthrough for new players
-4. **[Dress To Impress All Themes List](/posts/dress-to-impress/all-themes-list/)** — Every theme with outfit ideas
+1. **[Dress To Impress Seashells and Collectibles Guide](/games/dress-to-impress/)** — Find every hidden collectible in DTI
+2. **[Dress To Impress Codes Guide](/games/dress-to-impress/)** — All active codes and their rewards
+3. **[Dress To Impress Beginner Guide](/games/dress-to-impress/)** — Complete walkthrough for new players
+4. **[Dress To Impress All Themes List](/games/dress-to-impress/)** — Every theme with outfit ideas
 5. **[Dress To Impress Advanced Tips](/posts/dress-to-impress/advanced-tips/)** — Pro strategies for consistent wins
 6. **[Dress To Impress Runway and Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/)** — Master the runway walk
 7. **[Browse all guides](/posts/)** — Visit our guides page

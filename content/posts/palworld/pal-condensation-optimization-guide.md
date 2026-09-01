@@ -160,7 +160,7 @@ Stop at 2 or 3 stars for mid-game pals, and push to 4 stars only for your perman
 
 - [Palworld Breeding Perfect Passives Guide](/posts/palworld/breeding-perfect-passives-guide/) — Learn how to breed pals with the ideal passive combinations before you invest in condensation.
 - [Palworld Breeding Guide](/posts/palworld/breeding-guide/) — The complete breeding system explained, including how to mass-produce the duplicates you need for condensation.
-- [Palworld Pal Management Guide](/posts/palworld/pal-management-guide/) — How to organize your pal boxes, base assignments, and overflow storage without drowning in duplicates.
+- [Palworld Pal Management Guide](/games/palworld/) — How to organize your pal boxes, base assignments, and overflow storage without drowning in duplicates.
 - [Palworld Resources and Materials Guide](/posts/palworld/resources-and-materials-guide/) — Where to farm the spheres, souls, and materials you will burn through while catching hundreds of pals.
 - [Palworld Best Combat Pals Tier List](/posts/palworld/best-combat-pals-tier-list/) — Identify which high-base-stat pals deserve your condensation investment first.
 - [Palworld Passive Skills Guide](/posts/palworld/passive-skills-guide/) — Why the right passives matter more than star ranks, and which combinations to hunt for before condensing.

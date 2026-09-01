@@ -24,7 +24,7 @@ faq:
     answer: "The Chromatic Noiseform skin. Redeem it after you finish the Noiseform questline, and the rod shifts color based on your halo settings. The code is the cosmetic capstone to the quest, not a shortcut to the rod itself."
 related:
   - /posts/fisch/black-market-guide/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/cusk-purger-rod-guide/
   - /posts/fisch/the-deep-update-guide/
@@ -94,7 +94,7 @@ The Mysterious Shadow hands you three catch quests, each a pair of specific fish
 
 Turn in all three pairs and the Mysterious Shadow hands you the **Restricted Noiseform Rod**. Note the word "restricted." The rod has its full stats now, but you're not done with the quest.
 
-If you're still assembling these rods, our [rod progression timeline](/posts/fisch/rod-progression-timeline/) lays out the order to pick them up without wasting C$ on the wrong one first.
+If you're still assembling these rods, our [rod progression timeline](/games/fisch/) lays out the order to pick them up without wasting C$ on the wrong one first.
 
 ## Is the Noiseform Worth the Grind for You?
 

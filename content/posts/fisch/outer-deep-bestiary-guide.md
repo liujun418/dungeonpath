@@ -21,8 +21,8 @@ faq:
 related:
   - /posts/fisch/the-deep-update-guide/
   - /posts/fisch/cusk-purger-rod-guide/
-  - /posts/fisch/rare-mythic-fish-guide/
-  - /posts/fisch/complete-location-map/
+  - /games/fisch/
+  - /games/fisch/
 ---
 
 You are standing on the seafloor for the first time, watching your character walk instead of swim. Ten minutes ago you grabbed the Deep Survey Device from the NPC at -194, 130, -4669, and now the ocean floor holds you like the surface used to. You open the Outer Deep bestiary for the first time and see the number: **21 entries**. Two of them are crates. The rest are fish, and almost none of them will bite for a rod you just cast blind.
@@ -187,5 +187,5 @@ Target the purple Formosa Seabass in Outer Deep, but do not use a rod — bring 
 
 - [Fisch The Deep Update Guide — Everything New in v1.96](/posts/fisch/the-deep-update-guide/)
 - [Fisch Cusk Purger Rod Guide — The Full Crafting Path](/posts/fisch/cusk-purger-rod-guide/)
-- [Fisch Rare & Mythic Fish Guide — Every Species & Catch Conditions](/posts/fisch/rare-mythic-fish-guide/)
-- [Fisch Complete Location Map — Every Species & Exact Conditions](/posts/fisch/complete-location-map/)
+- [Fisch Rare & Mythic Fish Guide — Every Species & Catch Conditions](/games/fisch/)
+- [Fisch Complete Location Map — Every Species & Exact Conditions](/games/fisch/)

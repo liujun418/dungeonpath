@@ -70,7 +70,7 @@ Math says you can't react. You have to predict.
 
 This is the core mistake every stuck player makes: they practice reacting faster, when they should be practicing predicting earlier. Watching slow-motion clips, doing reaction-time browser tests, lowering graphics — none of this fixes the gap. You're optimizing the wrong variable.
 
-For the bigger picture of how speed scaling makes this worse, the [speed and curve guide](/posts/blade-ball/speed-curve-guide/) breaks down why a tier-6 ball gives you ~210ms windows while tier-9 drops to ~140ms. At high speed tiers, reaction is mathematically impossible. Only prediction works.
+For the bigger picture of how speed scaling makes this worse, the [speed and curve guide](/games/blade-ball/) breaks down why a tier-6 ball gives you ~210ms windows while tier-9 drops to ~140ms. At high speed tiers, reaction is mathematically impossible. Only prediction works.
 
 ## The Three Timing Models (Pick One Per Clash)
 
@@ -99,7 +99,7 @@ Forget memorizing every ability. Memorize the clash windows. Here's what matters
 
 The danger zone: when both players have similar deflect windows, whoever pressed earlier in their window wins the next clash because the ball returns slightly faster. Pressing on the first frame of your active window beats pressing on the last frame, even though both technically deflect.
 
-This is why the [ability combos and synergy guide](/posts/blade-ball/ability-combos-synergy-guide/) emphasizes opening with utility before going to deflect — you want to force your opponent to burn their long-cooldown super deflect first, then clash with your standard deflect against their standard deflect, where your timing decides it.
+This is why the [ability combos and synergy guide](/games/blade-ball/) emphasizes opening with utility before going to deflect — you want to force your opponent to burn their long-cooldown super deflect first, then clash with your standard deflect against their standard deflect, where your timing decides it.
 
 ## The Ping Compensation Trick
 
@@ -193,7 +193,7 @@ The deflect window doesn't scale linearly with speed. It compresses on a curve:
 
 Most ranked fights end before tier 7. Most public-server clown fights extend past tier 8 because nobody finishes anyone. If you're stuck at low ranks, your fights are probably ending earlier than you think — meaning you're losing in tier 5-6 territory, where audio reaction *should* be enough. That's a calibration problem, not a skill ceiling.
 
-The [ranked climbing decision guide](/posts/blade-ball/ranked-climbing-decision-guide/) has more on which speed tiers actually decide ranked games. Spoiler: it's almost always tier 6.
+The [ranked climbing decision guide](/games/blade-ball/) has more on which speed tiers actually decide ranked games. Spoiler: it's almost always tier 6.
 
 ## Common Mistakes That Burn Your Window
 
@@ -207,7 +207,7 @@ A short audit list. If you're doing any of these, fix them before grinding more:
 
 The hold-vs-tap thing trips up tons of players coming from other parry games. Blade Ball treats hold and tap differently in some patches. Always tap. Always single press.
 
-For the underlying input timing system, the [mechanics glossary](/posts/blade-ball/mechanics-glossary/) covers active frames, recovery frames, and input buffering in detail.
+For the underlying input timing system, the [mechanics glossary](/games/blade-ball/) covers active frames, recovery frames, and input buffering in detail.
 
 ## The 30-to-80 Win Rate Path
 
@@ -222,9 +222,9 @@ Here's the order of operations that actually moves your win rate:
 
 Most players skip 1, 4, and 6. Those three alone are worth ~25% win rate.
 
-For new players still learning the basics, the [beginner guide](/posts/blade-ball/beginner-guide/) covers movement and ability fundamentals before timing. Don't grind timing if your spacing is off — bad spacing means even perfect timing dies.
+For new players still learning the basics, the [beginner guide](/games/blade-ball/) covers movement and ability fundamentals before timing. Don't grind timing if your spacing is off — bad spacing means even perfect timing dies.
 
-For mid-rank players ready for full optimization, the [how to win guide](/posts/blade-ball/how-to-win-guide/) ties timing into the broader fight game: positioning, ability cycle, mind games, and closing patterns.
+For mid-rank players ready for full optimization, the [how to win guide](/games/blade-ball/) ties timing into the broader fight game: positioning, ability cycle, mind games, and closing patterns.
 
 ## The Honest Truth About Blade Ball
 

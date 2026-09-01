@@ -28,6 +28,1376 @@
       "source": "/:path*.php",
       "destination": "/",
       "statusCode": 410
+    },
+    {
+      "source": "/posts/blade-ball/ability-combos-synergy-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/ability-combos-synergy-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/beginner-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/beginner-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/codes-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/codes-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/events-battle-pass-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/events-battle-pass-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/gales-edge-v7-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/gales-edge-v7-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/game-modes-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/game-modes-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/how-to-win-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/how-to-win-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/mechanics-glossary",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/mechanics-glossary/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/ranked-climbing-decision-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/ranked-climbing-decision-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/speed-curve-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/speed-curve-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/tournament-competitive-guide",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blade-ball/tournament-competitive-guide/",
+      "destination": "/games/blade-ball/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/beginner-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/beginner-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/beginner-mistakes-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/beginner-mistakes-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/characters-unit-composition-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/characters-unit-composition-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/codes",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/codes/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/element-counter-system",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/element-counter-system/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/game-modes-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/game-modes-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/late-game-wave-survival-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/late-game-wave-survival-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/mid-game-survival-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/mid-game-survival-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/nightmare-mode-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/nightmare-mode-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/settings-controls-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/settings-controls-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/titans-upgrades-guide",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blockade-battlefront/titans-upgrades-guide/",
+      "destination": "/games/blockade-battlefront/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/beginner-guide",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/beginner-guide/",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/second-sea-complete-guide",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/second-sea-complete-guide/",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/starter-fruit-switch-guide",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/starter-fruit-switch-guide/",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/trading-value-guide",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/blox-fruits/trading-value-guide/",
+      "destination": "/games/blox-fruits/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/ambush-protocol",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/ambush-protocol/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/ambush-vs-rush-audio-differences",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/ambush-vs-rush-audio-differences/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/codes-and-secrets-guide",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/codes-and-secrets-guide/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/codes-and-secrets-guide-new",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/codes-and-secrets-guide-new/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/figure-survival-protocol",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/figure-survival-protocol/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/hotel-walkthrough-guide",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/hotel-walkthrough-guide/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/interview-with-speedrunner",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/interview-with-speedrunner/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/room-50-library-walkthrough",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/room-50-library-walkthrough/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/room-type-recognition-drill",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/room-type-recognition-drill/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-adaptation-guide",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-adaptation-guide/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-floor-guide",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-floor-guide/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-survival-protocol",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-survival-protocol/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-walkthrough",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/doors/the-mines-walkthrough/",
+      "destination": "/games/doors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/all-themes-list",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/all-themes-list/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/beginner-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/beginner-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/codes-and-items",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/codes-and-items/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/custom-makeup-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/custom-makeup-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/free-vs-vip-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/free-vs-vip-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/hair-makeup-combos",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/hair-makeup-combos/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/makeup-pose-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/makeup-pose-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/pose-meta-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/pose-meta-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/seashells-collectibles",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/seashells-collectibles/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/voting-psychology-guide",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/dress-to-impress/voting-psychology-guide/",
+      "destination": "/games/dress-to-impress/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/advanced-fishing-techniques",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/advanced-fishing-techniques/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/bait-economy-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/bait-economy-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/boss-fishing-hunting-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/boss-fishing-hunting-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/complete-location-map",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/complete-location-map/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/enchantment-strategy-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/enchantment-strategy-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/fish-location-map",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/fish-location-map/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/fish-location-strategy-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/fish-location-strategy-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/mythic-progression-path",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/mythic-progression-path/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/npc-quest-priority-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/npc-quest-priority-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/quests-and-npcs-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/quests-and-npcs-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/rare-mythic-fish-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/rare-mythic-fish-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/rod-progression-timeline",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/rod-progression-timeline/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/shiny-sparkling-fish-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/shiny-sparkling-fish-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/trading-value-price-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/trading-value-price-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/weather-time-season-guide",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fisch/weather-time-season-guide/",
+      "destination": "/games/fisch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/advanced-strategies-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/advanced-strategies-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/beginner-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/beginner-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/equipment-economy-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/equipment-economy-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/ship-operator-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/ship-operator-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/solo-survival-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/solo-survival-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/weather-strategy-guide",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/lethal-company/weather-strategy-guide/",
+      "destination": "/games/lethal-company/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/arena-pvp-guide",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/arena-pvp-guide/",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/beginner-guide",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/beginner-guide/",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/dungeon-adventure-guide",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/dungeon-adventure-guide/",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/dungeon-adventure-strategy",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/dungeon-adventure-strategy/",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/island-layout-guide",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/monster-legends/island-layout-guide/",
+      "destination": "/games/monster-legends/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/amber-island-colossingum-guide",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/amber-island-colossingum-guide/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/beginner-guide",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/beginner-guide/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/beginner-mistakes-guide",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/beginner-mistakes-guide/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/breeding-guide",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/breeding-guide/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/diamond-coin-farming-guide",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/diamond-coin-farming-guide/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/wublin-wake-up-order",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/my-singing-monsters/wublin-wake-up-order/",
+      "destination": "/games/my-singing-monsters/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/beginner-guide",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/beginner-guide/",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/beginner-mistakes-guide",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/beginner-mistakes-guide/",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/food-recipes-feeding-guide",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/food-recipes-feeding-guide/",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/pal-management-guide",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/palworld/pal-management-guide/",
+      "destination": "/games/palworld/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/beginner-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/beginner-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/clan-battles-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/clan-battles-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/codes-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/codes-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/enchantment-economy-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/enchantment-economy-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/enchantments-upgrades-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/enchantments-upgrades-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/event-mastery-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/event-mastery-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/event-mastery-optimization-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/event-mastery-optimization-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/events-seasonal-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/events-seasonal-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/fantasy-world-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/fantasy-world-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/mastery-quests-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/mastery-quests-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/team-compositions-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/team-compositions-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-economy-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-economy-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-plaza-guide",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-plaza-guide/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-scam-prevention",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pet-simulator-99/trading-scam-prevention/",
+      "destination": "/games/pet-simulator-99/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/badges-farming-guide",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/badges-farming-guide/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/entity-timing-windows",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/entity-timing-windows/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/floors-and-locations-guide",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/floors-and-locations-guide/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/items-and-puzzles-guide",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/items-and-puzzles-guide/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/locker-hiding-mechanics-guide",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/locker-hiding-mechanics-guide/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/mines-entities-guide",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/pressure/mines-entities-guide/",
+      "destination": "/games/pressure/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/1v1-duel-strategies-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/1v1-duel-strategies-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/aim-training-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/aim-training-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/communication-callouts-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/communication-callouts-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/controller-console-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/controller-console-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/maps-and-strategies-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/maps-and-strategies-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/season-3-weapons-maps-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/season-3-weapons-maps-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/sensitivity-crosshair-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/sensitivity-crosshair-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/team-composition-guide",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/rivals/team-composition-guide/",
+      "destination": "/games/rivals/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/beginner-guide",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/beginner-guide/",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/races-hybrid-builds-guide",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/races-hybrid-builds-guide/",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/ship-progression-guide",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/ship-progression-guide/",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/ships-navigation-guide",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/sailor-piece/ships-navigation-guide/",
+      "destination": "/games/sailor-piece/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/beginner-mistakes-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/beginner-mistakes-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/codes-rewards-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/codes-rewards-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/economy-credit-management-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/economy-credit-management-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/events-seasonal-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/events-seasonal-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/game-modes-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/game-modes-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/map-mastery-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/map-mastery-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/positioning-angles-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/positioning-angles-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/ranked-climbing-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/ranked-climbing-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/settings-fps-optimization",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/settings-fps-optimization/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/snipe-beginner-guide",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/snipe-beginner-guide/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/weapons-tier-list",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/snipe/weapons-tier-list/",
+      "destination": "/games/snipe/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/beginner-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/beginner-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/best-maps-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/best-maps-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/coin-farming-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/coin-farming-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/event-towers-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/event-towers-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/event-towers-strategy",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/event-towers-strategy/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/golden-mode-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/golden-mode-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/hardcore-mode-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/hardcore-mode-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/timing-decision-guide",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/tower-defense-simulator/timing-decision-guide/",
+      "destination": "/games/tower-defense-simulator/",
+      "statusCode": 301
     }
   ]
 }

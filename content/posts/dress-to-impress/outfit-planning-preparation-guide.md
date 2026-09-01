@@ -161,5 +161,5 @@ There is a seductive temptation to craft unique, unexpected outfits. In a no-pre
 - [DTI Speed Round Strategies: Win Every Timed Theme](/posts/dress-to-impress/speed-round-strategies-guide/)
 - [DTI Color Theory and Palette Guide](/posts/dress-to-impress/color-theory-palette-guide/)
 - [DTI Accessories Layering Guide](/posts/dress-to-impress/accessories-layering-guide/)
-- [DTI Hair Combos & Makeup Pairings — 25 Theme-Specific Combos](/posts/dress-to-impress/hair-makeup-combos/)
-- [DTI Beginner Guide — Your First 5 Themes, What to Buy & How to Score 3+ Stars](/posts/dress-to-impress/beginner-guide/)
+- [DTI Hair Combos & Makeup Pairings — 25 Theme-Specific Combos](/games/dress-to-impress/)
+- [DTI Beginner Guide — Your First 5 Themes, What to Buy & How to Score 3+ Stars](/games/dress-to-impress/)

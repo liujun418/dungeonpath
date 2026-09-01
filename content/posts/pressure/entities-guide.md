@@ -25,11 +25,11 @@ faq:
     answer: "Seek triggers a chase sequence signaled by intensifying music and eyes appearing on the walls. There is no locker. Run forward through the generated path and dodge obstacles — fallen bookshelves, debris, collapsed walls. Turn your camera before corners so you can see what is ahead. Look for the glowing door marking the end of the chase. The most common death is stopping to search for a closet out of habit. Seek is a running encounter, not a hiding encounter. Keep moving. The path is linear but obstacles are randomized. One hesitation and Seek catches you."
 related:
   - /posts/pressure/beginner-guide/
-  - /posts/pressure/entity-timing-windows/
+  - /games/pressure/
   - /posts/pressure/survival-tips-guide/
   - /posts/pressure/audio-identification-guide/
-  - /posts/pressure/locker-hiding-mechanics-guide/
-  - /posts/pressure/mines-entities-guide/
+  - /games/pressure/
+  - /games/pressure/
   - /posts/pressure/endless-mode-guide/
 ---
 
@@ -43,7 +43,7 @@ This is a field manual organized by what you hear. Read the sounds. Memorize the
 
 ## The Audio Roster: Sound to Survival
 
-**Clean high-pitched screech, rising, lights flicker once:** Rush. 3.5 seconds. Enter the nearest closet — immediately. Not after looting. Not after one more step. The instant that screech registers, your feet move toward the nearest locker. Exit after the sound passes. The common death: freezing for 2 seconds while your brain processes the sound, then spending 1.5 seconds scanning for a closet. You enter at 3.2 seconds with 0.3 seconds to spare. Sometimes the closet is too far. Rush has killed more beginners than all other entities combined. Learn its sound first. For a full breakdown of locker timing and positioning, see the [locker hiding mechanics guide](/posts/pressure/locker-hiding-mechanics-guide/).
+**Clean high-pitched screech, rising, lights flicker once:** Rush. 3.5 seconds. Enter the nearest closet — immediately. Not after looting. Not after one more step. The instant that screech registers, your feet move toward the nearest locker. Exit after the sound passes. The common death: freezing for 2 seconds while your brain processes the sound, then spending 1.5 seconds scanning for a closet. You enter at 3.2 seconds with 0.3 seconds to spare. Sometimes the closet is too far. Rush has killed more beginners than all other entities combined. Learn its sound first. For a full breakdown of locker timing and positioning, see the [locker hiding mechanics guide](/games/pressure/).
 
 **Distorted glitchy screech, lower-pitched, wavers, lights flicker repeatedly:** Ambush. 3.5 seconds before first pass. 2-5 seconds between passes. 2-6 total passes. Enter the nearest closet. Now count. After every pass, count to 3. If 3 seconds of silence pass, you are clear. If another screech tears through within those 3 seconds, stay put and count again. The death: exiting between passes. You hear silence for 2 seconds, think it is over, step out, and Ambush claims you on pass 4. Never assume the sequence is over. Count. Every. Time.
 
@@ -57,7 +57,7 @@ This is a field manual organized by what you hear. Read the sounds. Memorize the
 
 **Chase music intensifies, eyes appear on the walls:** Seek. This is a chase sequence. No locker will save you. Run forward through the generated path. Dodge obstacles — fallen bookshelves, debris, collapsed walls. Turn your camera before corners. Look for the glowing door that marks the end. The death: stopping to search for a closet. Seek is a running encounter. Keep moving. The path is linear but obstacles are randomized. One hesitation and Seek catches you.
 
-**Loud roar, heavy charging footsteps:** Grumble (The Mines). 2 seconds from roar to charge. Freeze. Grumble tracks movement. Wait 8-15 seconds for it to reposition. Walk to the exit when it moves away. Look up at the ceiling when entering every Mines room. The Hotel never taught you to look up. The death: entering a room, not checking the ceiling, triggering Grumble. It charges. You panic-sprint. Movement is exactly what Grumble locks onto. For every Mines-specific threat, see the [Mines entity guide](/posts/pressure/mines-entities-guide/).
+**Loud roar, heavy charging footsteps:** Grumble (The Mines). 2 seconds from roar to charge. Freeze. Grumble tracks movement. Wait 8-15 seconds for it to reposition. Walk to the exit when it moves away. Look up at the ceiling when entering every Mines room. The Hotel never taught you to look up. The death: entering a room, not checking the ceiling, triggering Grumble. It charges. You panic-sprint. Movement is exactly what Grumble locks onto. For every Mines-specific threat, see the [Mines entity guide](/games/pressure/).
 
 **Wet gurgling and splashing:** Giggle swarms (The Mines). Continuous chip damage. Sprint through. Do not fight. Giggles are slow and cannot catch a sprinting player. The death: standing your ground, trying to fight, dying to accumulated chip damage over 15 seconds. You cannot out-DPS a swarm. You can only outrun it.
 
@@ -164,9 +164,9 @@ The drill is not fun. It is effective. Do it once. Then play normally. You will 
 ## Related Guides
 
 - [Pressure Beginner Guide — Entities, Items & First Win](/posts/pressure/beginner-guide/)
-- [Pressure Entity Timing Windows — Exact Seconds to React](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Exact Seconds to React](/games/pressure/)
 - [Pressure Survival Tips — 5 Protocols for Deep Runs](/posts/pressure/survival-tips-guide/)
 - [Pressure Audio Identification — Learn Every Sound Cue](/posts/pressure/audio-identification-guide/)
-- [Pressure Locker Hiding Mechanics — Timing & Positioning](/posts/pressure/locker-hiding-mechanics-guide/)
-- [Pressure The Mines Entity Guide — Grumble, Giggle & Gloom](/posts/pressure/mines-entities-guide/)
+- [Pressure Locker Hiding Mechanics — Timing & Positioning](/games/pressure/)
+- [Pressure The Mines Entity Guide — Grumble, Giggle & Gloom](/games/pressure/)
 - [Pressure Endless Mode Guide — Survival Beyond Room 100](/posts/pressure/endless-mode-guide/)

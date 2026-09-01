@@ -358,7 +358,7 @@ For complete weapon stats and tier rankings, see the [RIVALS Weapon Tier List](/
 
 Different maps reward different movement approaches. Here is a quick reference:
 
-For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/games/rivals/).
 
 | Map Type | Movement Strategy | Key Techniques |
 |----------|------------------|----------------|
@@ -409,7 +409,7 @@ Want more RIVALS content? Check out our other guides:
 - **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players covering loadouts, modes, and progression
 - **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked with stats, prices, and best loadouts for Season 3
-- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Maps and Strategies Guide](/games/rivals/)** — All maps, callouts, and winning strategies
 - **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
 - **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
 - **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics

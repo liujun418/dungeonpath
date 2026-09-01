@@ -79,7 +79,7 @@ What that means for your positioning:
 - **The mid-range (40-70% from center) is fine for casual but bad for ranked.** Enough room to dodge, not enough room to recover from a misjudged deflect.
 - **The edge and corner zones are death traps.** Limited dodge directions, the wall reduces your options on one side, and any deflect chain ending here will trap you. Use abilities to escape immediately — don't try to deflect your way out.
 
-The 2026 map is where you go to test your raw deflect skill. Strip out the map-specific weirdness and what's left is just timing. If you can't win on the 2026 map, you don't have a map problem — you have a fundamentals problem, and that's a different guide. (Start with the [Blade Ball Beginner Guide](/posts/blade-ball/beginner-guide/) if that's you.)
+The 2026 map is where you go to test your raw deflect skill. Strip out the map-specific weirdness and what's left is just timing. If you can't win on the 2026 map, you don't have a map problem — you have a fundamentals problem, and that's a different guide. (Start with the [Blade Ball Beginner Guide](/games/blade-ball/) if that's you.)
 
 ---
 
@@ -144,7 +144,7 @@ Quick acquisition summary by tier:
 - **Mid-tier (1,500-2,500 coins):** Rainbow Trail, Galaxy Trail. More visually distinctive without breaking the bank.
 - **Prestige (2,000-3,000 coins or event-locked):** Golden Trail, Crystal Trail. These signal you've put serious time in.
 - **Legendary (event/tournament locked):** Phoenix Trail, Void Trail. Phoenix returns sometimes; Void typically requires tournament placement.
-- **Code-redemption trails:** Bubble Trail and similar. Check [Blade Ball Codes Guide](/posts/blade-ball/codes-guide/) for whatever's currently active.
+- **Code-redemption trails:** Bubble Trail and similar. Check [Blade Ball Codes Guide](/games/blade-ball/) for whatever's currently active.
 
 If you're picking a trail purely for performance, pick a *dim* trail on dark maps (so you're harder to track) and accept a *bright* trail on light maps (you're trackable anyway, might as well look good).
 
@@ -200,7 +200,7 @@ Three practical rules for event cosmetic farming:
 
 If you've made it this far and just want recommendations:
 
-- **Free legendary route:** Whatever code is currently active (check [Codes Guide](/posts/blade-ball/codes-guide/)) + Bubble Trail if still redeemable. Zero coins, maximum prestige if you catch the codes alive.
+- **Free legendary route:** Whatever code is currently active (check [Codes Guide](/games/blade-ball/)) + Bubble Trail if still redeemable. Zero coins, maximum prestige if you catch the codes alive.
 - **Budget combo (~1,500 coins):** Lightning Trail + Golden Blade. Cohesive electric/gold theme, affordable, looks intentional.
 - **Mid combo (~3,000 coins):** Rainbow Trail + Diamond Blade. Colorful and clean, mid-range investment.
 - **Prestige combo (5,000+ coins):** Golden Trail + Dragon Blade. Read clearly as "I've been playing forever."
@@ -225,7 +225,7 @@ No. On the 2026 default and Sky Arena, yes. On Factory and other geometry-heavy 
 
 ### How do I get SPARKLERR Blade now?
 
-You probably can't. The 5BVISITS code is long expired. Check current codes anyway via [Blade Ball Codes Guide](/posts/blade-ball/codes-guide/) in case of a reactivation.
+You probably can't. The 5BVISITS code is long expired. Check current codes anyway via [Blade Ball Codes Guide](/games/blade-ball/) in case of a reactivation.
 
 ### Should I prioritize cosmetics or abilities with my coins?
 
@@ -251,11 +251,11 @@ Customization menu in the lobby. Select the trail or sword skin, confirm, it per
 
 ## Next Steps
 
-1. **[Blade Ball How to Win Guide](/posts/blade-ball/how-to-win-guide/)** — Advanced positioning, deflect-chain reads, and ability-timing combos.
-2. **[Blade Ball Game Modes Guide](/posts/blade-ball/game-modes-guide/)** — Mode-specific strategy for Classic, 1v1, Team, and Event modes.
+1. **[Blade Ball How to Win Guide](/games/blade-ball/)** — Advanced positioning, deflect-chain reads, and ability-timing combos.
+2. **[Blade Ball Game Modes Guide](/games/blade-ball/)** — Mode-specific strategy for Classic, 1v1, Team, and Event modes.
 3. **[Blade Ball Abilities Tier List](/posts/blade-ball/abilities-tier-list/)** — Every ability ranked, with notes on map-specific value.
-4. **[Blade Ball Beginner Guide](/posts/blade-ball/beginner-guide/)** — Fundamentals walkthrough if you're losing on the default map.
-5. **[Blade Ball Codes Guide](/posts/blade-ball/codes-guide/)** — Active codes for free cosmetics and coins.
+4. **[Blade Ball Beginner Guide](/games/blade-ball/)** — Fundamentals walkthrough if you're losing on the default map.
+5. **[Blade Ball Codes Guide](/games/blade-ball/)** — Active codes for free cosmetics and coins.
 
 ---
 

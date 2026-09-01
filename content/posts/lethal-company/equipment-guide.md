@@ -243,8 +243,8 @@ Next time you land on Rend in heavy fog, you'll have the grenade in your pocket.
 
 ### Related Guides
 
-- [Lethal Company Advanced Strategies Guide](/posts/lethal-company/advanced-strategies-guide/)
-- [Lethal Company Beginner Guide: Survive Your First Quota](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Advanced Strategies Guide](/games/lethal-company/)
+- [Lethal Company Beginner Guide: Survive Your First Quota](/games/lethal-company/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Monster Bestiary: Every Entity Explained](/posts/lethal-company/monster-bestiary/)
 - [Lethal Company Moons Guide: Complete Moon Rankings](/posts/lethal-company/moon-guide/)

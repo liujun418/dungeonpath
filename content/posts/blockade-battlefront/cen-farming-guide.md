@@ -226,8 +226,8 @@ If you're below these numbers by wave 40, you're overspending on base units or c
 ## Related Guides
 
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
-- [BBF Titans & Upgrades Guide — Best Purchases](/posts/blockade-battlefront/titans-upgrades-guide/)
-- [BBF Late-Game Wave 40-70+ Survival Guide](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
+- [BBF Titans & Upgrades Guide — Best Purchases](/games/blockade-battlefront/)
+- [BBF Late-Game Wave 40-70+ Survival Guide](/games/blockade-battlefront/)
 - [BBF Wave Rush Strategy — When to Speedrun and When to Stall](/posts/blockade-battlefront/wave-rush-strategy-guide/)
 - [BBF Boss Wave Protocol — Surviving the Spike Waves](/posts/blockade-battlefront/boss-wave-protocol/)

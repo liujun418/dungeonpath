@@ -21,7 +21,7 @@ Team Wars are the primary guild-versus-guild competitive mode in Monster Legends
 
 Team Wars are the single best source of War Chests in the game, which contain gems, gold, food, runes, and exclusive monsters. If you want to progress efficiently without spending real money, mastering Team Wars is essential.
 
-This article assumes you have a basic understanding of Monster Legends combat mechanics. If you are new to the game, read our [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) first.
+This article assumes you have a basic understanding of Monster Legends combat mechanics. If you are new to the game, read our [Monster Legends Beginner Guide](/games/monster-legends/) first.
 
 ---
 
@@ -401,7 +401,7 @@ A: Yes. The war log shows which enemy players attacked your defense teams and wh
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — Start here if you are new to the game
+- [Monster Legends Beginner Guide](/games/monster-legends/) — Start here if you are new to the game
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/) — Combat mechanics and PvP tactics
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/) — Best monsters ranked for war and PvP
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) — How to breed the monsters you need for competitive play

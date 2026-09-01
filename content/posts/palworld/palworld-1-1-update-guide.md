@@ -27,7 +27,7 @@ related:
   - /posts/palworld/base-building-guide/
   - /posts/palworld/resources-and-materials-guide/
   - /posts/palworld/technology-and-progression-guide/
-  - /posts/palworld/pal-management-guide/
+  - /games/palworld/
   - /posts/palworld/base-defense-guide/
 ---
 
@@ -119,7 +119,7 @@ Now the positive side, with the honesty it deserves. Buckley framed 1.1 around *
 
 **Shrinking large facilities.** The Assembly Line and the Pal Expedition station are huge, and players have asked Pocketpair to shrink their footprints so bases have more usable room. If this ships, it's a pure win for compact building. Until it does, don't tear your base apart — but you can future-proof by keeping your biggest structures near the edge of your base circle, so a smaller replacement is easy to slot in later.
 
-**Better storage and Palbox management.** Search, filters, better organization. Again: unconfirmed. The best prep is to sort your chests now and label them by type — ore, wood, food, spheres, breeding stock. A storage rework doesn't help a base whose items are already scattered across twelve identical chests. If you want a head start on the Palbox side, our [Pal management guide](/posts/palworld/pal-management-guide/) covers the current organization tools.
+**Better storage and Palbox management.** Search, filters, better organization. Again: unconfirmed. The best prep is to sort your chests now and label them by type — ore, wood, food, spheres, breeding stock. A storage rework doesn't help a base whose items are already scattered across twelve identical chests. If you want a head start on the Palbox side, our [Pal management guide](/games/palworld/) covers the current organization tools.
 
 **Balance tweaks and possible decoration.** Vague, but harmless. Balance changes might shift which Pals are worth breeding, and decorations are cosmetic. Don't over-plan around either.
 
@@ -145,5 +145,5 @@ The one trap to avoid is the "wait for the big update" mindset. Buckley was expl
 - [Palworld Base Building Guide](/posts/palworld/base-building-guide/) — the three-base strategy and compact layouts
 - [Palworld Resources & Materials Guide](/posts/palworld/resources-and-materials-guide/) — what each specialist base should farm
 - [Palworld Technology & Progression Guide](/posts/palworld/technology-and-progression-guide/) — budgeting your Ancient Technology Points
-- [Palworld Pal Management Guide](/posts/palworld/pal-management-guide/) — Palbox organization and assignment
+- [Palworld Pal Management Guide](/games/palworld/) — Palbox organization and assignment
 - [Palworld Base Defense Guide](/posts/palworld/base-defense-guide/) — keeping your compact base alive through raids

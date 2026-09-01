@@ -203,7 +203,7 @@ If any box is unchecked, fix it before you queue. Playing with broken settings i
 
 ## Related Guides
 
-- [RIVALS Aim Training Guide](/posts/rivals/aim-training-guide/) — Pair your optimized settings with the 10-minute daily aim routine
+- [RIVALS Aim Training Guide](/games/rivals/) — Pair your optimized settings with the 10-minute daily aim routine
 - [RIVALS Game Sense & Positioning Guide](/posts/rivals/game-sense-positioning-guide/) — Settings get you to the fight. Game sense wins it.
 - [RIVALS Beginner Mistakes Guide](/posts/rivals/beginner-mistakes-guide/) — Fix the 15 execution errors that make equipped players lose
 - [RIVALS Movement Mastery Guide](/posts/rivals/movement-mastery-guide/) — Combine clean settings with movement that breaks tracking

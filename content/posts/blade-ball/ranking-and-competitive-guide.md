@@ -196,9 +196,9 @@ Weekday evenings between 6 PM and 10 PM EST typically have the most active playe
 ## Related Guides
 
 - [Parry Chain Counter Guide](/posts/blade-ball/parry-chain-counter-guide/) — How to break and punish aggressive parry chains
-- [Ranked Climbing Decision Guide](/posts/blade-ball/ranked-climbing-decision-guide/) — Deeper breakdown of when to push and when to hold back
+- [Ranked Climbing Decision Guide](/games/blade-ball/) — Deeper breakdown of when to push and when to hold back
 - [Opponent Reading Guide](/posts/blade-ball/opponent-reading-guide/) — Learn to predict deflections and fake your own intent
-- [How to Win at Blade Ball](/posts/blade-ball/how-to-win-guide/) — Match-winning strategies for every game mode
+- [How to Win at Blade Ball](/games/blade-ball/) — Match-winning strategies for every game mode
 
 ---
 

@@ -192,7 +192,7 @@ RIVALS features a competitive ranked mode with a structured progression system. 
 - **Ranked 2v2:** Team-based ranked (most played) — best balance of skill and teamwork, highest popularity
 - **Ranked 3v3:** Large-team ranked — requires full team coordination, medium popularity
 
-The ranked map pool draws from a curated selection of the most balanced maps. For detailed breakdowns of every map with callouts and positions, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+The ranked map pool draws from a curated selection of the most balanced maps. For detailed breakdowns of every map with callouts and positions, see the [RIVALS Maps and Strategies Guide](/games/rivals/).
 
 ### Rank Tiers and MMR
 
@@ -404,7 +404,7 @@ Want more RIVALS content? Check out our other guides:
 - **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked with stats, prices, and best loadouts for Season 3
 - **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, advanced movement, and pro techniques
-- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Maps and Strategies Guide](/games/rivals/)** — All maps, callouts, and winning strategies
 - **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
 - **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 - **[Browse all Roblox guides](/posts/)** — See our full collection of Roblox game guides

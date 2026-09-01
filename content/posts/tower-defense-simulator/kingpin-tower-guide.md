@@ -22,7 +22,7 @@ faq:
     answer: "The Kingpin's main body has no Hidden detection. Switch its unit queue to Lackeys (Hidden detection) or Contractors (all three detections), or park it next to a tower that detects Hidden. If you leave the queue on Money Runner, the tower itself won't touch Hidden enemies and you'll leak."
 related:
   - /posts/tower-defense-simulator/towers-tier-list/
-  - /posts/tower-defense-simulator/event-towers-guide/
+  - /games/tower-defense-simulator/
   - /posts/tower-defense-simulator/tower-synergy-combos/
   - /posts/tower-defense-simulator/tower-economy-farming-guide/
   - /posts/tower-defense-simulator/fallen-mode-guide/
@@ -159,7 +159,7 @@ For a deeper look at how Kingpin's economy fits into a full income strategy, che
 ## Related Guides
 
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)
-- [TDS Event Towers Guide — The Ones You Missed](/posts/tower-defense-simulator/event-towers-guide/)
+- [TDS Event Towers Guide — The Ones You Missed](/games/tower-defense-simulator/)
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Tower Economy and Farming Guide](/posts/tower-defense-simulator/tower-economy-farming-guide/)
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)

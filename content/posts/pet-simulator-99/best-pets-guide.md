@@ -215,13 +215,13 @@ It depends on your rank and enchant slots. Early in late game, five Huges with d
 
 ## Next Steps
 
-1. **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
+1. **[Pet Simulator 99 Beginner Guide](/games/pet-simulator-99/)** — Complete walkthrough for new players
 2. **[Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)** — How to read prices and avoid scams
 3. **[Pet Simulator 99 Huge and Titanic Pets Guide](/posts/pet-simulator-99/huge-titanic-guide/)** — Complete guide to the rarest pets
 4. **[Pet Simulator 99 Gems and Coins Guide](/posts/pet-simulator-99/gems-coins-guide/)** — Best strategies for earning currency fast
 5. **[Pet Simulator 99 Pet Fusion & Evolution Guide](/posts/pet-simulator-99/pet-fusion-evolution-guide/)** — Level up your pets efficiently
-6. **[Pet Simulator 99 Enchantments & Upgrades Guide](/posts/pet-simulator-99/enchantments-upgrades-guide/)** — Max your pet damage with the right enchant builds
-7. **[Pet Simulator 99 Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/)** — Build a balanced squad that actually works together
+6. **[Pet Simulator 99 Enchantments & Upgrades Guide](/games/pet-simulator-99/)** — Max your pet damage with the right enchant builds
+7. **[Pet Simulator 99 Team Compositions Guide](/games/pet-simulator-99/)** — Build a balanced squad that actually works together
 8. **[Browse all guides](/posts/)** — Visit our Guides page for the latest walkthroughs
 
 ---

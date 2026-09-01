@@ -27,7 +27,7 @@ related:
   - "/posts/tower-defense-simulator/kingpin-tower-guide/"
   - "/posts/tower-defense-simulator/loadout-guide/"
   - "/posts/tower-defense-simulator/tower-synergy-combos/"
-  - "/posts/tower-defense-simulator/best-maps-guide/"
+  - "/games/tower-defense-simulator/"
   - "/posts/tower-defense-simulator/strategy-guide/"
   - "/posts/tower-defense-simulator/tower-economy-farming-guide/"
 ---
@@ -51,7 +51,7 @@ Here's how the tiers break down. S+ means "game-defining." S means "core loadout
 | **C** | Early game only. Replace these by the mid-game. |
 | **D** | Skip. Outperformed by almost everything else. |
 
-Before we get into the tiers, a quick note on how to actually read a tier list: a B-tier tower placed on an inside corner beats an S-tier tower placed on a dead straight. Placement beats rating every time. If you want the map-by-map version of that idea, check the [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/). If you want to know which towers multiply each other, the [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/) covers the combo side.
+Before we get into the tiers, a quick note on how to actually read a tier list: a B-tier tower placed on an inside corner beats an S-tier tower placed on a dead straight. Placement beats rating every time. If you want the map-by-map version of that idea, check the [TDS Best Maps Guide](/games/tower-defense-simulator/). If you want to know which towers multiply each other, the [TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/) covers the combo side.
 
 ## S+ Tier: The Towers You Can't Skip
 
@@ -175,7 +175,7 @@ The second counterintuitive tip: **farm towers don't win games, but they lose th
 - **Save for late.** Accelerator and Rocketeer need real investment. Don't blow your whole wallet on mid-game sidegrades.
 - **Know the lane.** Inside corners get more uptime than straights, full stop. Study the map before you place.
 
-And if you're new to all of this, start with the [TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/). It walks you through your first win without assuming you know what a "lane" is.
+And if you're new to all of this, start with the [TDS Beginner Guide](/games/tower-defense-simulator/). It walks you through your first win without assuming you know what a "lane" is.
 
 ---
 

@@ -119,7 +119,7 @@ This is the simplest rule in the framework and the one players break most often.
 
 The protocol: crouch-walk at all times. Track Figure's 11-second cycle (walk phase, listen phase, repeat). Move only during the walk phase. Freeze during the listen phase. If Figure detects you, sprint to the farthest corner, break line of sight behind two shelf rows, and crouch for 15 seconds. Do not sprint again after breaking line of sight. Figure tracks the last sound it heard. If you stop making sound, Figure stops chasing.
 
-For the full Figure encounter breakdown, including the 11-second cycle and book-by-book Library strategy, read the [Figure Survival Protocol](/posts/doors/figure-survival-protocol/).
+For the full Figure encounter breakdown, including the 11-second cycle and book-by-book Library strategy, read the [Figure Survival Protocol](/games/doors/).
 
 ### Seek Chases
 
@@ -164,9 +164,9 @@ Knowing when to sprint is not enough. You need to rewire the instinct that says 
 ## Related Guides
 
 - [Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/) -- full chase mechanics, room patterns, and speed thresholds
-- [Figure Survival Protocol](/posts/doors/figure-survival-protocol/) -- the 11-second cycle and book-by-book Library strategy
-- [Ambush Protocol](/posts/doors/ambush-protocol/) -- how to tell Rush from Ambush by sound
+- [Figure Survival Protocol](/games/doors/) -- the 11-second cycle and book-by-book Library strategy
+- [Ambush Protocol](/games/doors/) -- how to tell Rush from Ambush by sound
 - [Entity Defense and Counter Guide](/posts/doors/entity-defense-counter-guide/) -- entity priority system and item-to-threat matchups
 - [Beginner Mistakes Guide](/posts/doors/beginner-mistakes-guide/) -- 10 common deaths and how to fix them
-- [The Mines Adaptation Guide](/posts/doors/the-mines-adaptation-guide/) -- movement adjustments for Mines hazards
+- [The Mines Adaptation Guide](/games/doors/) -- movement adjustments for Mines hazards
 - [The Backdoor Complete Guide](/posts/doors/the-backdoor-complete-guide/) -- slow-paced survival in the Backdoor

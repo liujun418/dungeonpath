@@ -154,8 +154,8 @@ Yes, but bring healing and respect their phases. Blackbeard's Quake phase and Ic
 ## Related Guides
 
 - [Blox Fruits Leveling Guide: Fastest XP Routes for All 3 Seas](/posts/blox-fruits/leveling-guide/)
-- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/posts/blox-fruits/second-sea-complete-guide/)
+- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/games/blox-fruits/)
 - [Blox Fruits Bosses & Raids Guide: All Boss Locations & Strategies](/posts/blox-fruits/bosses-and-raids-guide/)
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)
 - [Blox Fruits Fruits Tier List: Best Devil Fruits Ranked](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Swords Guide: Best Weapons & Locations](/posts/blox-fruits/swords-weapons-guide/)

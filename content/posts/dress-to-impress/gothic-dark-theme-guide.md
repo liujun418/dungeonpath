@@ -29,7 +29,7 @@ related:
   - /posts/dress-to-impress/theme-winning-framework/
   - /posts/dress-to-impress/summer-part2-update-guide/
   - /posts/dress-to-impress/runway-and-voting-guide/
-  - /posts/dress-to-impress/hair-makeup-combos/
+  - /games/dress-to-impress/
 ---
 
 The theme drops: **Gothic.** You have five minutes. You immediately go for the black corset, black skirt, black boots, black choker, black hair, black lip. Six black items, zero contrast. You hit the runway, do your walk, and stare at the scoreboard.
@@ -169,7 +169,7 @@ Silver choker. Gunmetal belt. Blackened crown. One piece. Not two. Not three. Th
 
 ### Second 50-60: Hair and Makeup Plan
 
-Long dark hair with texture. Wispy bangs, loose waves, or side-swept volume. Avoid: sleek straight hair (reads modern, not Gothic), short crops (lose the dramatic silhouette), bright unnatural colors (breaks the palette). For detailed hair-and-makeup pairings, see our [hair combos guide](/posts/dress-to-impress/hair-makeup-combos/).
+Long dark hair with texture. Wispy bangs, loose waves, or side-swept volume. Avoid: sleek straight hair (reads modern, not Gothic), short crops (lose the dramatic silhouette), bright unnatural colors (breaks the palette). For detailed hair-and-makeup pairings, see our [hair combos guide](/games/dress-to-impress/).
 
 Pale skin, dark smoky eye at 70-80% opacity (opaque black reads as a black eye, not an eye look), deep lip in your accent color. Makeup takes 15-20 seconds if you know your presets. Do not experiment with new makeup in a live round — test new presets in Freeplay first.
 
@@ -289,4 +289,4 @@ The other three codes are lower priority but worth claiming before your next Got
 - [Theme Winning Framework — The Category System That Beats Memorization](/posts/dress-to-impress/theme-winning-framework/)
 - [Summer 2026 Part 2 Update Guide — 64 New Items, All Codes, Best Summer Fits](/posts/dress-to-impress/summer-part2-update-guide/)
 - [Runway & Voting Guide — How to Get Stars Consistently](/posts/dress-to-impress/runway-and-voting-guide/)
-- [Best Hair Combos & Makeup Pairings for Every Theme](/posts/dress-to-impress/hair-makeup-combos/)
+- [Best Hair Combos & Makeup Pairings for Every Theme](/games/dress-to-impress/)

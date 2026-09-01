@@ -42,7 +42,7 @@ That story plays out in lobbies every single day. Players buy VIP expecting an a
 
 This guide breaks down everything the VIP pass offers in 2026 — Custom Makeup, exclusive items, priority queues, and star bonuses — plus the uncomfortable truths about what it does NOT do. By the end, you will know exactly where VIP fits into your game, and whether your brain and budget are ready.
 
-If you are brand new to Dress To Impress, we recommend starting with our [DTI Beginner Guide](/posts/dress-to-impress/beginner-guide/) to learn the basics before considering a VIP purchase.
+If you are brand new to Dress To Impress, we recommend starting with our [DTI Beginner Guide](/games/dress-to-impress/) to learn the basics before considering a VIP purchase.
 
 ## What Is the DTI VIP Pass?
 
@@ -254,9 +254,9 @@ Absolutely. Free players regularly win lobbies, climb leaderboards, and build st
 
 ## Related Guides
 
-- [Dress To Impress Beginner Guide](/posts/dress-to-impress/beginner-guide/) — Start here if you are new to DTI
+- [Dress To Impress Beginner Guide](/games/dress-to-impress/) — Start here if you are new to DTI
 - [DTI Dressing and Scoring Guide](/posts/dress-to-impress/dressing-scoring-guide/) — How outfits are judged and how to maximize your star count
 - [DTI Pattern Layering Combo Guide](/posts/dress-to-impress/pattern-layering-combo-guide/) — Advanced mixing and matching for standout looks
-- [DTI Free vs VIP Guide](/posts/dress-to-impress/free-vs-vip-guide/) — Side-by-side comparison for budget-conscious players
+- [DTI Free vs VIP Guide](/games/dress-to-impress/) — Side-by-side comparison for budget-conscious players
 - [DTI Advanced Tips Guide](/posts/dress-to-impress/advanced-tips/) — Pro strategies for competitive play
 - [DTI Runway and Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/) — How voting works and how to get more stars

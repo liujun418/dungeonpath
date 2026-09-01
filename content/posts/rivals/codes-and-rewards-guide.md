@@ -353,7 +353,7 @@ Now that you've redeemed all active RIVALS codes, check out our other RIVALS gui
 1. **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players, from your first match to ranked play
 2. **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked by tier, updated for Season 12
 3. **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jump, strafe, and advanced movement tech
-4. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning tips
+4. **[RIVALS Maps and Strategies Guide](/games/rivals/)** — Map-by-map breakdowns with positioning tips
 5. **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
 6. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best settings for performance and competitive play
 7. **[Browse all guides](/posts/)** — See our full collection of Roblox game guides

@@ -179,14 +179,14 @@ You are ready for Second Sea when you reach level 300, have Busoshoku Haki unloc
 
 ## Related Guides
 
-- [Sailor Piece Beginner Guide — Your First Ship, Best Starter Fruit, Haki Order & Island Route](/posts/sailor-piece/beginner-guide/)
+- [Sailor Piece Beginner Guide — Your First Ship, Best Starter Fruit, Haki Order & Island Route](/games/sailor-piece/)
 - [Sailor Piece Leveling & XP Guide — Fast Routes for Every Sea](/posts/sailor-piece/leveling-xp-guide/)
 - [Sailor Piece Islands Progression Guide — Every Island Route](/posts/sailor-piece/islands-progression-guide/)
 - [Sailor Piece Haki Training Guide — Unlock Order & Every Training Spot](/posts/sailor-piece/haki-training-guide/)
 - [Sailor Piece Devil Fruits Tier List — Best for PvP & Grinding](/posts/sailor-piece/devil-fruits-tier-list/)
 - [Sailor Piece Race Awakening V2 Guide](/posts/sailor-piece/race-awakening-v2-guide/)
 - [Sailor Piece Fighting Styles & Combat Guide](/posts/sailor-piece/fighting-styles-combat-guide/)
-- [Sailor Piece Ship Progression Guide](/posts/sailor-piece/ship-progression-guide/)
+- [Sailor Piece Ship Progression Guide](/games/sailor-piece/)
 - [Sailor Piece Accessories & Equipment Guide](/posts/sailor-piece/accessories-equipment-guide/)
 
 ---

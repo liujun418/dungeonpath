@@ -216,9 +216,9 @@ Social Point drops exclusive codes through social channels. These expire faster 
 ## Related Guides
 
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
 - [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
-- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/games/monster-legends/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)

@@ -23,8 +23,8 @@ faq:
     answer: "Spend on survival now, not later. Every run, buy a Medkit and a light source first — these directly convert to floor progress. If you're below 60 HP in a safe room, heal instead of banking Kroner. Hoarding Kroner means you die at floor 35 with a full wallet and nothing to show for it."
 related:
   - /posts/pressure/modifiers-update-guide/
-  - /posts/pressure/entity-timing-windows/
-  - /posts/pressure/locker-hiding-mechanics-guide/
+  - /games/pressure/
+  - /games/pressure/
   - /posts/pressure/items-loadout-tier-list/
   - /posts/pressure/beginner-mistakes-guide/
 ---
@@ -75,7 +75,7 @@ Don't look around slowly. Don't sweep the room in sections. Spin a full 360 degr
 
 The second you lock eyes, it disappears. The attack timer is generous if you spin instead of searching. Slow scanning is what gets people killed here, because Screech's window closes while you're still checking corner one.
 
-This rule pairs with the [full entity timing breakdown](/posts/pressure/entity-timing-windows/) if you want exact second counts for every threat.
+This rule pairs with the [full entity timing breakdown](/games/pressure/) if you want exact second counts for every threat.
 
 ## Rule 4: The Medkit Rule — Heal Early, Never Hoard
 
@@ -95,7 +95,7 @@ If you keep accidentally pressing sprint during a listen phase, unbind it before
 
 The protocol is simple: before you touch a Figure room, tell yourself "walk." Not "be careful," not "stay quiet." "Walk." It's a concrete instruction your fingers can obey.
 
-For the locker mechanics behind all of these rules, see the [locker hiding guide](/posts/pressure/locker-hiding-mechanics-guide/).
+For the locker mechanics behind all of these rules, see the [locker hiding guide](/games/pressure/).
 
 ## Rule 6: Pandemonium's Locker Minigame
 

@@ -213,6 +213,6 @@ This isn't superstition. Player population composition shifts by time of day. La
 
 - [RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/) — overview of all ranked modes and formats
 - [RIVALS Game Sense & Positioning Guide](/posts/rivals/game-sense-positioning-guide/) — decision-making framework for every engagement
-- [RIVALS 1v1 Duel Strategies](/posts/rivals/1v1-duel-strategies-guide/) — win more individual fights and secure clutch rounds
+- [RIVALS 1v1 Duel Strategies](/games/rivals/) — win more individual fights and secure clutch rounds
 - [RIVALS Movement Mastery](/posts/rivals/movement-mastery-guide/) — pair unpredictable movement with ranked climbing
-- [RIVALS Aim Training Guide](/posts/rivals/aim-training-guide/) — mechanical practice routines that transfer to ranked
+- [RIVALS Aim Training Guide](/games/rivals/) — mechanical practice routines that transfer to ranked

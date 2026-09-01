@@ -19,7 +19,7 @@ faq:
   - question: "How do I price a fish I've never seen traded before?"
     answer: "Start with the merchant sell price and multiply by the mutation multiplier. Then check the fish's catch conditions on the wiki — does it need a specific weather, time of day, bait, or rod? Each extra condition adds roughly 30-50% to the trade value because fewer players bother to meet it. Finally, check if the fish is currently part of an active event. Event fish are inflated by 50-200% during the event, then drop 30-50% two weeks after. If you're trading a non-event fish with 3+ catch conditions, you can price it at 2-3x its mutation-adjusted merchant value and most experienced traders will accept."
 related:
-  - /posts/fisch/rare-mythic-fish-guide/
+  - /games/fisch/
   - /posts/fisch/money-farming-guide/
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/mutations-bait-guide/
@@ -187,7 +187,7 @@ The same logic applies to any fish used in a recipe. Look up bait recipes on the
 
 Some NPC quests require specific fish. When a new quest drops, the required fish spike in value for 48-72 hours. After that, they settle back to normal — but they never go to zero because new players are always discovering the quest.
 
-If you check the [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) and see a fish that's "easy" to catch but is a quest requirement, keep it. Don't sell it to a merchant. Someone will pay 2-3x the merchant price for it eventually.
+If you check the [Fisch Rare & Mythic Fish Guide](/games/fisch/) and see a fish that's "easy" to catch but is a quest requirement, keep it. Don't sell it to a merchant. Someone will pay 2-3x the merchant price for it eventually.
 
 ### The Mythic That Nobody Wants
 
@@ -269,7 +269,7 @@ Start with the merchant sell price and multiply by the mutation multiplier. Then
 
 ## Related Guides
 
-- [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/posts/fisch/rare-mythic-fish-guide/)
+- [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/games/fisch/)
 - [Fisch Money Farming Guide — Best Ways to Earn C$](/posts/fisch/money-farming-guide/)
 - [Fisch Best Rods Tier List — Every Rod Ranked](/posts/fisch/best-rods-tier-list/)
 - [Fisch Mutations & Bait Guide — Every Mutation Explained](/posts/fisch/mutations-bait-guide/)

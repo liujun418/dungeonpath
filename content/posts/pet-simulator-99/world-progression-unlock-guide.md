@@ -94,7 +94,7 @@ This is where most casual players quit. The grind from Area 100 to 125 feels slo
 
 The fix isn't more grinding in old worlds. The fix is checking your pet team. At this stage, every pet on your team should be from Doodle World or later. If you're still equipping a Spawn World Epic because it's shiny, you're carrying dead weight. Shiny status doesn't matter if the base power is three worlds behind.
 
-Rebirth 5 at Area 125 unlocks Fantasy World access. This is a major milestone. Before you rebirth here, you need 1,000,000+ coins. Not 500K. Not 750K. One million. Fantasy World's economy is completely separate from the main worlds, and you'll need that bankroll to participate in its mechanics immediately. Check our [Fantasy World Guide](/posts/pet-simulator-99/fantasy-world-guide/) for what to do once you're in.
+Rebirth 5 at Area 125 unlocks Fantasy World access. This is a major milestone. Before you rebirth here, you need 1,000,000+ coins. Not 500K. Not 750K. One million. Fantasy World's economy is completely separate from the main worlds, and you'll need that bankroll to participate in its mechanics immediately. Check our [Fantasy World Guide](/games/pet-simulator-99/) for what to do once you're in.
 
 ### Void World and Beyond (Areas 150-219+)
 
@@ -136,11 +136,11 @@ Use this decision tree at any point in your play session:
 
 World progression doesn't exist in a vacuum. These guides cover the systems that interact with your area unlocks:
 
-- [Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/) — Your first week, what to spend gems on, and the early rebirth trap.
+- [Pet Simulator 99 Beginner Guide](/games/pet-simulator-99/) — Your first week, what to spend gems on, and the early rebirth trap.
 - [The PS99 Rebirth Math](/posts/pet-simulator-99/rebirth-math-guide/) — Exact coin thresholds, recovery times, and which rebirths are worth it.
-- [Pet Simulator 99 Fantasy World Guide](/posts/pet-simulator-99/fantasy-world-guide/) — What to do once you unlock Fantasy World at Rebirth 5.
+- [Pet Simulator 99 Fantasy World Guide](/games/pet-simulator-99/) — What to do once you unlock Fantasy World at Rebirth 5.
 - [Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets to target in each world for maximum DPS.
 - [Auto-Farm Optimization Guide](/posts/pet-simulator-99/auto-farm-optimization-guide/) — How to set up your farm for maximum breakables per minute.
-- [Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/) — How to build a team that scales across multiple worlds.
+- [Team Compositions Guide](/games/pet-simulator-99/) — How to build a team that scales across multiple worlds.
 
 The worlds are waiting. Stop farming where you've already won.

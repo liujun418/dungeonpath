@@ -23,12 +23,12 @@ faq:
   - question: "What level do I need to be for Mythical Island?"
     answer: "You need to reach account Level 20 to unlock Mythical Island. If you are below Level 20, focus on your Natural Islands — place as many four-element monsters as you can, bake treats to level them up, and collect coins regularly. Each monster you level up contributes to your account XP. Wublins and Ethereals also give good XP returns. Most active players reach Level 20 within a few weeks of starting. Once you hit the level, the island appears on your map automatically with no additional unlock cost."
 related:
-  - /posts/my-singing-monsters/breeding-guide/
+  - /games/my-singing-monsters/
   - /posts/my-singing-monsters/island-unlock-order-guide/
   - /posts/my-singing-monsters/ethereal-island-guide/
   - /posts/my-singing-monsters/wublin-island-guide/
   - /posts/my-singing-monsters/legendary-island-guide/
-  - /posts/my-singing-monsters/amber-island-colossingum-guide/
+  - /games/my-singing-monsters/
   - /posts/my-singing-monsters/coin-economy-optimization-guide/
   - /posts/my-singing-monsters/shugabush-island-guide/
   - /posts/my-singing-monsters/tribal-island-guide/
@@ -102,7 +102,7 @@ Key insight: **you do not need to own every Mythical to start breeding on Mythic
 
 Breeding times for Mythicals are long. Expect 18 to 36 hours per attempt. Enhanced structures and friend torches help. Budget several weeks of real time to collect all 12.
 
-For breeding odds, torch mechanics, and structure upgrades, read the [full breeding guide](/posts/my-singing-monsters/breeding-guide/).
+For breeding odds, torch mechanics, and structure upgrades, read the [full breeding guide](/games/my-singing-monsters/).
 
 ## The Wondermine: How It Works and What It Costs
 
@@ -187,12 +187,12 @@ Level 20. If you are below that, focus on your Natural Islands — place four-el
 
 ## Related Guides
 
-- [MSM Breeding Guide — Every Combo and How Torches Work](/posts/my-singing-monsters/breeding-guide/)
+- [MSM Breeding Guide — Every Combo and How Torches Work](/games/my-singing-monsters/)
 - [Island Unlock Order Guide — The Most Efficient Path](/posts/my-singing-monsters/island-unlock-order-guide/)
 - [Ethereal Island Guide — Teleporting and Breeding Ethereals](/posts/my-singing-monsters/ethereal-island-guide/)
 - [Wublin Island Guide — Wake-Up Order and Strategy](/posts/my-singing-monsters/wublin-island-guide/)
 - [Legendary Island Guide — Shugabush, Gloptic, and More](/posts/my-singing-monsters/legendary-island-guide/)
-- [Amber Island and Colossingum Guide](/posts/my-singing-monsters/amber-island-colossingum-guide/)
+- [Amber Island and Colossingum Guide](/games/my-singing-monsters/)
 - [Coin Economy Optimization — How to Never Run Out of Coins](/posts/my-singing-monsters/coin-economy-optimization-guide/)
 - [Shugabush Island Guide — Breeding the Shugafam](/posts/my-singing-monsters/shugabush-island-guide/)
 - [Tribal Island Guide — Joining a Tribe and Earning Star Power](/posts/my-singing-monsters/tribal-island-guide/)

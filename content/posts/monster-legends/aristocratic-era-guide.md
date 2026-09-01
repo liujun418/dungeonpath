@@ -22,7 +22,7 @@ faq:
     answer: "Pseudo Ancestors are a new rarity above the normal Mythic pool, with stats far above the curve, high enough that Aristocratic monsters get their own Viability Ranking separate from other Mythics. 4-SOSEN is one. Yes, they hold value longer because their stat block and traits like Artifact, Cooldown Immunity, and Trait Protection keep them relevant after the era moves on. Budget your gems toward the Conjuring channel that drops them rather than spreading thin on the school Mythics."
 related:
   - /posts/monster-legends/kitakami-era-guide/
-  - /posts/monster-legends/arena-pvp-guide/
+  - /games/monster-legends/
   - /posts/monster-legends/elemental-mastery-guide/
   - /posts/monster-legends/tier-list/
   - /posts/monster-legends/events-guide/
@@ -56,7 +56,7 @@ That's the entire chart. It's simple, and that simplicity is exactly why people 
 
 Here's the scenario I keep watching play out. A player pulls a Wind monster, sees "new element," and assumes new means powerful. They build a full Wind arena defense. Then they queue into a bracket full of Dark attackers and get farmed for a whole afternoon. The counterintuitive move is to treat Wind as a flex slot, not a strategy. Bring one Wind monster when you scout an Earth-heavy defense, and keep a Dark answer next to it for the mirror.
 
-The reason this surprises people is that "new element" has never meant "best element" in Monster Legends. Dark was already strong against Earth before Wind showed up, so Wind just gives you a second anti-Earth tool. It doesn't break the [elemental mastery guide](/posts/monster-legends/elemental-mastery-guide/) rules. It adds one more piece to the same chessboard. If you want to climb the arena, read the [PvP guide](/posts/monster-legends/arena-pvp-guide/) before you spend books on the new toy.
+The reason this surprises people is that "new element" has never meant "best element" in Monster Legends. Dark was already strong against Earth before Wind showed up, so Wind just gives you a second anti-Earth tool. It doesn't break the [elemental mastery guide](/posts/monster-legends/elemental-mastery-guide/) rules. It adds one more piece to the same chessboard. If you want to climb the arena, read the [PvP guide](/games/monster-legends/) before you spend books on the new toy.
 
 ## Pseudo Ancestors Are the Real Headline
 

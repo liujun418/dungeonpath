@@ -171,7 +171,7 @@ Buying Rare monsters for 50 to 200 diamonds makes sense if you missed the event 
 
 ## Related Guides
 
-- [Breeding Guide]({{< ref "/posts/my-singing-monsters/breeding-guide/" >}}) -- All breeding combinations and mechanics for every monster
+- [Breeding Guide]({{< ref "/games/my-singing-monsters/" >}}) -- All breeding combinations and mechanics for every monster
 - [Seasonal Event Calendar Guide]({{< ref "/posts/my-singing-monsters/seasonal-event-calendar-guide/" >}}) -- Limited-time events and seasonal monster schedules
-- [Wublin Wake-Up Order]({{< ref "/posts/my-singing-monsters/wublin-wake-up-order/" >}}) -- The optimal order to wake Wublins for maximum resources
+- [Wublin Wake-Up Order]({{< ref "/games/my-singing-monsters/" >}}) -- The optimal order to wake Wublins for maximum resources
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide/" >}}) -- How to breed and collect Ethereal monsters

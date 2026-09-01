@@ -149,4 +149,4 @@ Play multiple. Each game trains different skills — Arsenal builds flick aim, S
 - [Rivals Loadout Build Synergy Guide](/posts/rivals/loadout-build-synergy-guide/) — Build weapon combos that actually work together
 - [Snipe Maps & Strategies Guide](/posts/snipe/maps-strategies-guide/) — Map-specific tactics and rotation paths
 - [Rivals Movement Mastery Guide](/posts/rivals/movement-mastery-guide/) — Advanced movement techniques for competitive play
-- [Snipe Weapons Tier List](/posts/snipe/weapons-tier-list/) — Which weapons are worth your time in the current meta
+- [Snipe Weapons Tier List](/games/snipe/) — Which weapons are worth your time in the current meta

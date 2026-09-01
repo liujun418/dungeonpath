@@ -207,4 +207,4 @@ Check our [Swords Guide](/posts/blox-fruits/swords-weapons-guide/) for pairing f
 - [Blox Fruits Swords Guide: Best Weapons Tier List & Locations](/posts/blox-fruits/swords-weapons-guide/)
 - [Blox Fruits Fruits Tier List 2026: Best Devil Fruits Ranked](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Haki Guide: All Haki Types & Upgrade Paths](/posts/blox-fruits/haki-and-abilities-guide/)
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)

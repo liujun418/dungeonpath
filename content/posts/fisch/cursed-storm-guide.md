@@ -25,13 +25,13 @@ faq:
 related:
   - /posts/fisch/noiseform-rod-guide/
   - /posts/fisch/weather-seasons-guide/
-  - /posts/fisch/weather-time-season-guide/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
   - /posts/fisch/codes-and-rewards-guide/
-  - /posts/fisch/boss-fishing-hunting-guide/
-  - /posts/fisch/rare-mythic-fish-guide/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/rod-bait-combination-guide/
   - /posts/fisch/atlantean-storm-bestiary/
   - /posts/fisch/beginner-guide/
@@ -142,13 +142,13 @@ The mistake is popping the totem from Moosewood pier and then reading this guide
 
 - [Fisch Noiseform Rod Guide](/posts/fisch/noiseform-rod-guide/) — Full questline the Cursed Storm unlocks
 - [Fisch Weather & Season Guide](/posts/fisch/weather-seasons-guide/) — How rain, fog, and wind change catches
-- [Fisch Weather, Time & Season Guide](/posts/fisch/weather-time-season-guide/) — Day-night cycle and the 90% penalty
+- [Fisch Weather, Time & Season Guide](/games/fisch/) — Day-night cycle and the 90% penalty
 - [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/) — Which rod to use during the storm window
-- [Fisch Rod Progression Timeline](/posts/fisch/rod-progression-timeline/) — When to chase the Noiseform Rod
+- [Fisch Rod Progression Timeline](/games/fisch/) — When to chase the Noiseform Rod
 - [Fisch Codes & Rewards Guide](/posts/fisch/codes-and-rewards-guide/) — Active codes and "the deep awaits for you"
-- [Fisch Boss Fishing & Hunting Guide](/posts/fisch/boss-fishing-hunting-guide/) — Boss fish and storm weather
-- [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — Rares that care about weather
-- [Fisch Bait Economy Guide](/posts/fisch/bait-economy-guide/) — What bait to bring for the storm window
+- [Fisch Boss Fishing & Hunting Guide](/games/fisch/) — Boss fish and storm weather
+- [Fisch Rare & Mythic Fish Guide](/games/fisch/) — Rares that care about weather
+- [Fisch Bait Economy Guide](/games/fisch/) — What bait to bring for the storm window
 - [Fisch Rod & Bait Combination Guide](/posts/fisch/rod-bait-combination-guide/) — Rod and bait pairings
 - [Fisch Atlantean Storm Bestiary](/posts/fisch/atlantean-storm-bestiary/) — Another storm event and bestiary
 - [Fisch Beginner Guide](/posts/fisch/beginner-guide/) — Start here if the Bazaar is still locked

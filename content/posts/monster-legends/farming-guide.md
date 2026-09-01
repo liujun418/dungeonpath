@@ -259,9 +259,9 @@ Chapter 6, Node 3 gives 60,000 food per run — but it takes four minutes and fu
 ## Related Guides
 
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
 - [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
-- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/games/monster-legends/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)

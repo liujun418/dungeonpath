@@ -193,10 +193,10 @@ These five ideas go against what most SNIPE guides teach. That's exactly why the
 
 ## Related Guides
 
-- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/posts/snipe/snipe-beginner-guide/)
+- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/games/snipe/)
 - [SNIPE Advanced Techniques & Ranked Guide](/posts/snipe/advanced-techniques-ranked-guide/)
-- [SNIPE Ranked Climbing Guide — RP System & Tier Strategy](/posts/snipe/ranked-climbing-guide/)
+- [SNIPE Ranked Climbing Guide — RP System & Tier Strategy](/games/snipe/)
 - [SNIPE Movement Mechanics — Wall Run, B-Hop & Momentum](/posts/snipe/movement-mechanics-guide/)
-- [SNIPE Beginner Mistakes — 10 Errors That Get You Killed](/posts/snipe/beginner-mistakes-guide/)
-- [SNIPE Positioning & Angles — Win Every Duel](/posts/snipe/positioning-angles-guide/)
-- [SNIPE Settings & FPS Optimization](/posts/snipe/settings-fps-optimization/)
+- [SNIPE Beginner Mistakes — 10 Errors That Get You Killed](/games/snipe/)
+- [SNIPE Positioning & Angles — Win Every Duel](/games/snipe/)
+- [SNIPE Settings & FPS Optimization](/games/snipe/)

@@ -26,10 +26,10 @@ faq:
 related:
   - /posts/rivals/weapon-tier-list/
   - /posts/rivals/beginner-mistakes-guide/
-  - /posts/rivals/maps-and-strategies-guide/
+  - /games/rivals/
   - /posts/rivals/game-modes-and-ranked-guide/
   - /posts/rivals/ranked-elo-climbing-guide/
-  - /posts/rivals/aim-training-guide/
+  - /games/rivals/
 ---
 
 ## The First Match That Made You Want to Quit
@@ -46,7 +46,7 @@ This guide is the fix, in order. Your first 10 matches, the weapon unlock order 
 
 RIVALS casual has no skill-based matchmaking. That's the whole story. Your first lobby is full of players with 500+ hours who know every corner of every map, and the game puts you in the same room with them. You aren't bad. You're new in a game that doesn't separate the two.
 
-The instinct is to blame your aim, grind an [aim trainer](/posts/rivals/aim-training-guide/), and come back. That's the slow way. Your deaths in match one were map deaths, not aim deaths. So the first thing you fix is your map knowledge, not your trigger finger.
+The instinct is to blame your aim, grind an [aim trainer](/games/rivals/), and come back. That's the slow way. Your deaths in match one were map deaths, not aim deaths. So the first thing you fix is your map knowledge, not your trigger finger.
 
 Here are the three ways beginners actually throw their first week, with the recovery for each.
 
@@ -72,7 +72,7 @@ Here are the three ways beginners actually throw their first week, with the reco
 
 **Cause.** There isn't. You're being flanked because you never check the minimap, so you have no idea where your team is and where the enemy isn't. When your team's position shifts and a lane opens up behind you, you don't see it because you're staring at the crosshair.
 
-**Recovery.** This is a habit you build in your first ten matches, not a skill you already have. Every three to five seconds, flick your eyes to the minimap and ask one question: where is my team, and which direction is NOT covered? The uncovered direction is where the flank comes from. You don't need to call it out yet — the [callouts guide](/posts/rivals/communication-callouts-guide/) covers that later — you just need to notice it. Noticing the gap stops the back shots.
+**Recovery.** This is a habit you build in your first ten matches, not a skill you already have. Every three to five seconds, flick your eyes to the minimap and ask one question: where is my team, and which direction is NOT covered? The uncovered direction is where the flank comes from. You don't need to call it out yet — the [callouts guide](/games/rivals/) covers that later — you just need to notice it. Noticing the gap stops the back shots.
 
 ## Matches 1-3: Don't Try to Win
 
@@ -102,7 +102,7 @@ Now bring your ability into the mix. Grapple Hook if you chose sniper, so you ca
 
 By match 10, you should be getting 5-8 kills per match instead of 2. If you're not, don't push forward into ranked. Go back to matches 4-7 and tighten your weapon.
 
-One thing to check before you blame the gun: your sensitivity. A lot of new players run a sens that's either so low they can't track a strafing enemy, or so high they overcorrect every flick. If your crosshair keeps sailing past the target, that's a settings problem, not a skill problem. The [sensitivity and crosshair guide](/posts/rivals/sensitivity-crosshair-guide/) walks through finding a number that stays stable, then locking it and never touching it again. You can't build muscle memory on a setting you change every day.
+One thing to check before you blame the gun: your sensitivity. A lot of new players run a sens that's either so low they can't track a strafing enemy, or so high they overcorrect every flick. If your crosshair keeps sailing past the target, that's a settings problem, not a skill problem. The [sensitivity and crosshair guide](/games/rivals/) walks through finding a number that stays stable, then locking it and never touching it again. You can't build muscle memory on a setting you change every day.
 
 Same goes for movement. Strafe while you shoot, and make yourself a harder target in every single fight, even the easy ones. If you only strafe when you're losing, you'll forget to do it when it matters. Build it in now, while the stakes are zero. The [movement and mechanics guide](/posts/rivals/movement-and-mechanics-guide/) covers the full kit when you're ready for it.
 
@@ -142,7 +142,7 @@ Notice what's missing: there's no "unlock everything" row. That's on purpose.
 
 Before you click "Ranked," pass all three checks. Not two. All three.
 
-1. **Map knowledge:** Can you name all 7 maps and describe the best power position on each? (Rooftops = AC unit, Warehouse = catwalk, Bridge = under-bridge, and so on.) If you can't, the [maps guide](/posts/rivals/maps-and-strategies-guide/) is your homework, and ranked can wait.
+1. **Map knowledge:** Can you name all 7 maps and describe the best power position on each? (Rooftops = AC unit, Warehouse = catwalk, Bridge = under-bridge, and so on.) If you can't, the [maps guide](/games/rivals/) is your homework, and ranked can wait.
 
 2. **Weapon comfort:** Can you reliably hit headshots at medium range with your main weapon? Not every time — but more than half? If you're still flicking and praying, you're not ready.
 
@@ -156,7 +156,7 @@ Here's the payoff for waiting. Ranked placement isn't random — it reads your f
 
 - [RIVALS Weapon Tier List — Every Weapon Ranked](/posts/rivals/weapon-tier-list/)
 - [RIVALS Beginner Mistakes — The 10 Habits Holding You Back](/posts/rivals/beginner-mistakes-guide/)
-- [RIVALS Maps & Strategies — Every Map Breakdown](/posts/rivals/maps-and-strategies-guide/)
+- [RIVALS Maps & Strategies — Every Map Breakdown](/games/rivals/)
 - [RIVALS Game Modes & Ranked — How Placement Actually Works](/posts/rivals/game-modes-and-ranked-guide/)
 - [RIVALS Ranked ELO Climbing — From Bronze to Platinum](/posts/rivals/ranked-elo-climbing-guide/)
-- [RIVALS Aim Training — The Drills That Actually Transfer](/posts/rivals/aim-training-guide/)
+- [RIVALS Aim Training — The Drills That Actually Transfer](/games/rivals/)

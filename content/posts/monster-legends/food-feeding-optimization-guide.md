@@ -164,11 +164,11 @@ Adventure Map stamina should go to food nodes first, gold nodes second, and mons
 
 - [Monster Legends Farming Guide](/posts/monster-legends/farming-guide/)
 - [Monster Legends Gold and Gem Farming Guide](/posts/monster-legends/gold-gem-farming-guide/)
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Mythic Breeding Optimization Guide](/posts/monster-legends/mythic-breeding-optimization-guide/)
 - [Monster Legends Battle Strategy](/posts/monster-legends/battle-strategy/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)
 - [Monster Legends Events Guide](/posts/monster-legends/events-guide/)
-- [Monster Legends Dungeon Adventure Guide](/posts/monster-legends/dungeon-adventure-guide/)
+- [Monster Legends Dungeon Adventure Guide](/games/monster-legends/)
 - [Monster Legends Team Wars Guide](/posts/monster-legends/team-wars-guide/)

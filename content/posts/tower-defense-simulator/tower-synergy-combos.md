@@ -115,7 +115,7 @@ Late waves throw fast enemies past your main kill zone. You need one tower whose
 
 ### Priority Four: The Economy Engine (If Space Allows)
 
-In modes like [Golden Mode](/posts/tower-defense-simulator/golden-mode-guide/), you need cash fast. In [Fallen Mode](/posts/tower-defense-simulator/fallen-mode-guide/), economy matters less because waves start hard immediately.
+In modes like [Golden Mode](/games/tower-defense-simulator/), you need cash fast. In [Fallen Mode](/posts/tower-defense-simulator/fallen-mode-guide/), economy matters less because waves start hard immediately.
 
 - Farm: Standard. Drop two Farms by Wave 6 or skip them entirely — a late Farm never pays back.
 - Crook Boss / Golden Scout: Dual-purpose economy + light damage. Better in loadouts where you can't spare a pure Farm slot.
@@ -164,7 +164,7 @@ This framework produces a complete system: boss-killer + weakness cover + amplif
 
 ## Proven Synergy Pairs That Actually Work
 
-These aren't theory. These are combos that clear Wave 40 consistently in Fallen and hold ground in [Hardcore Mode](/posts/tower-defense-simulator/hardcore-mode-guide/).
+These aren't theory. These are combos that clear Wave 40 consistently in Fallen and hold ground in [Hardcore Mode](/games/tower-defense-simulator/).
 
 **Accelerator + DJ Booth + Commander**
 The classic burst core. Accelerator handles single targets. DJ gives it range to reach earlier in the lane. Commander's ability turns Wave 40's boss phase into a 10-second melt instead of a 45-second slugfest. Without DJ, Accelerator sits idle on too many enemies that enter just outside its reach.

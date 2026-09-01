@@ -27,10 +27,10 @@ related:
   - /posts/fisch/rod-of-singularity-guide/
   - /posts/fisch/noiseform-rod-guide/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
-  - /posts/fisch/rare-mythic-fish-guide/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/rod-bait-combination-guide/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
   - /posts/fisch/the-deep-update-guide/
 ---
 
@@ -132,7 +132,7 @@ Most players treat the mutation requirement as a grind. They fish Rusty Bolts ov
 
 The fast way is to force the mutation up front. A **Mutation Totem** at the appraiser, or **Mutated Sharky** bait, makes the next catch come out with the mutation already applied. For Lunar String, the **Moonlight Rod** makes Lunar automatic on every cast. One totem or one bait swap beats an hour of re-fishing a low-rarity item and hoping.
 
-The same logic applies to bait. Players assume more luck is always better, but for low-rarity quest items, Garbage Bait is the correct call because it keeps the pool clean. Want the full breakdown of how bait affects your rolls? See the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) and the [bait economy guide](/posts/fisch/bait-economy-guide/).
+The same logic applies to bait. Players assume more luck is always better, but for low-rarity quest items, Garbage Bait is the correct call because it keeps the pool clean. Want the full breakdown of how bait affects your rolls? See the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) and the [bait economy guide](/games/fisch/).
 
 
 ## FAQ
@@ -163,8 +163,8 @@ For most goals, yes. The Scavenger Rod has 75% Lure Speed, 100% Luck, 20% Resili
 - [Rod of Singularity Guide](/posts/fisch/rod-of-singularity-guide/)
 - [Noiseform Rod Guide](/posts/fisch/noiseform-rod-guide/)
 - [Best Rods Tier List](/posts/fisch/best-rods-tier-list/)
-- [Rod Progression Timeline](/posts/fisch/rod-progression-timeline/)
-- [Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/)
+- [Rod Progression Timeline](/games/fisch/)
+- [Rare & Mythic Fish Guide](/games/fisch/)
 - [Rod & Bait Combination Guide](/posts/fisch/rod-bait-combination-guide/)
-- [Bait Economy Guide](/posts/fisch/bait-economy-guide/)
+- [Bait Economy Guide](/games/fisch/)
 - [The Deep Update Guide](/posts/fisch/the-deep-update-guide/)

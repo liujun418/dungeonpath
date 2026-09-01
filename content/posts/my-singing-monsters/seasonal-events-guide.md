@@ -201,8 +201,8 @@ Remember: missing one seasonal is not the end of the world. The events return ev
 
 ## Related Guides
 
-- [Beginner Guide]({{< ref "/posts/my-singing-monsters/beginner-guide" >}}) -- Getting started in MSM
-- [Breeding Guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) -- Breeding mechanics and combinations
+- [Beginner Guide]({{< ref "/games/my-singing-monsters/" >}}) -- Getting started in MSM
+- [Breeding Guide]({{< ref "/games/my-singing-monsters/" >}}) -- Breeding mechanics and combinations
 - [Rare and Epic Monsters Guide]({{< ref "/posts/my-singing-monsters/rare-and-epic-monsters" >}}) -- Rare and epic variants
 - [Farming Guide]({{< ref "/posts/my-singing-monsters/farming-guide" >}}) -- Resource optimization
 - [Shugabush Island Guide]({{< ref "/posts/my-singing-monsters/shugabush-island-guide" >}}) -- Legendary Shugabush monsters

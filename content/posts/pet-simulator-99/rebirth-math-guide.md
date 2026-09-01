@@ -178,9 +178,9 @@ Five yes answers = rebirth now. Four yes + one "I'll buy the right egg when I ge
 
 ## Related Guides
 
-- [PS99 Beginner Guide — Worlds, Pets & First Huge](/posts/pet-simulator-99/beginner-guide/)
+- [PS99 Beginner Guide — Worlds, Pets & First Huge](/games/pet-simulator-99/)
 - [PS99 Best Pets Guide — Meta Pets Ranked](/posts/pet-simulator-99/best-pets-guide/)
-- [PS99 Team Compositions Guide — Best Builds for Every Mode](/posts/pet-simulator-99/team-compositions-guide/)
-- [PS99 Codes Guide — How to Never Miss Free Rewards](/posts/pet-simulator-99/codes-guide/)
+- [PS99 Team Compositions Guide — Best Builds for Every Mode](/games/pet-simulator-99/)
+- [PS99 Codes Guide — How to Never Miss Free Rewards](/games/pet-simulator-99/)
 - [PS99 Rebirth & Prestige Guide — Full Progression Path](/posts/pet-simulator-99/rebirth-prestige-guide/)
-- [PS99 Enchantments & Upgrades Guide — Maximize Your Pet Power](/posts/pet-simulator-99/enchantments-upgrades-guide/)
+- [PS99 Enchantments & Upgrades Guide — Maximize Your Pet Power](/games/pet-simulator-99/)

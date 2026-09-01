@@ -67,7 +67,7 @@ Your first happiness pass should look like this:
 
 That last step matters. Players waste huge amounts of coins chasing 100% happiness on monsters that do not deserve it yet. A 75% happy Entbrat is often better than a 100% happy Mammott if your budget is limited. The goal is not clean numbers. The goal is faster payback.
 
-For breeding and roster planning, pair this with the [My Singing Monsters breeding guide](/posts/my-singing-monsters/breeding-guide/). The sooner you build high-value monsters, the sooner happiness optimization becomes worth real money.
+For breeding and roster planning, pair this with the [My Singing Monsters breeding guide](/games/my-singing-monsters/). The sooner you build high-value monsters, the sooner happiness optimization becomes worth real money.
 
 ## Decoration Placement: The Rule Most Players Get Wrong
 
@@ -116,7 +116,7 @@ Only chase 75% to 100% happiness when the monster earns enough to repay the deco
 
 Once your economy is comfortable, buy decorations for looks, collection goals, or full happiness completion. Just do not pretend this is the same as optimization.
 
-If your main issue is still daily income, read the [diamond and coin farming guide](/posts/my-singing-monsters/diamond-coin-farming-guide/) after this. Happiness is one multiplier; farming habits decide how often you actually collect the multiplied coins.
+If your main issue is still daily income, read the [diamond and coin farming guide](/games/my-singing-monsters/) after this. Happiness is one multiplier; farming habits decide how often you actually collect the multiplied coins.
 
 ## Failure Analysis: Why Players Stay Poor Even With Decorations
 
@@ -260,7 +260,7 @@ If you want a simple action plan, do this on your main Natural Island first.
 
 Do not judge the result from one collection if your monsters were not full. Judge it across a normal day of play. Happiness rewards consistent collection. The more often you empty coin storage, the more you feel the multiplier.
 
-If you are still early and making broad progression mistakes, the [beginner mistakes guide](/posts/my-singing-monsters/beginner-mistakes-guide/) will probably save you more coins than any single decoration purchase.
+If you are still early and making broad progression mistakes, the [beginner mistakes guide](/games/my-singing-monsters/) will probably save you more coins than any single decoration purchase.
 
 ## FAQ
 
@@ -278,7 +278,7 @@ No. Liked decorations only need to exist on the same island. They do not need to
 
 ## Related Guides
 
-- [My Singing Monsters Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
-- [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/)
-- [My Singing Monsters Beginner Mistakes Guide](/posts/my-singing-monsters/beginner-mistakes-guide/)
+- [My Singing Monsters Diamond & Coin Farming Guide](/games/my-singing-monsters/)
+- [My Singing Monsters Breeding Guide](/games/my-singing-monsters/)
+- [My Singing Monsters Beginner Mistakes Guide](/games/my-singing-monsters/)
 - [My Singing Monsters Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/)

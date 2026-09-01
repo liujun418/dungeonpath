@@ -202,7 +202,7 @@ Best palettes:
 
 The mistake is using every pastel at once. Pink, blue, lavender, mint, yellow, and white together look like spilled candy. Pick one pastel as the base, one nearby pastel as support, and one light neutral. Restraint is the difference between "soft" and "messy."
 
-Hair and makeup matter here. A soft pink outfit with black lipstick feels disconnected. Use the [DTI Hair Combos & Makeup Pairings](/posts/dress-to-impress/hair-makeup-combos/) guide when the clothes work but the face feels wrong.
+Hair and makeup matter here. A soft pink outfit with black lipstick feels disconnected. Use the [DTI Hair Combos & Makeup Pairings](/games/dress-to-impress/) guide when the clothes work but the face feels wrong.
 
 ### Streetwear, Y2K, and Modern Themes
 
@@ -323,7 +323,7 @@ Hair should repeat the base, repeat the support, or stay neutral. Makeup should 
 
 Poses matter too. If your outfit has one strong accent, show it. Silver crown? Use upright poses that frame the head. Red gloves? Use hand-forward poses that put them center stage. Dramatic skirt? Avoid poses that hide the silhouette behind crossed arms.
 
-For pose choices, use the [DTI Pose Meta Guide](/posts/dress-to-impress/pose-meta-guide/). The short version: pose to show your focal color, not just to look funny.
+For pose choices, use the [DTI Pose Meta Guide](/games/dress-to-impress/). The short version: pose to show your focal color, not just to look funny.
 
 ## Fast Fixes Before Runway
 
@@ -349,7 +349,7 @@ Use rainbow order. Use a warm palette. Use a cool palette. Use one neutral base 
 
 More colors are fine when the theme is maximalist. Random colors are not.
 
-This is also voting psychology. If every player goes chaotic for a chaotic theme, the cleanest chaotic outfit wins. The [DTI Voting Psychology Guide](/posts/dress-to-impress/voting-psychology-guide/) explains why readable outfits beat technically detailed ones.
+This is also voting psychology. If every player goes chaotic for a chaotic theme, the cleanest chaotic outfit wins. The [DTI Voting Psychology Guide](/games/dress-to-impress/) explains why readable outfits beat technically detailed ones.
 
 ## The Final Rule: Make the Theme Read From Far Away
 
@@ -377,8 +377,8 @@ Fewer colors. Stronger signal. More votes.
 
 - [DTI Theme Winning Framework — The 3-Question Decision Tree for Every Theme Category](/posts/dress-to-impress/theme-winning-framework/)
 - [How to Win Every Gothic, Dark & Horror Theme in DTI](/posts/dress-to-impress/gothic-dark-theme-guide/)
-- [DTI Hair Combos & Makeup Pairings](/posts/dress-to-impress/hair-makeup-combos/)
-- [DTI Pose Meta Guide](/posts/dress-to-impress/pose-meta-guide/)
-- [DTI Voting Psychology — Why Good Outfits Lose](/posts/dress-to-impress/voting-psychology-guide/)
-- [DTI Beginner Guide — How to Play, Themes & Voting](/posts/dress-to-impress/beginner-guide/)
-- [All Dress to Impress Themes List](/posts/dress-to-impress/all-themes-list/)
+- [DTI Hair Combos & Makeup Pairings](/games/dress-to-impress/)
+- [DTI Pose Meta Guide](/games/dress-to-impress/)
+- [DTI Voting Psychology — Why Good Outfits Lose](/games/dress-to-impress/)
+- [DTI Beginner Guide — How to Play, Themes & Voting](/games/dress-to-impress/)
+- [All Dress to Impress Themes List](/games/dress-to-impress/)

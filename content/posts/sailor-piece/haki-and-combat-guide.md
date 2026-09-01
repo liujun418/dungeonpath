@@ -529,7 +529,7 @@ A: You respawn at the nearest checkpoint with full HP. The boss remains at its c
 
 Continue mastering your Sailor Piece combat skills with our other guides:
 
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** — Complete walkthrough for new players, including stat builds and early progression
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** — Complete walkthrough for new players, including stat builds and early progression
 - **[Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)** — Every boss fight, drop tables, and winning tactics
 - **[Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)** — All fruits, abilities, tier lists, and trading values
 - **[Sailor Piece Islands and Progression Guide](/posts/sailor-piece/islands-progression-guide/)** — Island-by-island walkthrough with boss strategies

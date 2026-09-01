@@ -37,11 +37,11 @@ faq:
     answer: "It depends on your patience. Its 300% Luck and dual-mode mutation pool are strong, but the 11-butterfly step can take hours. Completionists and dual-bar fans should go for it. If you are time-boxing the event, Soul Reaper and Wingkeeper are better value per hour."
 related:
   - /posts/fisch/the-deep-update-guide/
-  - /posts/fisch/fish-location-map/
-  - /posts/fisch/weather-time-season-guide/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
-  - /posts/fisch/bait-economy-guide/
+  - /games/fisch/
+  - /games/fisch/
 ---
 
 ## You Set the Relic Down, and the Stage Floor Splits
@@ -126,7 +126,7 @@ The passives are where it gets silly. Paranormal Mutation puts a 5x sell multipl
 
 The questline runs in six stages: a Shiny + Sparkling + Darkened Rubber Duck, a Spirit Ancient Depth Serpent on the Spirit Rod during Absolute Darkness, a Soul-Touched Log on the Hades Soul Scythe with garbage bait, Distraught Scrap Metal on the Dream Breaker Rod, a Phantom String on the Eidolon Rod in Desolate Deep, and finally delivering the soul pieces to three ghost NPCs — Rosalind at the Volcano, the Keeper at the Altar, and one in the Living Garden.
 
-Most of those fish have strict conditions. The Spirit Ancient Depth Serpent only shows during Absolute Darkness, so check the [weather, time, and season guide](/posts/fisch/weather-time-season-guide/) before you camp The Depths. The garbage bait step is cheap if you're already banking junk — see the [bait economy guide](/posts/fisch/bait-economy-guide/). And every shiny in this line is easier with a high-Luck setup, which the [rare and mythic fish guide](/posts/fisch/rare-mythic-fish-guide/) walks through.
+Most of those fish have strict conditions. The Spirit Ancient Depth Serpent only shows during Absolute Darkness, so check the [weather, time, and season guide](/games/fisch/) before you camp The Depths. The garbage bait step is cheap if you're already banking junk — see the [bait economy guide](/games/fisch/). And every shiny in this line is easier with a high-Luck setup, which the [rare and mythic fish guide](/games/fisch/) walks through.
 
 ## Rivet: Steampunk Rod
 
@@ -134,7 +134,7 @@ Stats: 75% Lure Speed, 90% Luck, 30% Resilience.
 
 The draw here is the Kinetic Engine. A meter fills with every successful catch, and when you activate it you get 30 seconds of guaranteed Clockwork mutation, +50% progress speed, and +30% resilience. It's a burst rod, and it plays like one — save the meter for a heavy fish, not a random carp.
 
-The questline: collect Rusty Bolts, Broken Gears, and Scrap Metal as junk, upgrade each to its Purified, Midas, or Crystallized form, ride 75,000 studs on a bike (grab a fast one and a long straight route), then catch an Electric Kerauno Wyrm in the Zeus area of Atlantis. That last one needs location work — check the [fish location map](/posts/fisch/fish-location-map/) so you aren't casting blind.
+The questline: collect Rusty Bolts, Broken Gears, and Scrap Metal as junk, upgrade each to its Purified, Midas, or Crystallized form, ride 75,000 studs on a bike (grab a fast one and a long straight route), then catch an Electric Kerauno Wyrm in the Zeus area of Atlantis. That last one needs location work — check the [fish location map](/games/fisch/) so you aren't casting blind.
 
 ## The Guide: Castbound Rod
 
@@ -158,7 +158,7 @@ Stats: 80% Lure Speed, 135% Luck, 28% Resilience.
 
 Acid Grinder is the niche toxic rod. Acid Burn stamps the Acidic mutation (2x value) on every catch, and consecutive Brine Pool catches stack that multiplier up to 4x. It starts restricted — limited bait until you finish the unlock — so don't plan to main it the day you get it.
 
-The questline: a Tainted Brine Phantom in the Bloomspire area with a toxin rod, a Brine Sovereign (Brine Storm weather only), then the restricted rod itself, which you finish by catching an Acidic Caustic Starwyrm. Brine Storm timing is a weather-check problem — the [weather, time, and season guide](/posts/fisch/weather-time-season-guide/) is the place to track it.
+The questline: a Tainted Brine Phantom in the Bloomspire area with a toxin rod, a Brine Sovereign (Brine Storm weather only), then the restricted rod itself, which you finish by catching an Acidic Caustic Starwyrm. Brine Storm timing is a weather-check problem — the [weather, time, and season guide](/games/fisch/) is the place to track it.
 
 ## BasePart: Part Rod (The Counterintuitive One)
 
@@ -188,7 +188,7 @@ The questline is the event's longest: a Forgotten Orca on the Thalassa's Ruin ro
 | 10 | Fluttering | Remembrance Rod Mode 1 |
 | 11 | Departed | Remembrance Rod Mode 2 |
 
-The Shark Head and glowworm steps are bait-locked, so skim the [bait economy guide](/posts/fisch/bait-economy-guide/) before you commit to the Orca. Glowy Penguin also needs crab cages, which is a different prep loop than rod fishing.
+The Shark Head and glowworm steps are bait-locked, so skim the [bait economy guide](/games/fisch/) before you commit to the Orca. Glowy Penguin also needs crab cages, which is a different prep loop than rod fishing.
 
 ## The Mysterious Songstress: Lullaby Rod
 
@@ -237,8 +237,8 @@ It depends on your patience. The rod's 300% Luck and dual-mode mutation pool are
 ## Related Guides
 
 - [Fisch The Deep Update Guide](/posts/fisch/the-deep-update-guide/) — the Vertigo-to-Depths entrance this event sits behind
-- [Fisch Fish Location Map](/posts/fisch/fish-location-map/) — where each quest fish actually spawns
-- [Fisch Weather, Time, and Season Guide](/posts/fisch/weather-time-season-guide/) — Absolute Darkness, Brine Storm, and day/night timing
+- [Fisch Fish Location Map](/games/fisch/) — where each quest fish actually spawns
+- [Fisch Weather, Time, and Season Guide](/games/fisch/) — Absolute Darkness, Brine Storm, and day/night timing
 - [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/) — how the Venue rods stack up against permanent rods
-- [Fisch Rod Progression Timeline](/posts/fisch/rod-progression-timeline/) — where these rods fit into your upgrade path
-- [Fisch Bait Economy Guide](/posts/fisch/bait-economy-guide/) — garbage bait, glowworm, and Shark Head for the quest steps
+- [Fisch Rod Progression Timeline](/games/fisch/) — where these rods fit into your upgrade path
+- [Fisch Bait Economy Guide](/games/fisch/) — garbage bait, glowworm, and Shark Head for the quest steps

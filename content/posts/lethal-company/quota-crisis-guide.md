@@ -110,7 +110,7 @@ You're in a deep hole. The ship has almost nothing left to sell. Your crew is in
 
 Do not go to Titan. I'll say it again: Titan with a tilted crew is a guaranteed wipe. The S+ scrap pool is a mirage if nobody survives to sell it.
 
-Your best play is two March runs with a specific twist: on the second run, one player stays on the ship as a dedicated operator. Use the [ship operator role](/posts/lethal-company/ship-operator-guide/) — radar pings, door controls, and teleporter timing. The ship operator turns a desperate scramble into a coordinated extraction. They tell you when a Bracken is tracking someone. They teleport the player carrying the most valuable scrap if things go sideways. A good ship operator is the difference between a 500-scrap wipe and a 400-scrap survival.
+Your best play is two March runs with a specific twist: on the second run, one player stays on the ship as a dedicated operator. Use the [ship operator role](/games/lethal-company/) — radar pings, door controls, and teleporter timing. The ship operator turns a desperate scramble into a coordinated extraction. They tell you when a Bracken is tracking someone. They teleport the player carrying the most valuable scrap if things go sideways. A good ship operator is the difference between a 500-scrap wipe and a 400-scrap survival.
 
 If you're down to 2 players, the two-March strategy still works — you just clear fewer rooms per run. The math is the same: two partial clears beat one wipe.
 
@@ -172,10 +172,10 @@ A corpse retrieval that gets 120 scrap back in 3 minutes is a good trade. A corp
 
 ## Related Guides
 
-- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/games/lethal-company/)
 - [Lethal Company Best Moons for Profit Tier List](/posts/lethal-company/moons-profit-tier-list/)
 - [Lethal Company Quota Management & Optimization Guide](/posts/lethal-company/quota-management-optimization-guide/)
-- [Lethal Company Equipment Economy — What to Buy and When](/posts/lethal-company/equipment-economy-guide/)
-- [Lethal Company Ship Operator Guide — Radar, Doors & Teleporter](/posts/lethal-company/ship-operator-guide/)
-- [Lethal Company Solo Survival Guide — Strategies & Loadouts](/posts/lethal-company/solo-survival-guide/)
+- [Lethal Company Equipment Economy — What to Buy and When](/games/lethal-company/)
+- [Lethal Company Ship Operator Guide — Radar, Doors & Teleporter](/games/lethal-company/)
+- [Lethal Company Solo Survival Guide — Strategies & Loadouts](/games/lethal-company/)
 - [Lethal Company Beginner Mistakes — 10 Crew-Wiping Errors](/posts/lethal-company/beginner-mistakes-guide/)

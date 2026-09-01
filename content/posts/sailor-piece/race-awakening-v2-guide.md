@@ -209,7 +209,7 @@ Yes, but you lose your awakening progress. You can buy a race reroll with Robux 
 
 ## Related Guides
 
-- [Sailor Piece Races & Hybrid Builds Guide](/posts/sailor-piece/races-hybrid-builds-guide/)
+- [Sailor Piece Races & Hybrid Builds Guide](/games/sailor-piece/)
 - [Sailor Piece Haki Training Guide](/posts/sailor-piece/haki-training-guide/)
 - [Sailor Piece Devil Fruits Tier List](/posts/sailor-piece/devil-fruits-tier-list/)
 - [Sailor Piece PvP Battle Guide](/posts/sailor-piece/pvp-battle-guide/)

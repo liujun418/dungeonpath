@@ -66,7 +66,7 @@ This is the standard Lethal Company beginner experience. It's not bad luck. It's
 
 **Scene: the 4-room split.** You and three friends enter the main hall of the facility. You each pick a different door. Within 30 seconds: player 1 walks into a Bracken room and gets neck-snapped. Player 2 opens a door, a Coil-Head locks on, and with no one to watch their back, they back into a dead end. Player 3 hears a Thumper, panics, sprints into a turret room, and dies. Player 4 is now alone, 200 meters from the ship, with no radar support and no backup. That's not bad luck. That's four solo players dying the way solo players die.
 
-**The fix.** Minimum group size inside the facility is 2. One player loots, the other watches corridors and doorways. The ship operator stays on radar and calls out red dots: "Two enemies moving toward the room to your left. Back out now." Our [beginner guide](/posts/lethal-company/beginner-guide/) covers the full crew role setup.
+**The fix.** Minimum group size inside the facility is 2. One player loots, the other watches corridors and doorways. The ship operator stays on radar and calls out red dots: "Two enemies moving toward the room to your left. Back out now." Our [beginner guide](/games/lethal-company/) covers the full crew role setup.
 
 **The only exception:** if you're playing solo by choice, you need a completely different approach — crouch-walking everywhere, never opening doors near red dots, and prioritizing the teleporter. That's a separate playstyle entirely.
 
@@ -202,7 +202,7 @@ If you have 30 credits and nothing else: buy the Shovel. Every time. A Shovel tu
 
 ## Related Guides
 
-- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/games/lethal-company/)
 - [Lethal Company Moon Guide — Hazard Levels, Scrap & When to Move Up](/posts/lethal-company/moon-guide/)
 - [Lethal Company Terminal Commands — Every Command You Need](/posts/lethal-company/terminal-commands-guide/)
 - [Lethal Company Entity Counter Playbook — Every Enemy's Weakness](/posts/lethal-company/entity-counter-playbook/)

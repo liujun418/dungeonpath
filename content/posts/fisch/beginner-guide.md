@@ -25,10 +25,10 @@ faq:
     answer: "That's the most common trap for ambitious beginners. If you skip Carbon Rod and Steady Rod to save for Mythical (110,000 C$), you fish with the Flimsy Rod for 10+ hours at ~3,000 C$/hour. The path through Carbon Rod then Steady Rod reaches Mythical faster — 9-10 hours total — because each upgrade multiplies your earning rate. An intermediate rod is not a detour; it's a turbo boost for the same road."
 related:
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
-  - /posts/fisch/mythic-progression-path/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/money-farming-guide/
-  - /posts/fisch/rare-mythic-fish-guide/
+  - /games/fisch/
   - /posts/fisch/codes-and-rewards-guide/
 ---
 
@@ -98,7 +98,7 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 - **Total time from start to Mythical:** ~13-14 hours
 - **Hidden cost:** Carbon Rod's low Resilience means 2-3x more escaped fish. Each escape costs you the C$ that fish would have sold for plus the time you spent catching it
 
-**Verdict:** Path A reaches Mythical Rod 3-4 hours faster despite the 25,000 C$ detour. The +30% Resilience nearly eliminates fish escape losses, boosting effective C$/hour by 50% — a multiplier that compounds over every hour you fish. An intermediate rod isn't a detour from the goal; it's a speed boost on the only road there. For the full unlock timeline including post-Mythical rods, see the [rod progression timeline](/posts/fisch/rod-progression-timeline/).
+**Verdict:** Path A reaches Mythical Rod 3-4 hours faster despite the 25,000 C$ detour. The +30% Resilience nearly eliminates fish escape losses, boosting effective C$/hour by 50% — a multiplier that compounds over every hour you fish. An intermediate rod isn't a detour from the goal; it's a speed boost on the only road there. For the full unlock timeline including post-Mythical rods, see the [rod progression timeline](/games/fisch/).
 
 ### Quick Decision Table: What to Buy at Every Stage
 
@@ -165,7 +165,7 @@ Fish at Roslit Bay for an hour. You'll notice immediate improvement: Rare fish a
 
 **Why it fails:** Each server hop costs 30-60 seconds of loading screen. At 4 hops per hour, you lose 2-4 minutes — that's 8-16 casts you didn't make. Worse: you reset your location knowledge each time. You never learn where the good spots are on any server because you never stay long enough to map them.
 
-**The fix:** Pick a server with reasonable ping and commit to 1 hour minimum before switching. Log your catch rates during that hour — if you're averaging less than 2 Rares per hour, consider moving. But let data drive the decision, not impatience. Some fish spawn only during specific weather or time-of-day — check the [weather and time guide](/posts/fisch/weather-time-season-guide/) before blaming the server.
+**The fix:** Pick a server with reasonable ping and commit to 1 hour minimum before switching. Log your catch rates during that hour — if you're averaging less than 2 Rares per hour, consider moving. But let data drive the decision, not impatience. Some fish spawn only during specific weather or time-of-day — check the [weather and time guide](/games/fisch/) before blaming the server.
 
 ---
 
@@ -197,8 +197,8 @@ If you're far behind this pace, check: are you still at Moosewood Pond? Still on
 ## Related Guides
 
 - [Fisch Best Rods Tier List — Every Rod Ranked](/posts/fisch/best-rods-tier-list/)
-- [Fisch Rod Progression Timeline — Every Unlock from Start to Endgame](/posts/fisch/rod-progression-timeline/)
-- [Fisch Progression Path — Your First Mythic Fish](/posts/fisch/mythic-progression-path/)
+- [Fisch Rod Progression Timeline — Every Unlock from Start to Endgame](/games/fisch/)
+- [Fisch Progression Path — Your First Mythic Fish](/games/fisch/)
 - [Fisch Money Farming Guide — Best Ways to Earn C$](/posts/fisch/money-farming-guide/)
-- [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/posts/fisch/rare-mythic-fish-guide/)
+- [Fisch Rare & Mythic Fish Guide — How to Catch High-Value Fish](/games/fisch/)
 - [Fisch Codes and Rewards — Active Codes and How to Redeem Them](/posts/fisch/codes-and-rewards-guide/)

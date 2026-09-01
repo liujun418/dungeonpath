@@ -22,7 +22,7 @@ faq:
     answer: "You can skip the Steady Rod, but not the Carbon Rod. You still need something better than the starter Flimsy Rod to earn the cash and catch the fish required to reach The Deep and finish Dr. Vane's questline. Buy the Carbon Rod for 2,000 C$, use it to get to The Deep, then grab the free Luminous Rod. From there the path is straight to the Titanium Rod at Level 250 — the Steady Rod is simply no longer on the route."
 related:
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
   - /posts/fisch/the-deep-update-guide/
   - /posts/fisch/titanium-rod-guide/
 ---
@@ -178,13 +178,13 @@ Here is the post-Deep mid-game route, all in one place.
 
 The Carbon Rod is still the first buy. The Steady Rod is now an optional side path, not the default. The Luminous Rod is the free stepping stone that gets you from mid-game to the Titanium Rod, and it is the single biggest reason the Carbon vs Steady debate stopped being a debate.
 
-For where these rods sit against everything else in the game, check our [Fisch rods tier list](/posts/fisch/best-rods-tier-list/). For the full level-by-level route, the [rod progression timeline](/posts/fisch/rod-progression-timeline/) maps every step from the Flimsy Rod to the new endgame.
+For where these rods sit against everything else in the game, check our [Fisch rods tier list](/posts/fisch/best-rods-tier-list/). For the full level-by-level route, the [rod progression timeline](/games/fisch/) maps every step from the Flimsy Rod to the new endgame.
 
 ---
 
 **Related Guides:**
 
 - [Fisch Best Rods Tier List (2026)](/posts/fisch/best-rods-tier-list/)
-- [Fisch Rod Progression Timeline — Every Rod in Order](/posts/fisch/rod-progression-timeline/)
+- [Fisch Rod Progression Timeline — Every Rod in Order](/games/fisch/)
 - [Fisch The Deep Update Guide — Deep City, 4 New Rods & the Cusk Hunt](/posts/fisch/the-deep-update-guide/)
 - [Fisch Titanium Rod Guide — Every Material and Is It Worth It](/posts/fisch/titanium-rod-guide/)

@@ -29,11 +29,11 @@ related:
   - /posts/pressure/hidden-areas-eggs-guide/
   - /posts/pressure/items-loadout-tier-list/
   - /posts/pressure/entities-guide/
-  - /posts/pressure/floors-and-locations-guide/
+  - /games/pressure/
   - /posts/pressure/documents-guide/
   - /posts/pressure/endless-mode-guide/
   - /posts/pressure/audio-identification-guide/
-  - /posts/pressure/mines-entities-guide/
+  - /games/pressure/
 ---
 
 > *Last updated: August 26, 2026. Codes and modifier details shift with updates — cross-check the current in-game list before you redeem anything.*
@@ -112,7 +112,7 @@ Not every secret deserves your attention. Use this table when deciding whether t
 | Are at Rooms 70-80 on a serious run | Skip the Observation Deck | Late-game risk outruns the reward |
 | Just want to explore | Chase lore and novelty rooms | No survival pressure on you |
 
-The rule underneath the table: detours with items and low risk are worth it. Detours with cosmetics and high risk are not. The [floors and locations guide](/posts/pressure/floors-and-locations-guide/) maps where everything sits, and the [entities guide](/posts/pressure/entities-guide/) tells you what is hunting you in each range.
+The rule underneath the table: detours with items and low risk are worth it. Detours with cosmetics and high risk are not. The [floors and locations guide](/games/pressure/) maps where everything sits, and the [entities guide](/posts/pressure/entities-guide/) tells you what is hunting you in each range.
 
 ## Counter-Intuitive Advice: What to Skip
 
@@ -197,7 +197,7 @@ Only the Flooded Basement, Developer Room, and Hidden Cache are consistently wor
 - **[Pressure Hidden Areas and Easter Eggs Guide](/posts/pressure/hidden-areas-eggs-guide/)** — Deep dive into environmental storytelling and lore locations
 - **[Pressure Items and Loadout Tier List](/posts/pressure/items-loadout-tier-list/)** — Which items to bring so you have room for secret room loot
 - **[Pressure Endless Mode Guide](/posts/pressure/endless-mode-guide/)** — How secret rooms and codes play out when the run never ends
-- **[Pressure Mines Entities Guide](/posts/pressure/mines-entities-guide/)** — What hunts you in the Mines and how that changes secret room decisions
+- **[Pressure Mines Entities Guide](/games/pressure/)** — What hunts you in the Mines and how that changes secret room decisions
 
 ---
 

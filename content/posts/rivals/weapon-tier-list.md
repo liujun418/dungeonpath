@@ -293,7 +293,7 @@ Blocks corridors and forces enemies to reposition. Essential on small maps where
 **Cost:** 0 Keys (all starter weapons). Upgrade to **Shotgun** (20 Keys) + **Uzi** (15 Keys) as your first purchases.
 
 ### Map-Specific Loadouts
-For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+For complete map-by-map breakdowns with callouts and winning strategies, see the [RIVALS Maps and Strategies Guide](/games/rivals/).
 
 | Map Type | Primary | Secondary | Melee | Utility |
 |----------|---------|-----------|-------|---------|
@@ -404,8 +404,8 @@ Want more RIVALS content? Check out our other guides:
 - **[RIVALS Beginner Guide](/posts/rivals/beginner-guide/)** — Complete walkthrough for new players from first match to ranked play
 - **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
-- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
-- **[RIVALS Season 3 Guide](/posts/rivals/season-3-weapons-maps-guide/)** — Master the Grapple, Spear, and new Diorama maps
+- **[RIVALS Maps and Strategies Guide](/games/rivals/)** — Map-by-map breakdowns with positioning and angle guides
+- **[RIVALS Season 3 Guide](/games/rivals/)** — Master the Grapple, Spear, and new Diorama maps
 - **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
 - **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best FOV, sensitivity, and performance settings
 - **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics

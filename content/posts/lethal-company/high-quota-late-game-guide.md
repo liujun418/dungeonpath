@@ -31,7 +31,7 @@ faq:
     answer: "Artifice (1,200 credits to land, S-tier hazard) is the highest-risk moon in Lethal Company and should only be attempted by crews at quota 15+ who have 6,000+ credits in reserve. The scrap potential is enormous — 1,500-2,000 per full clear — but a single wipe costs you the landing fee, the scrap, and potentially multiple crew members' equipment. Artifice is for the flex run, not the quota run. If you need to meet a 1,500 credit quota, Rend is safer. Use Artifice only when you have a comfortable quota surplus AND your whole crew is experienced AND the weather is clear."
 related:
   guides:
-    - "Advanced Strategies Guide": "/posts/lethal-company/advanced-strategies-guide/"
+    - "Advanced Strategies Guide": "/games/lethal-company/"
     - "Quota Management Guide": "/posts/lethal-company/quota-management-optimization-guide/"
     - "Quota Crisis Guide": "/posts/lethal-company/quota-crisis-guide/"
     - "Equipment Guide": "/posts/lethal-company/equipment-guide/"

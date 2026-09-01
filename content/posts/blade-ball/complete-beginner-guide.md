@@ -196,7 +196,7 @@ As deflection count rises, new players panic harder. Their swings get earlier an
 
 ## Related Guides
 
-- [Blade Ball How to Win Guide — Advanced Strategies](/posts/blade-ball/how-to-win-guide/)
+- [Blade Ball How to Win Guide — Advanced Strategies](/games/blade-ball/)
 - [Blade Ball Ranked & Competitive Strategy Guide](/posts/blade-ball/ranked-competitive-strategy-guide/)
 - [Blade Ball Deflect & Parry Timing Guide](/posts/blade-ball/deflect-parry-timing-guide/)
 - [Blade Ball Abilities Tier List — Every Ability Ranked](/posts/blade-ball/abilities-tier-list/)

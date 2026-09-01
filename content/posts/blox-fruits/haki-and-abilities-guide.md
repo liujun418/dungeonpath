@@ -423,11 +423,11 @@ Haki progression should follow a clear priority order:
 6. **Haoshoku V1 (level 1500+)** — Get this if you plan to do endgame PvP or want the full Haki experience.
 7. **Haoshoku V2 (level 2000+)** — A luxury upgrade. Only pursue if you have Beli and materials to spare.
 
-For learning dodging fundamentals and early combat tips, check our [Beginner Guide](/posts/blox-fruits/beginner-guide/). For recommended Haki pairings with specific builds, see our [Fighting Styles Guide](/posts/blox-fruits/fighting-styles-guide/).
+For learning dodging fundamentals and early combat tips, check our [Beginner Guide](/games/blox-fruits/). For recommended Haki pairings with specific builds, see our [Fighting Styles Guide](/posts/blox-fruits/fighting-styles-guide/).
 
 ## Related Guides
 
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)
 - [Blox Fruits Fighting Styles Guide: All Styles Ranked & Upgrades](/posts/blox-fruits/fighting-styles-guide/)
 - [Blox Fruits Swords Guide: Best Weapons Tier List & Locations](/posts/blox-fruits/swords-weapons-guide/)
 - [Blox Fruits Bosses & Raids Guide: All Boss Locations & Raid Strategies](/posts/blox-fruits/bosses-and-raids-guide/)

@@ -28,7 +28,7 @@ faq:
 
 ---
 
-> *Last updated: June 18, 2026. This guide covers everything about base building in Palworld -- from choosing the perfect location to designing fully automated production lines with optimized Pal assignments.* See also: [Palworld Beginner Guide](/posts/palworld/beginner-guide/), [Best Pals Tier List](/posts/palworld/best-pals-tier-list/).
+> *Last updated: June 18, 2026. This guide covers everything about base building in Palworld -- from choosing the perfect location to designing fully automated production lines with optimized Pal assignments.* See also: [Palworld Beginner Guide](/games/palworld/), [Best Pals Tier List](/posts/palworld/best-pals-tier-list/).
 
 You spent three hours on the plateau south of Rayne Tower. The terrain was perfectly flat. You laid down a 6x6 grid of Wooden Foundations, built a charming two-story crafting hall, ringed the whole thing with Wooden Walls because stone felt like overkill for level 8. You assigned your first Tanzee to the Berry Plantation, watched it actually plant seeds, and felt like a genius. You logged off feeling safe.
 

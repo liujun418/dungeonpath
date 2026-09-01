@@ -255,11 +255,11 @@ The final rule is the simplest: your inventory is not a museum of good finds. It
 
 - [Pressure Beginner Guide — Entities, Items & First Win](/posts/pressure/beginner-guide/)
 - [Pressure Best Items & Loadouts Tier List](/posts/pressure/items-loadout-tier-list/)
-- [Pressure Items & Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)
+- [Pressure Items & Puzzles Guide](/games/pressure/)
 - [Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)
 - [Pressure Advanced Survival Guide](/posts/pressure/advanced-survival-strategies-guide/)
 - [Pressure Endless Mode Guide](/posts/pressure/endless-mode-guide/)
-- [Pressure Floors & Locations Guide](/posts/pressure/floors-and-locations-guide/)
+- [Pressure Floors & Locations Guide](/games/pressure/)
 
 ---
 

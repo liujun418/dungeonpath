@@ -43,7 +43,7 @@ Every Blox Fruits player hits this wall somewhere around level 200-300. The ones
 
 This guide is the decision framework I wish someone handed me at level 300. It won't tell you "always switch" or "never switch," because both are wrong. It'll show you the 3 signs you're overdue, the 3 windows where a switch is cheapest, and an if-then table so you can see exactly what to do from where you're standing right now.
 
-If you're still on your very first fruit and haven't cleared level 100 yet, start with our [starter fruit switch guide](/posts/blox-fruits/starter-fruit-switch-guide/) instead — it covers the level 1-100 decision on its own. This page is about the mid-game and beyond.
+If you're still on your very first fruit and haven't cleared level 100 yet, start with our [starter fruit switch guide](/games/blox-fruits/) instead — it covers the level 1-100 decision on its own. This page is about the mid-game and beyond.
 
 ## The 3 Signs You Need to Switch
 
@@ -97,7 +97,7 @@ For the full ranking before you commit, check the [fruits tier list](/posts/blox
 
 Second Sea enemies have two to three times the HP of First Sea enemies. Whatever got you through First Sea is about to feel weak again, and you don't want to discover that mid-journey.
 
-Buddha is the grinding king here — its huge AoE form clears camps fast, which is all you care about on the 700-1500 push. Phoenix is the bossing alternative. If you're torn between the two, our [Buddha vs Magma breakdown](/posts/blox-fruits/buddha-vs-magma/) walks through the tradeoffs, and the [Second Sea guide](/posts/blox-fruits/second-sea-complete-guide/) covers what you're about to walk into.
+Buddha is the grinding king here — its huge AoE form clears camps fast, which is all you care about on the 700-1500 push. Phoenix is the bossing alternative. If you're torn between the two, our [Buddha vs Magma breakdown](/posts/blox-fruits/buddha-vs-magma/) walks through the tradeoffs, and the [Second Sea guide](/games/blox-fruits/) covers what you're about to walk into.
 
 ### Second Sea Entry (Level 690-710)
 
@@ -185,9 +185,9 @@ One more: switching "up" to a fruit that doesn't fit your Sea is worse than stay
 
 ## Related Guides
 
-- [Blox Fruits Beginner Guide — First Fruit, First Sea & When to Change Seas](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide — First Fruit, First Sea & When to Change Seas](/games/blox-fruits/)
 - [Blox Fruits Fruits Tier List — Every Devil Fruit Ranked](/posts/blox-fruits/fruits-tier-list/)
-- [Blox Fruits Starter Fruit Switch Guide — The Level 1-100 Decision](/posts/blox-fruits/starter-fruit-switch-guide/)
+- [Blox Fruits Starter Fruit Switch Guide — The Level 1-100 Decision](/games/blox-fruits/)
 - [Buddha vs Magma — Which One Carries You Further](/posts/blox-fruits/buddha-vs-magma/)
 - [Blox Fruits Leveling Guide — Fast XP Routes for Every Sea](/posts/blox-fruits/leveling-guide/)
-- [Blox Fruits Second Sea Complete Guide — What Changes at Level 700](/posts/blox-fruits/second-sea-complete-guide/)
+- [Blox Fruits Second Sea Complete Guide — What Changes at Level 700](/games/blox-fruits/)

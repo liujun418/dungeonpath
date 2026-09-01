@@ -400,7 +400,7 @@ Farm Sea 2 bosses for 1,000,000-3,000,000+ Beli per hour — the highest consist
 
 Now that you understand the Sailor Piece economy, use these resources to maximize your wealth and progression:
 
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** — Complete walkthrough for new players: stat builds, Devil Fruits, Haki, races, clans, and island progression
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** — Complete walkthrough for new players: stat builds, Devil Fruits, Haki, races, clans, and island progression
 - **[Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)** — Every fruit ranked with prices, awakening guides, and tier lists
 - **[Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)** — Master all three Haki types, 20+ fighting styles, and combat optimization
 - **[Islands Progression Guide](/posts/sailor-piece/islands-progression-guide/)** — Complete island-by-island walkthrough from Starter Island to Sea 2

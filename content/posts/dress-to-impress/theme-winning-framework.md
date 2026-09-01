@@ -19,7 +19,7 @@ faq:
   - question: "I keep getting 2-3 stars on themes I know well. What am I doing wrong?"
     answer: "You're probably picking the right items but in the wrong order. The most common mistake is choosing a dress first, then matching accessories to the dress. This locks you into a silhouette before you've decided on a color. Flip the order: pick your color palette first, then the dress that fits the palette, then accessories that reinforce the silhouette. Wrong-order dressing is the #1 cause of outfits that read as 'nice but not winning.'"
 related:
-  - /posts/dress-to-impress/all-themes-list/
+  - /games/dress-to-impress/
   - /posts/dress-to-impress/advanced-tips/
   - /posts/dress-to-impress/color-theory-palette-guide/
 ---
@@ -149,7 +149,7 @@ Pick a specific mood and commit to it like your life depends on it. "Something" 
 
 The counterintuitive part: on vague themes, playing it safe is riskier than going bold. A safe, pretty outfit blends into the lobby. Everyone else is also doing safe and pretty. A bold, specific outfit stands alone. The voter sees one model that looks like a deliberate Gothic queen among seven models that look like "I don't know, cute?" and the Gothic queen wins. Not because Gothic is better than cute. Because deliberate beats generic every time.
 
-If you want to understand why a deliberate, high-contrast outfit wins votes even when it's less "accurate," read the [DTI Voting Psychology guide](/posts/dress-to-impress/voting-psychology-guide/) — it breaks down the 4-second rule, contrast bias, and why voters reward confidence over accuracy.
+If you want to understand why a deliberate, high-contrast outfit wins votes even when it's less "accurate," read the [DTI Voting Psychology guide](/games/dress-to-impress/) — it breaks down the 4-second rule, contrast bias, and why voters reward confidence over accuracy.
 
 ---
 
@@ -207,7 +207,7 @@ Here's another variation. The theme is "Rockstar." You're choosing between a lea
 
 The rule: if your outfit already reads as the theme through silhouette and color, reinforce the Vibe. If your outfit is neutral and needs the theme communicated, use the Character item. Don't do both — the outfit will fight itself.
 
-For a full breakdown of how to build a theme-appropriate outfit from scratch, see the [Complete DTI Themes List](/posts/dress-to-impress/all-themes-list/) with category tags and palette suggestions for every theme.
+For a full breakdown of how to build a theme-appropriate outfit from scratch, see the [Complete DTI Themes List](/games/dress-to-impress/) with category tags and palette suggestions for every theme.
 
 ---
 
@@ -227,7 +227,7 @@ Start practicing the framework today. Next time you play, don't open your wardro
 
 ## Related Guides
 
-- [Complete DTI Themes List — Every Theme, Category & Palette](/posts/dress-to-impress/all-themes-list/)
+- [Complete DTI Themes List — Every Theme, Category & Palette](/games/dress-to-impress/)
 - [DTI Advanced Tips — Layering, Silhouette & the 90-Second System](/posts/dress-to-impress/advanced-tips/)
 - [DTI Color Theory & Palette Guide — Why Your Perfect Outfit Keeps Getting 2 Stars](/posts/dress-to-impress/color-theory-palette-guide/)
-- [DTI Voting Psychology — Why Good Outfits Lose & How to Win Over Voters](/posts/dress-to-impress/voting-psychology-guide/)
+- [DTI Voting Psychology — Why Good Outfits Lose & How to Win Over Voters](/games/dress-to-impress/)

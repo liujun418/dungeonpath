@@ -27,7 +27,7 @@ related:
   - /posts/rivals/weapon-loadout-guide/
   - /posts/rivals/loadout-build-synergy-guide/
   - /posts/rivals/spear-weapon-guide/
-  - /posts/rivals/season-3-weapons-maps-guide/
+  - /games/rivals/
 ---
 
 ## The Scoreboard Says You Lost to a Weapon You Don't Own
@@ -53,7 +53,7 @@ The thing that jumps out: S-tier holds two primaries and one secondary, and A-ti
 
 ## S Tier: The Three Weapons That Actually Carry
 
-**Assault Rifle** is the best all-rounder in the game, and it isn't close. Low recoil, fast time-to-kill, effective at every range, and it is the default primary, which means it costs nothing. There is no map where the AR is a bad choice, and there is no rank where it stops working. Every other weapon on this list is compared against it. If you want to climb, this is the weapon you master before anything else — our [aim-training guide](/posts/rivals/aim-training-guide/) is built around exactly this gun.
+**Assault Rifle** is the best all-rounder in the game, and it isn't close. Low recoil, fast time-to-kill, effective at every range, and it is the default primary, which means it costs nothing. There is no map where the AR is a bad choice, and there is no rank where it stops working. Every other weapon on this list is compared against it. If you want to climb, this is the weapon you master before anything else — our [aim-training guide](/games/rivals/) is built around exactly this gun.
 
 **Permafrost** is the ceiling pick. It is a Contraband submachine gun that fires a 2-round burst, and its bullets slow enemies on hit. Land your bursts and it deletes people. The freeze ability throws whatever ammo is left in your magazine as a projectile — more rounds left means a longer freeze, so a full magazine is a hard stun. It is the best weapon in the game when a top player holds it. We'll dig into why that "when" is the problem in a second.
 
@@ -105,7 +105,7 @@ The Grenade Launcher has the AOE damage but a slow arc and a reload that leaves 
 
 ## What Actually Changed Since Season 3
 
-If you skipped Season 3, here is the short version of what moved the meta. Season 3 was defined by the Grapple Hook and the Spear — mobility and poke tools that let players cross gaps and pressure from weird angles. Our [Season 3 weapons and maps guide](/posts/rivals/season-3-weapons-maps-guide/) covers all of it. Season 4 tightened the gun meta instead of adding more movement tech. The AR stayed on top, burst damage got a real ceiling weapon in Permafrost, and the Exogun gave secondaries a first-class AOE option. The net effect: fights are now decided more by burst accuracy and less by who owns the newest movement trick. That is exactly why the Assault Rifle is still the answer for almost everyone — the season's changes raised the reward for consistency, not for unlocks.
+If you skipped Season 3, here is the short version of what moved the meta. Season 3 was defined by the Grapple Hook and the Spear — mobility and poke tools that let players cross gaps and pressure from weird angles. Our [Season 3 weapons and maps guide](/games/rivals/) covers all of it. Season 4 tightened the gun meta instead of adding more movement tech. The AR stayed on top, burst damage got a real ceiling weapon in Permafrost, and the Exogun gave secondaries a first-class AOE option. The net effect: fights are now decided more by burst accuracy and less by who owns the newest movement trick. That is exactly why the Assault Rifle is still the answer for almost everyone — the season's changes raised the reward for consistency, not for unlocks.
 
 ## Which One Is Yours: A Pick-by-Playstyle Frame
 
@@ -120,7 +120,7 @@ Rather than tell you "just play the meta," here is the decision in the form of a
 | Reaction-speed player | Katana + AR. Deflect to survive, AR to finish. |
 | Long-range, open maps only | Sniper + Uzi. Never on tight maps. |
 
-The thread through all six rows: your first answer is almost always the Assault Rifle. It is the baseline every other recommendation assumes. If you have not put time into it, do that before spending a single Key — our [sensitivity and crosshair guide](/posts/rivals/sensitivity-crosshair-guide/) will make that practice time count for more.
+The thread through all six rows: your first answer is almost always the Assault Rifle. It is the baseline every other recommendation assumes. If you have not put time into it, do that before spending a single Key — our [sensitivity and crosshair guide](/games/rivals/) will make that practice time count for more.
 
 ## The Failure Retrospective: How a Good Weapon Deranked Me
 

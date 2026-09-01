@@ -163,13 +163,13 @@ Pet Simulator 99 rewards patience more than grinding. The players at the top did
 
 **Related Reading:**
 
-- [Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)
+- [Pet Simulator 99 Beginner Guide](/games/pet-simulator-99/)
 - [Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)
 - [Pet Simulator 99 Rebirth & Prestige Guide](/posts/pet-simulator-99/rebirth-prestige-guide/)
 - [Pet Simulator 99 Gems & Coins Guide](/posts/pet-simulator-99/gems-coins-guide/)
 - [Pet Simulator 99 World Progression & Unlock Guide](/posts/pet-simulator-99/world-progression-unlock-guide/)
 - [Pet Simulator 99 Pet Fusion & Evolution Guide](/posts/pet-simulator-99/pet-fusion-evolution-guide/)
-- [Pet Simulator 99 Enchantments & Upgrades Guide](/posts/pet-simulator-99/enchantments-upgrades-guide/)
+- [Pet Simulator 99 Enchantments & Upgrades Guide](/games/pet-simulator-99/)
 - [Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)
 - [Pet Simulator 99 Auto-Farm Optimization Guide](/posts/pet-simulator-99/auto-farm-optimization-guide/)
 - [Pet Simulator 99 Huge & Titanic Pets Guide](/posts/pet-simulator-99/huge-titanic-guide/)

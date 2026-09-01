@@ -135,7 +135,7 @@ Most players watch the ball, their opponent, or their ability icons. The top 1% 
 
 ## Related Guides
 
-- [Blade Ball Beginner Guide — From First Match to First Win](/posts/blade-ball/beginner-guide/)
-- [Blade Ball Speed Curve — Why Everything Changes After Deflection 5](/posts/blade-ball/speed-curve-guide/)
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/)
-- [Blade Ball How to Win — The 4-Decision Framework](/posts/blade-ball/how-to-win-guide/)
+- [Blade Ball Beginner Guide — From First Match to First Win](/games/blade-ball/)
+- [Blade Ball Speed Curve — Why Everything Changes After Deflection 5](/games/blade-ball/)
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/)
+- [Blade Ball How to Win — The 4-Decision Framework](/games/blade-ball/)

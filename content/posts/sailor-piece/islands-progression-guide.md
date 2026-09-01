@@ -737,7 +737,7 @@ A: Yes. Sailor Piece supports multiplayer with cross-platform play on PC, Mac, i
 
 Continue your Sailor Piece adventure with our other comprehensive guides:
 
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** — Complete walkthrough for new players, including stat builds, codes, and early progression
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** — Complete walkthrough for new players, including stat builds, codes, and early progression
 - **[Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)** — Every boss fight, drop tables, and winning tactics
 - **[Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)** — All fruits, abilities, tier lists, trading values, and awakening mechanics
 - **[Sailor Piece Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)** — Master all three Haki types, advanced combos, PvP strategies, and boss techniques

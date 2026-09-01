@@ -29,7 +29,7 @@ related:
   - /posts/palworld/team-composition-guide/
   - /posts/palworld/jetragon-vs-shadowbeak/
   - /posts/palworld/breeding-perfect-passives-guide/
-  - /posts/palworld/beginner-mistakes-guide/
+  - /games/palworld/
   - /posts/palworld/boss-and-tower-guide/
 ---
 
@@ -200,4 +200,4 @@ Some Pals look good on paper and aren't worth the effort.
 
 The stamina times and speed values above come from community testing and shift with balance patches. The exact catch levels and spawn spots can drift after updates, so treat the level gates as "around here," not exact. If a Pal you want isn't where this says it is, check the latest patch notes before you assume the guide is wrong. This list reflects the game as of August 2026.
 
-If you're newer, start with the [beginner mistakes guide](/posts/palworld/beginner-mistakes-guide/) to skip the early traps. For the passives that make any Pal worth keeping, read the [breeding perfect passives guide](/posts/palworld/breeding-perfect-passives-guide/). And when you're ready to fight towers, the [boss and tower guide](/posts/palworld/boss-and-tower-guide/) maps the right combat Pal to each boss.
+If you're newer, start with the [beginner mistakes guide](/games/palworld/) to skip the early traps. For the passives that make any Pal worth keeping, read the [breeding perfect passives guide](/posts/palworld/breeding-perfect-passives-guide/). And when you're ready to fight towers, the [boss and tower guide](/posts/palworld/boss-and-tower-guide/) maps the right combat Pal to each boss.

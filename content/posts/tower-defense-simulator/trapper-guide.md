@@ -26,7 +26,7 @@ related:
   - /posts/tower-defense-simulator/towers-tier-list/
   - /posts/tower-defense-simulator/tower-synergy-combos/
   - /posts/tower-defense-simulator/tower-placement-theory/
-  - /posts/tower-defense-simulator/coin-farming-guide/
+  - /games/tower-defense-simulator/
   - /posts/tower-defense-simulator/fallen-mode-guide/
   - /posts/tower-defense-simulator/loadout-guide/
 ---
@@ -84,7 +84,7 @@ The Trapper is a map-dependent tower, so "is it good" is the wrong question. The
 
 **Hardcore mode:** Niche at best. Enemies hit hard and slots are precious, so spending one on a tower that doesn't scale late is hard to justify. Skip it.
 
-Maps are the bigger filter. The Trapper wants one thing: a long, straight stretch where every enemy walks the same line. The longer an enemy sits on the spikes, the more damage it takes. On a short or winding map, enemies cross the spikes in a second and the tower does almost nothing. The [best maps guide](/posts/tower-defense-simulator/best-maps-guide/) will point you at the straight-lane maps.
+Maps are the bigger filter. The Trapper wants one thing: a long, straight stretch where every enemy walks the same line. The longer an enemy sits on the spikes, the more damage it takes. On a short or winding map, enemies cross the spikes in a second and the tower does almost nothing. The [best maps guide](/games/tower-defense-simulator/) will point you at the straight-lane maps.
 
 ## How to Use It: Placement, Slows, and Anti-Air
 
@@ -132,7 +132,7 @@ Everyone files the Trapper under "damage tower" and compares its DPS to a Minigu
 
 The Trapper's real job is economy. Here's the concrete version. A Minigunner costs a few thousand — money that could be a Farm, or two Farms, compounding from wave 2 onward. The Trapper costs four hundred and holds the early waves by itself, so you keep buying Farms while everyone else saves for one gun.
 
-Run the two paths side by side. Player one saves for a Minigunner and has nothing but a Scout until wave 8. Player two buys a Trapper on wave 2 and Farms every round after. By wave 10, player two has triple the income and can afford the Minigunner anyway — now backed by a full Farm economy. The Trapper didn't beat the Minigunner at damage. It beat it at timing. That's why the [coin farming guide](/posts/tower-defense-simulator/coin-farming-guide/) and the Trapper belong together: the Trapper protects your Farms while they grow.
+Run the two paths side by side. Player one saves for a Minigunner and has nothing but a Scout until wave 8. Player two buys a Trapper on wave 2 and Farms every round after. By wave 10, player two has triple the income and can afford the Minigunner anyway — now backed by a full Farm economy. The Trapper didn't beat the Minigunner at damage. It beat it at timing. That's why the [coin farming guide](/games/tower-defense-simulator/) and the Trapper belong together: the Trapper protects your Farms while they grow.
 
 And the second counterintuitive bit: when you do upgrade the Trapper, buy spike count before spike damage. More spikes means a longer carpet, which means every enemy stands on the spikes longer and eats more ticks. A slightly stronger spike that enemies walk off in half a second does less total damage than a wider carpet they can't escape. Volume beats punch for crowds — and the [enemy wave guide](/posts/tower-defense-simulator/enemy-wave-guide/) is worth reading if you want to time placements to the wave schedule.
 
@@ -164,6 +164,6 @@ On the longest straight stretch of path you can find, where enemies walk a singl
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/)
-- [TDS Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
+- [TDS Coin Farming Guide](/games/tower-defense-simulator/)
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)
 - [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/)

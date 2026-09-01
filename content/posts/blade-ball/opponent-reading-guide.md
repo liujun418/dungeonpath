@@ -189,7 +189,7 @@ Instead, switch to "constraint play": position yourself to survive random outcom
 
 ## Related Guides
 
-- [Blade Ball Beginner Guide — From First Match to First Win](/posts/blade-ball/beginner-guide/)
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/)
-- [Blade Ball How to Win Guide — Advanced Strategies](/posts/blade-ball/how-to-win-guide/)
-- [Blade Ball Mechanics Glossary — AP, Parry, Clash & More](/posts/blade-ball/mechanics-glossary/)
+- [Blade Ball Beginner Guide — From First Match to First Win](/games/blade-ball/)
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/)
+- [Blade Ball How to Win Guide — Advanced Strategies](/games/blade-ball/)
+- [Blade Ball Mechanics Glossary — AP, Parry, Clash & More](/games/blade-ball/)

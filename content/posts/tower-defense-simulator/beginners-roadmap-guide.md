@@ -294,12 +294,12 @@ The players who make it past week one and into Golden mode are not the ones with
 
 ## Related Guides
 
-- [TDS Beginner Guide — Towers, Waves & First Win](/posts/tower-defense-simulator/beginner-guide/)
+- [TDS Beginner Guide — Towers, Waves & First Win](/games/tower-defense-simulator/)
 - [TDS Progression Timeline Guide — Level 1 to Endgame](/posts/tower-defense-simulator/progression-timeline-guide/)
 - [TDS Progression and Unlocks Guide](/posts/tower-defense-simulator/progression-unlocks-guide/)
-- [TDS Coin & Gem Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
+- [TDS Coin & Gem Farming Guide](/games/tower-defense-simulator/)
 - [TDS Loadout Guide — Best Tower Combos](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Fallen Mode Guide — Complete Strategy](/posts/tower-defense-simulator/fallen-mode-guide/)
-- [TDS Timing Decision Guide](/posts/tower-defense-simulator/timing-decision-guide/)
-- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
+- [TDS Timing Decision Guide](/games/tower-defense-simulator/)
+- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/games/tower-defense-simulator/)
 - [TDS Strategy Guide — 5 Decisions That Win](/posts/tower-defense-simulator/strategy-guide/)

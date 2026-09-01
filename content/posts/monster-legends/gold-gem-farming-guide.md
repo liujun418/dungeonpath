@@ -153,17 +153,17 @@ There are a few hidden mechanics that affect your gold and gem income. Knowing t
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Farming Guide](/posts/monster-legends/farming-guide/)
 - [Monster Legends Habitats and Island Layout](/posts/monster-legends/habitats-island-layout/)
-- [Monster Legends Island Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Island Layout Guide](/games/monster-legends/)
 - [Monster Legends Runes and Relics Guide](/posts/monster-legends/runes-and-relics-guide/)
 - [Monster Legends Events Guide](/posts/monster-legends/events-guide/)
 - [Monster Legends Codes Guide](/posts/monster-legends/codes-guide/)
-- [Monster Legends Dungeon Adventure Guide](/posts/monster-legends/dungeon-adventure-guide/)
-- [Monster Legends Dungeon Adventure Strategy](/posts/monster-legends/dungeon-adventure-strategy/)
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/)
+- [Monster Legends Dungeon Adventure Guide](/games/monster-legends/)
+- [Monster Legends Dungeon Adventure Strategy](/games/monster-legends/)
+- [Monster Legends Arena PvP Guide](/games/monster-legends/)
 - [Monster Legends Team Wars Guide](/posts/monster-legends/team-wars-guide/)
 - [Monster Legends Battle Strategy](/posts/monster-legends/battle-strategy/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)

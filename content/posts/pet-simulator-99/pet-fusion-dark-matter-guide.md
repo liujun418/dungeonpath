@@ -187,7 +187,7 @@ The most reliable shard farm is running dense breakable clusters in Void World o
 
 Avoid shard farming during major events unless the event itself drops shards. Event currency might look appealing, but splitting your attention between event goals and shard farming slows both. Farm shards during the gaps between events, when the plaza is quiet and your gem income is stable.
 
-For team setups optimized for farming speed, check the [PS99 Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/).
+For team setups optimized for farming speed, check the [PS99 Team Compositions Guide](/games/pet-simulator-99/).
 
 ## FAQ
 
@@ -221,7 +221,7 @@ Dark Matter material drops from high-level breakables in endgame zones like Void
 - [PS99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets are worth building around
 - [PS99 Huge & Titanic Guide](/posts/pet-simulator-99/huge-titanic-guide/) — Understanding the rarest pet tiers
 - [PS99 Gems & Coins Farming Guide](/posts/pet-simulator-99/gems-coins-guide/) — How to price your time and farm efficiently
-- [PS99 Enchantments & Upgrades Guide](/posts/pet-simulator-99/enchantments-upgrades-guide/) — Maxing your pets before and after Dark Matter
+- [PS99 Enchantments & Upgrades Guide](/games/pet-simulator-99/) — Maxing your pets before and after Dark Matter
 - [PS99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/) — When to sell, when to hold, and when to convert
-- [PS99 Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/) — Farming setups that feed your shard income
+- [PS99 Team Compositions Guide](/games/pet-simulator-99/) — Farming setups that feed your shard income
 - [PS99 Auto-Farm Optimization Guide](/posts/pet-simulator-99/auto-farm-optimization-guide/) — AFK routes for shard and gem collection

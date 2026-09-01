@@ -24,9 +24,9 @@ faq:
   - question: "Is using a crucifix on Rush ever worth it?"
     answer: "Yes, but only in specific situations: open-cavern rooms in The Mines with no closets, during modifier runs with reduced hiding spots, or when you're below 20 HP and one mistake ends the run. In standard Hotel rooms with closets nearby, a crucifix on Rush is almost always a waste."
 related:
-  - /posts/doors/figure-survival-protocol/
+  - /games/doors/
   - /posts/doors/seek-chase-complete-guide/
-  - /posts/doors/ambush-protocol/
+  - /games/doors/
   - /posts/doors/beginner-mistakes-guide/
   - /posts/doors/entity-defense-counter-guide/
 ---
@@ -149,7 +149,7 @@ Rush screams. The player has a crucifix. Their brain short-circuits and they thr
 
 Players buy a crucifix and mentally label it "for Figure only." They refuse to use it on anything else, even when Ambush is about to kill them. Then they die to Ambush with the crucifix unused. Or they reach Figure, use it successfully, and realize they could have bought another one at Jeff's Shop if they'd just survived to get there.
 
-**The fix:** Treat each crucifix as a run-saver, not a Figure-key. Figure is banishable, but Figure is also learnable. Most players who reach Room 100 can beat Figure with practice. Ambush is random. Random threats deserve your consumables more than learnable ones. If you're struggling with Figure specifically, our [Figure survival protocol](/posts/doors/figure-survival-protocol/) covers the electrical room chase in detail.
+**The fix:** Treat each crucifix as a run-saver, not a Figure-key. Figure is banishable, but Figure is also learnable. Most players who reach Room 100 can beat Figure with practice. Ambush is random. Random threats deserve your consumables more than learnable ones. If you're struggling with Figure specifically, our [Figure survival protocol](/games/doors/) covers the electrical room chase in detail.
 
 **Pattern 3: The Late Swap**
 
@@ -171,7 +171,7 @@ Here are five things about the crucifix that sound wrong until you test them.
 
 **The best crucifix placement is behind you, not in front of you.** Most players throw the crucifix toward the entity, like a grenade. That's wrong. The light field is circular and has a slight delay. Placing it at your feet and sprinting past it puts the entity's path directly through the center of the field. Forward placement often lands off-center and misses.
 
-**Ambush is more crucifix-worthy than Figure.** Figure is a set-piece boss. You can learn it. You can practice it. Ambush is RNG layered on top of RNG — spawn door, bounce count, room layout. You can't practice Ambush because every encounter is different. Your consumables should go to unpredictable threats, not learnable ones. For a full breakdown of Ambush behavior, see our [Ambush protocol guide](/posts/doors/ambush-protocol/).
+**Ambush is more crucifix-worthy than Figure.** Figure is a set-piece boss. You can learn it. You can practice it. Ambush is RNG layered on top of RNG — spawn door, bounce count, room layout. You can't practice Ambush because every encounter is different. Your consumables should go to unpredictable threats, not learnable ones. For a full breakdown of Ambush behavior, see our [Ambush protocol guide](/games/doors/).
 
 ---
 

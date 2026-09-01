@@ -181,7 +181,7 @@ The fish below are the ones that move your score. You do not need to memorize ev
 
 **Lower Deep (The Deep expansion):** the rarest spawns live here now. If a bracket runs in the trench, the Scalding Hook and a harpoon gun slot in immediately — the rarity density is why The Deep gear was built the way it is.
 
-For spawn conditions and the full map, see the [fish location map](/posts/fisch/fish-location-map/).
+For spawn conditions and the full map, see the [fish location map](/games/fisch/).
 
 ---
 

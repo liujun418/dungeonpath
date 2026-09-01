@@ -793,7 +793,7 @@ A: Hidden bosses like Escanor and the Hollow Boss offer unique titles and items 
 
 Now that you know every boss inside and out, continue your Sailor Piece journey with our other comprehensive guides:
 
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** -- Complete walkthrough covering stat builds, Devil Fruits, Haki, races, clans, and progression from level 0 to Sea 2
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** -- Complete walkthrough covering stat builds, Devil Fruits, Haki, races, clans, and progression from level 0 to Sea 2
 - **[Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)** -- Every fruit ranked, awakening guides, and the best fruit recommendations for each build
 - **[Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)** -- Master Armament, Observation, and Conqueror's Haki, plus 20+ fighting styles
 - **[Islands Progression Guide](/posts/sailor-piece/islands-progression-guide/)** -- Complete island-by-island walkthrough with quest chains and travel routes

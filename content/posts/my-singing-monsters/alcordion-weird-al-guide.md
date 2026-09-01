@@ -16,7 +16,7 @@ related:
   - "/posts/my-singing-monsters/legendary-island-guide/"
   - "/posts/my-singing-monsters/farming-guide/"
   - "/posts/my-singing-monsters/ethereal-island-guide/"
-  - "/posts/my-singing-monsters/beginner-mistakes-guide/"
+  - "/games/my-singing-monsters/"
 faq:
   - question: "What is Alcordion in My Singing Monsters?"
     answer: "Alcordion is a new Legendary Monster added in the 5.6.0 update on August 5, 2026. It is voiced and based on Grammy-winning musician 'Weird Al' Yankovic, and it lives on Air Island. Alcordion carries the 'Master of Games' title and introduces the game's new Minigame system, with DIPSTER DIGS as the first minigame."
@@ -193,4 +193,4 @@ And one more time, because this is the thing most people will skip: **WLCM2DACLU
 - [MSM Legendary Island Guide — Breeding, Songs & Walkthrough](/posts/my-singing-monsters/legendary-island-guide/)
 - [MSM Ethereal Island Guide — Shards & Teleporting](/posts/my-singing-monsters/ethereal-island-guide/)
 - [MSM Farming Guide — Coins, Food & Diamonds](/posts/my-singing-monsters/farming-guide/)
-- [MSM Beginner Mistakes — 10 Errors & Fixes](/posts/my-singing-monsters/beginner-mistakes-guide/)
+- [MSM Beginner Mistakes — 10 Errors & Fixes](/games/my-singing-monsters/)

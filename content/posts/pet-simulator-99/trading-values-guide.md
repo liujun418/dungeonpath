@@ -247,7 +247,7 @@ Holding gems feels unproductive when everyone else is flexing pets in their inve
 
 ## Scam Prevention: Quick Reference
 
-For a complete guide on avoiding scams, see our [Pet Simulator 99 Trading Scam Prevention Guide](/posts/pet-simulator-99/trading-scam-prevention/). Here's the quick version:
+For a complete guide on avoiding scams, see our [Pet Simulator 99 Trading Scam Prevention Guide](/games/pet-simulator-99/). Here's the quick version:
 
 - **Never do trust trades.** Use simultaneous exchange only. Anyone asking you to "go first" is testing your judgment.
 - **Verify variants in the trade window.** Normal, Golden, Rainbow, and Shiny look different. Confirm the tag matches the deal.
@@ -278,7 +278,7 @@ Gargantuan pets are the most valuable tier, followed by Titanic pets. As of Augu
 
 ## Next Steps
 
-- **[Pet Simulator 99 Beginner Guide](/posts/pet-simulator-99/beginner-guide/)** — Complete walkthrough for new players
+- **[Pet Simulator 99 Beginner Guide](/games/pet-simulator-99/)** — Complete walkthrough for new players
 - **[Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/)** — Detailed ranking of every pet
 - **[Pet Simulator 99 Huge and Titanic Pets Guide](/posts/pet-simulator-99/huge-titanic-guide/)** — Complete guide to the rarest pets
 - **[Pet Simulator 99 Gems and Coins Guide](/posts/pet-simulator-99/gems-coins-guide/)** — Best strategies for earning currency fast

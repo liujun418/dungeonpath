@@ -281,9 +281,9 @@ Role distribution only works if the roles talk to each other. The Intel player n
 
 - [Snipe Agents & Abilities Complete Guide — Which Playstyle Fits You](/posts/snipe/agents-abilities-guide/)
 - [Snipe Weapon & Ability Combo Guide — Build a Loadout That Works](/posts/snipe/weapon-ability-combos-guide/)
-- [Snipe Ranked Climbing Guide — RP System & Tier Strategy](/posts/snipe/ranked-climbing-guide/)
+- [Snipe Ranked Climbing Guide — RP System & Tier Strategy](/games/snipe/)
 - [Snipe Solo vs Squad Guide — Team Play & Communication](/posts/snipe/solo-vs-squad-guide/)
-- [Snipe Positioning & Angles Guide — Off-Angles & Sightlines](/posts/snipe/positioning-angles-guide/)
+- [Snipe Positioning & Angles Guide — Off-Angles & Sightlines](/games/snipe/)
 - [Snipe Map Callouts & Communication Guide](/posts/snipe/map-callouts-communication-guide/)
 - [Snipe Maps & Strategies Guide — Positioning & Advanced Tactics](/posts/snipe/maps-strategies-guide/)
-- [Snipe Beginner Mistakes Guide — 10 Errors That Get You Killed](/posts/snipe/beginner-mistakes-guide/)
+- [Snipe Beginner Mistakes Guide — 10 Errors That Get You Killed](/games/snipe/)

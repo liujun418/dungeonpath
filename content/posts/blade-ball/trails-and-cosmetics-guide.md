@@ -190,7 +190,7 @@ The wheel follows a tiered probability system. Common items drop roughly 50 to 6
 
 ### How to Get Spin Tokens
 
-Spin tokens come from several sources. Winning a match awards one token — this is your primary free method. Daily login streaks yield one to three tokens, increasing with consecutive days. Achievement completions like "50 wins" grant two to five tokens each. Event participation is the most generous source, offering 3 to 10 tokens per event. Code redemptions occasionally include one or two tokens — always check our [Codes Guide](/posts/blade-ball/codes-guide/) for active codes. You can also purchase tokens directly with Robux from the shop.
+Spin tokens come from several sources. Winning a match awards one token — this is your primary free method. Daily login streaks yield one to three tokens, increasing with consecutive days. Achievement completions like "50 wins" grant two to five tokens each. Event participation is the most generous source, offering 3 to 10 tokens per event. Code redemptions occasionally include one or two tokens — always check our [Codes Guide](/games/blade-ball/) for active codes. You can also purchase tokens directly with Robux from the shop.
 
 > **Pro Tip:** Save your spin tokens for **special event wheels** that feature exclusive cosmetics. Regular wheels are available anytime, but event wheels rotate and may not return.
 
@@ -254,7 +254,7 @@ Promotional codes occasionally reward cosmetic items in addition to coins and to
 6. If the code is valid and active, your cosmetic will be added to your inventory
 7. Check your **Inventory** to equip the new cosmetic
 
-> **Important:** Codes have expiration dates and usage limits. Redeem them as soon as possible. A code that worked for one player may not work for another if it has reached its redemption cap. Visit our dedicated [Blade Ball Codes Guide](/posts/blade-ball/codes-guide/) for the latest working codes and rewards.
+> **Important:** Codes have expiration dates and usage limits. Redeem them as soon as possible. A code that worked for one player may not work for another if it has reached its redemption cap. Visit our dedicated [Blade Ball Codes Guide](/games/blade-ball/) for the latest working codes and rewards.
 
 ---
 
@@ -353,7 +353,7 @@ Equip your best cosmetics through Inventory before each session so other players
 
 ## Coin Farming Strategy for Cosmetics
 
-Building a complete cosmetic collection requires significant coin income. Here is the most efficient strategy. For tips on winning more matches, see our [How to Win Guide](/posts/blade-ball/how-to-win-guide/).
+Building a complete cosmetic collection requires significant coin income. Here is the most efficient strategy. For tips on winning more matches, see our [How to Win Guide](/games/blade-ball/).
 
 ### Daily Coin Earning Plan
 
@@ -464,10 +464,10 @@ The **Phoenix Blade** can be purchased for 3,500 coins or obtained through the w
 
 ## Next Steps
 
-1. **[Blade Ball Codes Guide](/posts/blade-ball/codes-guide/)** — Get free coins to buy cosmetics faster with active codes
+1. **[Blade Ball Codes Guide](/games/blade-ball/)** — Get free coins to buy cosmetics faster with active codes
 2. **[Blade Ball Abilities Tier List](/posts/blade-ball/abilities-tier-list/)** — Pair your new cosmetics with the best abilities
 3. **[Blade Ball Maps and Trails Guide](/posts/blade-ball/maps-and-trails-guide/)** — Explore all maps and available trails
-4. **[Blade Ball How to Win Guide](/posts/blade-ball/how-to-win-guide/)** — Win more matches to earn coins for cosmetics
+4. **[Blade Ball How to Win Guide](/games/blade-ball/)** — Win more matches to earn coins for cosmetics
 5. **[Browse all guides](/posts/)** — Visit our guides page for the latest walkthroughs
 
 ---

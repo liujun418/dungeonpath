@@ -27,9 +27,9 @@ related:
   - /posts/fisch/withered-spear-guide/
   - /posts/fisch/noiseform-rod-guide/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/rod-progression-timeline/
+  - /games/fisch/
   - /posts/fisch/atlantean-storm-bestiary/
-  - /posts/fisch/rare-mythic-fish-guide/
+  - /games/fisch/
   - /posts/fisch/rod-bait-combination-guide/
   - /posts/fisch/the-deep-update-guide/
 ---
@@ -42,7 +42,7 @@ The Rod of Singularity dropped in the Astral Observatory update, around August 2
 
 Fisch has always gated its best rods behind a grind, but most of those grinds are one thing: farm C$, or beat one boss, or finish one questline. The Rod of Singularity breaks that pattern. You don't grind for it. You *route* for it.
 
-The route matters because the two chains touch six different zones, two NPCs, and a Dyson Sphere item that only exists to hand off between them. The quest assumes you already own several late-game rods — the Celestial Rod, the Requiem Rod, the Cerulean Fang Rod, and something fast like the Plague River. If you're still building that set, our [rod progression timeline](/posts/fisch/rod-progression-timeline/) lays out the order to pick them up without blowing C$ on the wrong one first.
+The route matters because the two chains touch six different zones, two NPCs, and a Dyson Sphere item that only exists to hand off between them. The quest assumes you already own several late-game rods — the Celestial Rod, the Requiem Rod, the Cerulean Fang Rod, and something fast like the Plague River. If you're still building that set, our [rod progression timeline](/games/fisch/) lays out the order to pick them up without blowing C$ on the wrong one first.
 
 The payoff is a rod that, depending on which source you trust, is either one of the strongest endgame tools in the game or a solid-but-not-broken chase item. We'll get into that split honestly in a bit. First, the quest itself.
 
@@ -164,7 +164,7 @@ Hard to answer cleanly because sources disagree on its stats. One report lists r
 ## Related Guides
 
 - [Fisch Best Rods Tier List (2026)](/posts/fisch/best-rods-tier-list/) — Where the Rod of Singularity lands against every other rod, once the stats are confirmed.
-- [Fisch Rod Progression Timeline](/posts/fisch/rod-progression-timeline/) — The order to earn the Celestial Rod, Requiem, Cerulean Fang, and Plague River before you start.
+- [Fisch Rod Progression Timeline](/games/fisch/) — The order to earn the Celestial Rod, Requiem, Cerulean Fang, and Plague River before you start.
 - [Fisch Rod and Bait Combination Guide](/posts/fisch/rod-bait-combination-guide/) — Which bait stacks luck best on the rods this quest makes you carry.
 - [Fisch Atlantean Storm Bestiary](/posts/fisch/atlantean-storm-bestiary/) — The hidden-fish spawns and mutations that sit in the same endgame space.
 - [Fisch The Deep Update Guide](/posts/fisch/the-deep-update-guide/) — Maps the Sea 3 zones and The Depths, since Abyssal Zenith is part of that expansion.

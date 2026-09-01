@@ -22,7 +22,7 @@ faq:
   - question: "What matters more: rare drops or guaranteed drops?"
     answer: "For long farms, guaranteed drops matter more than one lucky rare. Bloodline Stones and Clan Rerolls add up. Build your route around kills per hour first. Rare drops come from volume."
 related:
-  - "/posts/sailor-piece/ships-navigation-guide/"
+  - "/games/sailor-piece/"
   - "/posts/sailor-piece/boss-strategies-guide/"
   - "/posts/sailor-piece/crew-ship-guide/"
   - "/posts/sailor-piece/devil-fruits-guide/"
@@ -46,7 +46,7 @@ No Bloodline Stone. No Clan Reroll. No rare drop. Just an empty ocean and one wa
 
 That run did not fail because you were unlucky. It failed because you treated Sea Beast hunting like random sailing. In **Sailor Piece**, ocean bosses punish loose routing, weak spawn control, and bad damage priority.
 
-If you need basic ship controls, start with the [Sailor Piece Ships & Navigation Guide](/posts/sailor-piece/ships-navigation-guide/). If your land boss damage is weak, read the [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/) before trying serious ocean farms.
+If you need basic ship controls, start with the [Sailor Piece Ships & Navigation Guide](/games/sailor-piece/). If your land boss damage is weak, read the [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/) before trying serious ocean farms.
 
 ## What This Guide Covers
 
@@ -284,7 +284,7 @@ For long farms, guaranteed drops matter more than one lucky rare. Bloodline Ston
 
 ## Related Guides
 
-- [Sailor Piece Ships & Navigation Guide](/posts/sailor-piece/ships-navigation-guide/)
+- [Sailor Piece Ships & Navigation Guide](/games/sailor-piece/)
 - [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)
 - [Sailor Piece Crew & Ship Guide](/posts/sailor-piece/crew-ship-guide/)
 - [Sailor Piece Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)

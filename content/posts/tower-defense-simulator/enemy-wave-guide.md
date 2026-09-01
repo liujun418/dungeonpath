@@ -280,11 +280,11 @@ Play Casual mode first to observe enemy behavior without pressure. Then progress
 
 ## Next Steps
 
-1. **[TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/)** — Complete walkthrough for new players
+1. **[TDS Beginner Guide](/games/tower-defense-simulator/)** — Complete walkthrough for new players
 2. **[TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)** — Complete ranking of every tower in the 2026 meta
-3. **[TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)** — Strategy for every map
+3. **[TDS Best Maps Guide](/games/tower-defense-simulator/)** — Strategy for every map
 4. **[TDS Codes Guide](/posts/tower-defense-simulator/codes-guide/)** — All active codes for free crates and rewards
-5. **[TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)** — How to survive the hardest difficulty
+5. **[TDS Hardcore Mode Guide](/games/tower-defense-simulator/)** — How to survive the hardest difficulty
 6. **[TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)** — Complete strategies for Fallen mode
 7. **[TDS Strategy Guide](/posts/tower-defense-simulator/strategy-guide/)** — Advanced tactics, combos, and pro techniques
 8. **[Browse all guides](/posts/)** — Visit our guides page

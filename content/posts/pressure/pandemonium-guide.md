@@ -26,7 +26,7 @@ faq:
 related:
   - /posts/pressure/entities-guide/
   - /posts/pressure/audio-identification-guide/
-  - /posts/pressure/locker-hiding-mechanics-guide/
+  - /games/pressure/
   - /posts/pressure/entity-timing-guide/
   - /posts/pressure/survival-tips-guide/
   - /posts/pressure/beginner-guide/
@@ -83,7 +83,7 @@ Don't wait to fully identify it. The moment the ambience cuts and what follows i
 
 Against Angler, the game is a locker puzzle: find the nearest one, get in, wait. Pandemonium breaks that puzzle two ways.
 
-First, it breaks the map. A corridor you've run a hundred times has walls and corners you trust. Pandemonium doesn't care about any of it. It can come through a wall, so "the hallway is empty" stops being reliable. The [locker mechanics guide](/posts/pressure/locker-hiding-mechanics-guide/) covers normal hiding, but against Pandemonium your position matters more than your locker.
+First, it breaks the map. A corridor you've run a hundred times has walls and corners you trust. Pandemonium doesn't care about any of it. It can come through a wall, so "the hallway is empty" stops being reliable. The [locker mechanics guide](/games/pressure/) covers normal hiding, but against Pandemonium your position matters more than your locker.
 
 Second, it breaks the locker. It's so well-established that a locker saves you that most players never question it. Against Pandemonium, a locker is a first move. Reports describe it testing the door, and some players say it broke through. The safe assumption: a locker buys time and cover, not immunity.
 
@@ -164,7 +164,7 @@ Angler passes through a corridor on a fixed line and leaves. Pandemonium hunts. 
 
 - [Pressure Entities Guide — Every Monster, Behavior & Counter](/posts/pressure/entities-guide/)
 - [Pressure Audio Identification Guide — Sound Cues for Every Entity](/posts/pressure/audio-identification-guide/)
-- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/posts/pressure/locker-hiding-mechanics-guide/)
+- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/games/pressure/)
 - [Pressure Entity Timing Guide — How Long to Hold the Locker](/posts/pressure/entity-timing-guide/)
 - [Pressure Survival Tips — General Advice for Longer Runs](/posts/pressure/survival-tips-guide/)
 - [Pressure Beginner Guide — Start Here](/posts/pressure/beginner-guide/)

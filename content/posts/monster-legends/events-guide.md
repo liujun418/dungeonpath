@@ -161,10 +161,10 @@ Everything else — speed-ups during normal breeding, energy refills on day 2 of
 
 - [Monster Legends Breeding Guide — stop wasting gems on speed-ups](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/)
-- [Monster Legends Beginner Guide — first 7 days](/posts/monster-legends/beginner-guide/)
-- [Monster Legends Dungeon Adventure Strategy](/posts/monster-legends/dungeon-adventure-strategy/)
+- [Monster Legends Beginner Guide — first 7 days](/games/monster-legends/)
+- [Monster Legends Dungeon Adventure Strategy](/games/monster-legends/)
 - [Monster Legends Gold and Gem Farming Guide](/posts/monster-legends/gold-gem-farming-guide/)
 - [Monster Legends Food and Feeding Optimization Guide](/posts/monster-legends/food-feeding-optimization-guide/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)
 - [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
-- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/games/monster-legends/)

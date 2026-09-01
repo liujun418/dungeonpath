@@ -249,11 +249,11 @@ Use Freeplay mode to practice walking, posing, and timing. Walk to the end of th
 
 ## Next Steps
 
-1. **[Dress To Impress Beginner Guide](/posts/dress-to-impress/beginner-guide/)** — Complete walkthrough for new players
-2. **[Dress To Impress All Themes List](/posts/dress-to-impress/all-themes-list/)** — Every theme and outfit ideas
+1. **[Dress To Impress Beginner Guide](/games/dress-to-impress/)** — Complete walkthrough for new players
+2. **[Dress To Impress All Themes List](/games/dress-to-impress/)** — Every theme and outfit ideas
 3. **[Dress To Impress Advanced Tips](/posts/dress-to-impress/advanced-tips/)** — Pro-level strategies for consistent wins
-4. **[Dress To Impress Codes Guide](/posts/dress-to-impress/codes-and-items/)** — All active codes and rewards
-5. **[Dress To Impress Seashells and Collectibles](/posts/dress-to-impress/seashells-collectibles/)** — Hidden collectibles guide
+4. **[Dress To Impress Codes Guide](/games/dress-to-impress/)** — All active codes and rewards
+5. **[Dress To Impress Seashells and Collectibles](/games/dress-to-impress/)** — Hidden collectibles guide
 6. **[Dress To Impress Seasonal Events Guide](/posts/dress-to-impress/seasonal-events-guide/)** — Events and limited items
 7. **[Browse all guides](/posts/)** — Visit our guides page
 

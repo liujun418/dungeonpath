@@ -212,7 +212,7 @@ Usually, yes. Desolate Deep fish tend to have stronger base value, better weight
 
 ## Related Guides
 
-- [Fisch Complete Location Map — Every Species, Exact Conditions & the Best Spot at Your Level](/posts/fisch/complete-location-map/)
+- [Fisch Complete Location Map — Every Species, Exact Conditions & the Best Spot at Your Level](/games/fisch/)
 - [Fisch Best Rods Tier List — What to Buy and When to Stop Upgrading](/posts/fisch/best-rods-tier-list/)
-- [Fisch Bait Economy Guide — Stop Burning C$ on the Wrong Bait](/posts/fisch/bait-economy-guide/)
-- [Fisch Enchantment Strategy Guide — Best Enchants by Rod and Goal](/posts/fisch/enchantment-strategy-guide/)
+- [Fisch Bait Economy Guide — Stop Burning C$ on the Wrong Bait](/games/fisch/)
+- [Fisch Enchantment Strategy Guide — Best Enchants by Rod and Goal](/games/fisch/)

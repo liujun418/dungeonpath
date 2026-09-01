@@ -143,12 +143,12 @@ Build strict consumable protocols. Learn the room types that kill deep runs. Pra
 - [Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)
 - [Pressure Entities Guide](/posts/pressure/entities-guide/)
 - [Pressure Entity Timing Guide](/posts/pressure/entity-timing-guide/)
-- [Pressure Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)
+- [Pressure Items and Puzzles Guide](/games/pressure/)
 - [Pressure Items Loadout Tier List](/posts/pressure/items-loadout-tier-list/)
-- [Pressure Locker Hiding Mechanics Guide](/posts/pressure/locker-hiding-mechanics-guide/)
+- [Pressure Locker Hiding Mechanics Guide](/games/pressure/)
 - [Pressure Multiplayer Guide](/posts/pressure/multiplayer-guide/)
 - [Pressure Speedrun Guide](/posts/pressure/speedrun-guide/)
-- [Pressure Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/)
+- [Pressure Floors and Locations Guide](/games/pressure/)
 - [Pressure Endless Mode Guide](/posts/pressure/endless-mode-guide/)
 
 ---

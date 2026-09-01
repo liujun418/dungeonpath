@@ -208,7 +208,7 @@ In a fast-paced FPS like RIVALS, frame rate and visual clarity are more importan
 | Use gyroscope aiming | Enable device gyro for fine aim adjustments | More precise aiming |
 | Practice in training mode | Spend 10 minutes adapting to your layout before ranked | Reduced in-match adjustment time |
 
-On controller or console? The settings are different — our [RIVALS Controller & Console Optimization Guide](/posts/rivals/controller-console-guide/) covers sensitivity curves, aim assist types, button layouts, and console-specific tweaks.
+On controller or console? The settings are different — our [RIVALS Controller & Console Optimization Guide](/games/rivals/) covers sensitivity curves, aim assist types, button layouts, and console-specific tweaks.
 
 ---
 
@@ -427,7 +427,7 @@ Continue optimizing your RIVALS experience with these complementary guides:
 - **[RIVALS Common Mistakes Guide](/posts/rivals/beginner-mistakes-guide/)** — 15 things new players get wrong and how to fix them
 - **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Pair your perfect settings with the best weapons in the game.
 - **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Master slide jumping, strafing, and advanced movement
-- **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — All maps, callouts, and winning strategies
+- **[RIVALS Maps and Strategies Guide](/games/rivals/)** — All maps, callouts, and winning strategies
 - **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained, ranked climbing tips
 - **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 

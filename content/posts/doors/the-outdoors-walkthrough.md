@@ -605,7 +605,7 @@ A: The optimal route minimizes time on open paths, uses the right-hand rule in t
 Ready to explore more of DOORS? Check out our other guides:
 
 - **[DOORS Beginner Guide](/posts/doors/beginner-guide/)** -- Complete overview of all floors
-- **[DOORS The Mines Walkthrough](/posts/doors/the-mines-walkthrough/)** -- Floor 2 complete guide
+- **[DOORS The Mines Walkthrough](/games/doors/)** -- Floor 2 complete guide
 - **[DOORS Entities Bestiary](/posts/doors/entities-bestiary/)** -- Every entity detailed
 - **[DOORS Achievements and Secrets](/posts/doors/achievements-and-secrets/)** -- All 87+ achievements
 - **[DOORS Speedrun Guide](/posts/doors/speedrun-guide/)** -- Beat every floor fast

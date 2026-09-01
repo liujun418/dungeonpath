@@ -24,11 +24,11 @@ faq:
   - question: "Where exactly does the Phantom Ray spawn?"
     answer: "In the ocean around the Grand Reef, including the deeper water just off its edge. It's tied to the reef's cast pool, so it won't appear at ponds, docks, or unrelated beaches."
 related:
-  - /posts/fisch/fish-location-map/
-  - /posts/fisch/complete-location-map/
+  - /games/fisch/
+  - /games/fisch/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/bait-economy-guide/
-  - /posts/fisch/weather-time-season-guide/
+  - /games/fisch/
+  - /games/fisch/
 ---
 
 ## You Fished All Night and Never Saw a Glow
@@ -56,7 +56,7 @@ Here's the profile at a glance:
 | Weather | Not weather-gated |
 | Stat that matters | Lure Speed |
 
-Players chase it for three reasons, usually in this order: bestiary completion, the C$ sell value, and progression toward the rarer mythics that sit above it. If you're building toward the [rare and mythic fish](/posts/fisch/rare-mythic-fish-guide/) tier, the Phantom Ray is a mid-ladder box you have to tick.
+Players chase it for three reasons, usually in this order: bestiary completion, the C$ sell value, and progression toward the rarer mythics that sit above it. If you're building toward the [rare and mythic fish](/games/fisch/) tier, the Phantom Ray is a mid-ladder box you have to tick.
 
 ## Where: The Grand Reef, Not "Anywhere in the Ocean"
 
@@ -65,7 +65,7 @@ The Phantom Ray is an ocean fish, and the anchor spot is the Grand Reef area plu
 Two things matter more than your exact standing spot:
 
 - Fish from the reef itself, or from a boat just off the drop-off. Either works.
-- Don't substitute. The ray won't show at the Moosewood docks, a pond, or some random beach. It's tied to the reef's pool, so check the [Fisch location map](/posts/fisch/fish-location-map/) if you aren't sure where the Grand Reef sits on the map, or the [complete location map](/posts/fisch/complete-location-map/) for the deeper spots around it.
+- Don't substitute. The ray won't show at the Moosewood docks, a pond, or some random beach. It's tied to the reef's pool, so check the [Fisch location map](/games/fisch/) if you aren't sure where the Grand Reef sits on the map, or the [complete location map](/games/fisch/) for the deeper spots around it.
 
 A word of caution: the exact radius the game counts as "the reef" shifts between updates. Treat the Grand Reef as the center, fish close to it, and don't drift miles out assuming the ray follows you.
 
@@ -77,7 +77,7 @@ Check the in-game clock, not your bedroom wall. The game runs its own day-night 
 
 Here's the routine to avoid the daytime trap: show up just before dusk. Get positioned, bait on, line in the water before the sky goes fully dark. Then fish the entire night window without stopping to check your phone or switch spots. When the sun comes up, the ray's gone from the roll — stop casting, and either wait for the next night or go do something else.
 
-For the fuller picture on how time, seasons, and weather interact with spawns, the [weather, time, and seasons guide](/posts/fisch/weather-time-season-guide/) covers the whole system.
+For the fuller picture on how time, seasons, and weather interact with spawns, the [weather, time, and seasons guide](/games/fisch/) covers the whole system.
 
 ## Bait: Nocturnal Bait Is the Real Gate
 
@@ -87,7 +87,7 @@ The ray is a nocturnal fish, and in Fisch, nocturnal fish are gated by Nocturnal
 
 What counts as Nocturnal bait: the squid-line baits — Black Squid is the one most players name, and the other squid-derived nocturnal baits do the same job. They're the "night" option on the bait menu.
 
-Where to get it depends on the update. Squid-line baits come from squid you catch, from bait crates, and sometimes straight from the bait shop. The reliable route is to catch squid and open crates until you've got a stack, then hold it for night. Stock up before the hunt — bait burns per catch, so a full night window will chew through a surprising amount. If your bait economy is thin, the [bait economy guide](/posts/fisch/bait-economy-guide/) covers how to keep a stack without going broke, and the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) shows how the pairing math works.
+Where to get it depends on the update. Squid-line baits come from squid you catch, from bait crates, and sometimes straight from the bait shop. The reliable route is to catch squid and open crates until you've got a stack, then hold it for night. Stock up before the hunt — bait burns per catch, so a full night window will chew through a surprising amount. If your bait economy is thin, the [bait economy guide](/games/fisch/) covers how to keep a stack without going broke, and the [rod and bait combination guide](/posts/fisch/rod-bait-combination-guide/) shows how the pairing math works.
 
 ## Rod & Setup: Lure Speed First, Luck Second
 
@@ -103,7 +103,7 @@ Rod picks, in order of what you probably own:
 - A rod with a lure mutation or lure enchant. Stacking Lure Speed on an already-fast rod is even better.
 - Enough Max Kg to actually land the ray. It's legendary, not necessarily heavy, but don't bring a starter twig.
 
-If you're still deciding which rod to build toward, the [best rods tier list](/posts/fisch/best-rods-tier-list/) ranks the Lure Speed options, and the [rod progression timeline](/posts/fisch/rod-progression-timeline/) shows what to aim for at your level.
+If you're still deciding which rod to build toward, the [best rods tier list](/posts/fisch/best-rods-tier-list/) ranks the Lure Speed options, and the [rod progression timeline](/games/fisch/) shows what to aim for at your level.
 
 ## The Reliable Catch Routine
 
@@ -169,8 +169,8 @@ In the ocean around the Grand Reef, including the deeper water just off its edge
 
 ## Related Guides
 
-- [Fisch Fish Location Map — Find Any Spawn Spot](/posts/fisch/fish-location-map/)
-- [Fisch Complete Location Map — Every Zone & Deep Spot](/posts/fisch/complete-location-map/)
+- [Fisch Fish Location Map — Find Any Spawn Spot](/games/fisch/)
+- [Fisch Complete Location Map — Every Zone & Deep Spot](/games/fisch/)
 - [Fisch Best Rods Tier List — Lure Speed vs Luck](/posts/fisch/best-rods-tier-list/)
-- [Fisch Bait Economy Guide — Stocking Nocturnal Bait](/posts/fisch/bait-economy-guide/)
-- [Fisch Weather, Time & Seasons — The Spawn Clock](/posts/fisch/weather-time-season-guide/)
+- [Fisch Bait Economy Guide — Stocking Nocturnal Bait](/games/fisch/)
+- [Fisch Weather, Time & Seasons — The Spawn Clock](/games/fisch/)

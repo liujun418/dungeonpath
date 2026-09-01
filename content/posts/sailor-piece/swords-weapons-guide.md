@@ -173,7 +173,7 @@ The drop rates for Legendary weapons range from 3% to 8% depending on the boss. 
 - [Sailor Piece Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)
 - [Sailor Piece PvP Battle Guide](/posts/sailor-piece/pvp-battle-guide/)
 - [Sailor Piece Boss Strategies Guide](/posts/sailor-piece/boss-strategies-guide/)
-- [Sailor Piece Beginner Guide — Your First Ship and Best Starter Fruit](/posts/sailor-piece/beginner-guide/)
+- [Sailor Piece Beginner Guide — Your First Ship and Best Starter Fruit](/games/sailor-piece/)
 
 ---
 

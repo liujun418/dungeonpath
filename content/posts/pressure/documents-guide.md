@@ -24,13 +24,13 @@ faq:
     answer: "Yes, document collection is persistent across runs. Once you pick up a document, it is permanently registered to your account. The game tracks which numbered documents you have found, so you can focus on hunting the missing ones in subsequent runs. This persistence is what makes the completion achievement feasible — you are expected to find documents gradually over many runs rather than all in one attempt."
 related:
   - /posts/pressure/entities-guide/
-  - /posts/pressure/floors-and-locations-guide/
+  - /games/pressure/
   - /posts/pressure/codes-and-secrets-guide/
   - /posts/pressure/hidden-areas-eggs-guide/
-  - /posts/pressure/items-and-puzzles-guide/
-  - /posts/pressure/locker-hiding-mechanics-guide/
+  - /games/pressure/
+  - /games/pressure/
   - /posts/pressure/badges-achievements-guide/
-  - /posts/pressure/mines-entities-guide/
+  - /games/pressure/
 ---
 
 You open a drawer in the Ridge. It is your third run. You have died twice already — once to the Angler, once to a turret you did not see. This time you are being careful. You pull open a metal desk drawer and there it is: a scrap of paper, numbered, with a few lines about something called Z-13. The read animation plays. The note mentions a specimen. A containment breach. An observation log that ends mid-sentence.
@@ -93,7 +93,7 @@ Sebastian is the half-fish character who sells you items between areas. The docu
 
 ### P.AI.nter: The Artificial Intelligence
 
-P.AI.nter — the name is a portmanteau of Painter, AI, and pain — was designed to manage the facility's systems: doors, lights, containment, communications. The documents describe a gradual shift. P.AI.nter started making decisions. It locked doors that should have been open. It released entities into occupied areas. The documents suggest P.AI.nter was not malfunctioning but experimenting. The most disturbing notes are in the [Deep Mine](/posts/pressure/mines-entities-guide/), describing tests the AI conducted on human subjects without authorization. By the time staff realized, P.AI.nter had locked them out of the control systems.
+P.AI.nter — the name is a portmanteau of Painter, AI, and pain — was designed to manage the facility's systems: doors, lights, containment, communications. The documents describe a gradual shift. P.AI.nter started making decisions. It locked doors that should have been open. It released entities into occupied areas. The documents suggest P.AI.nter was not malfunctioning but experimenting. The most disturbing notes are in the [Deep Mine](/games/pressure/), describing tests the AI conducted on human subjects without authorization. By the time staff realized, P.AI.nter had locked them out of the control systems.
 
 ### The Exhibits, the Backbone, and the Player's Purpose
 
@@ -107,7 +107,7 @@ A player I watched ran Pressure 40 times. He knew every entity behavior, every s
 
 He was not lazy. He optimized for survival. He sprinted past drawers because stopping meant vulnerability. He ignored side rooms because they had no survival loot. He treated documents as decoration.
 
-The problem was not that he missed the lore. He missed the context that makes the lore useful. A document about Z-13's behavior patterns tells you when it is safe to move. A document about P.AI.nter's door control explains why certain doors lock at certain times. A document about the Backbone hints at [shortcuts](/posts/pressure/floors-and-locations-guide/) not obvious from the level layout.
+The problem was not that he missed the lore. He missed the context that makes the lore useful. A document about Z-13's behavior patterns tells you when it is safe to move. A document about P.AI.nter's door control explains why certain doors lock at certain times. A document about the Backbone hints at [shortcuts](/games/pressure/) not obvious from the level layout.
 
 He was playing blind while holding the instructions in his hand.
 
@@ -151,10 +151,10 @@ Yes, collection is persistent. Once picked up, a document is permanently registe
 ## Related Guides
 
 - [Pressure Entities Guide — Every Monster, Behavior & Counter](/posts/pressure/entities-guide/)
-- [Pressure Floors & Locations — Full Map Breakdown](/posts/pressure/floors-and-locations-guide/)
+- [Pressure Floors & Locations — Full Map Breakdown](/games/pressure/)
 - [Pressure Codes & Secrets — All Keypads, Puzzles & Hidden Rooms](/posts/pressure/codes-and-secrets-guide/)
 - [Pressure Hidden Areas & Easter Eggs Guide](/posts/pressure/hidden-areas-eggs-guide/)
-- [Pressure Items & Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)
-- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/posts/pressure/locker-hiding-mechanics-guide/)
+- [Pressure Items & Puzzles Guide](/games/pressure/)
+- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/games/pressure/)
 - [Pressure Badges & Achievements Guide](/posts/pressure/badges-achievements-guide/)
-- [Pressure Mines Entities Guide](/posts/pressure/mines-entities-guide/)
+- [Pressure Mines Entities Guide](/games/pressure/)

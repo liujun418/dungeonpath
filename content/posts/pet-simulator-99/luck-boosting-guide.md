@@ -137,5 +137,5 @@ Sunday evening: Stop hatching. The event is winding down, and any remaining poti
 
 - [PS99 Egg Hatching & Shiny Hunting Guide — Maximize Your Odds](/posts/pet-simulator-99/egg-hatching-shiny-guide/)
 - [PS99 Huge and Titanic Pets Guide — How to Get the Rarest Pets](/posts/pet-simulator-99/huge-titanic-guide/)
-- [PS99 Enchantments & Upgrades Guide — Enchant First, Upgrade Later](/posts/pet-simulator-99/enchantments-upgrades-guide/)
+- [PS99 Enchantments & Upgrades Guide — Enchant First, Upgrade Later](/games/pet-simulator-99/)
 - [PS99 Auto-Farm Optimization — AFK Setup for Max Coins](/posts/pet-simulator-99/auto-farm-optimization-guide/)

@@ -49,7 +49,7 @@ Three rules keep beginners alive in this stretch. Do not exit during the screech
 
 Starting around floor 10, Ambush has a roughly 15% chance to replace Rush — and it is the number one reason players who mastered Rush start dying again. The screech is distorted, lower-pitched, and glitchy — like Rush played through broken speakers. If the screech sounds wrong, it is Ambush.
 
-The difference in response is one sentence: Rush passes once and you leave; Ambush passes 2 to 6 times and you stay until the silence is real. After the first pass, count to three. If another screech comes within 3 seconds, stay in the closet and count to three again after that pass. If 3 seconds pass with silence, exit. The most common Ambush death is exiting after pass 2 when pass 3 is already on its way — the three-count exists to stop exactly that. For the exact reaction window on every entity, see our [Pressure Entity Timing Windows guide](/posts/pressure/entity-timing-windows/).
+The difference in response is one sentence: Rush passes once and you leave; Ambush passes 2 to 6 times and you stay until the silence is real. After the first pass, count to three. If another screech comes within 3 seconds, stay in the closet and count to three again after that pass. If 3 seconds pass with silence, exit. The most common Ambush death is exiting after pass 2 when pass 3 is already on its way — the three-count exists to stop exactly that. For the exact reaction window on every entity, see our [Pressure Entity Timing Windows guide](/games/pressure/).
 
 ## Floors 16-20: Eyes Rooms
 
@@ -118,7 +118,7 @@ Once the sounds are in your head, the protocol is simple, and it does not involv
 
 **Partial clear runs (the next 10).** Now try to reach floor 20, bringing only the Gummy Flashlight. Each run to floor 15-20 earns 40-60 Credits. After 10 partial clears you will have 500-700 Credits — enough for the full Essential loadout.
 
-**Loadout runs.** Gummy Flashlight, 2 Medkits, 1 Sprint Potion, 1 Code Breacher. Target floor 30+. You now have the gear and the knowledge, earned in the order that makes both stick. For the full breakdown of every purchase and puzzle, see our [Pressure Items & Puzzles guide](/posts/pressure/items-and-puzzles-guide/).
+**Loadout runs.** Gummy Flashlight, 2 Medkits, 1 Sprint Potion, 1 Code Breacher. Target floor 30+. You now have the gear and the knowledge, earned in the order that makes both stick. For the full breakdown of every purchase and puzzle, see our [Pressure Items & Puzzles guide](/games/pressure/).
 
 ## The Bottom Line
 
@@ -129,6 +129,6 @@ Pressure is a game that rewards preparation over reaction. Every entity gives yo
 ## Related Guides
 
 - [Pressure Entities Guide — Every Monster & Audio Tell](/posts/pressure/entities-guide/)
-- [Pressure Entity Timing Windows — Exact Seconds to React](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Exact Seconds to React](/games/pressure/)
 - [Pressure Survival Tips — 5 Protocols for Deep Runs](/posts/pressure/survival-tips-guide/)
-- [Pressure Items & Puzzles Guide — What to Buy & Every Puzzle Solved](/posts/pressure/items-and-puzzles-guide/)
+- [Pressure Items & Puzzles Guide — What to Buy & Every Puzzle Solved](/games/pressure/)

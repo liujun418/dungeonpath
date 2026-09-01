@@ -133,7 +133,7 @@ Your Breeding Mountain's placement affects efficiency. The bonuses are small ind
 
 Place the Breeding Mountain centrally, surround it with two element temples matching your target's elements, and put parent habitats adjacent. The rest of the island fills with Gold Farms to fund attempts.
 
-The key detail is distance. The temple bonus only applies one tile away, so stacking temples on the far side of the island does nothing. If you want a fuller breakdown of where everything goes, our [island layout guide](/posts/monster-legends/island-layout-guide/) walks the whole grid.
+The key detail is distance. The temple bonus only applies one tile away, so stacking temples on the far side of the island does nothing. If you want a fuller breakdown of where everything goes, our [island layout guide](/games/monster-legends/) walks the whole grid.
 
 ## Cost & Resource Planning
 
@@ -192,11 +192,11 @@ The only real exception to "never speed" is the Warmaster chase. At 5% base, a s
 
 Breed Goldfield first. Level both parents to 30+. Stack Happy Hour with a Breeding Boost. Match your element temples and place them one tile from the mountain. Budget 5-10M Gold per target and walk away at the line instead of tilting.
 
-Do those things and you'll get your Legendary without the 200-Gem funeral pyre. Skip them and you'll be back here wondering why the game "hates" you — when really you were just rolling base odds and paying to fail faster. For where to take your roster next, our [beginner guide](/posts/monster-legends/beginner-guide/) covers the early game, and the [tier list](/posts/monster-legends/tier-list/) tells you which of your new Legendaries are actually worth leveling.
+Do those things and you'll get your Legendary without the 200-Gem funeral pyre. Skip them and you'll be back here wondering why the game "hates" you — when really you were just rolling base odds and paying to fail faster. For where to take your roster next, our [beginner guide](/games/monster-legends/) covers the early game, and the [tier list](/posts/monster-legends/tier-list/) tells you which of your new Legendaries are actually worth leveling.
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide — Islands, Monsters & First Legendary](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide — Islands, Monsters & First Legendary](/games/monster-legends/)
 - [Monster Legends Breeding Guide — Full System Explanation](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Tier List — Best Monsters Ranked](/posts/monster-legends/tier-list/)
 - [Monster Legends Farming Guide — Gold, Food & Gems](/posts/monster-legends/farming-guide/)

@@ -24,8 +24,8 @@ faq:
   - question: "How do I stop crashing into my own crew?"
     answer: "Take your hand off the throttle whenever a teammate is near the bumper, back into your parking spot so the nose points at the door, and use the handbrake to rotate instead of steering at speed. A stationary van kills nobody."
 related:
-  - /posts/lethal-company/ship-operator-guide/
-  - /posts/lethal-company/beginner-guide/
+  - /games/lethal-company/
+  - /games/lethal-company/
   - /posts/lethal-company/terminal-commands-guide/
   - /posts/lethal-company/coop-team-roles-guide/
   - /posts/lethal-company/scrap-and-loot-guide/
@@ -42,7 +42,7 @@ That is the Company Cruiser in one scene: completely optional, completely ridicu
 
 ## What the Company Cruiser Actually Is
 
-The Company Cruiser is a drivable delivery van that sits inside your ship, in the garage bay behind the terminal. Most crews use that area as a loot pile and never notice what is parked back there. If you are new and still learning the layout, our [beginner guide](/posts/lethal-company/beginner-guide/) walks the whole ship, garage included.
+The Company Cruiser is a drivable delivery van that sits inside your ship, in the garage bay behind the terminal. Most crews use that area as a loot pile and never notice what is parked back there. If you are new and still learning the layout, our [beginner guide](/games/lethal-company/) walks the whole ship, garage included.
 
 Getting in is simple: walk to the driver's side — or climb through the back — and hit your interact key. More than one player can ride at once, so it is the only drivable thing your crew owns besides the ship itself.
 
@@ -72,7 +72,7 @@ Kill the biggest misconception first: the Company Cruiser is not a transport veh
 
 So what is it for? Three real things.
 
-First, it is the fastest way to the exit when the deadline hits — if you have set it up. At the end of the day, every player has to be inside the ship when the clock runs out. Parked facing the door with a clear path, the van gets a player from the back of the hangar to the doorway in about a second. On the last day with the Jester up and three players hauling scrap, that is the margin between "inside with two seconds left" and "dead on the ramp." Same end-of-day thinking the [ship operator guide](/posts/lethal-company/ship-operator-guide/) teaches from the terminal — timing the door, not fighting the clock.
+First, it is the fastest way to the exit when the deadline hits — if you have set it up. At the end of the day, every player has to be inside the ship when the clock runs out. Parked facing the door with a clear path, the van gets a player from the back of the hangar to the doorway in about a second. On the last day with the Jester up and three players hauling scrap, that is the margin between "inside with two seconds left" and "dead on the ramp." Same end-of-day thinking the [ship operator guide](/games/lethal-company/) teaches from the terminal — timing the door, not fighting the clock.
 
 Second, it is a crew chaos toy — the honest answer most of the community would give you. The Cruiser exists to be funny: drifting circles while a teammate carries a cash register to the terminal, doing donuts with three players in the back, launching it off the ramp. Driving it is signing up for the joke version of a [co-op team role](/posts/lethal-company/coop-team-roles-guide/) — nobody needed you in the van, but here we are.
 
@@ -157,8 +157,8 @@ Take your hand off the throttle whenever a teammate is near the bumper, back int
 
 ## Related Guides
 
-- [Lethal Company Ship Operator Guide](/posts/lethal-company/ship-operator-guide/)
-- [Lethal Company Beginner Guide](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Ship Operator Guide](/games/lethal-company/)
+- [Lethal Company Beginner Guide](/games/lethal-company/)
 - [Lethal Company Terminal Commands Guide](/posts/lethal-company/terminal-commands-guide/)
 - [Lethal Company Co-op Team Roles Guide](/posts/lethal-company/coop-team-roles-guide/)
 - [Lethal Company Scrap & Loot Guide](/posts/lethal-company/scrap-and-loot-guide/)

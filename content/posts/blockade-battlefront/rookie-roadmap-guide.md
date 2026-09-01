@@ -223,11 +223,11 @@ This is true at every stage boundary in BBF. Stage 1 players who rush to wave 50
 
 ## Related Guides
 
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
-- [BBF 10 Beginner Mistakes That Waste Your Cen](/posts/blockade-battlefront/beginner-mistakes-guide/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
+- [BBF 10 Beginner Mistakes That Waste Your Cen](/games/blockade-battlefront/)
 - [BBF Cen Farming Guide — Maximize Your Income](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Mid-Game Survival Playbook (Waves 40-70)](/posts/blockade-battlefront/mid-game-survival-guide/)
-- [BBF Game Modes Guide — Normal, Hard & Nightmare Differences](/posts/blockade-battlefront/game-modes-guide/)
-- [BBF Nightmare Mode Guide — Differences, Strategy & Rewards](/posts/blockade-battlefront/nightmare-mode-guide/)
+- [BBF Mid-Game Survival Playbook (Waves 40-70)](/games/blockade-battlefront/)
+- [BBF Game Modes Guide — Normal, Hard & Nightmare Differences](/games/blockade-battlefront/)
+- [BBF Nightmare Mode Guide — Differences, Strategy & Rewards](/games/blockade-battlefront/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Late-Game Wave 40-70+ Survival Guide](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Late-Game Wave 40-70+ Survival Guide](/games/blockade-battlefront/)

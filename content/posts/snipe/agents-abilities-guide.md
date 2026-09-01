@@ -354,8 +354,8 @@ Ratings assume the ability is used on appropriate maps with a matching playstyle
 
 ## Related Guides
 
-- [Snipe Game Modes Guide — FFA, Scoring & Win Conditions](/posts/snipe/game-modes-guide/)
-- [Snipe Ranked Climbing Guide — RP System & Tier Strategy](/posts/snipe/ranked-climbing-guide/)
-- [Snipe Positioning & Angles Guide — Off-Angles & Sightlines](/posts/snipe/positioning-angles-guide/)
-- [Snipe Settings & FPS Optimization Guide](/posts/snipe/settings-fps-optimization/)
-- [Snipe Codes & Free Rewards Guide](/posts/snipe/codes-rewards-guide/)
+- [Snipe Game Modes Guide — FFA, Scoring & Win Conditions](/games/snipe/)
+- [Snipe Ranked Climbing Guide — RP System & Tier Strategy](/games/snipe/)
+- [Snipe Positioning & Angles Guide — Off-Angles & Sightlines](/games/snipe/)
+- [Snipe Settings & FPS Optimization Guide](/games/snipe/)
+- [Snipe Codes & Free Rewards Guide](/games/snipe/)

@@ -141,7 +141,7 @@ A simple drill: walk around Crossroads without shooting. Every time you pass a d
 - If the opponent is pre-aiming the corner, either wide swing with speed or rotate instead of giving them the expected peek.
 - After taking damage, treat the fight as changed. Do not repeat the opening plan with less HP.
 
-Cover is not a hiding place. Cover is a tool that lets you choose when your body is visible. The player who controls exposure time usually controls the duel. For map-specific cover and angle routes, see the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+Cover is not a hiding place. Cover is a tool that lets you choose when your body is visible. The player who controls exposure time usually controls the duel. For map-specific cover and angle routes, see the [RIVALS Maps and Strategies Guide](/games/rivals/).
 
 ---
 
@@ -276,7 +276,7 @@ Essential things to learn on every map:
 - **Spawn timing:** where contact happens in the first few seconds.
 - **High ground:** positions that make enemies aim upward while you shoot down.
 
-For complete callouts, sniper lanes, and rush paths, use the [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/).
+For complete callouts, sniper lanes, and rush paths, use the [RIVALS Maps and Strategies Guide](/games/rivals/).
 
 ---
 
@@ -455,7 +455,7 @@ Ready to put these fixes into practice? Use these RIVALS guides for deeper work 
 2. **[RIVALS Movement and Mechanics Guide](/posts/rivals/movement-and-mechanics-guide/)** — Deep dive into slide jump, strafe, slide cancel, and advanced movement
 3. **[RIVALS Weapon Tier List](/posts/rivals/weapon-tier-list/)** — Every weapon ranked by tier for Season 12, with loadout recommendations
 4. **[RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/)** — Every game mode explained with ranked climbing strategies
-5. **[RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/)** — Map-by-map breakdowns with positioning and angle guides
+5. **[RIVALS Maps and Strategies Guide](/games/rivals/)** — Map-by-map breakdowns with positioning and angle guides
 6. **[RIVALS Settings and Optimization Guide](/posts/rivals/settings-and-optimization-guide/)** — Best sensitivity, FOV, crosshair, and performance settings
 7. **[RIVALS Codes Guide](/posts/rivals/codes-and-rewards-guide/)** — All active codes for free Keys, wraps, and cosmetics
 8. **[Browse all guides](/posts/)** — See our full collection of Roblox game guides

@@ -308,10 +308,10 @@ Here are loadout decisions that get questioned in lobby chat but win games in pr
 
 - [RIVALS Weapon Tier List: Every Gun Ranked for Competitive Play](/posts/rivals/weapon-tier-list/)
 - [Rivals Loadout Build Synergy: Weapon Combos That Win Fights](/posts/rivals/loadout-build-synergy-guide/)
-- [RIVALS Team Composition Guide — Best Roles, Synergies & the Counter-Pick Meta](/posts/rivals/team-composition-guide/)
-- [RIVALS Maps Guide — Best Positions, Weapon Picks & Rotation Routes for All 7 Maps](/posts/rivals/maps-and-strategies-guide/)
+- [RIVALS Team Composition Guide — Best Roles, Synergies & the Counter-Pick Meta](/games/rivals/)
+- [RIVALS Maps Guide — Best Positions, Weapon Picks & Rotation Routes for All 7 Maps](/games/rivals/)
 - [RIVALS Game Modes and Ranked Guide: All Modes, Ranked System, and Competitive Tips](/posts/rivals/game-modes-and-ranked-guide/)
-- [RIVALS 1v1 Duel Strategies: How to Win Every Duel in RIVALS](/posts/rivals/1v1-duel-strategies-guide/)
+- [RIVALS 1v1 Duel Strategies: How to Win Every Duel in RIVALS](/games/rivals/)
 - [RIVALS Movement Mastery: Advanced Techniques for Rivals](/posts/rivals/movement-mastery-guide/)
 
 ---

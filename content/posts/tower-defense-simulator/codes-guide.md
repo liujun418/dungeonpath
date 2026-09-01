@@ -21,8 +21,8 @@ faq:
     answer: "Usually yes for cash and gem codes — those are instantly useful. But crate codes are the exception. Premium and Skin Crates only roll from the current reward pool, so if a code drops the day before an update swaps the pool, redeeming early can lock you into an outdated item list. If the official Discord hints an update is days away, hold the crate code and redeem it after the patch. Cash and gems never go stale; crate contents do."
 related:
   - /posts/tower-defense-simulator/towers-tier-list/
-  - /posts/tower-defense-simulator/coin-farming-guide/
-  - /posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/
+  - /games/tower-defense-simulator/
+  - /games/tower-defense-simulator/
   - /posts/tower-defense-simulator/loadout-guide/
 howto:
   steps:
@@ -47,7 +47,7 @@ You check the timestamp. The code went live at 2:51 AM and expired at 3:02 AM. Y
 
 This guide is not another code list. Lists are the reason you keep missing codes. What you actually need is a system for redeeming codes the right way, tracking new drops before they vanish, and spending the free rewards on things that make you stronger instead of lighter in the wallet.
 
-If you're trying to figure out what to buy with the coins you redeem, start with the [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/). If you want to multiply your free cash instead of just spending it, the [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/) covers that. This guide handles the code side of the economy.
+If you're trying to figure out what to buy with the coins you redeem, start with the [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/). If you want to multiply your free cash instead of just spending it, the [Coin Farming Guide](/games/tower-defense-simulator/) covers that. This guide handles the code side of the economy.
 
 ## Why Your Code List Keeps Failing You
 
@@ -161,9 +161,9 @@ Here's the fork most players get wrong. They see a 1,000-coin code and buy a mid
 
 ### Gems: Never Spend Them on Impulse
 
-Gem codes are the rarest reward type, and that's exactly why you shouldn't treat them like cash. Gems buy the game's best towers — Accelerator, Engineer, and the Hardcore exclusives. They're the one currency that can't be farmed quickly (the [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/) explains why gems trickle in while coins flow).
+Gem codes are the rarest reward type, and that's exactly why you shouldn't treat them like cash. Gems buy the game's best towers — Accelerator, Engineer, and the Hardcore exclusives. They're the one currency that can't be farmed quickly (the [Coin Farming Guide](/games/tower-defense-simulator/) explains why gems trickle in while coins flow).
 
-A gem code that drops today should be parked toward your next Hardcore tower, not spent on a skin. Cosmetic gem purchases are the single most common way players arrive at level 40 with no Hardcore tower and no way to earn more gems efficiently. If you're torn on whether a Hardcore tower is even worth it, the [Golden vs Fallen vs Hardcore guide](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/) compares all three modes and their rewards.
+A gem code that drops today should be parked toward your next Hardcore tower, not spent on a skin. Cosmetic gem purchases are the single most common way players arrive at level 40 with no Hardcore tower and no way to earn more gems efficiently. If you're torn on whether a Hardcore tower is even worth it, the [Golden vs Fallen vs Hardcore guide](/games/tower-defense-simulator/) compares all three modes and their rewards.
 
 ## New Player vs Veteran: The Same Code Is Worth Different Things
 
@@ -222,6 +222,6 @@ Almost never, unless a skin is event-exclusive and about to disappear forever. C
 ## Related Guides
 
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)
-- [TDS Coin Farming Guide — Best Ways to Earn Coins & Gems](/posts/tower-defense-simulator/coin-farming-guide/)
-- [TDS Golden vs Fallen vs Hardcore — Which Mode to Run](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
+- [TDS Coin Farming Guide — Best Ways to Earn Coins & Gems](/games/tower-defense-simulator/)
+- [TDS Golden vs Fallen vs Hardcore — Which Mode to Run](/games/tower-defense-simulator/)
 - [TDS Loadout Guide — Best Tower Combinations](/posts/tower-defense-simulator/loadout-guide/)

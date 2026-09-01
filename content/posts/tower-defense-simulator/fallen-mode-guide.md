@@ -40,12 +40,12 @@ related:
   - "/posts/tower-defense-simulator/towers-tier-list/"
   - "/posts/tower-defense-simulator/tower-synergy-combos/"
   - "/posts/tower-defense-simulator/tower-placement-theory/"
-  - "/posts/tower-defense-simulator/coin-farming-guide/"
-  - "/posts/tower-defense-simulator/hardcore-mode-guide/"
-  - "/posts/tower-defense-simulator/golden-mode-guide/"
+  - "/games/tower-defense-simulator/"
+  - "/games/tower-defense-simulator/"
+  - "/games/tower-defense-simulator/"
   - "/posts/tower-defense-simulator/coop-guide/"
   - "/posts/tower-defense-simulator/enemy-wave-guide/"
-  - "/posts/tower-defense-simulator/best-maps-guide/"
+  - "/games/tower-defense-simulator/"
 ---
 
 > *Last updated: August 27, 2026. This guide covers Fallen mode in Tower Defense Simulator: the economy-first build order, wave-by-wave strategy, mini-boss and Fallen King counters, and the loadout that survives all 40 waves. Exact enemy HP values shift with balance patches, so treat hard numbers as approximate.*
@@ -69,7 +69,7 @@ The big changes:
 - **Mini-bosses arrive mid-run, not just at the end.** The Void Reaver lands around wave 20, Fallen Titan and Fallen Guardian spawns follow, then the Fallen King on wave 40.
 - **Speed matters.** Fallen Fast enemies are genuinely fast, and without slows they outrun your single-target towers.
 
-Compare that to [Hardcore mode](/posts/tower-defense-simulator/hardcore-mode-guide/), which starves your income even harder and gates you by level. Fallen is the natural step between Molten and Hardcore: it teaches the Farm-first discipline that Hardcore demands. The single biggest shift is economy. In Normal you can limp through with sloppy gold management. In Fallen, a bad waves 5-15 economy means you are dead at wave 30 no matter how good your towers are.
+Compare that to [Hardcore mode](/games/tower-defense-simulator/), which starves your income even harder and gates you by level. Fallen is the natural step between Molten and Hardcore: it teaches the Farm-first discipline that Hardcore demands. The single biggest shift is economy. In Normal you can limp through with sloppy gold management. In Fallen, a bad waves 5-15 economy means you are dead at wave 30 no matter how good your towers are.
 
 ## Unlock Path and What to Bring
 
@@ -106,7 +106,7 @@ Milestones to hit:
 
 If you are behind this schedule, stop buying damage towers. Every coin goes into Farms until you catch up. The run that wipes at wave 30 is always the one that was late on Farms at wave 10.
 
-Our [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/) covers the same Farm-first logic in more detail.
+Our [Coin Farming Guide](/games/tower-defense-simulator/) covers the same Farm-first logic in more detail.
 
 ## Wave-Phase Strategy
 
@@ -198,7 +198,7 @@ The Accelerator. Its damage ramps up the longer it fires, which is exactly what 
 
 ### Is Fallen worth farming over other modes for coins?
 
-For raw coin-per-hour, not always. Fallen pays well but takes longer and risks more than Molten. If you are after coins, the Golden mode and a dedicated Farm setup win out. Check the [Golden Mode Guide](/posts/tower-defense-simulator/golden-mode-guide/) and the [Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/) for the comparison. If you are after the endgame challenge, Fallen is the hardest standard mode and the natural step before Hardcore.
+For raw coin-per-hour, not always. Fallen pays well but takes longer and risks more than Molten. If you are after coins, the Golden mode and a dedicated Farm setup win out. Check the [Golden Mode Guide](/games/tower-defense-simulator/) and the [Coin Farming Guide](/games/tower-defense-simulator/) for the comparison. If you are after the endgame challenge, Fallen is the hardest standard mode and the natural step before Hardcore.
 
 ## Related Guides
 
@@ -207,9 +207,9 @@ For raw coin-per-hour, not always. Fallen pays well but takes longer and risks m
 - [TDS Towers Tier List](/posts/tower-defense-simulator/towers-tier-list/)
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/)
-- [TDS Coin Farming Guide](/posts/tower-defense-simulator/coin-farming-guide/)
-- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)
-- [TDS Golden Mode Guide](/posts/tower-defense-simulator/golden-mode-guide/)
+- [TDS Coin Farming Guide](/games/tower-defense-simulator/)
+- [TDS Hardcore Mode Guide](/games/tower-defense-simulator/)
+- [TDS Golden Mode Guide](/games/tower-defense-simulator/)
 - [TDS Co-op Guide](/posts/tower-defense-simulator/coop-guide/)
 - [TDS Enemy and Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/)
-- [TDS Best Maps Guide](/posts/tower-defense-simulator/best-maps-guide/)
+- [TDS Best Maps Guide](/games/tower-defense-simulator/)

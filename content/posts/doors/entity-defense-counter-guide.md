@@ -137,7 +137,7 @@ Item matchups:
 - **Crucifix:** Works. One of the best uses for it because Ambush is mechanically simple but mentally cruel.
 - **Vitamins:** Dangerous. Do not use them to try to "outrun" Ambush. There is no outrunning the multi-pass pattern.
 
-For dedicated Ambush training, see our [Ambush Protocol Guide](/posts/doors/ambush-protocol/).
+For dedicated Ambush training, see our [Ambush Protocol Guide](/games/doors/).
 
 ---
 
@@ -258,7 +258,7 @@ Item matchups:
 - **No item directly counters Figure.** Silence is the only defense.
 - **Vitamins:** Can help reposition if spotted, but sprinting creates more sound and often makes things worse.
 
-For detailed Library and Electrical Room routing, see [Room 50 Library Walkthrough](/posts/doors/room-50-library-walkthrough/) and [Figure Survival Protocol](/posts/doors/figure-survival-protocol/).
+For detailed Library and Electrical Room routing, see [Room 50 Library Walkthrough](/games/doors/) and [Figure Survival Protocol](/games/doors/).
 
 ---
 
@@ -404,4 +404,4 @@ Here is how to build it:
 
 4. **Review your deaths.** Every death in Doors teaches something. If Ambush killed you, you left early. If Eyes killed you, you were looking at it while distracted. If Figure killed you, you made noise at the wrong moment. The game is fair in its patterns. Your job is to match the pattern with the right script.
 
-For more on pre-run loadouts and item management, visit our [Doors Items and Inventory Guide](/posts/doors/items-and-inventory-guide/). For floor-specific routing, see [The Hotel Walkthrough](/posts/doors/hotel-walkthrough-guide/) and [The Mines Survival Protocol](/posts/doors/the-mines-survival-protocol/).
+For more on pre-run loadouts and item management, visit our [Doors Items and Inventory Guide](/posts/doors/items-and-inventory-guide/). For floor-specific routing, see [The Hotel Walkthrough](/games/doors/) and [The Mines Survival Protocol](/games/doors/).

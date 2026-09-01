@@ -197,5 +197,5 @@ If you invest in accessories first, then save, then Buddha: 3 hours to earn back
 - [Blox Fruits Raid Boss Strategies Guide](/posts/blox-fruits/raid-boss-strategies-guide/)
 - [Blox Fruits Fighting Styles Guide](/posts/blox-fruits/fighting-styles-guide/)
 - [Blox Fruits Awakening Guide](/posts/blox-fruits/awakening-guide/)
-- [Blox Fruits Beginner Guide — First Fruit, First Sea](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide — First Fruit, First Sea](/games/blox-fruits/)
 - [Blox Fruits Leveling Guide — Fast XP Routes for Every Sea](/posts/blox-fruits/leveling-guide/)

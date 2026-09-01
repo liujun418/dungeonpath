@@ -27,7 +27,7 @@ related:
   - /posts/tower-defense-simulator/tower-synergy-combos/
   - /posts/tower-defense-simulator/tower-placement-theory/
   - /posts/tower-defense-simulator/fallen-mode-guide/
-  - /posts/tower-defense-simulator/hardcore-mode-guide/
+  - /games/tower-defense-simulator/
   - /posts/tower-defense-simulator/loadout-guide/
 ---
 
@@ -82,11 +82,11 @@ Compare that to the Minigunner, which pays back damage the moment it's placed. T
 
 **Fallen mode:** This is home. Fallen's back half throws dense groups of high-HP enemies down predictable lanes — exactly the feed the Necromancer needs. If you farm Fallen, it earns its slot. Full walkthrough: the [Fallen mode guide](/posts/tower-defense-simulator/fallen-mode-guide/).
 
-**Hardcore mode:** Situational but real. A fed Necromancer can hold a lane almost on its own. The catch: get your Hardcore fundamentals locked in first, because a mis-timed Necromancer leaves you with no cash and no army. See the [Hardcore mode guide](/posts/tower-defense-simulator/hardcore-mode-guide/).
+**Hardcore mode:** Situational but real. A fed Necromancer can hold a lane almost on its own. The catch: get your Hardcore fundamentals locked in first, because a mis-timed Necromancer leaves you with no cash and no army. See the [Hardcore mode guide](/games/tower-defense-simulator/).
 
 **Golden mode:** Niche. Golden punishes early leaks hard, and the Necromancer's dead early game means you lean on the rest of the loadout until it ramps. It's not carrying you.
 
-Maps matter as much as modes. The Necromancer wants a single choke where everything funnels — one narrow corridor, a long straight kill lane, anywhere you can point every tower at one spot. On a wide, multi-lane map, the deaths scatter and the radius catches half of them. The [best maps guide](/posts/tower-defense-simulator/best-maps-guide/) will point you at the funnel maps.
+Maps matter as much as modes. The Necromancer wants a single choke where everything funnels — one narrow corridor, a long straight kill lane, anywhere you can point every tower at one spot. On a wide, multi-lane map, the deaths scatter and the radius catches half of them. The [best maps guide](/games/tower-defense-simulator/) will point you at the funnel maps.
 
 ## How to Feed It: The Slow-and-Funnel Combo
 
@@ -171,5 +171,5 @@ Almost always, it has no kills happening in its radius. Check its placement: if 
 - [TDS Tower Synergy Combos](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Tower Placement Theory](/posts/tower-defense-simulator/tower-placement-theory/)
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/)
-- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/)
+- [TDS Hardcore Mode Guide](/games/tower-defense-simulator/)
 - [TDS Loadout Guide](/posts/tower-defense-simulator/loadout-guide/)

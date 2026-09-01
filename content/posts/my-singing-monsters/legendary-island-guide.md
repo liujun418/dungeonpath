@@ -100,7 +100,7 @@ Breeding legendary monsters requires specific parent combinations. Success rates
 | **Whisp** | Dandidoo + Clamble + Fwog | 2–5% | 20–50 attempts |
 | **Epic Ghazt** | Ghazt + Ghazt (on Ethereal Island) | 0.5–1% | 100–200 attempts |
 
-For a broader overview of breeding mechanics and combinations, see our [Breeding Guide](/posts/my-singing-monsters/breeding-guide/).
+For a broader overview of breeding mechanics and combinations, see our [Breeding Guide](/games/my-singing-monsters/).
 
 ## Breeding Strategy for Legendary Island
 
@@ -278,7 +278,7 @@ For comparison with other special islands like Shugabush Island, see our [Shugab
 
 ## Related Guides
 
-- [Breeding Guide](/posts/my-singing-monsters/breeding-guide/) — Complete breeding combinations for all monster types
+- [Breeding Guide](/games/my-singing-monsters/) — Complete breeding combinations for all monster types
 - [Rare & Epic Monsters](/posts/my-singing-monsters/rare-and-epic-monsters/) — Guide to obtaining and managing rare and epic variants
 - [Farming Guide](/posts/my-singing-monsters/farming-guide/) — Efficient resource production for coins, food, and diamonds
 - [Seasonal Events Guide](/posts/my-singing-monsters/seasonal-events-guide/) — Limited-time events that boost legendary breeding rates

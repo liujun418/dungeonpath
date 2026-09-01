@@ -96,7 +96,7 @@ If any of these five patterns sounds like your last loss, stop blaming your mons
 
 ## Combat Fundamentals
 
-Monster Legends battles are turn-based, 4v4 fights where speed, status effects, and team synergy matter more than raw power. Understanding the underlying mechanics is the difference between a 40% and 80%+ win rate in PvP. If you are new to combat, start with our [Beginner Guide](/posts/monster-legends/beginner-guide/) for the basics on monster elements and roles.
+Monster Legends battles are turn-based, 4v4 fights where speed, status effects, and team synergy matter more than raw power. Understanding the underlying mechanics is the difference between a 40% and 80%+ win rate in PvP. If you are new to combat, start with our [Beginner Guide](/games/monster-legends/) for the basics on monster elements and roles.
 
 ### The Speed System
 
@@ -370,12 +370,12 @@ You cannot let a speed-kill team go first. But against a control-lock team that 
 
 ## Related Guides
 
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
 - [Monster Legends Codes and Rewards Guide](/posts/monster-legends/codes-guide/)
 - [Monster Legends Events and Dungeons Guide](/posts/monster-legends/events-guide/)
 - [Monster Legends Gold and Food Farming Guide](/posts/monster-legends/farming-guide/)
-- [Monster Legends Island and Habitat Layout Guide](/posts/monster-legends/island-layout-guide/)
+- [Monster Legends Island and Habitat Layout Guide](/games/monster-legends/)
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/)
 - [Monster Legends Runes and Relics Guide](/posts/monster-legends/runes-and-relics-guide/)
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/)
+- [Monster Legends Arena PvP Guide](/games/monster-legends/)

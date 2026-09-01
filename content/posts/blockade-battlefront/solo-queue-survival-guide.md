@@ -118,10 +118,10 @@ Solo queue in Blockade Battlefront is not a test of mechanical skill. It is a te
 
 **Related Guides:**
 
-- [BBF Beginner Guide](/posts/blockade-battlefront/beginner-guide/)
-- [BBF Beginner Mistakes Guide](/posts/blockade-battlefront/beginner-mistakes-guide/)
+- [BBF Beginner Guide](/games/blockade-battlefront/)
+- [BBF Beginner Mistakes Guide](/games/blockade-battlefront/)
 - [BBF Titans Tier List](/posts/blockade-battlefront/titans-tier-list/)
 - [BBF Boss Wave Protocol](/posts/blockade-battlefront/boss-wave-protocol/)
 - [BBF Wave Rush Strategy Guide](/posts/blockade-battlefront/wave-rush-strategy-guide/)
-- [BBF Mid-Game Survival Guide](/posts/blockade-battlefront/mid-game-survival-guide/)
-- [BBF Late-Game Wave Survival Guide](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Mid-Game Survival Guide](/games/blockade-battlefront/)
+- [BBF Late-Game Wave Survival Guide](/games/blockade-battlefront/)

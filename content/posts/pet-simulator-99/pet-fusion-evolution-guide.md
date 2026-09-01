@@ -150,7 +150,7 @@ A “farming breakpoint” means your team can clear a target faster because of 
 
 For example, if your team clears a chest wave in 18 seconds with the pet and 24 seconds without it, keep it. That six-second gap repeats hundreds of times. Over an hour, that can mean thousands of lost diamonds, event drops, and item rolls.
 
-If you're building around pets, enchants, and farming roles, pair this guide with the [PS99 Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/). Fusion should support your team plan, not randomly rewrite it.
+If you're building around pets, enchants, and farming roles, pair this guide with the [PS99 Team Compositions Guide](/games/pet-simulator-99/). Fusion should support your team plan, not randomly rewrite it.
 
 ### Evolve Instead When Stability Matters
 
@@ -236,7 +236,7 @@ If it misses, you lost pets you weren't using.
 
 This is how high-efficiency players treat fusion. They don't use it as their main progression system. They use it as an overflow converter after farming, hatching, and trading have already done the main work.
 
-The same logic applies to enchant spending. You don't throw all your gems at flashy upgrades without checking return. The [PS99 Enchantments & Upgrades Guide](/posts/pet-simulator-99/enchantments-upgrades-guide/) explains why small multipliers often beat one expensive flex purchase.
+The same logic applies to enchant spending. You don't throw all your gems at flashy upgrades without checking return. The [PS99 Enchantments & Upgrades Guide](/games/pet-simulator-99/) explains why small multipliers often beat one expensive flex purchase.
 
 ## Evolution Paths That Actually Increase DPS
 

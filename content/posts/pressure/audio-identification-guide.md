@@ -26,9 +26,9 @@ faq:
 related:
   - /posts/pressure/entities-guide/
   - /posts/pressure/entities-identification-order/
-  - /posts/pressure/entity-timing-windows/
+  - /games/pressure/
   - /posts/pressure/entity-timing-guide/
-  - /posts/pressure/locker-hiding-mechanics-guide/
+  - /games/pressure/
   - /posts/pressure/survival-tips-guide/
   - /posts/pressure/beginner-guide/
   - /posts/pressure/multiplayer-guide/
@@ -50,7 +50,7 @@ That's the most common Pressure death past Door 50. Not slow reflexes. Not a mis
 
 Pressure is an audio game wearing a horror game's skin. Sight is your backup sense. By the time you see an Angler round the corner, you have half a second — often less. The sound arrives two to four seconds before the body, and that gap is your whole response window.
 
-You never get hit by something you saw coming. You get hit by something you should have heard. The locker is the response, but the sound is the trigger — and the [locker mechanics](/posts/pressure/locker-hiding-mechanics-guide/) don't matter if you never reach the door.
+You never get hit by something you saw coming. You get hit by something you should have heard. The locker is the response, but the sound is the trigger — and the [locker mechanics](/games/pressure/) don't matter if you never reach the door.
 
 That's why every lethal entity announces itself through audio before anything shows on screen, and why those same entities are nearly impossible to fight on laptop speakers or a muted phone. The sound *is* the mechanic. Miss the ambience drop and the enemy materializes in your face with no warning.
 
@@ -66,7 +66,7 @@ The sequence is almost always the same. The room goes quiet for a beat. Then the
 
 This is the answer for players who can't tell an Angler from a Blitz yet. You don't have to. The silence drop is identical for the whole Angler family. Room goes quiet, you get near a locker. Ambience fades back in, the threat has passed. That one rule handles most run-ending entities in the game, and it requires zero memorization.
 
-The flip side is just as important. **The ambience returning is the all-clear.** Most players learn the attack sound and never learn the release. They sit in the locker five extra seconds, or bolt early into a second pass. When the drone comes back, the entity is gone. Learn that release as carefully as the attack — it's what lets you move again without dying for it. For the exact frame-by-frame windows, see the [entity timing windows](/posts/pressure/entity-timing-windows/) guide.
+The flip side is just as important. **The ambience returning is the all-clear.** Most players learn the attack sound and never learn the release. They sit in the locker five extra seconds, or bolt early into a second pass. When the drone comes back, the entity is gone. Learn that release as carefully as the attack — it's what lets you move again without dying for it. For the exact frame-by-frame windows, see the [entity timing windows](/games/pressure/) guide.
 
 ## Entity-by-Entity Audio Profiles
 
@@ -192,9 +192,9 @@ Lean on the master rule: when the ambience stops, hide. You don't need to identi
 
 - [Pressure Entities Guide — Every Monster, Behavior & Counter](/posts/pressure/entities-guide/)
 - [Pressure Entities Identification Order — What to Learn First](/posts/pressure/entities-identification-order/)
-- [Pressure Entity Timing Windows — Exact Frames & Countdowns](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Exact Frames & Countdowns](/games/pressure/)
 - [Pressure Entity Timing Guide — How Long to Hold the Locker](/posts/pressure/entity-timing-guide/)
-- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/posts/pressure/locker-hiding-mechanics-guide/)
+- [Pressure Locker Hiding Mechanics — How to Survive Every Entity](/games/pressure/)
 - [Pressure Survival Tips — General Advice for Longer Runs](/posts/pressure/survival-tips-guide/)
 - [Pressure Beginner Guide — Start Here](/posts/pressure/beginner-guide/)
 - [Pressure Multiplayer Guide — Team Callouts & Roles](/posts/pressure/multiplayer-guide/)

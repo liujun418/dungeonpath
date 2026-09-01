@@ -342,7 +342,7 @@ A: No. All players receive the same rewards from a given code. The only variable
 
 Now that you have redeemed all available codes, it is time to put those rewards to good use. Check out our other Sailor Piece guides:
 
-- **[Sailor Piece Beginner Guide](/posts/sailor-piece/beginner-guide/)** -- Complete walkthrough for new players: stat builds, Devil Fruits, Haki, and island progression
+- **[Sailor Piece Beginner Guide](/games/sailor-piece/)** -- Complete walkthrough for new players: stat builds, Devil Fruits, Haki, and island progression
 - **[Devil Fruits Guide](/posts/sailor-piece/devil-fruits-guide/)** -- Every fruit ranked, awakening guides, and best fruit recommendations
 - **[Haki and Combat Guide](/posts/sailor-piece/haki-and-combat-guide/)** -- Master all three Haki types, fighting styles, and combat techniques
 - **[Islands Progression Guide](/posts/sailor-piece/islands-progression-guide/)** -- Complete island-by-island walkthrough from Starter Island to Sea 2

@@ -23,7 +23,7 @@ related:
   - /posts/my-singing-monsters/farming-guide/
   - /posts/my-singing-monsters/legendary-island-guide/
   - /posts/my-singing-monsters/ethereal-island-guide/
-  - /posts/my-singing-monsters/beginner-mistakes-guide/
+  - /games/my-singing-monsters/
 ---
 
 You just hit level 25. You've got 600,000 coins sitting in the bank and three island icons glowing on the map: Gold Island, Fire Haven, and Magical Sanctum. You tap Gold Island first because "Gold" sounds like free money. You spend 500,000 to unlock it, teleport your best Entbrat over, and now you're down to 100,000 coins with Fire Haven still locked. Your Entbrat is gone from Plant Island, your coin income just dropped, and the Gold it's now producing can't even buy a Wubbox yet.
@@ -164,4 +164,4 @@ Keep an eye on the [ethereal island guide](/posts/my-singing-monsters/ethereal-i
 - [MSM Farming Guide — Coins, Diamonds & Shards](/posts/my-singing-monsters/farming-guide/)
 - [MSM Legendary Island Guide — Breeding & Walkthrough](/posts/my-singing-monsters/legendary-island-guide/)
 - [MSM Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/)
-- [MSM Beginner Mistakes — 10 Errors & Fixes](/posts/my-singing-monsters/beginner-mistakes-guide/)
+- [MSM Beginner Mistakes — 10 Errors & Fixes](/games/my-singing-monsters/)

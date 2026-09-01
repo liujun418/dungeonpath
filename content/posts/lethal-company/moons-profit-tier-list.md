@@ -154,7 +154,7 @@ Your ideal moon rotation changes with your headcount, because the risk math chan
 | 3 players | Assurance → Rend → Titan | You have the bodies to risk Titan on the final day |
 | 4 players | March → Rend → Titan → Artifice | Artifice only at high quota (1,500+) |
 
-Solo is its own game. With one player, every mistake is fatal, so you live on free moons and cheap Offense runs and never touch anything with a landing fee you can't afford to lose. Read the [Solo Survival Guide](/posts/lethal-company/solo-survival-guide/) for the full solo rotation.
+Solo is its own game. With one player, every mistake is fatal, so you live on free moons and cheap Offense runs and never touch anything with a landing fee you can't afford to lose. Read the [Solo Survival Guide](/games/lethal-company/) for the full solo rotation.
 
 Duo crews cap out at Rend. Titan's S+ hazard needs bodies to cover corridors and body-run for each other, and with two players a single death leaves one person to loot an entire facility alone. Three players unlocks Titan on the final day when you have the numbers. Four players unlock Artifice, but only when the quota is high enough that Rend can't cover it.
 

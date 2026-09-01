@@ -165,9 +165,9 @@ With an optimized setup, expect 50-200 million coins per hour depending on your 
 
 ## Related Guides
 
-- [Pet Simulator 99 Enchantment Economy Guide](/posts/pet-simulator-99/enchantment-economy-guide/) — How to spend your enchant resources wisely and avoid the upgrade traps that drain your gems.
+- [Pet Simulator 99 Enchantment Economy Guide](/games/pet-simulator-99/) — How to spend your enchant resources wisely and avoid the upgrade traps that drain your gems.
 - [Pet Simulator 99 Gems & Coins Guide](/posts/pet-simulator-99/gems-coins-guide/) — The full breakdown of coin and gem sources, including which ones scale with auto-farming.
-- [Pet Simulator 99 Team Compositions Guide](/posts/pet-simulator-99/team-compositions-guide/) — How to build pet teams for different activities, including the farming-specific lineups we touched on here.
+- [Pet Simulator 99 Team Compositions Guide](/games/pet-simulator-99/) — How to build pet teams for different activities, including the farming-specific lineups we touched on here.
 - [Pet Simulator 99 Rebirth Math Guide](/posts/pet-simulator-99/rebirth-math-guide/) — Understanding when rebirth is worth it and how it affects your long-term coin farming potential.
 - [Pet Simulator 99 Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets actually matter for farming, and why the most expensive ones are not always the best choice.
 - [Pet Simulator 99 World Progression Guide](/posts/pet-simulator-99/world-progression-unlock-guide/) — How to unlock new zones efficiently and when it is worth moving up versus staying put.

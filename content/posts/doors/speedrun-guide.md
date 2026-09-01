@@ -510,10 +510,10 @@ A: Focus on your **weakest section first**. Use a timer to identify which doors 
 Ready to put these speedrun strategies into practice? Check out our other DOORS guides:
 
 - **[DOORS Beginner Guide](/posts/doors/beginner-guide/)** -- Learn the fundamentals before speedrunning
-- **[DOORS The Mines Walkthrough](/posts/doors/the-mines-walkthrough/)** -- Floor 2 detailed guide
+- **[DOORS The Mines Walkthrough](/games/doors/)** -- Floor 2 detailed guide
 - **[DOORS The Outdoors Walkthrough](/posts/doors/the-outdoors-walkthrough/)** -- Floor 3 complete walkthrough
 - **[DOORS Entities Bestiary](/posts/doors/entities-bestiary/)** -- Know every entity to optimize your runs
-- **[DOORS Codes and Secrets](/posts/doors/codes-and-secrets-guide/)** -- Free items and bonuses
+- **[DOORS Codes and Secrets](/games/doors/)** -- Free items and bonuses
 
 ---
 

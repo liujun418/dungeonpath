@@ -192,10 +192,10 @@ Never go fully hands-off. Even the most optimized base needs a Monitoring Stand 
 
 ## Related Guides
 
-- [Palworld Beginner Guide — Pals, Base Building & First Boss](/posts/palworld/beginner-guide/)
+- [Palworld Beginner Guide — Pals, Base Building & First Boss](/games/palworld/)
 - [Palworld Base Building Guide — Optimal Layout & Defense](/posts/palworld/base-building-guide/)
-- [Palworld Pal Management — When to Keep, Condense, Sell or Butcher](/posts/palworld/pal-management-guide/)
-- [Palworld Food Recipes & Feeding Guide](/posts/palworld/food-recipes-feeding-guide/)
+- [Palworld Pal Management — When to Keep, Condense, Sell or Butcher](/games/palworld/)
+- [Palworld Food Recipes & Feeding Guide](/games/palworld/)
 - [Palworld Best Pals Tier List — Every Pal Ranked](/posts/palworld/best-pals-tier-list/)
 - [Palworld Breeding Guide — Perfect Passives & Combinations](/posts/palworld/breeding-guide/)
 - [Palworld Pal Condensation Optimization](/posts/palworld/pal-condensation-optimization-guide/)

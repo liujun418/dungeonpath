@@ -246,9 +246,9 @@ Players obsess over their Pale Scarf or Hunter Cape, then slap a random B-tier i
 
 ## Related Guides
 
-- [Blox Fruits Beginner Guide — Fruits, Races & First Sea](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide — Fruits, Races & First Sea](/games/blox-fruits/)
 - [Blox Fruits Fruits Tier List — Every Devil Fruit Ranked](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Swords & Weapons Guide — Best Swords Ranked](/posts/blox-fruits/swords-weapons-guide/)
 - [Blox Fruits Fighting Styles Guide — Best Styles Ranked](/posts/blox-fruits/fighting-styles-guide/)
 - [Blox Fruits PvP & Bounty Hunting Guide](/posts/blox-fruits/pvp-bounty-hunting/)
-- [Blox Fruits Trading & Value Guide](/posts/blox-fruits/trading-value-guide/)
+- [Blox Fruits Trading & Value Guide](/games/blox-fruits/)

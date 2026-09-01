@@ -168,6 +168,6 @@ Use the checklist. Follow the tier list. Stop treating the lobby like a waiting 
 - [Doors Items and Inventory Guide](/posts/doors/items-and-inventory-guide/)
 - [Doors Modifiers Guide](/posts/doors/modifiers-guide/)
 - [Doors Solo vs Team Strategy Guide](/posts/doors/solo-vs-team-strategy-guide/)
-- [Doors Figure Survival Protocol](/posts/doors/figure-survival-protocol/)
-- [Doors Ambush Protocol](/posts/doors/ambush-protocol/)
+- [Doors Figure Survival Protocol](/games/doors/)
+- [Doors Ambush Protocol](/games/doors/)
 - [Doors Seek Chase Complete Guide](/posts/doors/seek-chase-complete-guide/)

@@ -22,7 +22,7 @@ related:
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/enchantment-timing-guide/
   - /posts/fisch/mutations-bait-guide/
-  - /posts/fisch/boss-fishing-hunting-guide/
+  - /games/fisch/
 ---
 
 ## What The Deep Update Actually Adds
@@ -260,4 +260,4 @@ You need the Deep Survey Device upgraded to MK II, must have surveyed the collap
 - [Fisch Best Rods Tier List (2026)](/posts/fisch/best-rods-tier-list/)
 - [Fisch Enchantment Timing Guide — When to Enchant Each Rod](/posts/fisch/enchantment-timing-guide/)
 - [Fisch Mutations & Bait Guide — All Procs and Best Combinations](/posts/fisch/mutations-bait-guide/)
-- [Fisch Boss Fishing & Hunt Guide — All Bosses and How to Beat Them](/posts/fisch/boss-fishing-hunting-guide/)
+- [Fisch Boss Fishing & Hunt Guide — All Bosses and How to Beat Them](/games/fisch/)

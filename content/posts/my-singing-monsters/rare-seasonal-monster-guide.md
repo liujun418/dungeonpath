@@ -108,10 +108,10 @@ Diamonds are the chokepoint for every collector. Here's how to spend them correc
 
 ## Related Guides
 
-- [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/)
+- [My Singing Monsters Breeding Guide](/games/my-singing-monsters/)
 - [My Singing Monsters Rare and Epic Monsters](/posts/my-singing-monsters/rare-and-epic-monsters/)
 - [My Singing Monsters Seasonal Event Calendar](/posts/my-singing-monsters/seasonal-event-calendar-guide/)
-- [My Singing Monsters Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
+- [My Singing Monsters Diamond & Coin Farming Guide](/games/my-singing-monsters/)
 - [My Singing Monsters Island Unlock Order](/posts/my-singing-monsters/island-unlock-order-guide/)
 - [My Singing Monsters Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/)
 

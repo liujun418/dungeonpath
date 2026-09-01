@@ -107,12 +107,12 @@ These five ideas contradict what most players assume. They are also why top play
 
 ## Related Guides
 
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Mid-Game Survival Playbook — Waves 30-50](/posts/blockade-battlefront/mid-game-survival-guide/)
+- [BBF Mid-Game Survival Playbook — Waves 30-50](/games/blockade-battlefront/)
 - [BBF Cen Farming Guide — How to Maximize Income](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Titans Upgrades Guide — Which Levels Matter Most](/posts/blockade-battlefront/titans-upgrades-guide/)
-- [BBF Late-Game Wave Survival — Beyond Wave 50](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Titans Upgrades Guide — Which Levels Matter Most](/games/blockade-battlefront/)
+- [BBF Late-Game Wave Survival — Beyond Wave 50](/games/blockade-battlefront/)
 
 
 The wave 50 boss fight lasts roughly 60 to 90 seconds with the right lineup and positioning. Sixty seconds is not a long time, but it feels eternal when your Titans are dying one by one and the boss HP bar is barely moving. The players who wipe at wave 50 are almost always the ones who enter the fight with a vague plan — "hit the boss with everything" — rather than a specific rotation. The specific rotation is: Cineman spotlight at 0 seconds, Cameraman beam at 0.5 seconds, Drill Man drill at 5 seconds, Speakerman sonic blast at 25 seconds when the first add wave spawns, TV Man screen attack at the 50 percent HP rage trigger. Every ability has a designated moment. Every moment has a designated ability. The players who follow the rotation clear the boss with one or two Titans remaining. The players who improvise wipe with the boss at 5 percent HP. The difference between one Titan remaining and a full wipe is the difference between clearing the wave and restarting the entire run. Follow the rotation. Do not improvise.

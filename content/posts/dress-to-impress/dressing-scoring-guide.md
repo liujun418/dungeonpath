@@ -52,7 +52,7 @@ Dress To Impress uses a 1-to-5 star rating system. After the runway, every playe
 
 Your goal is simple: maximize your average star rating across all voters. But simple doesn't mean easy. Every voter has their own bias. Some vote strictly on theme. Others vote on color. A few vote on effort. And yes, some vote for their friends.
 
-If you're new to the game, start with our [Beginner Guide](/posts/dress-to-impress/beginner-guide/) for the basics. For details on the runway presentation phase, see our [Runway & Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/).
+If you're new to the game, start with our [Beginner Guide](/games/dress-to-impress/) for the basics. For details on the runway presentation phase, see our [Runway & Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/).
 
 ---
 
@@ -246,7 +246,7 @@ Detective: Noir monochrome with vintage accessories beats trench-coat-and-hat.
 
 Fairy: Dark fairy in deep green and black beats pastel wings.
 
-For a complete list of all themes that can appear in the game, check our [All Themes List](/posts/dress-to-impress/all-themes-list/).
+For a complete list of all themes that can appear in the game, check our [All Themes List](/games/dress-to-impress/).
 
 ---
 
@@ -387,9 +387,9 @@ A: Safe gets you to the middle. Clever gets you to the top — but only if your 
 ## Related Guides
 
 - **[Runway & Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/)** — Master the runway walk and understand voting mechanics
-- **[All Themes List](/posts/dress-to-impress/all-themes-list/)** — Complete list of every theme that can appear in the game
+- **[All Themes List](/games/dress-to-impress/)** — Complete list of every theme that can appear in the game
 - **[Advanced Tips](/posts/dress-to-impress/advanced-tips/)** — Pro-level strategies for consistent wins
 - **[VIP Guide](/posts/dress-to-impress/vip-guide/)** — VIP-exclusive items, benefits, and whether it is worth purchasing
 - **[Pattern Layering Combo Guide](/posts/dress-to-impress/pattern-layering-combo-guide/)** — Mix prints without creating visual chaos
 - **[Color Theory Palette Guide](/posts/dress-to-impress/color-theory-palette-guide/)** — Build cohesive color schemes that pop on the runway
-- **[Voting Psychology Guide](/posts/dress-to-impress/voting-psychology-guide/)** — Understand what really happens in voters' heads during the 30-second window
+- **[Voting Psychology Guide](/games/dress-to-impress/)** — Understand what really happens in voters' heads during the 30-second window

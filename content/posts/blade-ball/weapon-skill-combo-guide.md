@@ -30,7 +30,7 @@ faq:
 
 Blade Ball is not just about reacting fast -- the right weapon and ability combination can mean the difference between winning and losing a ranked match. Each weapon in Blade Ball comes with unique stats including swing speed, range, hitbox size, and a passive trait. Pairing that weapon with the correct ability creates synergies that amplify your strengths or cover your weaknesses.
 
-This guide breaks down every top-tier weapon-skill combo, explains the mechanics behind why they work, and gives you ready-to-use loadouts for ranked competitive play. If you are new to competitive Blade Ball, check out our [Beginner Guide](/posts/blade-ball/beginner-guide/) first for the basics.
+This guide breaks down every top-tier weapon-skill combo, explains the mechanics behind why they work, and gives you ready-to-use loadouts for ranked competitive play. If you are new to competitive Blade Ball, check out our [Beginner Guide](/games/blade-ball/) first for the basics.
 
 ---
 
@@ -151,7 +151,7 @@ The most aggressive combo in the meta. Death Blade has the highest power stat of
 - Do not use this combo defensively. Death Blade has poor range and a small hitbox, making it weak for pure survival
 - Against Infinity users, wait for their shield to expire before activating Death Slash. Timing is everything.
 
-Check our [How to Win Guide](/posts/blade-ball/how-to-win-guide/) for more advanced clutch strategies in 1v1 situations.
+Check our [How to Win Guide](/games/blade-ball/) for more advanced clutch strategies in 1v1 situations.
 
 ---
 
@@ -283,7 +283,7 @@ As the ball deflects more times, its speed increases. Your combo needs to adapt:
 | **Daily quests** | 100-500 coins | Daily |
 | **Season rewards** | 500-2,000 coins | End of season |
 | **Events** | 200-1,000 coins | Limited-time |
-| **Codes** | 100-300 coins | Check our [Codes Guide](/posts/blade-ball/codes-guide/) for active codes |
+| **Codes** | 100-300 coins | Check our [Codes Guide](/games/blade-ball/) for active codes |
 
 ### Spin System for Rare Weapons
 
@@ -324,6 +324,6 @@ A: If you play competitively, yes. Mythical weapons have the best stats and uniq
 ## Related Guides
 
 - **[Abilities Tier List](/posts/blade-ball/abilities-tier-list/)** -- Every ability ranked from S+ to D tier with detailed analysis
-- **[How to Win Guide](/posts/blade-ball/how-to-win-guide/)** -- Core strategies and clutch techniques for winning matches
+- **[How to Win Guide](/games/blade-ball/)** -- Core strategies and clutch techniques for winning matches
 - **[Ranking & Competitive Guide](/posts/blade-ball/ranking-and-competitive-guide/)** -- How the ranked system works, rank progression tips, and seasonal rewards
 - **[Settings & Controls Guide](/posts/blade-ball/settings-and-controls-guide/)** -- Optimize your settings for the best competitive performance

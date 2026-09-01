@@ -31,7 +31,7 @@ related:
   - title: "Fisch Mutations and Bait Guide — Mutation Stacking Explained"
     url: "/posts/fisch/mutations-bait-guide/"
   - title: "Fisch Enchantment Strategy Guide — Best Enchants for Every Rod"
-    url: "/posts/fisch/enchantment-strategy-guide/"
+    url: "/games/fisch/"
 ---
 
 You just bought the Steady Rod for 25,000 C$. You have 15,000 C$ left. The enchantment altar is right there. You spend 8,000 C$ rolling enchants. You land on Lucky — +10% Luck. Your Steady Rod now has 25% effective Luck instead of 15%. You feel accomplished. Then you check the shop. The Mythical Rod costs 110,000 C$. Your enchant added roughly 150 C$ per hour to your fishing. It will take 53 hours for that enchant to pay for itself. The enchant was not an investment. It was a delay.
@@ -202,4 +202,4 @@ Save your relics early. Spend them wisely in the mid-game. Go all-in at the top.
 - [Fisch Enchantments Guide — Every Enchant and What It Does](/posts/fisch/enchantments-guide/)
 - [Fisch Best Rods Tier List — Ranked for Every Stage of Progression](/posts/fisch/best-rods-tier-list/)
 - [Fisch Mutations and Bait Guide — Mutation Stacking Explained](/posts/fisch/mutations-bait-guide/)
-- [Fisch Enchantment Strategy Guide — Best Enchants for Every Rod](/posts/fisch/enchantment-strategy-guide/)
+- [Fisch Enchantment Strategy Guide — Best Enchants for Every Rod](/games/fisch/)

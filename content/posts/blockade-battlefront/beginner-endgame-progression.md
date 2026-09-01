@@ -142,7 +142,7 @@ Each difficulty transition changes the game structurally, not just numerically. 
 
 **Normal to Hard.** Hard moves shielded enemies from wave 30 to wave 15, adds 40 percent enemy HP, and multiplies Cen by 1.5. The entire strategy shift is the Drill Man timing: 5,000 Cen that you previously had until wave 55 must now exist by wave 14. That single shift compresses every other purchase — Upgraded Cameraman lands at 18-20, Upgraded Speakerman at 28-30, TV Man at 35-38. The scene where you can feel the difference: wave 13 on Hard, you're 1,200 Cen short of Drill Man, and the shop is showing Upgraded Cameraman at 2,500, tempting you to grab the upgrade first. Don't. Shields are a hard stop; HP is not. The shield wall at 15 ends runs; the slightly weaker beam only slows them.
 
-**Hard to Nightmare.** Nightmare doubles enemy speed, halves Cen income, brings armored shields at wave 8, and — the one nobody mentions before they lose — disables auto-heal. Three adjustments: position everything 30 percent closer to spawn points, because 2x speed halves your DPS window; buy Drill Man upgraded at wave 8-10 before any other expensive unit; and learn the manual heal rotation with TV Man's heal on a 45-second cooldown. A full breakdown of every mechanical change, the adjusted order, and whether the Nightmare skins are worth the grind is in our [BBF Nightmare Mode Guide](/posts/blockade-battlefront/nightmare-mode-guide/).
+**Hard to Nightmare.** Nightmare doubles enemy speed, halves Cen income, brings armored shields at wave 8, and — the one nobody mentions before they lose — disables auto-heal. Three adjustments: position everything 30 percent closer to spawn points, because 2x speed halves your DPS window; buy Drill Man upgraded at wave 8-10 before any other expensive unit; and learn the manual heal rotation with TV Man's heal on a 45-second cooldown. A full breakdown of every mechanical change, the adjusted order, and whether the Nightmare skins are worth the grind is in our [BBF Nightmare Mode Guide](/games/blockade-battlefront/).
 
 The gate habit to build on Nightmare: set wave goals, not clear goals. Your first attempts will fail — the milestone is wave 30, then 40, then 50. That's the whole game's progression in miniature: not one big leap from Normal to Nightmare, but a ladder of small, named, practiced milestones, each one opening the next. Dana's mistake wasn't lack of skill. It was trying to climb the whole ladder in one jump. Don't jump. Climb.
 
@@ -150,7 +150,7 @@ The gate habit to build on Nightmare: set wave goals, not clear goals. Your firs
 
 ## Related Guides
 
-- [BBF Beginner Guide — Your First 10 Waves, First Titans & Why Wave 25 Ends Every New Player](/posts/blockade-battlefront/beginner-guide/)
+- [BBF Beginner Guide — Your First 10 Waves, First Titans & Why Wave 25 Ends Every New Player](/games/blockade-battlefront/)
 - [BBF Complete Beginner to Pro Player Roadmap — the Exact Path from First Game to Nightmare Mode](/posts/blockade-battlefront/rookie-roadmap-guide/)
 - [BBF Cen Farming Guide — Economy, Snowball & Spend vs Save](/posts/blockade-battlefront/cen-farming-guide/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)

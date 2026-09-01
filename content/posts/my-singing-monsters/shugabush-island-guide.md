@@ -226,8 +226,8 @@ The full 8-member arrangement is genuinely one of the best tracks in My Singing 
 
 ## Related Guides
 
-- [MSM Beginner Guide](/posts/my-singing-monsters/beginner-guide/) -- Core mechanics and first-week priorities
-- [MSM Breeding Guide](/posts/my-singing-monsters/breeding-guide/) -- Every breeding combination and timer
+- [MSM Beginner Guide](/games/my-singing-monsters/) -- Core mechanics and first-week priorities
+- [MSM Breeding Guide](/games/my-singing-monsters/) -- Every breeding combination and timer
 - [MSM Farming Guide](/posts/my-singing-monsters/farming-guide/) -- Coin and food optimization strategies
 - [Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/) -- Ethereal monsters and shard production
 - [Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/) -- Passive resource generation setup

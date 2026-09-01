@@ -173,7 +173,7 @@ These four ideas contradict everything you've heard about aim training. They're 
 
 **You should aim with your feet, not your hands.** This sounds like nonsense until you watch a Diamond player warm up. They don't flick wildly. They strafe into the shot. Their crosshair is already at head height (placement), and they use movement keys — not the mouse — to make the final 2-3 pixel adjustment. Mouse aim handles the big movements (30-180 degrees). Movement aim handles the micro-adjustments. If you're using your mouse for both, your micro-adjustments will be jittery and inconsistent. Let your strafe do the fine work.
 
-**Aim has a 30% ceiling in SNIPE.** Once your crosshair placement is automatic, your scope timing is under 400ms, and your flicks are 60%+ accurate, further aim improvement gives you single-digit returns. The Diamond players who dominate aren't the ones with the best aim. They're the ones who combine competent aim with elite positioning, movement, and game sense. If you're hardstuck Platinum with 65% flick accuracy, your aim isn't the bottleneck. Your positioning is. The [Positioning & Angles Guide](/posts/snipe/positioning-angles-guide/) will fix more of your ranked deaths than another 100 hours of aim drills.
+**Aim has a 30% ceiling in SNIPE.** Once your crosshair placement is automatic, your scope timing is under 400ms, and your flicks are 60%+ accurate, further aim improvement gives you single-digit returns. The Diamond players who dominate aren't the ones with the best aim. They're the ones who combine competent aim with elite positioning, movement, and game sense. If you're hardstuck Platinum with 65% flick accuracy, your aim isn't the bottleneck. Your positioning is. The [Positioning & Angles Guide](/games/snipe/) will fix more of your ranked deaths than another 100 hours of aim drills.
 
 ---
 
@@ -196,9 +196,9 @@ Use this matrix to decide what to practice based on your specific weakness. Don'
 
 ## Related Guides
 
-- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/posts/snipe/snipe-beginner-guide/)
+- [SNIPE Beginner Guide — Controls, Game Modes & First Win](/games/snipe/)
 - [SNIPE Movement Mechanics — Wall Run, B-Hop & Momentum](/posts/snipe/movement-mechanics-guide/)
-- [SNIPE Positioning & Angles — Win Every Duel](/posts/snipe/positioning-angles-guide/)
+- [SNIPE Positioning & Angles — Win Every Duel](/games/snipe/)
 - [SNIPE Competitive Ranked Roadmap — Bronze to Diamond](/posts/snipe/competitive-ranked-roadmap/)
-- [SNIPE Settings & FPS Optimization](/posts/snipe/settings-fps-optimization/)
+- [SNIPE Settings & FPS Optimization](/games/snipe/)
 - [SNIPE Weapons & Abilities Guide](/posts/snipe/weapons-abilities-guide/)

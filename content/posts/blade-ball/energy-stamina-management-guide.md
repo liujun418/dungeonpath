@@ -274,13 +274,13 @@ The mirror drill. Play five casual matches where your only goal is to never drop
 
 ## Related Guides
 
-- [Blade Ball Beginner Guide — From First Match to First Win](/posts/blade-ball/beginner-guide/)
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/)
+- [Blade Ball Beginner Guide — From First Match to First Win](/games/blade-ball/)
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/)
 - [Blade Ball Ability Counter & Meta Guide 2026](/posts/blade-ball/ability-counter-meta-guide/)
 - [Blade Ball Ability Phase Guide — When to Use Each Ability](/posts/blade-ball/ability-phase-guide/)
 - [Blade Ball Deflect & Parry Timing Guide](/posts/blade-ball/deflect-parry-timing-guide/)
-- [Blade Ball Speed Curve Guide — Why Everything Changes After Deflection 5](/posts/blade-ball/speed-curve-guide/)
-- [Blade Ball Ranked Climbing Decision Guide](/posts/blade-ball/ranked-climbing-decision-guide/)
+- [Blade Ball Speed Curve Guide — Why Everything Changes After Deflection 5](/games/blade-ball/)
+- [Blade Ball Ranked Climbing Decision Guide](/games/blade-ball/)
 - [Blade Ball Settings & Controls Optimization Guide](/posts/blade-ball/settings-optimization-guide/)
 
 ---

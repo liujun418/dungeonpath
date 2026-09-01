@@ -259,16 +259,16 @@ A: Ranked players hold angles longer, rotate more predictably, and punish positi
 A: Tracking both enemy players simultaneously. In 1v1, you know where the threat is. In 2v2, the threat is split. The most common death in Gold-ranked 2v2 is getting killed by the player you forgot existed. Call out enemy positions every 5 seconds. "Sniper on catwalk. SMG on floor." Never let your team lose track.
 
 **Q: Is there a mode that specifically helps with aim?**
-A: **FFA on small maps** (Warehouse, Downtown). The constant respawning and close-range fights force you to aim faster. However, FFA also teaches bad habits — like ignoring positioning to chase kills. Use FFA for aim warmup, not for strategic learning. For structured aim practice, see the [RIVALS Aim Training Guide](/posts/rivals/aim-training-guide/).
+A: **FFA on small maps** (Warehouse, Downtown). The constant respawning and close-range fights force you to aim faster. However, FFA also teaches bad habits — like ignoring positioning to chase kills. Use FFA for aim warmup, not for strategic learning. For structured aim practice, see the [RIVALS Aim Training Guide](/games/rivals/).
 
 ---
 
 ## Related Guides
 
 - [RIVALS Game Modes and Ranked Guide](/posts/rivals/game-modes-and-ranked-guide/) — All modes explained, ranked MMR system, and competitive tips
-- [RIVALS Maps and Strategies Guide](/posts/rivals/maps-and-strategies-guide/) — Best positions, weapon picks, and rotation routes for all 7 maps
-- [RIVALS Team Composition Guide](/posts/rivals/team-composition-guide/) — Best roles, synergies, and the counter-pick meta
-- [RIVALS 1v1 Duel Strategies Guide](/posts/rivals/1v1-duel-strategies-guide/) — Peek timings, mind games, and clutch round decisions
+- [RIVALS Maps and Strategies Guide](/games/rivals/) — Best positions, weapon picks, and rotation routes for all 7 maps
+- [RIVALS Team Composition Guide](/games/rivals/) — Best roles, synergies, and the counter-pick meta
+- [RIVALS 1v1 Duel Strategies Guide](/games/rivals/) — Peek timings, mind games, and clutch round decisions
 - [RIVALS Movement Mastery Guide](/posts/rivals/movement-mastery-guide/) — Slide jumping, advanced movement, and pro techniques
 - [RIVALS Loadout and Build Synergy Guide](/posts/rivals/loadout-build-synergy-guide/) — How to pair weapons, abilities, and utilities for every playstyle
 - [RIVALS Beginner Guide](/posts/rivals/beginner-guide/) — Complete walkthrough for new players covering weapons, modes, and progression

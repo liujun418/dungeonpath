@@ -13,12 +13,12 @@ tags: ["Blade Ball", "Roblox", "Tier List", "Combat"]
 categories: ["Roblox Guides"]
 games: ["Blade Ball"]
 related:
-  - /posts/blade-ball/ability-combos-synergy-guide/
+  - /games/blade-ball/
   - /posts/blade-ball/deflect-parry-timing-guide/
   - /posts/blade-ball/energy-stamina-management-guide/
   - /posts/blade-ball/maps-and-trails-guide/
   - /posts/blade-ball/ranked-competitive-strategy-guide/
-  - /posts/blade-ball/how-to-win-guide/
+  - /games/blade-ball/
 
 faq:
   - question: "What is the best Blade Ball ability for beginners?"
@@ -163,7 +163,7 @@ One more counter-intuitive point: once the ball passes six deflections, almost n
 ## Best Ability Combinations by Mode
 
 ### Classic Mode (Free-for-All)
-For a full breakdown of Classic, 1v1, and Team Mode strategies, see our [Game Modes Guide](/posts/blade-ball/game-modes-guide/).
+For a full breakdown of Classic, 1v1, and Team Mode strategies, see our [Game Modes Guide](/games/blade-ball/).
 
 - **Priority 1: Infinity** — Automatic defense for fast balls
 - **Priority 2: Dash** — Quick repositioning
@@ -179,7 +179,7 @@ For a full breakdown of Classic, 1v1, and Team Mode strategies, see our [Game Mo
 - **Priority 2: Force Field** — Backup defense
 - **Priority 3: Dash** — Repositioning to help teammates
 
-Two individually strong abilities don't always work together — our [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/) shows which pairings actually win matches and why cooldown overlap matters.
+Two individually strong abilities don't always work together — our [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/) shows which pairings actually win matches and why cooldown overlap matters.
 
 ---
 
@@ -236,7 +236,7 @@ Block and parry timing is its own skill — see our [Deflect and Parry Timing Gu
 **Infinity** is the best overall ability. Its automatic shield makes it nearly impossible to eliminate you when the ball is at maximum speed.
 
 ### What ability should I buy first?
-If you're using Dash (free), your first purchase should be **Infinity**. It's the single most impactful ability for survival. See our [Beginner Guide](/posts/blade-ball/beginner-guide/) for a full walkthrough on getting started.
+If you're using Dash (free), your first purchase should be **Infinity**. It's the single most impactful ability for survival. See our [Beginner Guide](/games/blade-ball/) for a full walkthrough on getting started.
 
 ### Is Dash really that good?
 Yes. Dash is S+ tier and completely free. Many top players use nothing but Dash because of its reliability and short cooldown.
@@ -248,16 +248,16 @@ Yes. Dash is S+ tier and completely free. Many top players use nothing but Dash 
 Not necessarily. Most event abilities are cosmetic variants of existing abilities. Gale's Edge is the only event ability with unique mechanics that competes with S-tier options.
 
 ### How do I get coins fast?
-Win matches (50-100 coins), complete achievements, and redeem active codes like **5BVISITS** (SPARKLERR sword skin) and **4BVISITS** (Bubble Wand sword skin). Check our [Blade Ball Codes Guide](/posts/blade-ball/codes-guide/) for the latest working codes.
+Win matches (50-100 coins), complete achievements, and redeem active codes like **5BVISITS** (SPARKLERR sword skin) and **4BVISITS** (Bubble Wand sword skin). Check our [Blade Ball Codes Guide](/games/blade-ball/) for the latest working codes.
 
 ---
 
 ## Next Steps
 
-1. **[Blade Ball How to Win Guide](/posts/blade-ball/how-to-win-guide/)** — Core win conditions and match flow
-2. **[Blade Ball Beginner Guide](/posts/blade-ball/beginner-guide/)** — Complete walkthrough for new players
+1. **[Blade Ball How to Win Guide](/games/blade-ball/)** — Core win conditions and match flow
+2. **[Blade Ball Beginner Guide](/games/blade-ball/)** — Complete walkthrough for new players
 3. **[Browse all guides](/posts/)** — Visit our guides page
-4. **[Tower Defense Simulator Beginner Guide](/posts/tower-defense-simulator/beginner-guide/)** — Try another popular Roblox game
+4. **[Tower Defense Simulator Beginner Guide](/games/tower-defense-simulator/)** — Try another popular Roblox game
 
 ---
 

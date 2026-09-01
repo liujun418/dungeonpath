@@ -25,8 +25,8 @@ related:
   - /posts/fisch/titanium-rod-guide/
   - /posts/fisch/cusk-purger-rod-guide/
   - /posts/fisch/outer-deep-bestiary-guide/
-  - /posts/fisch/complete-location-map/
-  - /posts/fisch/rare-mythic-fish-guide/
+  - /games/fisch/
+  - /games/fisch/
 ---
 
 You're standing in the Lower Deep, and the water around you is wrong. Not cold — the opposite. Steam curls off the rocks, your screen heat-hazes at the edges, and somewhere above you a player's rod whips forward and something on the other end of their line glows orange, like a brand pulled out of a furnace. They reel once, twice, and the catch bar pulses. The sell price that pops off their fish is nine times what that species is worth. You check their loadout. Scalding Hook.
@@ -79,7 +79,7 @@ This is the counterintuitive truth of the Scalding Hook: its 180% Luck is fine, 
 
 Your NPC is **Vesper of the Deep**. Don't panic if your UI shows the name **"Fester of the Deep"** — it's the same character; the localization has flipped between builds and players report both spellings. Same quests, same rewards.
 
-Vesper is in the **Lower Deep** zone, at coordinates **1610, -2830, -11765**. If you're lost, the [complete location map](/posts/fisch/complete-location-map/) pins every zone and NPC in The Deep so you can orient from wherever you are.
+Vesper is in the **Lower Deep** zone, at coordinates **1610, -2830, -11765**. If you're lost, the [complete location map](/games/fisch/) pins every zone and NPC in The Deep so you can orient from wherever you are.
 
 Vesper runs two quests, and you have to clear both to earn the Scalding Hook:
 
@@ -136,7 +136,7 @@ Once the Titanic Scalder is built, head back to Vesper and start Scalded Abyss f
 1. Land 15 Mythical, Exotic, or Secret rarity fish with the Titanic Scalder.
 2. Catch 8 fish in the Lower Deep with any rod.
 
-Part two is trivial. Part one is the real test, and the wording trips people up. It's **15 rare-rarity fish**, not "catch 15 fish while holding the scalder." A Mythical fish counts. An Exotic counts. A Secret counts. A Legendary does *not*. A Rare does *not*. If you're unclear on which species fall into the Mythical/Exotic/Secret brackets, our [rare and Mythic fish guide](/posts/fisch/rare-mythic-fish-guide/) breaks down the rarity tiers and where to find each bracket in The Deep.
+Part two is trivial. Part one is the real test, and the wording trips people up. It's **15 rare-rarity fish**, not "catch 15 fish while holding the scalder." A Mythical fish counts. An Exotic counts. A Secret counts. A Legendary does *not*. A Rare does *not*. If you're unclear on which species fall into the Mythical/Exotic/Secret brackets, our [rare and Mythic fish guide](/games/fisch/) breaks down the rarity tiers and where to find each bracket in The Deep.
 
 Here's the second failure recap, and it's the sneakiest one.
 
@@ -183,5 +183,5 @@ Then the real learning starts: stop tapping the reel. Build the Forced Progress 
 - [Titanium Rod Guide](/posts/fisch/titanium-rod-guide/) — the safer 180% Luck farmer and how to build it.
 - [Cusk Purger Rod Guide](/posts/fisch/cusk-purger-rod-guide/) — the endgame hunt-fish machine this rod is often compared against.
 - [Outer Deep Bestiary Guide](/posts/fisch/outer-deep-bestiary-guide/) — every species in the zones where you'll farm Salvage Scrap and rare fish.
-- [Complete Location Map](/posts/fisch/complete-location-map/) — every zone, NPC, and coordinate in The Deep.
-- [Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — the rarity tiers and where to find Mythical, Exotic, and Secret fish.
+- [Complete Location Map](/games/fisch/) — every zone, NPC, and coordinate in The Deep.
+- [Rare & Mythic Fish Guide](/games/fisch/) — the rarity tiers and where to find Mythical, Exotic, and Secret fish.

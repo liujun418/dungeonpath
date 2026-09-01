@@ -246,5 +246,5 @@ Players who consistently underperform are not bad players. They are usually unco
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/) — Turn order, target priority, and PvP combat fundamentals
 - [Monster Legends Runes and Relics Guide](/posts/monster-legends/runes-and-relics-guide/) — Rune optimization for your Anchor and Bait teams
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/) — Which monsters deserve your best runes and relics
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/) — Single-combat strategy that translates directly to war attack teams
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — New to the game? Start here before diving into advanced war tactics
+- [Monster Legends Arena PvP Guide](/games/monster-legends/) — Single-combat strategy that translates directly to war attack teams
+- [Monster Legends Beginner Guide](/games/monster-legends/) — New to the game? Start here before diving into advanced war tactics

@@ -264,4 +264,4 @@ A: Records vary month to month due to the monthly reset. Check the in-game leade
 - [Pressure Beginner Guide: Complete Walkthrough for New Players](/posts/pressure/beginner-guide/) — Master the fundamentals before attempting Endless Mode
 - [Pressure Entities Guide (May 2026)](/posts/pressure/entities-guide/) — Complete bestiary for every entity you will encounter in Endless Mode
 - [Pressure Pro Survival Tips](/posts/pressure/survival-tips-guide/) — Advanced survival strategies for deeper runs
-- [Pressure Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/) — Complete item reference for resource planning
+- [Pressure Items and Puzzles Guide](/games/pressure/) — Complete item reference for resource planning

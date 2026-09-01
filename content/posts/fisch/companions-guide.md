@@ -24,7 +24,7 @@ faq:
     answer: "No. Smudge gains XP from Shady Scrips you earn through gameplay, not from the standard catch/walk/interact XP pool. Converting C$ into Scrips at the Scrip Vendor does not level Smudge, so you have to actually earn Scrips in the Shady Bazaar to make it grow."
 related:
   - /posts/fisch/the-deep-update-guide/
-  - /posts/fisch/npc-quest-priority-guide/
+  - /games/fisch/
   - /posts/fisch/codes-and-rewards-guide/
   - /posts/fisch/leveling-xp-farming-guide/
   - /posts/fisch/halibut-harpoon-guide/
@@ -174,4 +174,4 @@ A few things in this guide are thinner than the rest, and I'd rather flag them t
 
 **Companion Candy source.** Everyone agrees it's worth 1,500 XP, but where it reliably comes from — codes, events, or a vendor — isn't nailed down in the sources I found.
 
-If you're working the The Deep content for Scrapbot, keep the [The Deep update guide](/posts/fisch/the-deep-update-guide/) open alongside it. The side-quest order matters, and our [NPC quest priority guide](/posts/fisch/npc-quest-priority-guide/) covers which NPCs to hit first. And before you burn a four-hour hunt window on Mosswaddler, scan the [codes and rewards guide](/posts/fisch/codes-and-rewards-guide/) to make sure you've redeemed `livyatanandcompanions` for the violet variant.
+If you're working the The Deep content for Scrapbot, keep the [The Deep update guide](/posts/fisch/the-deep-update-guide/) open alongside it. The side-quest order matters, and our [NPC quest priority guide](/games/fisch/) covers which NPCs to hit first. And before you burn a four-hour hunt window on Mosswaddler, scan the [codes and rewards guide](/posts/fisch/codes-and-rewards-guide/) to make sure you've redeemed `livyatanandcompanions` for the violet variant.

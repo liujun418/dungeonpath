@@ -114,13 +114,13 @@ Most MSM guides repeat the same safe advice: save diamonds, breed efficiently, b
 
 ## Related Guides
 
-- [MSM Beginner Guide — Islands, Breeding & First Monsters](/posts/my-singing-monsters/beginner-guide/)
+- [MSM Beginner Guide — Islands, Breeding & First Monsters](/games/my-singing-monsters/)
 - [MSM Wublin Island Guide — Complete Awakening Strategy](/posts/my-singing-monsters/wublin-island-guide/)
 - [MSM Gold Island, Fire Haven & Magical Sanctum Guide](/posts/my-singing-monsters/gold-island-fire-haven-magical-sanctum/)
-- [MSM Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
-- [MSM Breeding Guide — All Combinations & Times](/posts/my-singing-monsters/breeding-guide/)
+- [MSM Diamond & Coin Farming Guide](/games/my-singing-monsters/)
+- [MSM Breeding Guide — All Combinations & Times](/games/my-singing-monsters/)
 - [MSM Tribal Island Guide — Star Power & Tribe Rewards](/posts/my-singing-monsters/tribal-island-guide/)
-- [MSM Beginner Mistakes — 10 Errors & Fixes](/posts/my-singing-monsters/beginner-mistakes-guide/)
+- [MSM Beginner Mistakes — 10 Errors & Fixes](/games/my-singing-monsters/)
 
 ---
 

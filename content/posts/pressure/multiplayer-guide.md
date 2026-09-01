@@ -424,8 +424,8 @@ Continue building your Pressure expertise with our other guides:
 - **[Pressure Beginner Mistakes Guide](/posts/pressure/beginner-mistakes-guide/)** — 15 common mistakes new players make and how to fix them
 - **[Pressure Codes and Secrets Guide](/posts/pressure/codes-and-secrets-guide/)** — Active codes, hidden secrets, and unlockables
 - **[Pressure Entities Guide](/posts/pressure/entities-guide/)** — Complete breakdown of every entity in the Hadal Blacksite
-- **[Pressure Floors and Locations Guide](/posts/pressure/floors-and-locations-guide/)** — Room types, floor layouts, and zone-specific strategies
-- **[Pressure Items and Puzzles Guide](/posts/pressure/items-and-puzzles-guide/)** — Every item, keycard, and puzzle solution explained
+- **[Pressure Floors and Locations Guide](/games/pressure/)** — Room types, floor layouts, and zone-specific strategies
+- **[Pressure Items and Puzzles Guide](/games/pressure/)** — Every item, keycard, and puzzle solution explained
 - **[Pressure Survival Tips Guide](/posts/pressure/survival-tips-guide/)** — Advanced strategies for resource management, entity avoidance, and reaching deep floors
 
 ---

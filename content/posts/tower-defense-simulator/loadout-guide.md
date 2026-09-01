@@ -46,7 +46,7 @@ A well-constructed loadout covers five essential roles:
 
 **The 5-Slot Constraint:** You only have 5 slots. Every tower must earn its place. A loadout with 5 DPS towers will lose because you have no support. A loadout with 3 support towers will lose because you have no damage. Balance is everything.
 
-For the fundamentals of TDS gameplay, see the [TDS Beginner Guide](/posts/tower-defense-simulator/beginner-guide/).
+For the fundamentals of TDS gameplay, see the [TDS Beginner Guide](/games/tower-defense-simulator/).
 
 ---
 
@@ -181,7 +181,7 @@ The Hardcore final boss has 500,000 HP — significantly more than the Fallen Ki
 4. Use Commander's ability again as soon as it comes off cooldown
 5. If your first Accelerator placement was wrong, sell and reposition — the boss moves slowly enough that you have time
 
-For a complete Hardcore breakdown, see the [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/).
+For a complete Hardcore breakdown, see the [TDS Hardcore Mode Guide](/games/tower-defense-simulator/).
 
 ---
 
@@ -381,8 +381,8 @@ A: No. Your loadout is locked when the game starts. Plan your loadout before que
 
 ## Related Guides
 
-- [Tower Defense Simulator Beginner Guide](/posts/tower-defense-simulator/beginner-guide/) — Start here if you are new to TDS
+- [Tower Defense Simulator Beginner Guide](/games/tower-defense-simulator/) — Start here if you are new to TDS
 - [TDS Towers Tier List (May 2026)](/posts/tower-defense-simulator/towers-tier-list/) — Every tower ranked for loadout planning
 - [TDS Fallen Mode Guide](/posts/tower-defense-simulator/fallen-mode-guide/) — Complete Fallen mode strategy
-- [TDS Hardcore Mode Guide](/posts/tower-defense-simulator/hardcore-mode-guide/) — Dominate the hardest standard mode
+- [TDS Hardcore Mode Guide](/games/tower-defense-simulator/) — Dominate the hardest standard mode
 - [TDS Enemy Wave Guide](/posts/tower-defense-simulator/enemy-wave-guide/) — Know what you are facing in every mode

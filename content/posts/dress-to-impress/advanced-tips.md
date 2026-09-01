@@ -257,13 +257,13 @@ Yes — but mainly for Freeplay drilling and for accessing the higher-skill VIP 
 
 ## Next Steps
 
-1. **[Dress To Impress Beginner Guide](/posts/dress-to-impress/beginner-guide/)** — Complete walkthrough for new players
-2. **[Dress To Impress All Themes List](/posts/dress-to-impress/all-themes-list/)** — Every theme with outfit ideas
-3. **[Dress To Impress Codes Guide](/posts/dress-to-impress/codes-and-items/)** — All active codes and rewards
+1. **[Dress To Impress Beginner Guide](/games/dress-to-impress/)** — Complete walkthrough for new players
+2. **[Dress To Impress All Themes List](/games/dress-to-impress/)** — Every theme with outfit ideas
+3. **[Dress To Impress Codes Guide](/games/dress-to-impress/)** — All active codes and rewards
 4. **[Dress To Impress Runway and Voting Guide](/posts/dress-to-impress/runway-and-voting-guide/)** — Master runway presentation
 5. **[Dress To Impress Seasonal Events Guide](/posts/dress-to-impress/seasonal-events-guide/)** — Events and limited items
 6. **[Dress To Impress Color Theory and Palette Guide](/posts/dress-to-impress/color-theory-palette-guide/)** — Master undertones and palette matching
-7. **[Dress To Impress Custom Makeup Guide](/posts/dress-to-impress/custom-makeup-guide/)** — Advanced face customization techniques
+7. **[Dress To Impress Custom Makeup Guide](/games/dress-to-impress/)** — Advanced face customization techniques
 
 ---
 

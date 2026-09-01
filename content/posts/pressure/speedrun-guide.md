@@ -176,4 +176,4 @@ You can't truly skip floors, but you can compress time per floor to almost nothi
 - [Pressure Entity Timing Guide — When Every Spawn Happens](/posts/pressure/entity-timing-guide/)
 - [Pressure Badges & Achievements — Complete Unlock Guide](/posts/pressure/badges-achievements-guide/)
 - [Pressure Items & Loadout Tier List — Best 5-Slot Loadouts](/posts/pressure/items-loadout-tier-list/)
-- [Pressure Entity Timing Windows — Safe Movement Frames](/posts/pressure/entity-timing-windows/)
+- [Pressure Entity Timing Windows — Safe Movement Frames](/games/pressure/)

@@ -211,11 +211,11 @@ These five ideas contradict what most players assume about Hard mode. They are a
 
 ## Related Guides
 
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
-- [BBF Game Modes Guide — Normal, Hard & Endless Differences](/posts/blockade-battlefront/game-modes-guide/)
-- [BBF Nightmare Mode Guide — Differences, Strategy & Rewards](/posts/blockade-battlefront/nightmare-mode-guide/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
+- [BBF Game Modes Guide — Normal, Hard & Endless Differences](/games/blockade-battlefront/)
+- [BBF Nightmare Mode Guide — Differences, Strategy & Rewards](/games/blockade-battlefront/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Mid-Game Survival Playbook — Waves 30-50](/posts/blockade-battlefront/mid-game-survival-guide/)
+- [BBF Mid-Game Survival Playbook — Waves 30-50](/games/blockade-battlefront/)
 - [BBF Boss Wave Protocol — Every Boss Pattern & Counter](/posts/blockade-battlefront/boss-wave-protocol/)
 - [BBF Cen Farming Guide — How to Maximize Income](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Titans Upgrades Guide — Which Levels Matter Most](/posts/blockade-battlefront/titans-upgrades-guide/)
+- [BBF Titans Upgrades Guide — Which Levels Matter Most](/games/blockade-battlefront/)

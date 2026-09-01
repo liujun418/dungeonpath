@@ -19,10 +19,10 @@ faq:
   - question: "The weather I need hasn't shown up in three full day cycles. Do I keep waiting or switch servers?"
     answer: "Do not wait. Weather in Fisch is randomly rolled at the start of each new day or night period (~12.5 minutes). Three cycles without your target weather is 37 minutes of zero progress. Server-hop to force a fresh roll. It takes 15-20 seconds to leave and rejoin, and you get a completely new weather slot. In the same 37 minutes of waiting, you could have checked 20+ servers and found your weather at least once. The only exception is if you are already at a remote location like the Northern Summit with a Blizzard Totem in your inventory — then just pop the totem and skip the server hop."
 related:
-  - /posts/fisch/fish-location-strategy-guide/
+  - /games/fisch/
   - /posts/fisch/mutations-bait-guide/
   - /posts/fisch/best-rods-tier-list/
-  - /posts/fisch/enchantment-strategy-guide/
+  - /games/fisch/
 ---
 
 You are staring at your screen. Two hours at Moosewood Dock. Clear skies. Sunny afternoon. Inventory full of Commons that sell for pocket change. Then a player three docks over — same rod, same bait — reels in a Mythic on their third cast. They were not luckier. They were not cheating. They just checked the bottom-right corner of their screen, saw the rain clouds rolling in, and knew exactly what that meant.
@@ -95,7 +95,7 @@ Nighttime is not just about nocturnal fish. Several events only trigger at night
 
 **Starfall** gives a +5% Nova mutation chance and +10% fishing progress speed. Nova is a 7.5× sell value mutation. Hitting a Nova during Starfall on a high-value fish is a session-defining moment.
 
-The takeaway: if it is night and one of these events is active, you should be fishing for nocturnal fish whether you planned to or not. The bonuses are too good to ignore. Pivot your target. [Check which nocturnal fish spawn at your current location](/posts/fisch/fish-location-strategy-guide/) and adjust.
+The takeaway: if it is night and one of these events is active, you should be fishing for nocturnal fish whether you planned to or not. The bonuses are too good to ignore. Pivot your target. [Check which nocturnal fish spawn at your current location](/games/fisch/) and adjust.
 
 ---
 
@@ -242,7 +242,7 @@ Do not wait. Weather in Fisch is randomly rolled at the start of each new day or
 
 ## Related Guides
 
-- [Fisch Fish Location Strategy Guide](/posts/fisch/fish-location-strategy-guide/) — Where to find every fish and which locations match which weather
+- [Fisch Fish Location Strategy Guide](/games/fisch/) — Where to find every fish and which locations match which weather
 - [Fisch Mutations & Bait Guide](/posts/fisch/mutations-bait-guide/) — Which bait to pair with which weather for maximum value
 - [Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/) — Control and resilience stats for every rod, ranked by weather type
-- [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — Exact spawn conditions for every Mythic, including weather and time requirements
+- [Fisch Rare & Mythic Fish Guide](/games/fisch/) — Exact spawn conditions for every Mythic, including weather and time requirements

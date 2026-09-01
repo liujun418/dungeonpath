@@ -281,9 +281,9 @@ Before you log off:
 
 ## Related Guides
 
-- [Palworld Beginner Guide](/posts/palworld/beginner-guide/) — Where to build your first base for maximum safety
+- [Palworld Beginner Guide](/games/palworld/) — Where to build your first base for maximum safety
 - [Palworld Base Building Guide](/posts/palworld/base-building-guide/) — Complete base layout optimization
 - [Palworld Best Pals Tier List](/posts/palworld/best-pals-tier-list/) — Combat and work Pal rankings
-- [Palworld Pal Management Guide](/posts/palworld/pal-management-guide/) — When to keep, condense, or replace your defenders
+- [Palworld Pal Management Guide](/games/palworld/) — When to keep, condense, or replace your defenders
 - [Palworld Breeding Guide](/posts/palworld/breeding-guide/) — Breed defenders with max HP and Defense IVs
 - [Palworld Server Settings Guide](/posts/palworld/server-settings-guide/) — Full breakdown of multiplayer and dedicated server configs

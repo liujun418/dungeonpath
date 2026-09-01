@@ -20,8 +20,8 @@ faq:
   - question: "Should I upgrade my current ship or save Beli for the next ship tier?"
     answer: "Upgrade your current ship only if the upgrade directly enables content you cannot currently access or if it pays for itself in saved farming time before you would have bought the next ship anyway. A ship one tier lower with two upgrades is generally better than a ship one tier higher with zero upgrades — a fully upgraded Caravel (roughly 150,000 Beli total) outperforms a base Galleon (250,000 Beli) in speed, hull durability, and cannon damage. The one hard rule: ship upgrades do not carry over when you buy a new ship. If you are more than 60% of the way to affording the next tier, save. If not, upgrade."
 related:
-  - /posts/sailor-piece/ship-progression-guide/
-  - /posts/sailor-piece/ships-navigation-guide/
+  - /games/sailor-piece/
+  - /games/sailor-piece/
   - /posts/sailor-piece/jjk-expansion-guide/
   - /posts/sailor-piece/sea-beasts-boss-hunting-guide/
 ---
@@ -34,7 +34,7 @@ Speed upgrades. Hull durability. Cannon damage. Crew capacity. Material costs wi
 
 This guide exists because the upgrade menu does not explain itself. It tells you what each upgrade costs. It does not tell you what each upgrade actually does for your gameplay. By the time you finish reading, you will know which upgrades pay for themselves, which ones are resource traps, and exactly how to get your ship from "it floats" to "it survives the Cursed Energy barrier on the way to Shinjuku Island."
 
-If you are still deciding which ship to buy, start with the [Sailor Piece Ship Progression Guide](/posts/sailor-piece/ship-progression-guide/) — it covers the full ship tree from Rowboat to Dragon Ship. If you need island-by-island navigation routes, the [Ships & Navigation Guide](/posts/sailor-piece/ships-navigation-guide/) has every route mapped. This guide is about what happens after you own the ship: the upgrade system, the material economy, and the decisions that separate a ship that gets you there from one that sinks halfway.
+If you are still deciding which ship to buy, start with the [Sailor Piece Ship Progression Guide](/games/sailor-piece/) — it covers the full ship tree from Rowboat to Dragon Ship. If you need island-by-island navigation routes, the [Ships & Navigation Guide](/games/sailor-piece/) has every route mapped. This guide is about what happens after you own the ship: the upgrade system, the material economy, and the decisions that separate a ship that gets you there from one that sinks halfway.
 
 ---
 
@@ -276,7 +276,7 @@ The ocean is not the game. The islands are the game. The bosses are the game. Yo
 
 ## Related Guides
 
-- [Sailor Piece Ship Progression Guide — Rowboat to Dragon Ship, Every Ship Tier & Why Speed Is the Best Stat](/posts/sailor-piece/ship-progression-guide/)
-- [Sailor Piece Ships & Navigation Guide — Sea Beasts, Island Routes & Sea 2 Unlock Requirements](/posts/sailor-piece/ships-navigation-guide/)
+- [Sailor Piece Ship Progression Guide — Rowboat to Dragon Ship, Every Ship Tier & Why Speed Is the Best Stat](/games/sailor-piece/)
+- [Sailor Piece Ships & Navigation Guide — Sea Beasts, Island Routes & Sea 2 Unlock Requirements](/games/sailor-piece/)
 - [Sailor Piece JJK Expansion Guide — Shinjuku Island, the Two New Specs & the Ascend System](/posts/sailor-piece/jjk-expansion-guide/)
 - [Sailor Piece Sea Beasts & Boss Hunting Guide — Spawn Zones, Ship Builds & 5+ Kills Per Hour](/posts/sailor-piece/sea-beasts-boss-hunting-guide/)

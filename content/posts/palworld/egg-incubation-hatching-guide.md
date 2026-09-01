@@ -193,4 +193,4 @@ The temperature system is inverted from intuition. Dragon eggs need campfires. F
 - [Palworld Breeding Combinations Guide](/posts/palworld/breeding-combinations-guide/)
 - [Palworld Base Building Guide](/posts/palworld/base-building-guide/)
 - [Palworld Pal Locations Guide](/posts/palworld/pal-locations-guide/)
-- [Palworld Pal Management Guide](/posts/palworld/pal-management-guide/)
+- [Palworld Pal Management Guide](/games/palworld/)

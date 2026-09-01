@@ -182,7 +182,7 @@ Here's the thing most fruit guides won't tell you, so read it twice.
 
 A Flame player at mastery 300 with Armament Haki, a practiced Fire Fist combo, and a feel for the cooldowns will dumpster a Soul player at mastery 1 who just ate the fruit and doesn't have a combo yet. The tier letter tells you the ceiling. Mastery and build tell you where you actually are right now.
 
-That means two things. First, don't switch off a fruit you've already mastered just because a higher-tier one dropped — you're trading a running build for a level-1 starter. Second, when you do upgrade, budget for the mastery grind and a reset, or the "upgrade" is secretly a downgrade for the next ten hours of play. If you want to see how much of your strength comes from your race and build rather than the fruit, our [races and hybrid builds guide](/posts/sailor-piece/races-hybrid-builds-guide/) covers it.
+That means two things. First, don't switch off a fruit you've already mastered just because a higher-tier one dropped — you're trading a running build for a level-1 starter. Second, when you do upgrade, budget for the mastery grind and a reset, or the "upgrade" is secretly a downgrade for the next ten hours of play. If you want to see how much of your strength comes from your race and build rather than the fruit, our [races and hybrid builds guide](/games/sailor-piece/) covers it.
 
 ## Pick Your Fruit in 30 Seconds
 

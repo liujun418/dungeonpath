@@ -31,7 +31,7 @@ related:
   - /posts/doors/entity-defense-counter-guide/
   - /posts/doors/entities-bestiary/
   - /posts/doors/seek-chase-complete-guide/
-  - /posts/doors/figure-survival-protocol/
+  - /games/doors/
 ---
 
 Door 14. You've survived long enough to feel confident. You open the door, step into a standard hotel room — two beds, a dresser, a closet on the far wall. You walk toward the dresser to check for gold. The lights flicker. You freeze. Is that Rush? Ambush? You waste one second deciding. In that second, Rush is already halfway through the map. You turn toward the closet, but you're too far. Rush screams through the room and you're dead before your hand touches the handle.
@@ -118,7 +118,7 @@ Figure operates on a cycle: it walks for about 8 to 9 seconds, then stops and li
 
 The fix: watch Figure. When it's walking, you can crouch-walk. When it stops, you stop. No exceptions. If you keep accidentally pressing sprint, unbind the sprint key for the Library encounter. Many experienced players do this for Room 50 and Room 100. Silence beats speed every time.
 
-For the full 11-second patrol cycle and the exact rhythm that beats Figure, read our [Figure survival protocol](/posts/doors/figure-survival-protocol/).
+For the full 11-second patrol cycle and the exact rhythm that beats Figure, read our [Figure survival protocol](/games/doors/).
 
 ---
 
@@ -222,5 +222,5 @@ The game isn't unfair. It just doesn't explain itself. These 12 mistakes cover e
 
 - [DOORS Entities Bestiary — Every Monster, Audio Cue & Counter](/posts/doors/entities-bestiary/)
 - [DOORS Entity Defense & Counter Guide — Survive Every Encounter](/posts/doors/entity-defense-counter-guide/)
-- [Figure Survival Protocol — The 11-Second Cycle That Beats Room 50](/posts/doors/figure-survival-protocol/)
+- [Figure Survival Protocol — The 11-Second Cycle That Beats Room 50](/games/doors/)
 - [DOORS Pre-Run Preparation Guide — Item Priority & Gold Budgeting](/posts/doors/pre-run-preparation-guide/)

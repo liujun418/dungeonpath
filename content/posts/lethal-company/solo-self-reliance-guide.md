@@ -84,7 +84,7 @@ The answer isn't about scrap value. It's about weight-to-slot ratio:
 | First trip of the day | Hairdryer (40 scrap, 7 lbs) | Stop Sign (32 scrap, 21 lbs) | Take the Hairdryer — every trip should maximize trips per day |
 | Last trip (post-10 PM) | Pick any high-value item | Drop all light items | Take the heaviest high-value item — you're done for the day |
 
-**The rule:** Light items win on early trips. Heavy items win on the final trip. If you're carrying a 30-lb engine at 9 AM, you've wasted a trip slot. For a full breakdown of loadout economics, check our [Equipment Economy Guide](/posts/lethal-company/equipment-economy-guide/).
+**The rule:** Light items win on early trips. Heavy items win on the final trip. If you're carrying a 30-lb engine at 9 AM, you've wasted a trip slot. For a full breakdown of loadout economics, check our [Equipment Economy Guide](/games/lethal-company/).
 
 ### The 3-Trip System
 
@@ -235,8 +235,8 @@ No. Lethal Company saves your progress after the ship lands. If you die, you're 
 
 ## Related Guides
 
-- [Lethal Company Solo Survival Guide — Best Moons, Loadouts & Enemy Counters](/posts/lethal-company/solo-survival-guide/)
-- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/posts/lethal-company/beginner-guide/)
+- [Lethal Company Solo Survival Guide — Best Moons, Loadouts & Enemy Counters](/games/lethal-company/)
+- [Lethal Company Beginner Guide — First Quota, Monsters & Items](/games/lethal-company/)
 - [Lethal Company Quota Crisis Guide — How to Recover from a Bad Run](/posts/lethal-company/quota-crisis-guide/)
-- [Lethal Company Equipment Economy Guide — What to Buy and When](/posts/lethal-company/equipment-economy-guide/)
+- [Lethal Company Equipment Economy Guide — What to Buy and When](/games/lethal-company/)
 - [Lethal Company Moons Profit Tier List — Best Moons Ranked](/posts/lethal-company/moons-profit-tier-list/)

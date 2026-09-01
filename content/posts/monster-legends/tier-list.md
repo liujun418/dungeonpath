@@ -28,7 +28,7 @@ faq:
 related:
   - /posts/monster-legends/kitakami-era-guide/
   - /posts/monster-legends/elemental-mastery-guide/
-  - /posts/monster-legends/arena-pvp-guide/
+  - /games/monster-legends/
   - /posts/monster-legends/breeding-guide/
 ---
 
@@ -168,7 +168,7 @@ The only tier list that survives a rotation is the framework, not the rankings. 
 
 - [Monster Legends Kitakami Era Guide](/posts/monster-legends/kitakami-era-guide/)
 - [Monster Legends Elemental Mastery Guide](/posts/monster-legends/elemental-mastery-guide/)
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/)
+- [Monster Legends Arena PvP Guide](/games/monster-legends/)
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/)
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/)
+- [Monster Legends Beginner Guide](/games/monster-legends/)
 - [Monster Legends Team Wars Advanced Strategy](/posts/monster-legends/team-wars-advanced-guide/)

@@ -25,10 +25,10 @@ faq:
     answer: "A stun grenade and a zap gun if you can afford both. Stun grenades trivialize the Bracken and the Forest Keeper; the zap gun locks down the Coil-Head and the Nutcracker. If you can only take one, take the stun grenade first — it works on the two entities most likely to end an outdoor run."
 related:
   - /posts/lethal-company/monster-bestiary/
-  - /posts/lethal-company/solo-survival-guide/
-  - /posts/lethal-company/weather-strategy-guide/
+  - /games/lethal-company/
+  - /games/lethal-company/
   - /posts/lethal-company/communication-signals-guide/
-  - /posts/lethal-company/beginner-guide/
+  - /games/lethal-company/
 ---
 
 ## The 3-Second Protocol
@@ -39,7 +39,7 @@ You have about three seconds. That's the whole game. Identify the sound, name th
 
 This playbook is muscle memory: concrete counters for every major entity, in the order you'll hear them. Short sentences. Hard numbers. No fluff.
 
-If you're brand new, start with our [beginner guide](/posts/lethal-company/beginner-guide/) and the full [monster bestiary](/posts/lethal-company/monster-bestiary/). This page assumes you know the map basics and only need the counters.
+If you're brand new, start with our [beginner guide](/games/lethal-company/) and the full [monster bestiary](/posts/lethal-company/monster-bestiary/). This page assumes you know the map basics and only need the counters.
 
 ## You Heard It at Door 12 — Now Move
 
@@ -307,7 +307,7 @@ Silent Shoes and Soundproof Headphones show up in counter threads, but neither i
 
 The Bracken's stare timing — that "roughly 4 seconds" — varies with server lag and is worth drilling yourself. The shape of it isn't up for debate: freeze, control your gaze, don't let it get behind you.
 
-To verify the current patch, run a practice moon solo with a stopwatch — our [solo survival guide](/posts/lethal-company/solo-survival-guide/) covers clean test runs. And outdoor entities shift with the weather: fog and rain change how far the Eyeless Dog and Forest Keeper can hear and see, which our [weather strategy guide](/posts/lethal-company/weather-strategy-guide/) breaks down by moon.
+To verify the current patch, run a practice moon solo with a stopwatch — our [solo survival guide](/games/lethal-company/) covers clean test runs. And outdoor entities shift with the weather: fog and rain change how far the Eyeless Dog and Forest Keeper can hear and see, which our [weather strategy guide](/games/lethal-company/) breaks down by moon.
 
 ## Final Notes
 

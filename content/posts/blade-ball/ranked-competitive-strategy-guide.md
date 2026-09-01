@@ -190,10 +190,10 @@ Ranked Blade Ball tests more than your deflect timing. It tests your ability to 
 
 ## Related Guides
 
-- [Blade Ball Ranked Climbing Decision Guide](/posts/blade-ball/ranked-climbing-decision-guide/) — Deeper breakdown of when to push and when to hold back at each rank
+- [Blade Ball Ranked Climbing Decision Guide](/games/blade-ball/) — Deeper breakdown of when to push and when to hold back at each rank
 - [Blade Ball Ranking and Competitive Guide](/posts/blade-ball/ranking-and-competitive-guide/) — MMR system, seasons, and placement matches explained
-- [Blade Ball Tournament Competitive Guide](/posts/blade-ball/tournament-competitive-guide/) — Bracket mindset, prep routine, and prize structure
+- [Blade Ball Tournament Competitive Guide](/games/blade-ball/) — Bracket mindset, prep routine, and prize structure
 - [Blade Ball Opponent Reading Guide](/posts/blade-ball/opponent-reading-guide/) — Pattern recognition and the four core playstyles
 - [Blade Ball Clutch and Comeback Guide](/posts/blade-ball/clutch-comeback-guide/) — Mental framework for winning from behind
 - [Blade Ball Abilities Tier List](/posts/blade-ball/abilities-tier-list/) — Every ability ranked for competitive play
-- [Blade Ball How to Win Guide](/posts/blade-ball/how-to-win-guide/) — Advanced strategies for every game mode
+- [Blade Ball How to Win Guide](/games/blade-ball/) — Advanced strategies for every game mode

@@ -154,10 +154,10 @@ A lot. In duo, one player can greed economy while the other holds defense, which
 
 ## Related Guides
 
-- [TDS Beginner Guide — Towers, Waves & First Win](/posts/tower-defense-simulator/beginner-guide/)
+- [TDS Beginner Guide — Towers, Waves & First Win](/games/tower-defense-simulator/)
 - [TDS Tower Placement Theory — 2-Tile Rule & Coverage Zones](/posts/tower-defense-simulator/tower-placement-theory/)
-- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/posts/tower-defense-simulator/timing-decision-guide/)
-- [TDS Coin & Gem Farming Guide — Best Economy Methods](/posts/tower-defense-simulator/coin-farming-guide/)
+- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/games/tower-defense-simulator/)
+- [TDS Coin & Gem Farming Guide — Best Economy Methods](/games/tower-defense-simulator/)
 - [TDS Loadout Guide — Picking a Team That Works Together](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Fallen Mode Guide — Beating the Hardest Standard Mode](/posts/tower-defense-simulator/fallen-mode-guide/)
 

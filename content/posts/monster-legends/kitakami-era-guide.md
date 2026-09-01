@@ -24,7 +24,7 @@ related:
   - /posts/monster-legends/tier-list/
   - /posts/monster-legends/elemental-mastery-guide/
   - /posts/monster-legends/events-guide/
-  - /posts/monster-legends/arena-pvp-guide/
+  - /games/monster-legends/
 ---
 
 You open Monster Legends on the morning of August 13, 2026, and the home screen is different. The Nintendo Era banner is gone. In its place sits the Kitakami Era, a new Mythic cycle, and under it a timer that reads 27 days. You have a stash of gems, a pile of event tokens, and a plan that amounts to "wait and see what's good." Then you tap the Season 1 menu and see four new monsters sitting behind four different currencies, and "wait and see" quietly becomes "decide before September 9 or lose the window."
@@ -106,7 +106,7 @@ The fix is the framework above: check your reach before you spend. If you cannot
 
 The second failure I keep seeing is the Wind team. Players get a Wind monster, assume the new element is a power spike, and build their whole arena defense around it. Then they queue into a Dark-heavy bracket and get farmed. Wind is weak to Dark. Dark attackers like Zombic and other meta staples are everywhere in PvP, and they do not care that your monster is the shiny new element. They care that it is weak to their element.
 
-The recovery is the same as any element mistake: run one Wind monster as an anti-Earth answer, not three Wind monsters as a strategy. Check the [tier list](/posts/monster-legends/tier-list/) and the [PvP guide](/posts/monster-legends/arena-pvp-guide/) before you commit your runes and books to the new toy.
+The recovery is the same as any element mistake: run one Wind monster as an anti-Earth answer, not three Wind monsters as a strategy. Check the [tier list](/posts/monster-legends/tier-list/) and the [PvP guide](/games/monster-legends/) before you commit your runes and books to the new toy.
 
 ## Building a Team for the Wind Meta
 

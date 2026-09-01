@@ -353,11 +353,11 @@ Blox Fruits codes are free resources that can save you dozens of hours of grindi
 
 The key is staying on top of new releases. Join the official Discord, follow the Twitter account, and check this guide regularly. Most codes last 1–3 weeks, so you have a comfortable window — but waiting too long means missing out.
 
-For maximizing your code rewards, pair XP boost codes with efficient grinding strategies. Check our [Leveling Guide](/posts/blox-fruits/leveling-guide/) for the best XP farming routes, and our [Beginner Guide](/posts/blox-fruits/beginner-guide/) for advice on spending your free Beli wisely.
+For maximizing your code rewards, pair XP boost codes with efficient grinding strategies. Check our [Leveling Guide](/posts/blox-fruits/leveling-guide/) for the best XP farming routes, and our [Beginner Guide](/games/blox-fruits/) for advice on spending your free Beli wisely.
 
 ## Related Guides
 
-- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/posts/blox-fruits/beginner-guide/)
+- [Blox Fruits Beginner Guide: Complete Walkthrough for New Players](/games/blox-fruits/)
 - [Blox Fruits Leveling Guide: Fast XP Method & All Island Quests](/posts/blox-fruits/leveling-guide/)
 - [Blox Fruits Fruits Tier List 2026: Best Devil Fruits Ranked](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Haki Guide: All Haki Types & Upgrade Paths](/posts/blox-fruits/haki-and-abilities-guide/)

@@ -76,7 +76,7 @@ The exact pitch of each row depends on the monster you place there. A Mammott on
 
 ## Monster Selection: Your Instrument Palette
 
-The monsters you place are your instruments. Each species produces a unique timbre based on its element, while the row you choose determines its pitch. If you have not unlocked all Natural monsters yet, see our [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/) for breeding combinations to fill out your collection.
+The monsters you place are your instruments. Each species produces a unique timbre based on its element, while the row you choose determines its pitch. If you have not unlocked all Natural monsters yet, see our [My Singing Monsters Breeding Guide](/games/my-singing-monsters/) for breeding combinations to fill out your collection.
 
 **Melody and Lead Instruments**
 Tweedle brings a bright flute-like wind sound perfect for lead lines and folk melodies. Cybop delivers a sharp synth lead that excels in electronic and chiptune covers. Dandidoo offers a clean whistle that cuts through dense arrangements. T-Rox layers in rock guitar crunch for power riffs. PongPing provides marimba and xylophone tones ideal for playful, rhythmic leads. Fwog adds a funky synth texture that works for both bass and lead roles.
@@ -303,7 +303,7 @@ Build professional depth by separating your composition into layers. Row 1 holds
 
 ## Composer Island and the Broader MSM Experience
 
-Composer Island is self-contained, but it connects to the wider game in meaningful ways. To use a monster on Composer Island, you must have discovered or bred it on its home island. This encourages progression across the archipelago. Check our [My Singing Monsters Beginner Guide](/posts/my-singing-monsters/beginner-guide/) for help unlocking Natural islands.
+Composer Island is self-contained, but it connects to the wider game in meaningful ways. To use a monster on Composer Island, you must have discovered or bred it on its home island. This encourages progression across the archipelago. Check our [My Singing Monsters Beginner Guide](/games/my-singing-monsters/) for help unlocking Natural islands.
 
 The monster sounds on Composer Island are identical to the sounds those monsters make on their home islands. Learning how they fit together in a composition deepens your appreciation of the game's sound design. During special events, Big Blue Bubble sometimes runs Composer Island contests where winning entries get featured on official social media. Check the [My Singing Monsters Seasonal Events Guide](/posts/my-singing-monsters/seasonal-events-guide/) for upcoming schedules.
 
@@ -311,10 +311,10 @@ The monster sounds on Composer Island are identical to the sounds those monsters
 
 ## Related Guides
 
-- [My Singing Monsters Beginner Guide](/posts/my-singing-monsters/beginner-guide/) — Unlocking islands and collecting monsters for Composer
-- [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/) — How to obtain every Natural monster for your compositions
+- [My Singing Monsters Beginner Guide](/games/my-singing-monsters/) — Unlocking islands and collecting monsters for Composer
+- [My Singing Monsters Breeding Guide](/games/my-singing-monsters/) — How to obtain every Natural monster for your compositions
 - [My Singing Monsters Shugabush Island Guide](/posts/my-singing-monsters/shugabush-island-guide/) — Another music-themed island with unique monster sounds
 - [My Singing Monsters Wublin Island Guide](/posts/my-singing-monsters/wublin-island-guide/) — Wublins produce sounds that can inspire your next composition
 - [My Singing Monsters Seasonal Events Guide](/posts/my-singing-monsters/seasonal-events-guide/) — Seasonal events sometimes feature Composer Island contests
-- [My Singing Monsters Diamond and Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/) — Earn the 25,000 coins for Composer Island and beyond
+- [My Singing Monsters Diamond and Coin Farming Guide](/games/my-singing-monsters/) — Earn the 25,000 coins for Composer Island and beyond
 - [My Singing Monsters Ethereal Island Guide](/posts/my-singing-monsters/ethereal-island-guide/) — Ethereal monsters add strange, beautiful sounds that can inspire original compositions

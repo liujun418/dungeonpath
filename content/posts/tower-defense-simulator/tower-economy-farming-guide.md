@@ -270,10 +270,10 @@ Run through this checklist at the end of wave 10, 20, and 30 in every match.
 
 ## Related Guides
 
-- [TDS Coin & Gem Farming Guide — Best Economy Methods](/posts/tower-defense-simulator/coin-farming-guide/)
-- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/posts/tower-defense-simulator/timing-decision-guide/)
+- [TDS Coin & Gem Farming Guide — Best Economy Methods](/games/tower-defense-simulator/)
+- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/games/tower-defense-simulator/)
 - [TDS Tower Placement Theory — Chokepoints & Coverage](/posts/tower-defense-simulator/tower-placement-theory/)
 - [TDS Loadout Guide — Best Tower Combinations](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)
-- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
+- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/games/tower-defense-simulator/)
 - [TDS Solo Strategies — Win Harder Modes Alone](/posts/tower-defense-simulator/solo-strategies-guide/)

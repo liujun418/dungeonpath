@@ -276,7 +276,7 @@ When you open the Technology menu, treat every point as non-refundable — becau
 ### Continue Reading
 
 - **[Palworld Technology & Progression Guide](/posts/palworld/technology-and-progression-guide/)** — Level-by-level unlock roadmap with full tables.
-- **[Palworld Beginner Guide](/posts/palworld/beginner-guide/)** — Where to build, which Pals to catch first, and the level 10 decision.
+- **[Palworld Beginner Guide](/games/palworld/)** — Where to build, which Pals to catch first, and the level 10 decision.
 - **[Palworld Base Building Guide](/posts/palworld/base-building-guide/)** — Efficient base layouts for 1-5 bases.
 - **[Palworld Resources & Materials Guide](/posts/palworld/resources-and-materials-guide/)** — Farm every resource in the game.
 - **[Palworld Breeding Guide](/posts/palworld/breeding-guide/)** — Breed Pals with perfect passive skills.

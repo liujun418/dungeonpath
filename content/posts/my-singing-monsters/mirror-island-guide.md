@@ -29,7 +29,7 @@ related:
   - /posts/my-singing-monsters/farming-guide/
   - /posts/my-singing-monsters/coin-economy-optimization-guide/
   - /posts/my-singing-monsters/island-unlock-order-guide/
-  - /posts/my-singing-monsters/beginner-guide/
+  - /games/my-singing-monsters/
 ---
 
 > *Last updated: August 29, 2026. This guide covers what Mirror Islands are, when they unlock, and how to use them as a passive Shard farm.*
@@ -40,7 +40,7 @@ You're sitting at roughly level 20, and your natural islands are finally humming
 
 Then the shop opens and asks if you want to buy monsters. Not breed them. Buy them, with coins.
 
-You close it. It looks like a cosmetic reskin, and cosmetics don't pay the bills. A darker Plant Island with cheaper-sounding monsters? You've got coin farms to feed and a [breeding guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) to work through. You file Mirror Islands under "later, probably never."
+You close it. It looks like a cosmetic reskin, and cosmetics don't pay the bills. A darker Plant Island with cheaper-sounding monsters? You've got coin farms to feed and a [breeding guide]({{< ref "/games/my-singing-monsters/" >}}) to work through. You file Mirror Islands under "later, probably never."
 
 That's the mistake most players make. Mirror Islands aren't a cosmetic toggle — they're one of the cheapest, most passive Shard sources in the mid-game, and skipping them quietly makes your Tribal Island and Ethereal goals more expensive.
 
@@ -74,7 +74,7 @@ Second, it holds a spot on the island without touching your main islands. Every 
 
 Third, it rounds out the island's song in its own lower register. Nice, but not a reason to spend coins by itself.
 
-One thing a mirrored monster does not do is breed. You can't combine them, you can't hatch them, and there's no nursery to hold eggs. If you're deep in the [breeding guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) right now, park that part of the game — Mirror Islands run on a completely different loop. You buy, you place, you level, you collect Shards. That's it.
+One thing a mirrored monster does not do is breed. You can't combine them, you can't hatch them, and there's no nursery to hold eggs. If you're deep in the [breeding guide]({{< ref "/games/my-singing-monsters/" >}}) right now, park that part of the game — Mirror Islands run on a completely different loop. You buy, you place, you level, you collect Shards. That's it.
 
 ## Why Mirror Islands Matter: The Shard Economy
 
@@ -160,7 +160,7 @@ Start with the cheapest single-element and double-element mirrored monsters, not
 
 ## Related Guides
 
-- [Beginner Guide]({{< ref "/posts/my-singing-monsters/beginner-guide" >}}) -- Getting started in MSM
+- [Beginner Guide]({{< ref "/games/my-singing-monsters/" >}}) -- Getting started in MSM
 - [Island Unlock Order Guide]({{< ref "/posts/my-singing-monsters/island-unlock-order-guide" >}}) -- The full island ladder
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- The strongest Shard source in the game
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Another passive Shard generator

@@ -233,10 +233,10 @@ The 10% coin loss from placing them outside DJ's discount radius is less than th
 
 ## Related Guides
 
-- [TDS Beginner Guide — Towers, Waves & First Win](/posts/tower-defense-simulator/beginner-guide/)
+- [TDS Beginner Guide — Towers, Waves & First Win](/games/tower-defense-simulator/)
 - [TDS Towers Tier List — Every Tower Ranked](/posts/tower-defense-simulator/towers-tier-list/)
-- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/posts/tower-defense-simulator/timing-decision-guide/)
-- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/posts/tower-defense-simulator/golden-vs-fallen-vs-hardcore/)
+- [TDS Timing Decision Guide — When to Place, Upgrade & Sell](/games/tower-defense-simulator/)
+- [TDS Mode Comparison — Golden vs Fallen vs Hardcore](/games/tower-defense-simulator/)
 - [TDS Tower Synergy Combos — Best Pairings for Every Mode](/posts/tower-defense-simulator/tower-synergy-combos/)
 - [TDS Loadout Guide — Building the Perfect Team](/posts/tower-defense-simulator/loadout-guide/)
 - [TDS Complete Loadout Strategy & Optimization Guide](/posts/tower-defense-simulator/loadout-strategy-optimization/)

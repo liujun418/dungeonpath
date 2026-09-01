@@ -16,7 +16,7 @@ related:
   - "/posts/my-singing-monsters/ethereal-island-guide/"
   - "/posts/my-singing-monsters/gold-island-fire-haven-magical-sanctum/"
   - "/posts/my-singing-monsters/tribal-island-advanced-guide/"
-  - "/posts/my-singing-monsters/breeding-guide/"
+  - "/games/my-singing-monsters/"
   - "/posts/my-singing-monsters/coin-economy-optimization-guide/"
 faq:
   - question: "Should I prioritize Ethereal Island or Magical Sanctum first?"

@@ -19,9 +19,9 @@ faq:
   - question: "I keep dying to Rush in rooms with no closets. What's the counterplay?"
     answer: "Rooms without closets fall into two categories: corridor bridges and certain large open rooms. In corridor bridges, your only option is to sprint to the next room before Rush reaches you — you have roughly 3.5 seconds from the first light flicker. In large open rooms without closets, look for beds (you can hide under them), tables (crouch behind them — Rush's hitbox skims above table height), or the entry door frame (stand pressed against the wall next to the door you came through — Rush's pathing occasionally misses players hugging entry frames). If none of these exist, back out through the door you entered and hide in the previous room. Entering a closet-free room when the lights haven't flickered in 3+ rooms is gambling with your run."
 related:
-  - /posts/doors/hotel-walkthrough-guide/
+  - /games/doors/
   - /posts/doors/entities-bestiary/
-  - /posts/doors/room-50-library-walkthrough/
+  - /games/doors/
   - /posts/doors/seek-chase-complete-guide/
 ---
 
@@ -165,7 +165,7 @@ The Hotel has roughly a dozen recurring room layouts. They're not exactly identi
 
 **What to do:** When you enter a room and see a numbered door, stop moving. Identify the room type — Library, Courtyard, Electrical, etc. Recall the mechanic. Then proceed. The room recognition here isn't about finding the exit — it's about recognizing what kind of fight you're in.
 
-For more on specific exit rooms, check out the [Room 50 Library Walkthrough](/posts/doors/room-50-library-walkthrough/) and the [Hotel Full Walkthrough](/posts/doors/hotel-walkthrough-guide/).
+For more on specific exit rooms, check out the [Room 50 Library Walkthrough](/games/doors/) and the [Hotel Full Walkthrough](/games/doors/).
 
 ---
 
@@ -293,7 +293,7 @@ If you're recording your runs (OBS is free, use it), watch your deaths. Pause th
 
 ## Related Guides
 
-- [DOORS Hotel Full Walkthrough — Every Floor, Every Entity](/posts/doors/hotel-walkthrough-guide/)
+- [DOORS Hotel Full Walkthrough — Every Floor, Every Entity](/games/doors/)
 - [DOORS Entities Bestiary — Every Monster, Every Counter](/posts/doors/entities-bestiary/)
-- [DOORS Room 50 Library Walkthrough — Surviving Figure Step by Step](/posts/doors/room-50-library-walkthrough/)
+- [DOORS Room 50 Library Walkthrough — Surviving Figure Step by Step](/games/doors/)
 - [DOORS Seek Chase Complete Guide — Surviving Every Chase Sequence](/posts/doors/seek-chase-complete-guide/)

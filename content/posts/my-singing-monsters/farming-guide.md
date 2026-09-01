@@ -366,8 +366,8 @@ Remember these key principles:
 
 ## Related Guides
 
-- [Beginner Guide]({{< ref "/posts/my-singing-monsters/beginner-guide" >}}) -- Getting started in MSM
-- [Breeding Guide]({{< ref "/posts/my-singing-monsters/breeding-guide" >}}) -- All breeding combinations
+- [Beginner Guide]({{< ref "/games/my-singing-monsters/" >}}) -- Getting started in MSM
+- [Breeding Guide]({{< ref "/games/my-singing-monsters/" >}}) -- All breeding combinations
 - [Wublin Island Guide]({{< ref "/posts/my-singing-monsters/wublin-island-guide" >}}) -- Passive income through Wublins
 - [Ethereal Island Guide]({{< ref "/posts/my-singing-monsters/ethereal-island-guide" >}}) -- Shard production from Ethereals
 - [Seasonal Events Guide]({{< ref "/posts/my-singing-monsters/seasonal-events-guide" >}}) -- Limited-time monsters

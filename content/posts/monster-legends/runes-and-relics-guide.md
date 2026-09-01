@@ -431,7 +431,7 @@ A: Losing the speed race or getting one-shot? Probably runes. Winning turn one b
 
 - [Monster Legends Battle Strategy Guide](/posts/monster-legends/battle-strategy/) — Combat mechanics and turn order explained
 - [Monster Legends Breeding Guide](/posts/monster-legends/breeding-guide/) — Breed monsters worth your best runes
-- [Monster Legends Arena PvP Guide](/posts/monster-legends/arena-pvp-guide/) — PvP strategies using optimized rune builds
+- [Monster Legends Arena PvP Guide](/games/monster-legends/) — PvP strategies using optimized rune builds
 - [Monster Legends Team Wars Guide](/posts/monster-legends/team-wars-guide/) — Defense and attack strategies using optimized rune builds
 - [Monster Legends Tier List](/posts/monster-legends/tier-list/) — Which monsters deserve your best runes
-- [Monster Legends Beginner Guide](/posts/monster-legends/beginner-guide/) — Getting started with runes and relics
+- [Monster Legends Beginner Guide](/games/monster-legends/) — Getting started with runes and relics

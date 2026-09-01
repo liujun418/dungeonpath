@@ -298,7 +298,7 @@ Masterline Rod (FREE — Completion Reward)
 - **Best Value**: Resourceful Rod (Runner-Up: Lucky Rod) — Doubles bait effects — saves coins long-term
 - **Best All-Rounder**: Rod of the Depths (Runner-Up: Trident Rod) — Good stats across the board, no major weaknesses
 
-Once you have the right rod, target specific rare and Mythic fish with our [Fisch Rare & Mythic Fish Guide](/posts/fisch/rare-mythic-fish-guide/) — it covers the exact bait, weather, and time conditions for every high-value catch.
+Once you have the right rod, target specific rare and Mythic fish with our [Fisch Rare & Mythic Fish Guide](/games/fisch/) — it covers the exact bait, weather, and time conditions for every high-value catch.
 
 ---
 
@@ -314,7 +314,7 @@ A rod with 150% luck catches significantly more rare and mutated fish than one w
 Low-control rods make the reeling minigame nearly impossible for fish above 10K kg. If you're targeting Desolate Deep or Atlantis fish, prioritize control over luck.
 
 **4. Enchantments change everything.**
-A mid-tier rod with the right enchantments can outperform an unenchanted higher-tier rod. Visit the **Keeper's Altar** (see our [Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/) for location details) once you have your main rod.
+A mid-tier rod with the right enchantments can outperform an unenchanted higher-tier rod. Visit the **Keeper's Altar** (see our [Fisch Quests and NPCs Guide](/games/fisch/) for location details) once you have your main rod.
 
 **5. Save for big jumps, not incremental upgrades.**
 Instead of buying every rod along the way, save for the big upgrades: Steady Rod → Rod of the Depths → No-Life Rod → Ethereal Prism Rod.
@@ -345,12 +345,12 @@ A: The **Rod of the Depths** (750,000 C$) has slightly better stats but costs mo
 Ready to plan your fishing route? Check out our other guides:
 
 - **[Fisch Beginner Guide](/posts/fisch/beginner-guide/)** — Complete walkthrough for new players
-- **[Fisch Fish Location Map](/posts/fisch/fish-location-map/)** — Where to find every fish
+- **[Fisch Fish Location Map](/games/fisch/)** — Where to find every fish
 - **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — Best strategies for earning coins fast
 - **[Fisch Codes and Rewards Guide](/posts/fisch/codes-and-rewards-guide/)** — Active codes for free rewards
-- **[Fisch Quests and NPCs Guide](/posts/fisch/quests-and-npcs-guide/)** — All quests, NPC locations, and rewards
+- **[Fisch Quests and NPCs Guide](/games/fisch/)** — All quests, NPC locations, and rewards
 - **[Fisch Venue Takeover Guide](/posts/fisch/venue-takeover-guide/)** — All 8 limited developer rods from the May 2026 event
-- **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — Pro strategies and rare fish hunting
+- **[Fisch Advanced Fishing Techniques](/games/fisch/)** — Pro strategies and rare fish hunting
 - **[Pressure Beginner Guide](/posts/pressure/beginner-guide/)** — Our guide to a different Roblox experience
 
 ---

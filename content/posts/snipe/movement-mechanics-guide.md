@@ -99,7 +99,7 @@ Diamond+ players in Snipe don't randomly mash movement keys. They run a decision
 - **Warehouse:** Shot from behind the red crate? Wall-run across the shelving units to the opposite corner. The enemy pushing your old position presents their back to you.
 - **Rooftops:** Scoped from the crane? Grapple to the lower rooftop and hold the crane ladder. Revenge peeks are the most predictable movement in ranked.
 
-For a full breakdown of power positions on every map, read the [Snipe Map Mastery Guide](/posts/snipe/map-mastery-guide/).
+For a full breakdown of power positions on every map, read the [Snipe Map Mastery Guide](/games/snipe/).
 
 ---
 
@@ -133,7 +133,7 @@ Snipe's engine rewards specific input windows. Miss the window and you're either
 - **Jump-peek stability frame:** At the apex of your jump, there's a 40-60ms window where your movement penalty resets. Fire in this window. Fire too early or too late and your shot goes wide.
 - **Landing momentum:** You retain slide momentum for 200ms after landing. Jump immediately after landing to chain into a bunny hop. Wait longer than 200ms and you reset to sprint speed.
 
-If your FPS is below 60, these windows feel inconsistent. The game renders fewer frames, so the cancel inputs drop. Before you drill movement mechanics, fix your frame rate. The [Snipe Settings & FPS Optimization Guide](/posts/snipe/settings-fps-optimization/) has the exact config Diamond players use to maintain 144+ FPS on mid-range hardware.
+If your FPS is below 60, these windows feel inconsistent. The game renders fewer frames, so the cancel inputs drop. Before you drill movement mechanics, fix your frame rate. The [Snipe Settings & FPS Optimization Guide](/games/snipe/) has the exact config Diamond players use to maintain 144+ FPS on mid-range hardware.
 
 ---
 
@@ -150,7 +150,7 @@ Warehouse is close-quarters chaos. The players who survive are the ones who neve
 **Rooftops — Zipline Cancel to Crane**
 Grapple to the zipline. Mid-ride, cancel with a jump and immediately wall-run up the crane support. Players watching the zipline expect you to ride it to the end. You're on the crane before they adjust their crosshair. This pairs perfectly with the Heavy Sniper's long sightlines.
 
-Movement routes change based on your loadout. If you're running an SMG, you want tight corner routes. If you're sniping, you want elevated repositioning paths. The [Snipe Weapons Tier List](/posts/snipe/weapons-tier-list/) breaks down which weapons reward aggressive movement and which punish it.
+Movement routes change based on your loadout. If you're running an SMG, you want tight corner routes. If you're sniping, you want elevated repositioning paths. The [Snipe Weapons Tier List](/games/snipe/) breaks down which weapons reward aggressive movement and which punish it.
 
 ---
 
@@ -173,9 +173,9 @@ Gold players in Snipe have decent aim. They can land headshots in casual. They c
 
 Diamond players don't necessarily have better aim. They have better positioning, better timing, and better movement discipline. They know that a shot taken while moving beats a perfect shot never taken because the shooter died during scope-in.
 
-If you're hardstuck Gold, stop tweaking your sensitivity. Stop blaming hit registration. Start moving. The [Snipe Ranked Climbing Guide](/posts/snipe/ranked-climbing-guide/) breaks down the exact RP thresholds and mental checkpoints for each tier, but the mechanical gate between Gold and Diamond is this: can you take a shot while your hitbox is changing? If yes, you climb. If no, you don't.
+If you're hardstuck Gold, stop tweaking your sensitivity. Stop blaming hit registration. Start moving. The [Snipe Ranked Climbing Guide](/games/snipe/) breaks down the exact RP thresholds and mental checkpoints for each tier, but the mechanical gate between Gold and Diamond is this: can you take a shot while your hitbox is changing? If yes, you climb. If no, you don't.
 
-New to Snipe? Start with the [Snipe Beginner Guide](/posts/snipe/snipe-beginner-guide/) to learn the basics before you drill advanced movement. And if you want the frame-perfect tech that sits on top of these fundamentals — animation cancels, wall-run chains, and silent peeks — the [Snipe Advanced Techniques Guide](/posts/snipe/advanced-techniques-ranked-guide/) has the exact input sequences.
+New to Snipe? Start with the [Snipe Beginner Guide](/games/snipe/) to learn the basics before you drill advanced movement. And if you want the frame-perfect tech that sits on top of these fundamentals — animation cancels, wall-run chains, and silent peeks — the [Snipe Advanced Techniques Guide](/posts/snipe/advanced-techniques-ranked-guide/) has the exact input sequences.
 
 ---
 

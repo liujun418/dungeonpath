@@ -13,8 +13,8 @@ cover:
   alt: "My Singing Monsters complete coin economy optimization guide"
   caption: "The coin economy is a system — learn how it works and you'll never be broke again"
 related:
-  - "/posts/my-singing-monsters/beginner-guide/"
-  - "/posts/my-singing-monsters/diamond-coin-farming-guide/"
+  - "/games/my-singing-monsters/"
+  - "/games/my-singing-monsters/"
   - "/posts/my-singing-monsters/monster-happiness-optimization-guide/"
   - "/posts/my-singing-monsters/farming-guide/"
   - "/posts/my-singing-monsters/island-unlock-order-guide/"
@@ -283,8 +283,8 @@ Most players who follow this plan see their daily income double within a week. N
 
 ## Related Guides
 
-- [My Singing Monsters Beginner Guide](/posts/my-singing-monsters/beginner-guide/)
-- [My Singing Monsters Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
+- [My Singing Monsters Beginner Guide](/games/my-singing-monsters/)
+- [My Singing Monsters Diamond & Coin Farming Guide](/games/my-singing-monsters/)
 - [My Singing Monsters Happiness Optimization Guide](/posts/my-singing-monsters/monster-happiness-optimization-guide/)
 - [My Singing Monsters Complete Farming Guide](/posts/my-singing-monsters/farming-guide/)
 - [My Singing Monsters Island Unlock Order Guide](/posts/my-singing-monsters/island-unlock-order-guide/)

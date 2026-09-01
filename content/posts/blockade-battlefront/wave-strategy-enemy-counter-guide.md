@@ -112,12 +112,12 @@ The players who clear wave 50 are not the ones with the best Titans. They are th
 
 ## Related Guides
 
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
-- [BBF Beginner Mistakes Guide — What to Avoid in Your First 10 Hours](/posts/blockade-battlefront/beginner-mistakes-guide/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
+- [BBF Beginner Mistakes Guide — What to Avoid in Your First 10 Hours](/games/blockade-battlefront/)
 - [BBF Boss Wave Protocol — Every Boss Pattern & the Exact Counter](/posts/blockade-battlefront/boss-wave-protocol/)
 - [BBF Titans Tier List — Best Units for Every Wave Stage](/posts/blockade-battlefront/titans-tier-list/)
-- [BBF Titans Upgrades Guide — Which Levels Matter Most](/posts/blockade-battlefront/titans-upgrades-guide/)
-- [BBF Mid-Game Survival Playbook — Waves 30-50](/posts/blockade-battlefront/mid-game-survival-guide/)
-- [BBF Late-Game Wave Survival — Beyond Wave 50](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Titans Upgrades Guide — Which Levels Matter Most](/games/blockade-battlefront/)
+- [BBF Mid-Game Survival Playbook — Waves 30-50](/games/blockade-battlefront/)
+- [BBF Late-Game Wave Survival — Beyond Wave 50](/games/blockade-battlefront/)
 - [BBF Cen Farming Guide — How to Maximize Income](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Element Counter System Explained](/posts/blockade-battlefront/element-counter-system/)
+- [BBF Element Counter System Explained](/games/blockade-battlefront/)

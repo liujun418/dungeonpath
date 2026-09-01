@@ -13,12 +13,12 @@ cover:
   alt: "My Singing Monsters complete monster feeding and food optimization guide"
   caption: "Food is the real bottleneck in MSM — learn the system and you'll never starve your monsters again"
 related:
-  - "/posts/my-singing-monsters/beginner-guide/"
+  - "/games/my-singing-monsters/"
   - "/posts/my-singing-monsters/farming-guide/"
   - "/posts/my-singing-monsters/coin-economy-optimization-guide/"
   - "/posts/my-singing-monsters/monster-happiness-optimization-guide/"
-  - "/posts/my-singing-monsters/breeding-guide/"
-  - "/posts/my-singing-monsters/diamond-coin-farming-guide/"
+  - "/games/my-singing-monsters/"
+  - "/games/my-singing-monsters/"
 faq:
   - question: "What's the fastest way to produce treats in My Singing Monsters?"
     answer: "Build multiple bakeries and run them simultaneously. A single Mega Bakery produces 600 Cake treats every 4 hours, but three Enhanced Bakeries running Cookies produce 75 treats every 15 minutes — that's 300 treats per hour, or 7,200 per day. The key is not just one big bakery — it's keeping every bakery slot cooking constantly. Upgrade to at least 3-4 bakeries by mid-game and never let them sit idle."
@@ -363,9 +363,9 @@ Rare and Epic variants earn more coins than their common counterparts, so they j
 
 ## Related Guides
 
-- [My Singing Monsters Beginner Guide](/posts/my-singing-monsters/beginner-guide/)
+- [My Singing Monsters Beginner Guide](/games/my-singing-monsters/)
 - [My Singing Monsters Complete Farming Guide](/posts/my-singing-monsters/farming-guide/)
 - [My Singing Monsters Coin & Economy Optimization Guide](/posts/my-singing-monsters/coin-economy-optimization-guide/)
 - [My Singing Monsters Happiness Optimization Guide](/posts/my-singing-monsters/monster-happiness-optimization-guide/)
-- [My Singing Monsters Breeding Guide](/posts/my-singing-monsters/breeding-guide/)
-- [My Singing Monsters Diamond & Coin Farming Guide](/posts/my-singing-monsters/diamond-coin-farming-guide/)
+- [My Singing Monsters Breeding Guide](/games/my-singing-monsters/)
+- [My Singing Monsters Diamond & Coin Farming Guide](/games/my-singing-monsters/)

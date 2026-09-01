@@ -27,8 +27,8 @@ related:
   - /posts/fisch/codes-and-rewards-guide/
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/halibut-harpoon-guide/
-  - /posts/fisch/trading-value-price-guide/
-  - /posts/fisch/npc-quest-priority-guide/
+  - /games/fisch/
+  - /games/fisch/
 ---
 
 ## You Saved for Three Weeks, and the Sword Was Gone by Noon

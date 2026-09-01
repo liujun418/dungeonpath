@@ -193,7 +193,7 @@ A pet has one main enchant slot and one secondary slot, and duplicates on the sa
 
 ## Related Guides
 
-- [PS99 Enchantments & Upgrades — Enchant First, Upgrade Later](/posts/pet-simulator-99/enchantments-upgrades-guide/)
-- [The PS99 Enchantment Economy — When to Roll & When to Stop](/posts/pet-simulator-99/enchantment-economy-guide/)
+- [PS99 Enchantments & Upgrades — Enchant First, Upgrade Later](/games/pet-simulator-99/)
+- [The PS99 Enchantment Economy — When to Roll & When to Stop](/games/pet-simulator-99/)
 - [PS99 Best Pets Guide — Meta Pets Ranked](/posts/pet-simulator-99/best-pets-guide/)
-- [PS99 Team Compositions — Best Builds for Every Mode](/posts/pet-simulator-99/team-compositions-guide/)
+- [PS99 Team Compositions — Best Builds for Every Mode](/games/pet-simulator-99/)

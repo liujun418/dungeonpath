@@ -227,7 +227,7 @@ Yes, but not urgently. Conqueror's Haki unlocks at level 1500+ through a quest c
 
 ## Related Guides
 
-- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/posts/blox-fruits/second-sea-complete-guide/)
+- [Blox Fruits Second Sea Complete Guide: Islands, Bosses & Progression](/games/blox-fruits/)
 - [Blox Fruits Leveling Guide: Fastest Way to Max Level](/posts/blox-fruits/leveling-guide/)
 - [Blox Fruits Fruits Tier List: PvP & PvE Rankings](/posts/blox-fruits/fruits-tier-list/)
 - [Blox Fruits Sea Events & Raids Guide](/posts/blox-fruits/sea-events-raids-guide/)

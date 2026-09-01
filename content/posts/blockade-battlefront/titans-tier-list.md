@@ -284,7 +284,7 @@ This is why players who copy "S-tier only" builds from YouTube keep failing at w
 
 - [BBF Wave Rush Strategy Guide — Fast Expand & Early Dominance](/posts/blockade-battlefront/wave-rush-strategy-guide/)
 - [BBF Cen Farming Guide — Maximize Your Economy Every Wave](/posts/blockade-battlefront/cen-farming-guide/)
-- [BBF Element Counter System — Type Matchups & Damage Bonuses](/posts/blockade-battlefront/element-counter-system/)
-- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/posts/blockade-battlefront/beginner-guide/)
-- [BBF Titans & Upgrades Guide — Best Purchases & Cen Farming](/posts/blockade-battlefront/titans-upgrades-guide/)
-- [BBF Late-Game Wave 40-70+ Survival Guide](/posts/blockade-battlefront/late-game-wave-survival-guide/)
+- [BBF Element Counter System — Type Matchups & Damage Bonuses](/games/blockade-battlefront/)
+- [BBF Beginner Guide — Keybinds, Mechanics & First Match](/games/blockade-battlefront/)
+- [BBF Titans & Upgrades Guide — Best Purchases & Cen Farming](/games/blockade-battlefront/)
+- [BBF Late-Game Wave 40-70+ Survival Guide](/games/blockade-battlefront/)

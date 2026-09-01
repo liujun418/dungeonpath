@@ -30,10 +30,10 @@ howto:
     - name: "Coordinate with a squad effectively"
       text: "Assign roles before the match: one sniper (long angles), one entry fragger (SMG/Shotgun, pushes first), one support (Recon Pulse, covers flanks), one flex. Communicate enemy positions constantly — 'one at construction, third floor, damaged.' Never say 'on me' without a location. Ping before engaging. Revive downed teammates only when the area is clear — a dead teammate is -1, a dead teammate + you dying while reviving is -2."
 related:
-  - /posts/snipe/ranked-climbing-guide/
-  - /posts/snipe/weapons-tier-list/
-  - /posts/snipe/beginner-mistakes-guide/
-  - /posts/snipe/snipe-beginner-guide/
+  - /games/snipe/
+  - /games/snipe/
+  - /games/snipe/
+  - /games/snipe/
   - /posts/snipe/map-callouts-communication-guide/
   - /posts/snipe/team-composition-synergy-guide/
 ---
@@ -155,7 +155,7 @@ These are the losses most players repeat without learning from. Each one has a c
 
 **The cause:** You chose the mode out of habit, not because it matched your situation. Squad's RP swings are brutal, and a tilted teammate drags you both down.
 
-**The recovery:** Have a trigger. If you're down more than 30 RP or either of you is tilted, switch to Solo for the rest of the night. Solo caps your losses (-10 to -20 instead of -15 to -30) and stops the bleed. The mode you queue should follow your mental state, not your routine. There's a fuller breakdown of how RP actually moves in our [ranked climbing guide](/posts/snipe/ranked-climbing-guide/).
+**The recovery:** Have a trigger. If you're down more than 30 RP or either of you is tilted, switch to Solo for the rest of the night. Solo caps your losses (-10 to -20 instead of -15 to -30) and stops the bleed. The mode you queue should follow your mental state, not your routine. There's a fuller breakdown of how RP actually moves in our [ranked climbing guide](/games/snipe/).
 
 ## The Decision Framework: Match the Queue to Your Situation
 
@@ -194,6 +194,6 @@ If the table above felt like a lot, here's the short version.
 
 **Play Squad when** you have a real team, you're all on voice, you've agreed on roles, and you're chasing a rank spike. Squad is the ceiling mode. It rewards coordination and punishes solo habits.
 
-Most players get it backwards: they queue Solo for the excitement and Squad for the comfort. Solo is where you grind the fundamentals, and Squad is where four disciplined players turn those fundamentals into wins. If you're still shaky on the fundamentals, start with the [beginner guide](/posts/snipe/snipe-beginner-guide/) and the [beginner mistakes guide](/posts/snipe/beginner-mistakes-guide/), then check which guns actually belong in your kit with the [weapons tier list](/posts/snipe/weapons-tier-list/).
+Most players get it backwards: they queue Solo for the excitement and Squad for the comfort. Solo is where you grind the fundamentals, and Squad is where four disciplined players turn those fundamentals into wins. If you're still shaky on the fundamentals, start with the [beginner guide](/games/snipe/) and the [beginner mistakes guide](/games/snipe/), then check which guns actually belong in your kit with the [weapons tier list](/games/snipe/).
 
 The mode you pick is a bet on what kind of player you are tonight. Make it on purpose, not out of habit.

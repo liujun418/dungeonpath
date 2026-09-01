@@ -174,5 +174,5 @@ The rules are simple: farm Rend for consistent rare items, go to Titan when you 
 
 - [Lethal Company Scrap and Loot Guide: Complete Item Database](/posts/lethal-company/scrap-and-loot-guide/)
 - [Lethal Company Best Moons for Profit — Every Moon Ranked by Scrap Value & Risk](/posts/lethal-company/moons-profit-tier-list/)
-- [Lethal Company Equipment Economy — What to Buy First, What's a Credit Trap](/posts/lethal-company/equipment-economy-guide/)
+- [Lethal Company Equipment Economy — What to Buy First, What's a Credit Trap](/games/lethal-company/)
 - [Lethal Company Interior Layouts Guide — Every Room Type Explained](/posts/lethal-company/interior-layouts-guide/)

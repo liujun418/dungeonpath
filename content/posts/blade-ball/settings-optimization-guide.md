@@ -269,10 +269,10 @@ Controller is viable but generally inferior to mouse and keyboard for Blade Ball
 ## Related Guides
 
 - [Blade Ball Complete Beginner to Pro Player Guide](/posts/blade-ball/complete-beginner-guide/) — The full skill path from first deflect to Grandmaster
-- [Blade Ball How to Win Guide — Advanced Strategies](/posts/blade-ball/how-to-win-guide/) — Pair your optimized settings with winning tactics
-- [Blade Ball Ability Combos & Synergy Guide](/posts/blade-ball/ability-combos-synergy-guide/) — Best ability pairings for competitive play
-- [Blade Ball Mechanics Glossary](/posts/blade-ball/mechanics-glossary/) — AP, parry, clash, curve, and every term explained
-- [Blade Ball Gale's Edge v7.0 Guide](/posts/blade-ball/gales-edge-v7-guide/) — Master the abilities that cause the frame drops you just learned to prevent
+- [Blade Ball How to Win Guide — Advanced Strategies](/games/blade-ball/) — Pair your optimized settings with winning tactics
+- [Blade Ball Ability Combos & Synergy Guide](/games/blade-ball/) — Best ability pairings for competitive play
+- [Blade Ball Mechanics Glossary](/games/blade-ball/) — AP, parry, clash, curve, and every term explained
+- [Blade Ball Gale's Edge v7.0 Guide](/games/blade-ball/) — Master the abilities that cause the frame drops you just learned to prevent
 
 ---
 

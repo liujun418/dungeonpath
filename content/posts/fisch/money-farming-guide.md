@@ -270,6 +270,6 @@ The takeaway: Spend your energy on rod upgrades first, location second, bait thi
 
 - [Fisch Beginner Guide — Rods, Bait & First Catch](/posts/fisch/beginner-guide/)
 - [Fisch Best Rods Tier List — Every Rod Ranked](/posts/fisch/best-rods-tier-list/)
-- [Fisch Bait Economy — When to Buy & Use Every Bait](/posts/fisch/bait-economy-guide/)
-- [Fisch Progression Path — Your First Mythic](/posts/fisch/mythic-progression-path/)
+- [Fisch Bait Economy — When to Buy & Use Every Bait](/games/fisch/)
+- [Fisch Progression Path — Your First Mythic](/games/fisch/)
 - [Fisch Mutations & Bait Guide — Maximize Fish Value](/posts/fisch/mutations-bait-guide/)

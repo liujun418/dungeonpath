@@ -170,10 +170,10 @@ Almost never for the average player. The exchange rate is typically 30-50% worse
 
 ## Related Guides
 
-- [Pet Simulator 99 Event Mastery Optimization Guide](/posts/pet-simulator-99/event-mastery-optimization-guide/)
+- [Pet Simulator 99 Event Mastery Optimization Guide](/games/pet-simulator-99/)
 - [Pet Simulator 99 Exclusive Pets Investment Guide](/posts/pet-simulator-99/exclusive-pets-investment-guide/)
 - [Pet Simulator 99 Trading Values Guide](/posts/pet-simulator-99/trading-values-guide/)
-- [Pet Simulator 99 Trading Economy Guide](/posts/pet-simulator-99/trading-economy-guide/)
+- [Pet Simulator 99 Trading Economy Guide](/games/pet-simulator-99/)
 - [Pet Simulator 99 Huge & Titanic Guide](/posts/pet-simulator-99/huge-titanic-guide/)
 - [Pet Simulator 99 Auto-Farm Optimization Guide](/posts/pet-simulator-99/auto-farm-optimization-guide/)
 - [Pet Simulator 99 Egg Hatching & Shiny Guide](/posts/pet-simulator-99/egg-hatching-shiny-guide/)

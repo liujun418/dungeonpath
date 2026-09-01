@@ -26,7 +26,7 @@ related:
   - /posts/fisch/scalding-hook-rod-guide/
   - /posts/fisch/best-rods-tier-list/
   - /posts/fisch/money-farming-guide/
-  - /posts/fisch/advanced-fishing-techniques/
+  - /games/fisch/
 ---
 
 You log into Fisch on a Saturday night, spawn at Moosewood, and the chat is already flooded with the same four words over and over: "type COLLECTMYPUFFERFISH in codes." Half the server is riding a jet ski around the dock while you're still holding the starter rod and wondering what you walked into. You open settings, tap Codes, paste it in, and hit redeem. Five seconds later a Giant Jet Ski lands in your inventory, and it dawns on you that the game just dropped a pile of free stuff you almost had no idea existed.
@@ -198,7 +198,7 @@ Now that you've cleared out the free stuff, use the rest of your session well. O
 2. **[Fisch Scalding Hook Rod Guide](/posts/fisch/scalding-hook-rod-guide/)** — Vesper's quests and the Titanic Scalder build from the same update.
 3. **[Fisch Best Rods Tier List](/posts/fisch/best-rods-tier-list/)** — where the Darkheart Sword actually ranks versus real money rods.
 4. **[Fisch Money Farming Guide](/posts/fisch/money-farming-guide/)** — turn your free coins into a real income setup.
-5. **[Fisch Advanced Fishing Techniques](/posts/fisch/advanced-fishing-techniques/)** — weather, mutations, and rare-fish hunting once you're geared.
+5. **[Fisch Advanced Fishing Techniques](/games/fisch/)** — weather, mutations, and rare-fish hunting once you're geared.
 
 ---
 

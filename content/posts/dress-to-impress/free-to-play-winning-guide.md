@@ -176,10 +176,10 @@ Before every round, run through this checklist in order. Do not skip steps.
 
 ## Related Guides
 
-- [DTI Beginner Guide — How to Play, Themes & Voting](/posts/dress-to-impress/beginner-guide/)
-- [DTI Voting Psychology — Why Good Outfits Lose](/posts/dress-to-impress/voting-psychology-guide/)
+- [DTI Beginner Guide — How to Play, Themes & Voting](/games/dress-to-impress/)
+- [DTI Voting Psychology — Why Good Outfits Lose](/games/dress-to-impress/)
 - [DTI Theme Winning Framework — The 3-Question Decision Tree](/posts/dress-to-impress/theme-winning-framework/)
-- [DTI Free vs VIP Guide — Is VIP Worth It?](/posts/dress-to-impress/free-vs-vip-guide/)
+- [DTI Free vs VIP Guide — Is VIP Worth It?](/games/dress-to-impress/)
 - [DTI Color Theory & Palette Guide — Build Winning Color Combos](/posts/dress-to-impress/color-theory-palette-guide/)
 - [DTI Pattern Layering Combo Guide — Advanced Layering Techniques](/posts/dress-to-impress/pattern-layering-combo-guide/)
 - [DTI Accessories Layering Guide — Stack Without Clutter](/posts/dress-to-impress/accessories-layering-guide/)
