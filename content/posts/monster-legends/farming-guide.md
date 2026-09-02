@@ -78,7 +78,7 @@ Build these habitats first and fill them with as many monsters as possible:
 
 ### Mid Game Gold (Level 30-60)
 
-Once you have 4+ islands unlocked and multiple Legendaries, gold income scales dramatically:
+Once you have 4+ islands unlocked and multiple Legendaries, gold income scales dramatically. If you're still unlocking islands in the wrong order — or your habitats are scattered with no decoration coverage — you're leaving 20-30% of your potential gold on the table. See the [full island unlock order & layout guide](/posts/monster-legends/habitats-island-layout/) for the cost list, ROI math, and optimal placement for every island:
 
 - **Max-level habitat collection:** 1,000,000 – 3,000,000 | Level 5+ habitats with Legendary monsters
 - **Adventure Map Chapter 3+:** 500,000 – 1,500,000 | Strong team (Level 60+)
