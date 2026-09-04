@@ -1,9 +1,119 @@
 ---
-title: "Blade Ball Guides"
-description: "Complete Blade Ball guides and walkthroughs for Roblox. Beginner guide, abilities tier list, codes, game modes, PvP tips, and ranking strategies."
+title: "Blade Ball Guides — Complete Strategy Hub for 2026"
+description: "Everything you need to win at Blade Ball: beginner walkthrough, abilities tier list, codes, parry timing, ranked climbing, event strategies, and the Gale's Edge v7.0 meta."
 ---
 
-Blade Ball is a fast-paced Roblox PvP game where players deflect a homing ball using swords and abilities. Master timing, positioning, and the meta to dominate every match.
+You load into Blade Ball for the first time. The countdown hits zero. A glowing ball spawns in the middle of the arena and flies straight at you. You spam the block button. It goes through. You die in 0.8 seconds. You think, "this game is impossible."
+
+Every Blade Ball player has been there. The learning curve feels vertical because the game doesn't teach you its most important mechanic — flash-blocking — anywhere in the tutorial.
+
+But here's the truth: Blade Ball isn't about fast reflexes. Not really. It's about knowing **what to look at** and **when to press**. Once you understand the flash, the parry window, and the speed curve, you go from dying in deflection 2 to surviving deflection 10 in a single practice session.
+
+This hub is everything you need to get good at Blade Ball, organized in the order you should learn it. Start with the basics if you're new, jump to the ability tier list if you're building a loadout, or dive into the ranked guide if you're climbing.
+
+---
+
+## What Is Blade Ball, Exactly?
+
+Blade Ball is a Roblox PvP game where players deflect a homing energy ball using swords and special abilities. The ball speeds up with every deflection. Last player standing wins.
+
+It sounds simple. It isn't.
+
+The game has a layered skill ceiling that keeps players coming back:
+- **Beginner layer:** timing blocks, understanding the ball speed curve, learning which abilities do what
+- **Intermediate layer:** curve shots, ability combos, opponent reading, phase recognition
+- **Advanced layer:** parry chain control, mind games, tournament-level matchup knowledge
+
+Most players stall at the intermediate level because they never learn the fundamentals properly — they just play a lot and hope they get better. This hub fixes that.
+
+---
+
+## The Blade Ball Learning Path (What to Learn, in Order)
+
+Don't try to learn everything at once. Follow this progression and you'll climb faster than 90% of players.
+
+### Step 1: Master Flash-Blocking (Bronze → Gold)
+
+Flash-blocking is the #1 skill in Blade Ball. It's also the one nobody teaches.
+
+Around deflection 4-5, the ball becomes too fast to track visually. Your eyes can't keep up. But your character emits a **white flash ring** when the ball enters parry range — and that flash triggers your reflexes faster than your visual cortex can process a moving object.
+
+**Train the flash first.** Everything else — abilities, positioning, curve shots — is useless if you can't stay alive long enough to use it.
+
+- [Learn flash-blocking & the speed curve →](/posts/blade-ball/deflect-parry-timing-guide/)
+- [The speed curve: why deflection 5 is where everyone dies →](/posts/blade-ball/speed-curve-guide/)
+
+### Step 2: Build Your First Loadout (Gold → Platinum)
+
+Once you can survive to deflection 8 consistently, you're ready for abilities. Don't buy the flashiest one. Buy **Infinity first** — it's a safety net that doubles your survival rate while you learn everything else.
+
+- [Abilities Tier List — every ability ranked →](/posts/blade-ball/abilities-tier-list/)
+- [Ability Combo Guide — best pairings for every playstyle →](/posts/blade-ball/weapon-skill-combo-guide/)
+
+### Step 3: Learn to Win Instead of Survive (Platinum → Diamond)
+
+Surviving is easy. Winning is harder. You need to stop just deflecting and start eliminating people. This is where curve shots, opponent reading, and ability timing enter the picture.
+
+- [How to Win More — the decision framework →](/posts/blade-ball/win-more-decision-framework/)
+- [Parry Chain & Counter — how to win high-speed exchanges →](/posts/blade-ball/parry-chain-counter-guide/)
+- [Opponent Reading — patterns, tells, and rhythm →](/posts/blade-ball/opponent-reading-guide/)
+
+### Step 4: Climb the Ranks (Diamond → Master)
+
+Ranked play changes everything. Matchups matter more. Rotations matter. The meta shifts every patch.
+
+- [1v1 Ranked Climbing Guide — Bronze to Diamond →](/posts/blade-ball/1v1-climbing-guide/)
+- [Battle Pass & Seasonal Events →](/posts/blade-ball/battle-pass-events/)
+- [Tournament Performance — why you choke and how top players don't →](/posts/blade-ball/tournament-choking-guide/)
+
+---
+
+## The Core Mechanics (Quick Reference)
+
+### The Parry Window
+
+A parry happens when you block the ball at the right timing. If you block early or late, you miss and take damage. The parry window gets tighter as the ball speeds up — at high deflection counts, the window is less than 100ms.
+
+Good players don't make the window bigger. They make their timing more consistent.
+
+### AP (Ability Power)
+
+AP is the stat that makes your abilities stronger. Higher AP = faster ball from Raging Deflect, longer Freeze duration, further Thunder Dash. You increase AP by equipping better blades — each tier (Common → Rare → Epic → Legendary) adds +5-15 AP.
+
+**Quick rule of thumb:** blade tier matters more than blade cosmetics. A Legendary blade with a bad look will always beat an Epic blade that looks cool.
+
+### Curve Shots
+
+When you parry, you can curve the ball by moving your mouse or right stick during the deflect animation. Curve is how you beat players who just hold block in a predictable spot.
+
+Beginners curve too much. Good players curve just enough — a slight bend is harder to read than a dramatic arc.
+
+### Clashes
+
+A clash happens when two players parry the ball at exactly the same time. Both get knocked back, the ball resets to the center, and both players get a small speed boost. Clashes are neutral — nobody wins, nobody loses.
+
+If you see yourself clashing a lot, you're parrying on the same rhythm as your opponent. Change your timing.
+
+### The Speed Curve
+
+The ball gets faster with every deflection. The curve isn't linear — it accelerates more between deflections 4-6 than it does between 8-10. That's because the game crosses from "you can see it" to "you can't see it" in that range, and the speed increase slows down after deflection 8 because you're already at the limit of human reaction.
+
+- [Full deep dive on the speed curve →](/posts/blade-ball/speed-curve-guide/)
+
+---
+
+## Game Modes
+
+Blade Ball has several modes. Most players stick to one or two, but each teaches a different skill:
+
+- **1v1 Ranked** — pure skill, no team variance. Best for climbing RP and improving your fundamentals.
+- **Free For All** — chaos, positioning, and target selection. Best for practicing against multiple playstyles at once.
+- **Team Mode** — coordination with a partner. Best if you have a friend to queue with.
+- **Limited-Time Modes** — Strike Tournament, Overdrive, Item Duels, Squad Royale. Rotate in and out during events.
+
+- [Full game modes breakdown →](/posts/blade-ball/game-modes-guide/)
+
+---
 
 ## Quick Answers
 
@@ -184,10 +294,56 @@ Immediately write down three things: what killed you, what you were thinking fiv
 ---
 
 
+## Frequently Asked Questions
+
+### Is Blade Ball free to play?
+
+Yes, Blade Ball is free to play on Roblox. You can earn coins through gameplay to buy most abilities. The battle pass and some cosmetic skins cost Robux, but the core game is fully playable without spending money.
+
+### What is the best ability for beginners in Blade Ball?
+
+**Infinity** is the best first ability for new players. It's an automatic shield that blocks one hit — essentially a free life every time it's off cooldown. Most beginners want a mobility ability first, but they can't use mobility consistently yet. Infinity gives you the safety net you need while you learn the basics.
+
+### How do I get better at Blade Ball fast?
+
+Master flash-blocking first. That single skill will take you from Bronze to Gold in a week. After that, pick one ability and learn it completely before trying others. Most players hop between 5 abilities and never master any of them. One well-practiced ability beats five mediocre ones.
+
+### What is the current meta in Blade Ball?
+
+As of September 2026, the meta is defined by the Gale's Edge v7.0 update. Gale's Edge and Quantum Arena are S-tier offensive and control abilities respectively. Infinity is still the best defensive ability. The most consistent 1v1 loadouts pair one offensive ability with one defensive or utility ability.
+
+- [Current meta tier list →](/posts/blade-ball/abilities-tier-list/)
+- [Gale's Edge v7.0 deep dive →](/posts/blade-ball/gales-edge-v7-guide/)
+
+### Can I play Blade Ball on mobile?
+
+Yes, Blade Ball has full mobile support with touch controls. The gameplay is the same, but the learning curve for parry timing is slightly different on touch. Many top players compete on mobile — the skill ceiling is just as high.
+
+### How often does Blade Ball update?
+
+Major updates drop roughly every 4-6 weeks, usually with a new season or battle pass. Small patches and balance changes happen more frequently. The most impactful recent update was v7.0 Gale's Edge in May 2026, which added two new S-tier abilities that reshaped the meta.
+
+---
+
 ## Start Here
 
-- [Abilities Tier List](/posts/blade-ball/abilities-tier-list/) — Best abilities ranked
+If you're new, follow this order:
+
+1. [**Deflect & Parry Timing Guide**](/posts/blade-ball/deflect-parry-timing-guide/) — Learn flash-blocking, the #1 foundational skill
+2. [**Beginner Walkthrough**](/posts/blade-ball/complete-beginner-guide/) — First match, first ability, first win
+3. [**Abilities Tier List**](/posts/blade-ball/abilities-tier-list/) — Pick your loadout
+
+For everyone else:
+
+- [Codes & Free Rewards](/posts/blade-ball/codes-guide/)
+- [Ability Combos & Synergies](/posts/blade-ball/weapon-skill-combo-guide/)
+- [Parry Chain & Counter — Advanced Mechanics](/posts/blade-ball/parry-chain-counter-guide/)
+- [Gale's Edge v7.0 — Latest Meta](/posts/blade-ball/gales-edge-v7-guide/)
+- [1v1 Ranked Climbing Guide](/posts/blade-ball/1v1-climbing-guide/)
 
 ## Explore More
 
 - [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where Blade Ball ranks among 16 Roblox games
+- [All game guides →](/posts/) — Browse every guide on DungeonPath
+
+*Updated September 2026. Game updates may change meta and balance.*
