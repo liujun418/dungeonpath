@@ -1,9 +1,149 @@
 ---
-title: "Pet Simulator 99 Guides"
-description: "Complete Pet Simulator 99 guides for Roblox. Beginner walkthrough, best pets tier list, codes, gems and coins guide, trading, rebirthing, enchantments, events, and mastery."
+title: "Pet Simulator 99 Guides — Complete Strategy Hub (2026)"
+description: "Everything you need for Pet Simulator 99: beginner walkthrough, best pets, codes, gem and coin farming, trading, rebirth, enchantments, events, mastery, and the Huge pet grind."
 ---
 
-Pet Simulator 99 is a pet-collecting Roblox game where you hatch, trade, and upgrade millions of pets. Rebirth to gain permanent power, master enchantments, hunt Huge and Titanic pets, and dominate seasonal events.
+You download Pet Simulator 99, hatch your first egg, and get a Common dog. Cool. You break some breakables, earn some coins, buy a better egg, hatch a Rare cat. Nice. Then you look at the leaderboard and see players with Titanic pets doing billions of damage. You have no idea how they got there. The game didn't explain any of it.
+
+That's the PS99 experience. The surface level is simple — hatch pets, break stuff, get stronger. The depth underneath is enormous. Rebirth, enchantments, trading, mastery, clans, events, the Huge pet economy — none of it is taught by the game itself.
+
+This hub is everything you need to get good at Pet Simulator 99, organized in the order you should learn it. Start with the basics if you're new, jump to the trading guide if you want to make gems fast, or dive into the enchantment guide if you're optimizing your team.
+
+---
+
+## What Is Pet Simulator 99, Exactly?
+
+Pet Simulator 99 is the latest in the Pet Simulator series by BIG Games — one of the biggest games on Roblox. You collect pets by hatching eggs, equip them to your team, and they help you break breakables and earn coins and gems.
+
+The game has a layered progression system that keeps players engaged for months:
+- **Beginner layer:** Hatching eggs, collecting pets, unlocking new areas
+- **Intermediate layer:** Enchantments, rebirth, team composition, gem farming
+- **Advanced layer:** Trading economy, Huge/Titanic hunting, event optimization, mastery, clan battles
+
+Most players stall at intermediate because they never figure out the real way to make progress — it's not hatching more eggs. It's knowing when to rebirth, what to enchant, and how to trade for your first Huge pet.
+
+---
+
+## The PS99 Learning Path (What to Learn, in Order)
+
+Don't try to do everything at once. Follow this progression and you'll have your first Huge pet faster than 90% of players.
+
+### Step 1: Beat the Early Game (Your First Day)
+
+Your first day in PS99 is about one thing: unlock rebirth and build a basic economy. Focus on hatching the best egg you can afford, upgrading your damage, and progressing through areas. Don't worry about gems, trading, or events yet.
+
+**The biggest early-game mistake:** Rebirthing too early. This is the #1 trap for new players. Rebirth resets your area progress but gives permanent bonuses. If you rebirth before you have enough coins saved to blast back to your current area, you're stuck grinding from scratch with barely any benefit.
+
+- [Beginner Guide — your first week, gem spending, the rebirth trap →](/posts/pet-simulator-99/beginner-guide/)
+
+### Step 2: Optimize Your Team & Enchantments (Week 1-2)
+
+Once you've got a few decent pets and a couple of rebirths under your belt, the next step is enchantments. Enchants multiply your damage and income — a pet with Criticals X does roughly double the damage of the same pet without it.
+
+**The rule:** Enchant before you upgrade. Enchants cost gems (which you earn 50K-150K per day). Upgrades cost Dark Matter (which you earn 5-10 per week). Spend the abundant resource first. Save the scarce resource for pets you'll keep forever.
+
+- [Enchantments Guide — when to enchant, what to roll for →](/posts/pet-simulator-99/enchantments-guide/)
+- [Best Pets Tier List — which pets to target →](/posts/pet-simulator-99/best-pets-guide/)
+- [Team Builds — compositions for every mode →](/posts/pet-simulator-99/team-builds/)
+
+### Step 3: Start Trading & Build Wealth (Week 2-4)
+
+Trading is how you make real progress in PS99. You can hatch eggs for months and never get a Huge. You can save gems for a few weeks and buy a low-tier Huge directly from the Trading Plaza.
+
+The golden rule of PS99 trading: **never trust a seller's claimed value.** Always check RAP (Recent Auction Price) on at least two independent platforms before agreeing to any trade. A 5M gem discrepancy between claimed and actual value is common.
+
+- [Trading Economy Guide — how RAP works, when to buy and sell →](/posts/pet-simulator-99/trading-economy/)
+- [Trading Plaza Guide — how to buy, sell, and not get scammed →](/posts/pet-simulator-2/pl
+)
+- [Scam Prevention — 7 common scams and how to avoid them →](/posts/pet-simulator/scam-prevention/)
+
+### Step 4: Master Events & Clan Battles (Endgame)
+
+Once you have 5+ Huge pets and a stable gem income, the endgame opens up. Events are where you earn the best pets — every limited event has at least one exclusive Huge or Titanic pet that can't be obtained any other way. Clan Battles let you compete with your clan for rewards and leaderboard positions.
+
+Endgame PS99 is about efficiency: knowing which events are worth grinding, how to optimize your team for each game mode, and when to sell pets before their value drops.
+
+- [Events Guide — when events drop, what to save for →](/posts/pet-simulator/events-seasonal/)
+- [Event Mastery — how to get the Titanic before the event ends →](/posts/pet-simulator/event-mastery/)
+- [Clan Battles Guide — how to win and earn Titanic pets →](/posts/pet-simulator/clan-battles/)
+
+---
+
+## Core Mechanics (Quick Reference)
+
+### Rebirth
+
+Rebirth is PS99's prestige system. You reset your area progress and lose all your coins and pets, but you gain permanent bonuses — more damage, more luck, more egg slots.
+
+**When to rebirth:** Only when you have enough coins saved to immediately buy the best egg from Area 1 and skip to Area 10+ within 5 minutes. If you can't do that, you're not ready. Rebirthing too early makes the game slower, not faster.
+
+### Enchantments
+
+Enchantments are rolled for gems and give pets permanent bonuses — damage, crit chance, coin drops, magnet radius, speed, and more. The meta enchant setup for farming is: Criticals X on all pets, Coins V on 2-3 pets, Magnet III on 1-2 pets, Speed V on 1 pet.
+
+The biggest enchant mistake: rolling the same enchant on too many pets. Coins V stacks additively — the 4th Coins V is only a 14% relative improvement on top of the first three. Spread your enchants out.
+
+### RAP (Recent Auction Price)
+
+RAP is the average sale price of a pet across recent trades, tracked by community platforms like Cosmic Values and 123Demands. It's what a pet is actually worth, not what someone claims it's worth.
+
+If you only remember one rule about trading, remember this: always check RAP on at least two platforms before any trade.
+
+### Mastery
+
+Mastery is PS99's long-term progression system. There are 15+ mastery categories — breakables, eggs, economy, fishing, and more. Leveling each one gives permanent bonuses. Reaching level 99 in all masteries unlocks the Master Skill Cape with a permanent +10% Diamond Earn bonus.
+
+The fastest way to level mastery: focus on one category at a time with the optimal setup, and use mastery potions to double XP.
+
+- [Mastery & Quests Guide — max rank, capes, daily rewards →](/posts/pet-simulator/mastery-quests/)
+
+### Dark Matter
+
+Dark Matter is the scarcest resource in PS99. You earn 5-10 per week and you use it to upgrade pets from their base form to Dark Matter form (much stronger).
+
+**The rule:** Never spend Dark Matter on a pet you'll replace next week. Save it for Huge and Titanic pets that you'll keep long-term. An un-upgraded Huge with good enchants outperforms a Dark Matter Epic with no enchants — the upgrade order matters.
+
+---
+
+## Game Modes & Activities
+
+Pet Simulator 99 has more than just hatching eggs and breaking things:
+
+- **World Progression** — Unlock new areas by breaking breakables and earning coins. Each area has better eggs and tougher breakables.
+- **Trading Plaza** — Buy, sell, and trade pets with other players. The heart of the PS99 economy.
+- **Clan Battles** — Seasonal events where clans compete for rewards and leaderboard positions. Top clans earn exclusive pets and items.
+- **Events** — Limited-time events with exclusive pets, eggs, and game modes. Events happen roughly every 4-6 weeks and are the best way to earn Huge and Titanic pets.
+- **Mini-games** — Fishing, mining, time trials, and more. Most are tied to events or mastery progression.
+
+---
+
+## Frequently Asked Questions
+
+### Is Pet Simulator 99 pay-to-win?
+
+Not really. You can get every pet in the game for free — gamepasses just make it faster. The two biggest power spikes in the game (your first Huge pet, and the Master Skill Cape) are both achievable without spending Robux. The gamepasses that matter most are +1 Pet Slot and VIP for the extra slot and gem boost, but even those are optional. A free-to-play player with good trading skills will outprogress a player who bought every gamepass but never learned the market.
+
+### What's the fastest way to get my first Huge pet?
+
+The fastest way for new players is gem saving + Trading Plaza. Hatching a Huge from eggs is 1 in 5 million odds on average — you could spend a month hatching and never get one. Save gems, reach the Trading Plaza, and buy a low-tier Huge (like Huge Hell Rock or Huge Capybara) directly. It costs about 15-30M gems depending on the pet and market conditions. Most players can hit that in 2-4 weeks with consistent farming.
+
+### How often do PS99 events happen?
+
+Roughly every 4-6 weeks. Smaller updates (new areas, minor features) happen in between. The big seasonal events — Spring, Summer, Halloween, Christmas — are the ones with exclusive Huge and Titanic pets you can't get any other way. The Christmas event is generally the biggest one of the year with the best pet lineup.
+
+### What's the difference between Huge and Titanic pets?
+
+Titanic pets are rarer and significantly stronger. A Titanic pet does roughly 3-5x the damage of a Huge pet of the same tier, and they're worth 10-100x more gems. Huge pets are the realistic endgame target for most players. Titanic pets are for top 1% players who either spend hundreds of dollars or grind every single event for months.
+
+### Should I use auto-hatch or manual hatching?
+
+Auto-hatch is better for consistency and for when you're doing other things. Manual hatching lets you target specific eggs and is slightly faster per egg if you're actively playing. The meta play is: auto-hatch your best egg while you're AFK or busy, and manually hatch event eggs when an event just dropped and rates are boosted.
+
+### How important are clans in PS99?
+
+Clans matter if you care about Clan Battles and the rewards from them. A good active clan gives you passive boosts from clan upgrades, plus access to exclusive pets and items from Clan Battle seasons. If you're a casual player who just farms and collects, you can skip clans entirely and not miss much. If you're trying to progress fast, find an active clan — the boosts and rewards are worth it.
+
+---
 
 ## Quick Answers
 
@@ -168,12 +308,42 @@ Always verify RAP on at least two independent platforms before any trade. Cosmic
 ---
 
 
-## Start Here
+---
 
-- [Best Pets Guide](/posts/pet-simulator-99/best-pets-guide/) — Which pets to target
-- [Rebirth & Prestige Guide](/posts/pet-simulator-99/rebirth-prestige-guide/) — The core progression loop
+## Start Here (Beginner to Advanced)
+
+**New to the game? Start here.**
+
+- [Beginner Guide — your first week, gem spending, when NOT to rebirth →](/posts/pet-simulator-99/beginner-guide/)
+- [Rebirth & Prestige Guide — the core progression loop →](/posts/pet-simulator-99/rebirth-prestige-guide/)
+- [Codes — free gems, boosts, and pet slots →](/posts/pet-simulator-99/codes/)
+
+**Got your first rebirth? Level up your setup.**
+
+- [Best Pets Tier List — which pets to target →](/posts/pet-simulator-99/best-pets-guide/)
+- [Enchantments Guide — when to enchant, what to roll for →](/posts/pet-simulator-99/enchantments-guide/)
+- [Team Builds — compositions for every mode →](/posts/pet-simulator-99/team-builds/)
+- [Enchant Economy Guide — gem farming and cost per re-roll →](/posts/pet-simulator-99/enchant-economy/)
+
+**Ready to build real wealth?**
+
+- [Trading Economy Guide — how RAP works, when to buy and sell →](/posts/pet-simulator-99/trading-economy/)
+- [Trading Plaza Guide — buying, selling, and value verification →](/posts/pet-simulator-2/pl
+)
+- [Scam Prevention — 7 common scams and how to avoid them →](/posts/pet-simulator/scam-prevention/)
+
+**Endgame content.**
+
+- [Events Guide — when events drop, what to save for →](/posts/pet-simulator/events-seasonal/)
+- [Event Mastery — how to get the Titanic before the event ends →](/posts/pet-simulator/event-mastery/)
+- [Clan Battles Guide — how to win and earn Titanic pets →](/posts/pet-simulator/clan-battles/)
+- [Mastery & Quests Guide — max rank, capes, and daily rewards →](/posts/pet-simulator/mastery-quests/)
+- [Fantasy World Guide — Combine-O-Matic and time trials →](/posts/pet-simulator-99/fantasy-world/)
+
+---
 
 ## Explore More
 
-- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where PS99 ranks
-- [PS99 vs Fisch: Simulator Showdown](/posts/pillar/roblox-simulator-games-compared/) — Which collecting game fits you?
+- [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) — See where PS99 ranks among the top Roblox games
+- [PS99 vs Fisch: Simulator Showdown](/posts/pillar/roblox-simulator-games-compared/) — Which collecting simulator fits your playstyle?
+- [All Roblox Game Guides](/games/) — Browse every game we cover
