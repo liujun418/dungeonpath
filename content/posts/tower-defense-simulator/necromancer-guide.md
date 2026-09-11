@@ -2,26 +2,29 @@
 title: "TDS Necromancer Guide — Summons, Upgrades & Why It Carries the Late Game (2026)"
 description: "TDS Necromancer guide: how its zombie summons work, upgrade costs, and why it carries the late game when fed kills — plus when to skip it in Fallen. 2026"
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-09-11
 draft: false
 author: "Alex Turner"
-tags: ["Tower Defense Simulator", "Roblox", "Necromancer", "TDS", "Summoner Tower", "Late Game"]
+tags: ["Tower Defense Simulator", "Roblox", "Necromancer", "TDS", "Summoner Tower", "Late Game", "zombie summons", "tower guide", "Fallen mode"]
 categories: ["Roblox Guides"]
 games: ["Tower Defense Simulator"]
 cover:
   image: "/cover-image/tds-necromancer/cover.webp"
   alt: "TDS Necromancer Guide Cover"
+  caption: "TDS Necromancer — summon an army from enemy corpses"
 faq:
   - question: "What does the Necromancer do in Tower Defense Simulator?"
-    answer: "When an enemy dies inside the Necromancer's range, it raises a zombie minion from that corpse. Those zombies keep fighting on your side for a short window before they decay. The tower scales up how fast it summons and how strong the zombies are through its upgrades."
+    answer: "When an enemy dies inside the Necromancer's range, it raises a zombie minion from that corpse. Those zombies fight on your side — walking the lane, blocking enemies, dealing damage — for a short window before they decay. The tower doesn't shoot. It converts enemy deaths into a self-sustaining army."
   - question: "Is the Necromancer good for early game?"
-    answer: "No. It needs kills to feed it, so early waves with weak, spread-out enemies give it almost nothing. Buy it from the mid-game onward once strong enemies start dying in a choke point. A Necromancer placed on wave 3 is an expensive paperweight."
+    answer: "No. It needs kills to feed it, so early waves with weak, spread-out enemies give it almost nothing. Buy it from mid-game onward (waves 15-18 in Fallen) once strong enemies start dying in a choke point. A Necromancer placed on wave 3 is an expensive paperweight that produces zero zombies."
   - question: "Which towers pair best with the Necromancer?"
-    answer: "Slow towers first — Sledger or Cryomancer — because they hold enemies inside the Necromancer's radius long enough for your other DPS to kill them there. Commander multiplies the whole zombie army's damage and is the strongest buffer to add on top."
+    answer: "Slow towers first — Sledger or Cryomancer — because they hold enemies inside the Necromancer's radius long enough for your DPS to kill them there. Commander multiplies the whole zombie army's damage at once and is the strongest buffer. DJ Booth also helps by boosting range, which means more deaths inside the summon circle."
   - question: "Is the Necromancer worth it in Fallen mode?"
-    answer: "Yes, usually. Fallen's mid-to-late waves funnel big groups through choke points and drop high-HP enemies exactly where the Necromancer wants them. It's weaker in Normal, where enemies die too fast and too spread out to build an army."
+    answer: "Yes, usually. Fallen's mid-to-late waves funnel dense groups through choke points and drop high-HP enemies exactly where the Necromancer wants them. It's the best late-game value tower on single-choke Fallen maps. It's weaker in Normal mode, where enemies die too fast and too spread out to build a meaningful army."
   - question: "Why does my Necromancer do nothing all game?"
-    answer: "Almost always, it has no kills happening in its radius. Check its placement: if enemies die before they reach it, or the lane leaks somewhere else, the tower never triggers a summon. Move it to a choke point, add a slow, and it will start producing."
+    answer: "Almost always, it has no kills happening in its radius. Check its placement: if enemies die before they reach it, or the lane leaks somewhere else, the tower never triggers a summon. Move it to a choke point, add a slow tower to hold enemies there, and it will start producing zombies within one wave."
+  - question: "Can you stack multiple Necromancers?"
+    answer: "Yes, and they stack well — each one summons from deaths in its own radius. On a tight choke, two Necromancers covering the same kill zone roughly doubles your army size. The catch: each one needs its own feed of kills, so you need enough DPS to keep both supplied. Two underfed Necromancers are worse than one well-fed one."
 related:
   - /posts/tower-defense-simulator/towers-tier-list/
   - /posts/tower-defense-simulator/tower-synergy-combos/
@@ -142,8 +145,139 @@ So the tower scales on volume, not per-hit damage. Summon rate first means every
 
 And the second counterintuitive bit: the best upgrade for your Necromancer is often a Sledger placed next to it. Money spent on a slow tower does more for your army than the same money on the Necromancer itself, because it multiplies the kill feed the whole machine runs on.
 
+---
+
+## Advanced Techniques
+
+Once you've got the basic slow-killer-summon combo working, there are higher-level tricks that squeeze more value out of the tower.
+
+### The Zombie Wall
+
+This is the Necromancer's most underrated trick. When you have 10+ zombies walking the lane at once, they don't just deal damage — they **physically block enemies**. A dense zombie pack can hold a boss or a tanky enemy in place for several seconds, buying your DPS towers time to kill it.
+
+The zombie wall is especially effective against:
+- **Bosses** that move fast and would otherwise leak past your defenses
+- **Tanky swarms** that push through your DPS
+- **Hidden enemies** — zombies block them even when your towers can't target them
+
+To maximize the wall effect, place your Necromancer at the **entrance of the kill zone**, not the center. Zombies spawn at the death location and walk forward, so deaths near the front of the choke produce zombies that walk back through the entire lane. More walking time = more blocking = more damage dealt.
+
+### The Double-Necro Stack
+
+On tight single-choke maps, two Necromancers covering the same kill zone is one of the strongest late-game setups in TDS. Each tower summons independently, so you roughly double your army size.
+
+The key to making it work:
+1. **Don't buy both at once.** Get the first one fed and upgraded first, then add the second.
+2. **Stagger the placement.** Put one slightly forward, one slightly back, so their ranges overlap but cover different parts of the choke.
+3. **Make sure you have enough DPS feed.** Two Necromancers need twice as many kills. If your DPS can't keep up, you've wasted a tower slot.
+
+On most Fallen maps, a double-Necro setup with Commander + DJ Booth + Sledger + Minigunner is strong enough to solo the back half of the game.
+
+### The Sell-Before-Wave Trick
+
+Here's a pro move for tight economy games: if you're between waves and short on cash for an important upgrade (like a Farm or a key DPS tower), you can **sell your Necromancer right before a wave starts, buy the upgrade, then rebuy the Necromancer during the wave** when you have income again.
+
+This works because:
+- The Necromancer produces nothing between waves (no enemies = no deaths = no summons)
+- Selling gives you 70-80% of its value back
+- You lose only the placement cost difference, which is often cheaper than missing a critical Farm upgrade
+
+It's not necessary on easy modes. But in Hardcore or on hard Fallen maps where every dollar counts, it's the difference between surviving wave 25 and leaking.
+
+### The Economy-Over-Damage Fallacy
+
+Most players prioritize damage upgrades for their Necromancer. Smart players prioritize **summon rate upgrades first, then use the extra zombies to earn more money, then upgrade damage**.
+
+Here's why: more zombies = more kills = more cash from each enemy. The extra income pays for the damage upgrade faster than saving for it directly. It's the same logic as Farm economy — spend money to make money, then spend the profits on power.
+
+---
+
+## Failure Retrospective: The Fallen Mode Leak That Cost Me the Run
+
+I was doing a Fallen solo run on a narrow chokepoint map. I had a solid loadout: Farm, Minigunner, Sledger, Commander, Necromancer. Everything was going fine. Waves 1-25 were clean. I was feeling cocky.
+
+Then wave 28 hit — the one with the giant boss and the swarm of fast minions around it.
+
+Here's what I did wrong: I had placed my Necromancer at the back of the choke, near my base. I figured "more range coverage = better." The Minigunner was at the front, melting enemies as they entered. The Sledger was in the middle, slowing everything down.
+
+The problem: by the time enemies died, they were already 2/3 of the way through the choke. The Necromancer summoned zombies near the back of the lane. The zombies had almost no walk time before they reached the base and decayed. They were spawning, taking two steps, and disappearing.
+
+Meanwhile, the boss was tanky. It pushed through the Minigunner's fire, shrugged off the Sledger's slow, and got within range of my base before the zombies could build up enough to stop it. I had 15+ zombies by the time it got there, but they were all spawning at the back — they never got in front of the boss to block it.
+
+I leaked the boss. Run over.
+
+Here's what I should have done:
+
+1. **Place the Necromancer at the front of the choke, not the back.** Zombies spawn where enemies die. If enemies die at the front, zombies walk the full length of the lane. More walk time = more damage + more blocking.
+2. **Position the slow tower *before* the Necromancer's radius center.** Hold enemies at the front of the kill zone so they die there, not at the back.
+3. **Use the Minigunner to finish off enemies inside the summon circle, not before they enter it.** Pull your DPS slightly back so the killing blow lands inside the Necromancer's range.
+
+The fix is counterintuitive: you want your **DPS to be less efficient at the front** so that the actual killing happens where it feeds your Necromancer. A slightly slower kill that produces a zombie is better than a fast kill that produces nothing.
+
+I restarted the run with the Necromancer at the front of the choke. I beat wave 28 with 30+ zombies walking the lane and enough damage to kill the boss before it got past the halfway point. Same towers, same money, completely different result. Placement matters more than stats.
+
+---
+
+## How to Practice With the Necromancer
+
+You don't learn the Necromancer by reading — you learn it by failing and figuring out why your army never built up. Here are three practice methods.
+
+### Drill 1: The Feed Test
+
+Load into a single-choke Fallen map. Build your standard early game (Scout, Militant, Farm). At wave 18, place the Necromancer at three different positions in three separate runs:
+- Run 1: At the very front of the choke
+- Run 2: In the center
+- Run 3: Near the back / base
+
+Count how many zombies you have at wave 25 in each run. The difference will be dramatic — often 2-3x more zombies from a front placement versus a back placement. This drill teaches you exactly how much placement matters.
+
+### Drill 2: The No-DPS Challenge
+
+Try a Fallen run where your only late-game damage towers are the Necromancer + 1 slow + 1 support (Commander / DJ Booth). No Minigunner, no Accelerator, no Engineer. You have to make the zombie army carry the DPS load.
+
+You will fail. Probably multiple times. That's the point. When your only damage comes from summons, you learn exactly what the tower needs to function. You'll start noticing things you never paid attention to before: which waves produce enough feed, which choke points work best, how much slow you need to keep enemies in range.
+
+After 3-4 failed runs, go back to your normal loadout. The Necromancer will feel overpowered because you'll know exactly how to optimize it.
+
+### Drill 3: The Wave-Timing Drill
+
+For one full game, only place or upgrade the Necromancer **between waves, never during**. This forces you to plan ahead — you have to predict which waves will produce enough feed to justify an upgrade, instead of reacting when you already have money sitting around.
+
+This drill builds two skills: economic planning and wave knowledge. After a few games, you'll know exactly which waves are kill waves (good for upgrading) and which waves are leak waves (good for saving money).
+
+---
 
 ## FAQ
+
+### What does the Necromancer do in Tower Defense Simulator?
+
+When an enemy dies inside the Necromancer's range, it raises a zombie minion from that corpse. Those zombies fight on your side — walking the lane, blocking enemies, dealing damage — for a short window before they decay. The tower doesn't shoot. It converts enemy deaths into a self-sustaining army.
+
+### Is the Necromancer good for early game?
+
+No. It needs kills to feed it, so early waves with weak, spread-out enemies give it almost nothing. Buy it from mid-game onward (waves 15-18 in Fallen) once strong enemies start dying in a choke point. A Necromancer placed on wave 3 is an expensive paperweight that produces zero zombies.
+
+### Which towers pair best with the Necromancer?
+
+Slow towers first — Sledger or Cryomancer — because they hold enemies inside the Necromancer's radius long enough for your DPS to kill them there. Commander multiplies the whole zombie army's damage at once and is the strongest buffer. DJ Booth also helps by boosting range, which means more deaths inside the summon circle.
+
+### Is the Necromancer worth it in Fallen mode?
+
+Yes, usually. Fallen's mid-to-late waves funnel dense groups through choke points and drop high-HP enemies exactly where the Necromancer wants them. It's the best late-game value tower on single-choke Fallen maps. It's weaker in Normal mode, where enemies die too fast and too spread out to build a meaningful army.
+
+### Why does my Necromancer do nothing all game?
+
+Almost always, it has no kills happening in its radius. Check its placement: if enemies die before they reach it, or the lane leaks somewhere else, the tower never triggers a summon. Move it to a choke point, add a slow tower to hold enemies there, and it will start producing zombies within one wave.
+
+### Can you stack multiple Necromancers?
+
+Yes, and they stack well — each one summons from deaths in its own radius. On a tight choke, two Necromancers covering the same kill zone roughly doubles your army size. The catch: each one needs its own feed of kills, so you need enough DPS to keep both supplied. Two underfed Necromancers are worse than one well-fed one.
+
+---
+
+More TDS guides in the **Related Guides** section below, or visit the [Tower Defense Simulator hub page](/games/tower-defense-simulator/) for everything in one place.
+
+> **Disclaimer:** Stats and balance based on Tower Defense Simulator as of September 2026. Balance patches frequently adjust tower costs, summon rates, and zombie stats. Always check the official TDS Trello for the latest patch notes before making loadout decisions.
 
 ### What does the Necromancer do in Tower Defense Simulator?
 
