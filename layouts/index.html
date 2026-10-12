@@ -33,6 +33,24 @@
     </div>
 </section>
 
+{{/* ---- Recently Updated (sorts by lastmod, surfaces upgrades) ---- */}}
+{{- $recentlyUpdated := where $allPosts "Lastmod" "ne" nil }}
+{{- $recentlyUpdated = sort $recentlyUpdated "Lastmod" "desc" | first 10 }}
+
+<section class="home-section home-recent">
+    <h2 class="section-title">🔄 Recently Updated</h2>
+    <div class="latest-list">
+        {{- range $recentlyUpdated }}
+        <a href="{{ .RelPermalink }}" class="latest-item">
+            <div class="latest-content">
+                <h3 class="latest-title">{{ .Title }}</h3>
+                <p class="latest-date">Updated {{ .Lastmod | time.Format ":date_medium" }}</p>
+            </div>
+        </a>
+        {{- end }}
+    </div>
+</section>
+
 {{/* ---- Latest Updates (most recent by date, excluding featured above) ---- */}}
 {{- $latest := ($allPosts | complement $featured).ByDate.Reverse | first 5 }}
 
