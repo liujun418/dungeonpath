@@ -215,7 +215,7 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 1 | **Tower Defense Simulator** | Medium | Easy to Start | Classic TD, co-op, frequent events |
 | 2 | **Blockade Battlefront** | Hard | Steep Curve | Complex keybinds, Titan system, deep strategy |
 
-**If you like strategy:** [Tower Defense Simulator](/games/tower-defense-simulator/) is the polished TD experience — easy to learn, hard to master, great with friends. [Blockade Battlefront](/games/blockade-battlefront/) is for players who want mechanical depth: 13+ keybinds, Titan deployment, Cen economy management across 90 waves.
+**If you like strategy:** [Tower Defense Simulator](/games/tower-defense-simulator/) is the polished TD experience — easy to learn, hard to master, great with friends. [Blockade Battlefront](/games/blockade-battlefront/) is for players who want mechanical depth: 13+ keybinds, Titan deployment, Cen economy management across 90 waves. For the whole genre — including gacha TDs like Anime Vanguards and Toilet Tower Defense — see our [tower defense games comparison](/posts/pillar/roblox-tower-defense-games-compared/).
 
 ### Tycoon / Business Sim
 
@@ -361,3 +361,4 @@ For deeper dives into specific genres, check out our genre comparison guides lin
 - [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — PS99 vs Fisch vs Bee Swarm
 - [Best Roblox RPG Games Compared](/posts/pillar/roblox-rpg-games-compared/) — Blox Fruits, Arcane Odyssey, Project Slayers
 - [Best Roblox Obby Games Compared](/posts/pillar/roblox-obby-games-compared/) — JToH, Tower of Hell, and platformer rankings
+- [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — TDS vs Anime Vanguards vs Toilet Tower Defense
