@@ -215,7 +215,7 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 1 | **Tower Defense Simulator** | Medium | Easy to Start | Classic TD, co-op, frequent events |
 | 2 | **Blockade Battlefront** | Hard | Steep Curve | Complex keybinds, Titan system, deep strategy |
 
-**If you like strategy:** [Tower Defense Simulator](/games/tower-defense-simulator/) is the polished TD experience — easy to learn, hard to master, great with friends. [Blockade Battlefront](/games/blockade-battlefront/) is for players who want mechanical depth: 13+ keybinds, Titan deployment, Cen economy management across 90 waves. For the whole genre — including gacha TDs like Anime Vanguards and Toilet Tower Defense — see our [tower defense games comparison](/posts/pillar/roblox-tower-defense-games-compared/).
+**If you like driving:** Vehicle Simulator is the most diverse Roblox racer — hundreds of cars, trucks, motorcycles, and planes across stunt, drag, and free-roam modes. Driving Empire is the closest to a real driving sim with a persistent city. Greenville is the slowest and most atmospheric, built around realistic small-town cruising. For the full breakdown including JDM street-racing and tycoon variants, see our [racing games ranking](/posts/pillar/roblox-racing-games-compared/).
 
 ### Tycoon / Business Sim
 
@@ -362,3 +362,4 @@ For deeper dives into specific genres, check out our genre comparison guides lin
 - [Best Roblox RPG Games Compared](/posts/pillar/roblox-rpg-games-compared/) — Blox Fruits, Arcane Odyssey, Project Slayers
 - [Best Roblox Obby Games Compared](/posts/pillar/roblox-obby-games-compared/) — JToH, Tower of Hell, and platformer rankings
 - [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — TDS vs Anime Vanguards vs Toilet Tower Defense
+- [Best Roblox Racing Games Compared](/posts/pillar/roblox-racing-games-compared/) — Vehicle Simulator vs Driving Empire vs Greenville

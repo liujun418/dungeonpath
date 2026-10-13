@@ -2,7 +2,7 @@
 title: "DOORS The Rooms Guide — How to Get In, Survive A-60 & Escape the Endless Rooms (2026)"
 description: "Complete guide to The Rooms in DOORS: how to find the flickering doorframe, survive A-60 and A-120 without lockers or Guiding Light, and reach the exit."
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-13
 draft: false
 author: "Alex Turner"
 tags: ["DOORS", "Roblox", "The Rooms", "A-60", "A-120", "endless", "survival"]
@@ -157,6 +157,67 @@ The room you just left is usually safer than the one ahead. A-60 and A-120 move 
 
 Your flashlight is a false friend. Light feels safe, but it drains battery you cannot refill, and it drowns out the one signal that actually saves you. Use it in short bursts to read geometry, then go dark. Your ears work better in the dark, and the hum is louder against the silence.
 
+
+
+
+---
+
+## How to Read the A-Series Like a Pattern, Not a Jump Scare
+
+The A-series is the only family of threats in The Rooms, and once you treat them as a system instead of surprises, the area gets dramatically easier. The thing every A-variant has in common is the same: it travels in a straight line through the lane, it announces itself through sound before it ever reaches your room, and it is lethal only if you are in its line when it passes. That is the whole game.
+
+What changes between A-60, A-90, and A-120 is the *trigger*, not the kill. A-60's trigger is the rising hum. A-120's trigger is the same hum on a faster clock. A-90's trigger is the entity appearing on your screen. Three different inputs, one output: a moment in which you must already be off the lane.
+
+The skill this builds is pattern recognition under sound pressure. You stop trying to identify which A-variant is coming. You start reacting to the trigger — hum, screen, anything weird — with the same two-step response: identify a safe side of the room, and step into it before the entity arrives. Players who survive longest in The Rooms are not the ones who know the wiki entry for each entity. They are the ones who trust the first signal they get and move.
+
+The deeper layer is that A-entities respawn on a rhythm. If you hear a hum in one room and survive it, the next A-spawn is usually two to three rooms back the way you came. That is the secondary rule that turns a survival run into a depth run: after every hum, count the rooms you walk before the next expected spawn, and stay defensive in the third room whether or not you hear anything. A confident player walks the first two rooms. A skilled player walks the first two, then slows into the third.
+
+## Why the Stamina Rule Changes Inside The Rooms
+
+Stamina in the Hotel is a budget you spend on sprinting to safety. In The Rooms, stamina becomes the resource that decides whether you clear deep rooms at all. There is no Vitamin pickup, no recharge tile, and no way to refill once you enter. You walk in with what you walked in with, and you spend the rest of the run walking it down.
+
+The mistake almost every new runner makes is treating stamina the same way they treated it in the Hotel: spend it when scared, recover it later. The Rooms does not have a "later." Sprinting across a long room costs you the same stamina it would have cost you in the Hotel, but every sprint is one less sprint you can spend on a deep-room retreat later when A-120 is right behind you.
+
+The rule that separates a depth-50 runner from a depth-200 runner is simple: walk between rooms, sprint only to cross a long room to a safe side, and never sprint twice in a run without a good reason. The same stamina that feels free in the Hotel becomes the most important resource you have in here. Plan around it from the first grey room.
+
+If you came in fresh from a long Hotel sprint and your stamina is already half down, your realistic max depth in The Rooms drops by 30-40 percent. Wait for stamina to refill before stepping through the doorway. The Rooms will be there next run.
+
+## How Depth Is Actually Scored
+
+The Rooms does not give you a number at the end. The community measures depth by counting how many rooms you walk through before the exit door shows up, or before you die. That number is a load-bearing score, because it is the only objective signal of how well you are playing the area.
+
+Most players' first runs end between room 5 and room 15. That is the wall where every habit you brought from the Hotel breaks at once — no lockers, no Guiding Light, no items. Once you get past room 15 with the new habits, the next wall is around room 50, where A-120 starts showing up on its own and the rhythm between hums gets tighter. Past room 50, the only real obstacle is stamina. Past room 100, you are in the run where the exit door is plausibly closer than another A-spawn. Past room 200, you are reading the hums well enough to plan a path around them.
+
+The number is not a goal — it is a signal. A 5-room run that taught you the lane rule is more useful than a 100-room run where you got lucky. Treat every run as one piece of data: what killed you, what room it happened in, and what you would do differently next time. Three runs in a row with the same death point means you are failing one specific skill, and that is the skill to practice.
+
+## The 12-Row If-Then Table (Expanded)
+
+The short table near the top of this guide covers the most common situations. This expanded version covers every situation you will actually run into over a 100-room run.
+
+| If this happens | Then do this | Why |
+|-----------------|--------------|-----|
+| You hear a hum and you are mid-room | Pick the closer safe side — not the farther doorway | Two steps sideways beats ten steps forward |
+| The hum is on your left | Get to the right side of the room, on the far side of the lane | The lane is the kill zone; you want the opposite side |
+| The hum has passed but you can still hear static | Stay put. A-120 is likely behind it | A-60 and A-120 chain in the same run |
+| You are at the doorway between two rooms | Cross at a walk, never sprint, into the next room's safe wall | Sprinting across a doorway is where most mid-depth deaths happen |
+| Your flashlight battery is under 25 percent | Slow down. Read rooms from the doorway before entering | No battery pickups here — once it is dead, the rest of the run is dark |
+| A-90 appears on your screen | Freeze completely. Do not move until it is gone | The trigger is movement while it is visible; the answer is no movement |
+| Three full seconds of silence after a pass | Move to the next room at a walk | One second is not enough; A-120 chains on a faster clock |
+| You are at room 30 and stamina is half down | Stop pushing. Plan every safe-side step ahead of time | Stamina does not refill in The Rooms |
+| You see the exit door | Take it. Do not push for one more room | Greed past the exit is how the deepest runners die |
+| Two hums in a row in adjacent rooms | Retreat one room back the way you came | The room behind the entity is the safest spot in the building |
+| You have not heard a hum in over ten rooms | Slow down and recheck every room | A long quiet stretch usually ends with a tight A-120 chain |
+| You die at the same room number three runs in a row | That number is your actual skill ceiling | Push past it by practicing only that section, not by rerolling the whole run |
+
+## What The Rooms Is Actually Teaching You
+
+The deepest thing The Rooms does is not teach you about A-60 or A-120. It teaches you to read the Hotel differently when you come back.
+
+After about ten runs in The Rooms, players report the same thing: the next time they go back to the Hotel, Rush and Ambush feel slower and more predictable. The reason is that The Rooms is the same audio-training loop the Hotel uses, but stripped of every visual crutch. Once you learn the hum without the Guiding Light, you hear the hum faster in the Hotel too. The Guiding Light is a useful feature. It is also a crutch. The Rooms removes it, and what is left is the part of DOORS you actually play with: your ears.
+
+This is also why The Rooms is a better practice area than The Mines for most players. The Mines introduces new entities with new tells on top of the audio basics. The Rooms only has audio basics. If your audio basics are weak, every other DOORS sub-area inherits that weakness. If your audio basics are strong, every other area gets easier.
+
+The single most useful thing to take from The Rooms is the discipline of trusting the first signal you get. In a Hotel run, you can usually afford to wait half a second and look around. In The Rooms, that half second is the difference between alive and dead. The habit you build here is a habit the rest of DOORS rewards without you noticing.
 
 ## Frequently Asked Questions
 

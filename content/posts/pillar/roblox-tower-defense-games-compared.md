@@ -272,3 +272,4 @@ Yes. It remains the most-played and most-referenced TD on Roblox, which is itsel
 - [TDS Beginner's Roadmap](/posts/tower-defense-simulator/beginners-roadmap-guide/) — your first 20 hours in TDS, mapped out
 - [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — if you like the grinding loop but want pets and fishing
 - [Best Roblox Anime Games Compared](/posts/pillar/roblox-anime-games-compared/) — if the gacha side is what pulled you in
+- [Best Roblox Racing Games Compared](/posts/pillar/roblox-racing-games-compared/) — if you want a different kind of Roblox strategy game
