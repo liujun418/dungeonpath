@@ -2,7 +2,7 @@
 title: "RIVALS Season 4 Weapon Tier List: Every Gun Ranked & Where to Spend Your Keys (2026)"
 description: "Your Keys are scarce this season — here's the honest Season 4 weapon tier list, why Permafrost is S-tier but wrong for most players, and where to spend first."
 date: 2026-08-21
-lastmod: 2026-08-21
+lastmod: 2026-10-16
 draft: false
 author: "Alex Turner"
 tags: ["RIVALS", "Roblox", "Season 4", "Weapon Tier List", "Weapons Guide", "Permafrost", "Meta"]
@@ -131,6 +131,51 @@ I unlocked Permafrost after a lucky Contraband roll, immediately queued ranked, 
 The error was not the weapon. It was the swap. I had a reliable AR that had carried me for weeks, and I threw it away for a gun whose entire value depends on landing every burst — a skill I had not built yet. The cause was simple: I ranked the letter, not the fit. I saw "S-tier" and assumed the gun would carry me instead of the other way around.
 
 The recovery was slower than the mistake. I dropped back to casual, forced myself to fire Permafrost in bursts only against moving targets, and tracked my burst accuracy until it was consistent. Only then did I bring it back to ranked, and only on maps where the range suited it. The lesson: a weapon's tier is a measure of its ceiling, not your ceiling. You do not inherit the first one by equipping it.
+
+## How to Pick Your Main (A 5-Step Method)
+
+Most players pick a weapon by what the YouTube thumbnail shows. That is a recipe for a derank season. The actual method is short, and it works whether you are buying a 25-Key gun or a Contraband you got lucky on.
+
+**Step 1: Take your last 20 ranked losses. Tag the weapon you were using.** Open the kill feed, count how often you died to the same weapon class, and how often you lost fights to your own gun's recoil. The pattern is usually obvious within 20 matches. If you keep losing to Shotguns at close range, the problem is not your AR — it is that you are playing close-range maps with a mid-range primary.
+
+**Step 2: Identify your strongest range band.** Are you winning most of your long fights? Or your close fights? Most players have one range band where they are clearly stronger than the others, and the rest of their kit should protect that band. If you are strongest at long range, your primary can be the AR or Sniper. If you are strongest at close range, your primary can be the Shotgun or a burst SMG.
+
+**Step 3: Match the primary to the band, not to the letter.** This is the part most players skip. A Sniper that is B-tier in the general meta is S-tier for *you* if your strongest band is long range. The letter on the tier list is the population average. Your job is to find the weapon that beats the population average in the band you actually play in.
+
+**Step 4: Test in casual for at least one full session before ranked.** Every weapon on this list has a 2-3 hour learning curve. Permafrost has a longer one. If you swap to a new primary the same night you buy it, you are testing it on the most punishing setting ranked offers, and you will misread your own performance. Test in casual, log your accuracy for one session, then decide.
+
+**Step 5: Swap only when the gun stops teaching you.** The trap most players fall into is constant swapping. They get a new gun, run it for a week, switch, run it for a week, switch. None of the guns ever reach their full potential, and the player feels mediocre at everything. Pick a primary, run it for at least two weeks in ranked, and only swap when you can name a specific weakness the gun cannot cover.
+
+## Quick Pick: If-Then Decision Table (Expanded)
+
+The playstyle frame earlier in this guide covers the obvious cases. This expanded version covers the situations that come up after your first 50 matches.
+
+| If this happens | Then do this | Why |
+|-----------------|--------------|-----|
+| You keep losing to Shotguns at close range | Swap your secondary to Exogun for the AOE | AOE damage trades even with point-blank shotguns |
+| You cannot land Permafrost bursts under pressure | Drop it back to casual for a week | The gun demands 80%+ burst accuracy to outperform the AR |
+| You keep getting rushed by Katana users | Run Shotgun + Scythe close-range loadout | Scythe dash + Shotgun punish exactly the rush that beats you |
+| You win every long fight but lose every short one | Sniper + Uzi on long-range maps only | Do not main a Sniper on tight maps; swap to AR for indoor |
+| You unlocked Permafrost and want to use it | Test in casual for 5+ hours before ranked | The skill floor is real; a bad Permafrost loses more than a good AR |
+| You have 100 Keys and no idea what to buy | Burst Rifle (25) + Uzi (20) first, then save | These two unlock the strongest cheap loadout in the game |
+| Your kill feed keeps showing the same enemy weapon | Check the counter-meta for that weapon in this guide | The counter is usually in the next tier up or down |
+| You are Bronze-Gold and want to climb fastest | AR + Exogun, nothing else | Consistency beats ceiling at this rank band |
+| You are Diamond+ and want to specialize | Permafrost is finally your ceiling gun | The skill floor that gated you at Gold is no longer the issue |
+| The season patch just dropped | Re-read this list, your key decisions may flip | Patch notes move weapons between tiers every season |
+
+## Counter-Intuitive Truths About RIVALS Weapon Tiers
+
+Five things that sound wrong until you have been in the Season 4 meta.
+
+**The letter on the tier list is not your tier.** A weapon's S-tier status is a population average — what a top player does with the gun. Your tier is what *you* do with it. Permafrost is S-tier for the 10% of players who can land bursts under pressure. It is C-tier for the 90% who cannot. The tier is the ceiling, not your floor.
+
+**The default weapon is meta for a reason.** The Assault Rifle is the best weapon in the game for most players, and the fact that it is the default is not an accident. The devs made the default strong on purpose. The Contraband guns are the *ceiling*, not the *better*. If you have not mastered the AR, the AR is your answer.
+
+**A higher-tier weapon can derank you.** Equipping a Permafrost in ranked before you have built the burst accuracy is mathematically worse than equipping an AR. You deal less damage per shot on average, you lose more fights, and your ELO drops. The weapon tier is a description of skill expression, not a buff you get for owning the gun.
+
+**The best Counter to a weapon is usually one tier down, not the same tier.** If you keep losing to Permafrost, the answer is not another Permafrost — it is the AR, which has the spray correction you need to win a duel against a burst that misses. The same logic applies to Sniper (counter: AR or Katana rush), Shotgun (counter: Exogun AOE), and Katana (counter: Shotgun at point-blank).
+
+**The season's meta rewards consistency more than unlocks.** Season 4 tightened the gun meta instead of adding new movement tech. The result: the players who climb are the ones with the cleanest fundamentals (AR recoil, burst timing, positioning), not the ones with the most Contraband unlocks. Spend your Keys on consistency, not on rarity.
 
 ## The Honest Fine Print on Season 4
 

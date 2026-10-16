@@ -364,3 +364,4 @@ For deeper dives into specific genres, check out our genre comparison guides lin
 - [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — TDS vs Anime Vanguards vs Toilet Tower Defense
 - [Best Roblox Racing Games Compared](/posts/pillar/roblox-racing-games-compared/) — Vehicle Simulator vs Driving Empire vs Greenville
 - [Best Roblox Sports Games Compared](/posts/pillar/roblox-sports-games-compared/) — Basketball Zero vs Soccer Star vs Football Fusion
+- [Best Roblox Music & Rhythm Games Compared](/posts/pillar/roblox-music-rhythm-games-compared/) — Friday Night Funkin' vs Sound Space vs Piano Sheets

@@ -257,3 +257,4 @@ Yes. It remains the most-played Roblox sports game by a wide margin, which is it
 - [Best Roblox Anime Games Compared](/posts/pillar/roblox-anime-games-compared/) — if the gacha side of Basketball Zero pulled you in
 - [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — if you like the grinding loop but want a different progression
 - [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — if you want a different kind of strategy game
+- [Best Roblox Music & Rhythm Games Compared](/posts/pillar/roblox-music-rhythm-games-compared/) — if you want a different kind of Roblox game
