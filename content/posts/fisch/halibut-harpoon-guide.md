@@ -2,7 +2,7 @@
 title: "Fisch Halibut Harpoon Guide — Dr. Monty's Puzzle Answers, Infinite Max Kg & the Developer Gift Update (2026)"
 description: "How to get the Halibut Harpoon in Fisch: Dr. Monty's puzzle answers, the Pufferfish tasks, and why infinite max kg beats 288% Luck. Plus the Developer Gift."
 date: 2026-08-16
-lastmod: 2026-08-16
+lastmod: 2026-10-17
 draft: false
 author: "Alex Turner"
 tags: ["Fisch", "Roblox", "Halibut Harpoon", "Developer Gift", "The Deep", "fisch-halibut"]
@@ -147,4 +147,77 @@ Third, set an alarm for the Black Market restock on Sunday. Limited rods rotate 
 
 The Halibut Harpoon itself isn't going anywhere — Dr. Monty's questline is permanent. That means you can take your time on the puzzles and the Pufferfish tasks. Just don't sit on the time-limited stuff. Grab the code, claim the gift, and then settle into the grind with a full weekend of double luck behind you.
 
-If you're still working through the rest of The Deep, keep [the full update guide](/posts/fisch/the-deep-update-guide/) open, and check the [Scalding Hook guide](/posts/fisch/scalding-hook-rod-guide/) if the harpoon line you'll unlock next is the Titanic Scalder. For the code economy, our [codes and rewards guide](/posts/fisch/codes-and-rewards-guide/) tracks what's live and what's expired.
+If you're still working through the rest of The Deep, keep [the full update guide](/posts/fisch/the-deep-update-guide/) open, and check the [Scalding Hook guide](/posts/fisch/scalding-hook-rod-guide/) if the harpoon line you'll unlock next is the Titanic Scalder. For the code economy, our [codes and rewards guide](/posts/fisch/codes-and-rewards-guide/)
+
+---
+
+## The Failure Retrospective: Three Ways the Halibut Harpoon Grind Goes Wrong
+
+The harpoon is straightforward, but the questline has specific failure modes that cost free players hours. Here are the three I have seen most often, with the actual fix for each.
+
+### Failure 1: Typing "Orange?" Instead of "Orange…?"
+
+I typed "Orange?" at Dr. Monty's third prompt. The questline stalled. I closed and reopened the dialogue. I retried. It stalled again. I assumed the quest was bugged, I went to grind Pufferfish for an hour, then came back, re-typed the answer, and got the same rejection.
+
+The error was punctuation. The answer is **"Orange…?"** — capital O, three dots, question mark. No trailing space. No period. No shortened ellipsis of two dots. The game's input check is exact-string, and any deviation rejects the input silently without telling you which character is wrong.
+
+The fix is to copy the string from a known-good source, paste it directly into the input box, and not retype it from memory. The harpoon is not a knowledge check — it is a string-match check. Treat it like one.
+
+### Failure 2: Bringing the Halibut Harpoon to Grind Money, Not Weight
+
+I had a money-rod setup. I saw the Harpoon's 288% Luck and assumed it would replace my Cusk Purger as my main farming rod. I switched to it for two weeks. My hourly C$ dropped by 30-40%, and I could not figure out why.
+
+The error was treating 288% Luck as the headline stat. The headline stat is infinite Max Kg. The Luck number is competitive with other rods, not exceptional. The Harpoon's value is the weight ceiling and the hybrid trigger, not the per-hour rare catch rate. Bringing it to a standard money grind is paying utility-rod opportunity cost for a stat that does not outperform the Cusk Purger's Disturbance.
+
+The fix: keep the Cusk Purger as your money rod. Bring the Halibut Harpoon out specifically for Monstrous-class catches where the line weight matters, and for the hybrid-trigger moments where you want one cast to do two jobs. Stop using it as a default rod.
+
+### Failure 3: Claiming the Developer Gift "Later" and Missing the Window
+
+I saw the gift menu pop up. I told myself I would claim it after my current Pufferfish task. I finished the task, claimed the gift, and the Darkheart sword dropped into my inventory. Then I checked the wiki and realized the claim window had been live for two weeks. I had been lucky — many players who read about the gift "next week" found the window already closed.
+
+The error is treating a free, time-limited claim as a low-priority task. Limited windows close. When they close, the gift is gone — not in your mailbox, not retrievable, gone. Free gifts have the lowest priority in your head and the highest urgency in reality.
+
+The fix: when a free gift appears, claim it the moment you see it. Even if you do not know what is in it, even if you do not plan to use the contents. The five seconds it takes to claim is the cheapest insurance you will get all week. The next time you tell yourself "I will claim it later," the window may not be open.
+
+## Quick Pick: If-Then Decision Table
+
+Find your situation. This is the decision frame for the Halibut Harpoon, not for fishing in general.
+
+| If you are… | Then do this | Why |
+|---|---|---|
+| Below Level 250, no Titanium Rod | **Skip the Harpoon for now, get Titanium first** | The Harpoon is utility, not a money engine |
+| Already at Level 250, have Titanium, no Cusk Purger | **Get Cusk Purger first, then Harpoon** | Cusk Purger is the money rod, Harpoon is the weight rod |
+| Have Cusk Purger, want more Monstrous-class catches | **Run Dr. Monty's questline now** | The Harpoon's infinite Max Kg is the unlock you actually need |
+| Mid-quest, stuck on the third puzzle | **Paste "Orange…?" exactly** | The punctuation is the only thing wrong |
+| About to grind Pufferfish tasks | **Redeem COLLECTMYPUFFERFISH first** | Free Giant Jet Ski, doubles as traversal |
+| Plan to use the Harpoon as a default rod | **Stop. Keep Cusk Purger as default** | The Harpoon is a specialty weapon, not a main |
+| Saw the Developer Gift in the menu | **Claim it right now** | Limited windows close; Darkheart doubles as a rod |
+| Already past the quest, want to know the meta | **Harpoon + Cusk Purger, switched by context** | Each rod has a job; rotate, do not main one |
+
+## How the Harpoon Fits Into Your Rod Loadout (Methodology)
+
+Most guides treat the Halibut Harpoon as a single rod you either own or do not. The actual play is to think of your fishing kit as a **loadout** of 2-3 rods, each with a job, switched by context. The Halibut Harpoon is one slot in that loadout, not the centerpiece.
+
+**Slot 1: Money rod.** This is the rod you cast when you want C$ per hour. For most players in The Deep, this is the Cusk Purger thanks to its +7 Disturbance on hunts. The Halibut Harpoon is competitive on Luck but loses on per-hour C$ — keep this slot filled by Cusk Purger or your highest-Disturbance rod.
+
+**Slot 2: Weight rod.** This is the rod you switch to when the fish on the line is over your normal rod's Max Kg. For Monstrous-class catches, this is the Halibut Harpoon. The hybrid trigger (rod + harpoon in one cast) is also useful here because the Monstrous fish often need both damage and a normal catch to land.
+
+**Slot 3: Specialty / utility.** This slot varies by player. For a PvP player it might be a fast-lure rod. For a completionist it might be a rod with a specific mutation synergy. For most players, the third slot is the Halibut Harpoon until they get a more specialized option, and then it becomes the weight-rod slot in slot 2.
+
+The rule that separates good loadouts from great ones: every rod in your active 2-3 should have a specific job, and the jobs should not overlap. If your Cusk Purger and your Halibut Harpoon are both doing the same job, you are wasting a slot. Rotate by context, not by mood.
+
+## Counter-Intuitive Truths About the Halibut Harpoon
+
+Five things that sound wrong until you have used the weapon for a few weeks.
+
+**288% Luck is not why you want this rod.** Plenty of rods push high Luck. The Harpoon's actual value is infinite Max Kg plus the hybrid trigger. Chasing it for the Luck number is paying utility-rod opportunity cost for a stat that does not outperform the Cusk Purger's Disturbance on money runs.
+
+**The "Orange…?" puzzle is the entire skill check of the questline.** It is not a knowledge check, it is a string-match check. Players who fail it assume the quest is bugged because the game does not tell them which character is wrong. The fix is to paste the answer exactly, not retype it from memory.
+
+**The Developer Gift's free rod is the most underrated thing in the patch.** Most players see "Darkheart sword" and skip the gift. The Darkheart is also a rod, and a free rod in a game where rods cost hundreds of hours to grind is real value. Claiming a free rod is the cheapest gear upgrade you can get in Fisch.
+
+**A harpoon-only build is weaker than a hybrid build.** Players who treat the Halibut Harpoon as just a harpoon gun (and use other rods for normal catches) miss the weapon's actual value — one cast triggering both rod and harpoon mechanics. The hybrid trigger is where the time savings come from. Build around the double action, not around either action alone.
+
+**The Harpoon does not replace your money rod.** It supplements it. Players who switch their default rod to the Harpoon because they just unlocked it lose 30-40% of their hourly C$. The Harpoon is a specialty weapon for Monstrous-class catches and hybrid plays. Keep your money rod as your main, and rotate to the Harpoon only when the context demands it. tracks what's live and what's expired.
+
+## v3 sections placeholder

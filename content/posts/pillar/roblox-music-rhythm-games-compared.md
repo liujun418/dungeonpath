@@ -259,3 +259,4 @@ Yes. It remains the most-played Roblox rhythm game by a wide margin, which is it
 - [Best Roblox Racing Games Compared](/posts/pillar/roblox-racing-games-compared/) — if you want a different kind of Roblox experience
 - [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — if you like the grinding loop but want a different progression
 - [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — if you want a different kind of strategy game
+- [Best Roblox Card & Board Games Compared](/posts/pillar/roblox-card-board-games-compared/) — if you want a different kind of strategy game
