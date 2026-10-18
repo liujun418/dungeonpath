@@ -28,6 +28,7 @@ faq:
 
 related:
   - "/posts/pillar/best-roblox-games-2026/"
+  - "/posts/pillar/roblox-mystery-detective-games-compared/"
   - "/posts/pillar/roblox-survival-games-compared/"
   - "/games/doors/"
   - "/games/pressure/"

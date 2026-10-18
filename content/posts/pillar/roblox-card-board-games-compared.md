@@ -27,6 +27,7 @@ faq:
     answer: "Trading Card Arena has the deepest strategic layer, with multiple deck archetypes, sideboard strategies, and a meta that shifts with every expansion. Chess has infinite depth but in a narrower sense — every position is a chess problem. The casual games are much shallower. If you want a real strategic challenge, Trading Card Arena or Chess is your pick."
 related:
   - "/posts/pillar/best-roblox-games-2026/"
+  - "/posts/pillar/roblox-mystery-detective-games-compared/"
   - "/posts/pillar/roblox-puzzle-games-compared/"
   - "/posts/pillar/roblox-music-rhythm-games-compared/"
   - "/posts/pillar/roblox-sports-games-compared/"
