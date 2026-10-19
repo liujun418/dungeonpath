@@ -27,6 +27,7 @@ faq:
     answer: "Vehicle Simulator by a wide margin — hundreds of vehicles across cars, trucks, motorcycles, helicopters, and planes. Driving Empire has dozens of high-quality licensed-style cars. Greenville has fewer cars but each one is modeled in real-world detail. If raw car count is the metric, Vehicle Simulator wins; if car *quality and detail* is the metric, Driving Empire and Greenville win."
 related:
   - "/posts/pillar/best-roblox-games-2026/"
+  - "/posts/pillar/roblox-vehicle-driving-sim-games-compared/"
   - "/posts/pillar/roblox-tycoon-games-compared/"
   - "/posts/pillar/roblox-simulator-games-compared/"
   - "/posts/pillar/roblox-tower-defense-games-compared/"

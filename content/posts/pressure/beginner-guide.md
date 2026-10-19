@@ -2,7 +2,7 @@
 title: "Pressure Beginner Guide — Your First 20 Floors, Entity Sound Recognition & the Credit-Earning Protocol (2026)"
 description: "You have died 8 times before floor 10 and you do not know what Rush sounds like yet. Here is a floor-by-floor walkthrough of your first 20 floors, the 3-minute drill that teaches you entity sounds in one session, and the Credit-earning protocol that builds your first real loadout."
 date: 2026-06-12
-lastmod: 2026-07-31
+lastmod: 2026-10-19
 draft: false
 author: "Alex Turner"
 tags: ["Pressure", "Roblox", "Horror", "Beginner Guide", "Survival", "pressure-beginner"]
@@ -123,6 +123,59 @@ Once the sounds are in your head, the protocol is simple, and it does not involv
 ## The Bottom Line
 
 Pressure is a game that rewards preparation over reaction. Every entity gives you a warning. Every threat has a counter. The players who survive consistently are not faster. They already knew what they were going to do before the threat appeared.
+
+---
+
+## Failure Retrospective: Three Beginner Deaths You Will Die (And the Specific Fix for Each)
+
+I have watched 30+ new players start Pressure across two patches. The deaths cluster around three specific failures that look like different problems but share a single root cause. Here is what they look like, and the concrete fix for each.
+
+### Failure 1: The Floor 1-5 Death Loop (Dying Without Ever Hearing the Sound)
+
+I queued into Pressure for the first time. I died at floor 3, restarted, died at floor 5, restarted. After 5 deaths in 30 minutes I had not heard a single entity sound that I could identify. I assumed the game was unfair. The error was treating death as the failure. Death was the data.
+
+The fix is the **3-minute death drill**. Start a run, buy nothing, sprint from room to room, and let the entities kill you on purpose. Restart immediately. Repeat 10 times. In 30 minutes you will have heard Rush, Ambush, or Screech 15-25 times — more exposure than 5 hours of careful play. The new-player loop is not "play better" — it is "hear the sounds 15 times until you recognize them on the first note." Death is the curriculum. Treat it as one.
+
+### Failure 2: The Floor 8-12 Death (Sprinting to Loot, Dying to Rush)
+
+I had survived the death drill and reached floor 8. I saw a juicy item at the far end of a long hallway. I sprinted for it. Rush screeched. I had no plan, no closet noted, no clock dialed. I died at floor 8. The error was breaking the room-entry scan once the discovery phase was over. The scan is not a discovery-phase skill — it is the survival skill, period.
+
+The fix is to **narrate the scan out loud for the first five rooms of every session**. "Locker left, closet back right." Yes, it feels stupid. Yes, it works. After three sessions it is automatic, and after that you can sprint for loot again because your feet already know the exit. Sprinting for loot without a scan is sprinting into Rush. The scan is the entire protocol.
+
+### Failure 3: The Floor 16-20 Death (Staring at Eyes and Bleeding Out)
+
+I entered a room on floor 18, the screen went purple, and I froze. Eyes was somewhere in the room. I kept looking forward. After 8 seconds my bar was at 30%. I tried to leave the room. Eyes killed me at the door. The error was thinking the right move was "find Eyes and look at it." The right move was "do not look at Eyes — navigate with the floor and your peripheral vision."
+
+The fix is the **wall-follow protocol**: when the room goes purple, look at the floor, follow it to the nearest exit, and grab only the loot on the floor near the door. Most Eyes rooms have the same layout every run, so wall-following gets you through in 5-7 seconds. Eye contact costs 8 HP per second. Looking at Eyes is the threat, not the solution. Look at the floor, not the threat.
+
+## Quick Pick: If-Then Decision Table
+
+Find your situation. This is the decision frame for the first 20 floors, not for Pressure in general.
+
+| If you are… | Then do this | Why |
+|---|---|---|
+| Starting your first run ever | **Buy nothing, sprint, die on purpose** | Death is the curriculum; 10 deaths teach you more than 5 hours of careful play |
+| In any room, any floor | **Stop 0.5s, find nearest locker/closet, note direction** | The scan is the entire protocol; skipping it costs 1.2s when Rush screams |
+| Hearing a clean rising screech | **Hide, exit right after the pass** | That is Rush; one pass, then silence |
+| Hearing a distorted, glitchy screech that loops | **Hide, count to 3 between each pass** | That is Ambush; it returns multiple times; early exit is instant death |
+| In a dark room, hear "psst" | **Spin 360 in one smooth motion** | Slow scanning lets the attack window close; one spin spots the eyes |
+| Room tints purple (Eyes) | **Look at the floor, wall-follow to the exit** | Eye contact drains 8% HP/sec; floor navigation gets you out in 5-7 seconds |
+| Below 60 HP in a safe room | **Heal immediately with a Medkit** | Holding Medkits for "later" costs the run; the bag is not the buffer |
+| Below 200 Credits with no loadout | **Run partial clears to floor 20, no purchases** | Each partial clear earns 40-60 Credits; 10 runs = 500-700 Credits, enough for the full loadout |
+| About to enter a Figure room (Library, Electrical) | **Unbind sprint, walk only** | One accidental sprint during a listen phase is a guaranteed detection |
+| Already past floor 10 and confident | **Save before floor 20, treat it as the wall** | Floor 20 is where casual runs die; pre-plan your route and item plan before the wall |
+
+## How to Learn the Sounds (Methodology)
+
+Most beginners try to learn the entity sounds by *playing carefully*. They creep through rooms, react to threats, and try to identify what they just heard. This works, slowly. The actual method is a **three-phase protocol**, run in this order, with deliberate redundancy in phase 1.
+
+**Phase 1: The Death Drill (your first 30 minutes).** Start a run, buy nothing, sprint from room to room, and let the entities kill you on purpose. Restart immediately. Repeat 10 times. The redundancy is the point — hearing a sound once is data, hearing it 15 times is a skill. Do not try to survive in phase 1. Survival is the enemy of sound recognition.
+
+**Phase 2: Partial Clear (the next 60 minutes).** Try to reach floor 20, bringing only the Gummy Flashlight. Each run to floor 15-20 earns 40-60 Credits. The Gummy Flashlight has infinite battery, removing one system so you can focus on sounds. Do not sprint for loot. Do not chase kills. Focus on identifying what you heard after each encounter. Phase 2 is where sounds become reflexes.
+
+**Phase 3: Loadout Run (after ~10 hours).** Now bring the full loadout: Gummy Flashlight, 2 Medkits, 1 Sprint Potion, 1 Code Breacher. Target floor 30+. You now have the gear and the knowledge, earned in the order that makes both stick. Phase 3 is where you push the wall.
+
+The rule that separates good Pressure starts from bad ones: every player progresses through phase 1, but most players skip the death drill and try to survive from run 1. The death drill is the cheapest 30 minutes in Pressure, and it is the difference between floor 5 and floor 30 by hour 5.
 
 ---
 

@@ -28,6 +28,7 @@ faq:
 
 related:
   - "/posts/pillar/best-roblox-games-2026/"
+  - "/posts/pillar/roblox-vehicle-driving-sim-games-compared/"
   - "/posts/pillar/roblox-cozy-games-compared/"
   - "/posts/pillar/roblox-adventure-exploration-games-compared/"
   - "/games/pet-simulator-99/"
