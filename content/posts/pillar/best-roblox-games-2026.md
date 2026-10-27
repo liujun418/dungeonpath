@@ -17,6 +17,7 @@ related:
   - "/posts/pillar/roblox-fps-games-compared/"
   - "/posts/pillar/roblox-simulator-games-compared/"
   - "/posts/pillar/roblox-vehicle-driving-sim-games-compared/"
+  - "/posts/pillar/roblox-creator-builder-games-compared/"
   - "/posts/pillar/roblox-mystery-detective-games-compared/"
   - "/posts/pillar/roblox-rpg-games-compared/"
   - "/posts/pillar/roblox-obby-games-compared/"

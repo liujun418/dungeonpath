@@ -6,7 +6,7 @@ cover:
   image: "/cover-image/doors-the-backdoor/cover.webp"
   alt: "Doors The Backdoor complete guide cover"
   caption: "Doors The Backdoor guide"
-lastmod: 2026-08-28
+lastmod: 2026-10-27
 draft: false
 author: "Alex Turner"
 tags: ["doors", "backdoor", "sub-floor", "survival", "roblox", "horror", "a-60", "a-120", "guiding-light", "endless"]
@@ -86,6 +86,20 @@ Treat the two confirmed entities as your real training set. Treat everything els
 | A-120 | Same hum, tighter timing | Being in the open when it passes | Locker immediately on first sound |
 | A-90 (reported) | Appears on your screen | Moving while it is visible | Freeze completely |
 
+## How Depth Actually Scales
+
+The thing nobody tells you about The Backdoor is that it is not a flat difficulty curve. It is a curve with walls in it, and the walls are where your run ends.
+
+**Rooms 1-15 are a teaching floor.** The A-60 hum arrives with enough lead time that a player who has never seen The Backdoor can survive by reacting alone. Rooms are bright enough to spot a locker at a glance. The entity pacing is slow enough that you can walk, look, and hide without the run feeling like a coin flip. If your first Backdoor run dies in the first fifteen rooms, the problem is not difficulty — it is that you are panicking instead of scanning.
+
+**Rooms 16-30 are where the hum compresses.** The lead time on the A-60 shrinks. Two entities can now share a room cycle, so a pass is no longer the end of the encounter — it might be the *middle* of one. A-120 starts appearing in this band, and because A-120 is the same attack with a tighter window, a player who learned A-60's timing and never re-learned it will die to A-120 without ever seeing it clearly.
+
+**Rooms 31+ remove your options.** Here the room layouts start repeating in ways you can predict — which sounds like an advantage until you realise the entity that spawns on a repeated layout is also predictable, and a predictable spawn can be baited. Lockers become scarcer in the deeper pools. Runs that used to have a fallback locker in the previous room start having one room with a single locker and no backup. This is where "the locker you can reach in one second" stops being a preference and becomes the only survivable line.
+
+**The real difficulty curve is your own fatigue.** Past roughly room 40, players stop scanning every room. They have been scanning for 40 rooms, they get confident, they stop looking, and the hum arrives before they have located a locker. The deepest runs in the area are not won by better players — they are won by players who kept the exact same scan habit from room 1 through room 60, when every other player had stopped doing it.
+
+That is the whole progression of The Backdoor. The entities get faster. The layouts get tighter. But the thing that actually kills you is that you got bored of the thing that was keeping you alive.
+
 ## How Survival Changes vs The Main Hotel
 
 The Hotel teaches you three habits. The Backdoor breaks all three.
@@ -97,6 +111,20 @@ Second, audio becomes everything. With no reliable light-flicker warning, the hu
 Third, lockers are your only real cover. In the Hotel you can sometimes hide under beds or behind furniture. In The Backdoor, the safe answer is a locker — in the current room or the one behind you. There's no third option and no door you can close in its face.
 
 On top of all that, rooms run longer and darker, and there is no end. You are not racing to door 100 — you are managing how long you survive. If you're still shaky on hiding and timing basics, start with the [beginner guide](/posts/doors/beginner-guide/) first.
+
+## The Loadout Decision Before You Enter
+
+The Backdoor punishes a bad loadout harder than it punishes a bad decision, because the bad loadout is a bad decision you have to make every single room.
+
+**What actually matters in The Backdoor is one item: battery.** Everything else is secondary. A flashlight with full battery gives you the ability to scan a room in two seconds instead of four. Four seconds is the difference between finding a locker before the hum and finding one after. Every other item you might bring competes with battery — a mobility item like Vitamins keeps you alive longer in a scramble, but a defensive item or a second utility item means less battery, and less battery means slower scanning in exactly the rooms where scanning matters most.
+
+**The rule: bring the flashlight, and do not spend battery on anything decorative.** Pulses, not a held beam. A held beam reveals the whole room and tells every entity in it exactly where you are. A pulse reveals a locker and leaves the rest of the room ambiguous. In the main Hotel you can afford to be generous with light because the Guiding Light is doing your scanning for you. In The Backdoor, light is a resource with a cost, and the cost is discovery.
+
+**Do not bring a full utility loadout.** The temptation is to arrive prepared with a full kit so you never run out. This fails in a specific way: you enter with four items, use two in the first 20 rooms, forget about the third, and the fourth is sitting in your bag while you die because you were reloading the wrong thing under pressure. A lean loadout — flashlight, one mobility item, one defensive item — means every item in your bag is an item you will actually remember to use.
+
+**The exception: bring more of the defensive item than you think you need.** A single Medkit is a single mistake you can absorb. In The Backdoor the mistake rate is higher than the Hotel because the rooms are darker and the warnings are audio-only. Two defensive items is not overkill; it is the correct baseline for a run you intend to push past room 30.
+
+**What you do not bring: anything that makes noise.** This sounds obvious stated this way, but the number of players who enter with a noise-making item and then blame the entity for being unfair is high. If an item produces sound, it is a liability in an area where your survival cue is a rising hum and a sudden loud sound covers it.
 
 ## A Step-by-Step Survival Routine
 
@@ -111,6 +139,22 @@ Here is the loop that keeps runs alive once you are inside.
 7. When the Guiding Light dies, keep the same routine. The scan habit you built in steps 2 and 3 is now your only radar.
 
 The whole loop is designed so that when the Light fails, nothing changes. You were already playing without it.
+
+## How to Route The Backdoor (Methodology)
+
+Most players walk The Backdoor linearly: clear a room, open the door, clear the next room, open the next door. That is the slowest possible route and it is also the most dangerous one, because every room boundary is a fresh decision point and you make those decisions under a fatigue you are not supposed to notice.
+
+The actual method is to **route the run with a three-tier locker plan**, decided room by room, in this order.
+
+**Step 1: On entering a room, name the primary locker and the fallback locker before you move.** Primary is the closest one to the door you just came through. Fallback is the next closest, and it is often in the room behind you. Naming both is what makes the entry scan automatic. A player who has named the primary and fallback in every room does not need to think under pressure, because the answer was already decided when the room was still quiet.
+
+**Step 2: Decide your exit direction when you enter the room, not when the hum starts.** The direction you leave a room determines which locker is reachable in one second if something comes. If you are hugging the far wall when the hum starts, the locker you can reach in one second is the one you passed three seconds ago, and reaching it means running *toward* the sound. If you entered along the wall, the locker ahead of you is still ahead of you when the hum starts. Entering along the wall is a free decision that saves your life later.
+
+**Step 3: Bank the position, do not spend it.** After every pass, the instinct is to move deeper immediately to make progress. The correct move is to move one room *forward* only if the previous room's fallback locker is still accessible from your new position. If stepping through the door puts you out of reach of both lockers in the room behind you, you are now in a one-locker room, and the room after that might be a zero-locker room. Depth without a fallback behind you is a depth with a hard floor.
+
+**Step 4: Treat the third consecutive locker-less room as an abort signal.** Not a death — an abort. You are not behind. Turn around, take the rooms you have already cleared, and re-enter the sequence with the fallback chain rebuilt. A run that ends at room 45 is a good run. A run that ends at room 20 because you pressed into a room you knew had no locker is a bad run, and the difference is entirely this step.
+
+The rule that separates deep runs from average runs: deep runners plan the fallback chain before they need it, and they keep the chain intact. The players who die at room 25 are not the ones who lacked skill at the hum. They are the ones who entered a room with no fallback and treated that as a normal room.
 
 ## Failure Retrospective: Where Runs Actually Die
 
@@ -152,8 +196,12 @@ When in doubt, run the table.
 | The Guiding Light goes dark | Keep scanning for lockers yourself. Never stop to check what happened |
 | A room has no visible locker | Retreat to the previous room's locker before the hum starts |
 | You are at low health with no flashlight battery | Stop pushing for depth. Hold near known lockers and survive the next pass |
+| The room you are in has exactly one locker | Treat the previous room as your fallback and do not open the next door yet |
+| You have been inside The Backdoor for 25+ rooms | Re-read the entry scan habit. Fatigue is the top cause of death past room 30, not the entities |
+| You hear a hum that sounds like the previous pass | Do not exit. A-120 frequently follows an A-60 pass, and the second hum is the real one |
+| You want to bank a depth record | Stop at the room before the layout starts repeating. Records are worth more than one extra room |
 
-## Counterintuitive Tips
+## Counter-Intuitive Tips
 
 The Backdoor rewards the opposite of what feels right.
 
@@ -162,6 +210,11 @@ Slow is fast. Sprinting between rooms does not make you safer. It raises how man
 The dark room can be your friend. Bright rooms breed false confidence — you stop scanning because you can see. Dark rooms force you to scan, and the A-60 hum stands out more clearly against the silence. If you have battery, do not fear the dark. Fear the rooms that look too safe.
 
 Do not trust the Light even while it is alive. It fails around room 100. Treat every prompt as a bonus, never as a dependency. The longest survivors are the ones who were already playing blind.
+
+Boredom is the real difficulty. The Backdoor has no boss, no new mechanic, and no visible end. The entities do not get more interesting past room 30 — they just get faster. What actually degrades is your attention. Every survivor I have watched past room 40 was visibly less thorough than the same player at room 10, and every death I have seen past room 40 was a death to a routine that player had already mastered. The area is a test of whether you can stay boring for 60 rooms. That is much harder than it sounds.
+
+The deepest room is not the best room. Depth is only a score, and a score you got because you walked into a room with no locker is worth exactly nothing. There is no leaderboard credit for surviving a room you should not have entered. The high-score runs and the good runs are not the same runs, and optimising for depth instead of survival is how players end up with impressive numbers and nothing else.
+
 
 Keep your volume at about 70 to 80 percent. Max volume distorts the hum, and a distorted A-60 rumble reads as silence until it is on top of you. Clean sound, clean reaction. The same audio discipline that separates Rush survivors from Ambush victims applies here, harder.
 
