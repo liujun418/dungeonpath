@@ -2,7 +2,7 @@
 title: "Lethal Company Company Cruiser Guide — Where It Is, How to Drive It & What It's Actually For (2026)"
 description: "The Company Cruiser is Lethal Company's drivable van, and it's not for moon transport. Where it parks, how to drive it well, and what it's actually for."
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-10-28
 draft: false
 author: "Alex Turner"
 tags: ["Lethal Company", "Company Cruiser", "Vehicle", "Ship", "Driving", "lc-company-cruiser"]
@@ -66,6 +66,18 @@ The second thing is the slide. Turn above a crawl and the back end swings out. T
 
 The headlights are the one genuinely practical control. Parked nose-in near the back of the dark garage, you flip them on to spot a teammate about to walk into your path. Speed-wise, the Cruiser tops out fast enough to cross the hangar in a second or two — more than fast enough to kill. In a space this small, you do not need the throttle. You need the handbrake and the patience to tap W once.
 
+## The Garage Layout: Where the Cruiser Actually Lives
+
+Everyone describes the Cruiser as "in the garage." That undersells how much the room's geometry dictates how the van behaves, and how much of your driving skill is actually room-reading skill.
+
+The garage bay sits behind the terminal, past the interior doors, and it is a rectangular bay roughly two to three van-lengths wide and maybe twice that deep. The critical feature is not the size — it is the obstacles. Shelving units line the walls. A stack of scrap crates occupies one corner. The ramp that leads out of the ship sits at one end, and the exit door that everyone is trying to reach at deadline sits at the other. The van has to fit through a space that is only slightly wider than it is long, and the failure mode of every crash in this game is the rear bumper finding a shelf that the driver never saw because the driver was looking straight ahead.
+
+**The blind spot is the whole problem.** The Cruiser's cabin does not give you a rear view, and because the back end swings wide under steering, the region immediately behind the van is exactly where a teammate is most likely to be standing. This is why "a spotter" is not optional advice — it is the difference between a joke drive and a crushed teammate. The driver cannot see the shelf they are about to clip, and cannot see the player they are about to hit. Every other vehicle in the game gives you either a camera or a mirror. The van gives you neither.
+
+**The ramp is a trap, not an exit.** Players see the ramp and treat it as a shortcut to the door. It is not — the ramp is a drop, and driving off it at speed is how the first-drive flip happens. The van's exit run goes to the door on the level, nose-out, and the ramp is strictly a place to launch the van for comedic purposes or a place to get stuck.
+
+**The lighting is the fourth obstacle.** The garage is dark, and the headlights are a toggle, not a beam you can aim. Switching them on helps you see the shelf in front of you, which is genuinely useful, but it also means you cannot steer them. If you need to see behind you, you are relying on a teammate saying so. Build the habit of switching headlights on before you move rather than after you have already turned into something.
+
 ## What It's Actually For (and What It Isn't)
 
 Kill the biggest misconception first: the Company Cruiser is not a transport vehicle. It will not drive you across the moon, ferry scrap back from the facility, or save time on the walk to the entrance. It cannot leave the ship, so every plan that starts with "we'll just drive it to X" is dead.
@@ -94,6 +106,20 @@ Rule four: have a spotter for anything fancy. One teammate by the door who can s
 
 Loot does not sit in the van any better than on the floor. The [scrap and loot guide](/posts/lethal-company/scrap-and-loot-guide/) covers what is worth hauling, and none of it cares about your parking job.
 
+## Carrying Passengers: The Second Job Nobody Expects
+
+The exit run is the obvious use. The passenger thing is the one crews discover on their own, usually by accident, usually while somebody is waiting for the ship to land.
+
+More than one player fits in the Cruiser. The driver sits front, passengers ride in the back, and the van carries them at speed. On its own this sounds like a minor convenience — a slightly faster way to walk. What it actually becomes is the game's best ten seconds of relief, and the reason a lot of crews keep the van in good condition for reasons that have nothing to do with deadlines.
+
+**The weight changes the handling.** A van with three people in the back slides wider and accelerates slower. This is the single most important thing to know, because the drivers who flip the van every time are almost always driving it empty and then picking up passengers and expecting the same behaviour. Load the van and the handbrake matters more, not less. The tap that rotates the van ninety degrees when it is empty will swing the whole thing if the back is full.
+
+**The ride is the point, not the destination.** Between drops there is dead time — the ship is flying, nobody has anything to do, and the crew is standing around on the moon. One player in the driver's seat with three in the back and the van doing slow laps of the garage is a genuinely good use of that gap. It is also, notably, the only way most new players discover that the van's weight is a feature and not just a liability. A heavy van that understeers is fun to drift. A light van is just a car in a small room.
+
+**Do not carry scrap.** This needs its own line because it is the most common misunderstanding. The van cannot haul loot in any way that saves time — the back is for passengers, not cargo, and trying to ferry a cash register back to the terminal by driving it over is slower than walking and more likely to end with a teammate crushed against a shelf. If you want to move scrap, you carry it. Our [scrap and loot guide](/posts/lethal-company/scrap-and-loot-guide/) covers what is actually worth the trip.
+
+**One person in the van at a time.** This is the rule that keeps the joke from becoming a body count. If a second player tries to drive while the first is still in the seat, the result is unpredictable and it is how the van ends up wedged in the ramp with a teammate trapped inside. The passenger role and the driver role are different roles. Assign them out loud before anyone gets in.
+
 ## Failure Retrospective: The First-Drive Flip
 
 Here is the failure every crew goes through, and it teaches you everything about how the van behaves.
@@ -106,7 +132,21 @@ Here is the failure every crew goes through, and it teaches you everything about
 
 The van did not kill that crew. The driver's assumptions did — that it would handle like a fast car, that the hangar was bigger than it is, that flooring it would somehow help. Drop those and it becomes a controllable little truck.
 
-## When to Actually Grab the Cruiser
+## How to Park the Cruiser for the Exit Run (Methodology)
+
+Most crews treat the Cruiser as a thing they grab when the clock is running. That is the reactive version, and it produces a scramble every single day. The better version is to spend two minutes setting it up once, after the first drop, and never think about it again until someone moves it.
+
+**Step 1: Park it nose-out, in the lane that points at the exit door.** Not nose-in, not sideways, not against the wall where it looks tidy. The van's entire purpose at deadline is a straight line from the driver's seat to the door, and nose-out is the only orientation that makes the run a single W-press. Every driver who reverses out of a parking spot at deadline is doing a three-point turn with eight seconds on the clock.
+
+**Step 2: Clear the floor between the van and the door.** This is the step everyone skips and it is the one that decides whether the run works. The van needs about one and a half van-widths of clear floor to travel. If there is a scrap pile, a crate stack, or a dropped item in that lane, the van cannot get through it and the driver has to either stop and go around (which in the tight space means reversing, which means the three-point turn again) or send the driver on foot. Spend thirty seconds moving the obstruction once and the exit run becomes trivial every single day.
+
+**Step 3: Test the line with an empty van, on foot, before you trust it.** Get in, tap W once, tap Space once, and coast to the door. If you cannot do it in one throttle press and one handbrake tap, you are not parked well. Adjust the position now, while there is no deadline, rather than discovering the problem at 6:00 PM with a Jester behind you.
+
+**Step 4: Assign the driver before the day gets loud.** The best exit runs are executed by the person who was calmest all day, not the person who was closest to the van. Name the driver at the start of the day, tell the rest of the crew the van is reserved for the final run, and then nobody has to make a decision with the clock running. This step is about the person, not the van, and it is the step that converts a scramble into a routine.
+
+The rule that separates good crews from bad ones at deadline: the good crews never touch the van during the day, and the bad crews touch it constantly. The van is a fixed piece of infrastructure that you set up once. It is not a vehicle you use. If you find yourself moving it mid-day, you have turned it back into a toy, and you will be scrambling at 6 PM.
+
+## If-Then Decision Table: When to Actually Grab the Cruiser
 
 Not every moment is a van moment. Here is the decision in plain if-then form.
 
@@ -117,6 +157,11 @@ Not every moment is a van moment. Here is the decision in plain if-then form.
 | The van is flipped, wedged, or facing the wrong way at deadline | Walk. Do not fight the van with seconds left |
 | A teammate is carrying heavy scrap near your bumper | Hands off the throttle and wait for them to clear |
 | You need to move loot to the terminal quickly | Skip the van — it cannot carry scrap in any useful way |
+| You have not parked the van facing the door yet | Skip it this run and park it properly after the next drop |
+| The van is full of passengers and someone wants to drive | Stop the van first and clear it — do not let two drivers in one van |
+| You are mid-drop and the Jester is active | Leave the van alone entirely; the Jester does not care about your escape plan |
+| The van is carrying scrap you loaded in a panic | Dump the scrap on the floor; the van's back is for passengers, not cargo |
+| You want to drift the van for fun | Do it between drops with a full crew in the back, never during a quota |
 
 The through-line: the van earns its keep in exactly two moments — the end-of-day exit and the between-drops goofing. Everything else is a trap.
 
@@ -132,6 +177,20 @@ The best exit drivers barely touch the steering. They park nose-out, tap W once,
 
 Smaller note: the Cruiser costs nothing and does not compete with real gear. Spend your money on flashlights, shovels, and teleporters — the [equipment guide](/posts/lethal-company/equipment-guide/) has the buy order. The van is free, which is why its nonsense is forgivable.
 
+
+## Counter-Intuitive Truths About the Company Cruiser
+
+Five things about the van that sound wrong until you have watched a good crew use it.
+
+**The handbrake is a steering input, not a brake.** The instinct is that Space stops the van. It does not — S stops the van. The handbrake locks the rear wheels, which rotates the van around its centre instead of sliding it. Drivers who think the handbrake is a stop use S, drift into a shelf, and blame the handling. Drivers who think it is a turn pivot ninety degrees in a space that barely fits a single van, and they never hit anything again.
+
+**A van that moves slowly is a van that hits less.** The fastest drivers in this game are the ones tapping the throttle once and coasting. Full throttle in a space barely wider than the vehicle is not faster, it is just a shorter way to hit something. Speed inside the garage is negative value. Every extra metre per second is extra rear swing, and rear swing is what hits your teammates.
+
+**The best thing to do with the van is usually nothing.** The most experienced crews touch it maybe once a day, for the exit run, and leave it alone the rest of the time. Players who drive it constantly are having a worse run than players who ignore it entirely — every trip around the garage is a chance to flip it, wedge it in a corner, or crush somebody, and none of it makes the quota go faster. The van's contribution to a good run is one clean exit at 6 PM. That is the whole job.
+
+**Being a passenger is more valuable than being a driver.** The driver does one task, once, at the end of the day. The passengers get the ride — the sliding, the near-misses, the two minutes of chaos between drops. In a game where the crew is waiting for a landing with nothing to do, the ride is worth more than the transport, and the crews who work this out tend to finish quotas with better morale and fewer arguments.
+
+**The most dangerous moment is not the flip, it is the "just a little" roll.** A van that flips is a comedy problem — you get out, you walk. A van that rolls forward a foot into a teammate is a disaster, because it happened at walking pace, nobody saw it coming, and it is exactly the kind of thing that ends a friendship. A stationary van kills nobody. Every crash that actually mattered started with a nudge.
 
 ## FAQ
 
