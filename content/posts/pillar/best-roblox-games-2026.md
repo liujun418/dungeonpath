@@ -19,6 +19,7 @@ related:
   - "/posts/pillar/roblox-vehicle-driving-sim-games-compared/"
   - "/posts/pillar/roblox-creator-builder-games-compared/"
   - "/posts/pillar/roblox-farming-life-sim-games-compared/"
+  - "/posts/pillar/roblox-fishing-games-compared/"
   - "/posts/pillar/roblox-mystery-detective-games-compared/"
   - "/posts/pillar/roblox-rpg-games-compared/"
   - "/posts/pillar/roblox-obby-games-compared/"
@@ -210,7 +211,7 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 2 | **Juke's Towers of Hell** | Extreme | Steep Curve | Difficulty chart progression, tower design community |
 | 3 | **Mega Fun Obby** | Easy | Easy to Start | Casual platforming, thousands of stages |
 
-**If you like obstacle courses:** [Tower of Hell](/games/tower-of-hell/) is the fastest way to get into obbies — 6-player races up randomly generated towers, no checkpoints. For serious platformer players, [Juke's Towers of Hell](/games/jtoh/) offers a curated difficulty chart with hundreds of towers ranging from trivial to literally impossible. Our [obby games guide](/posts/pillar/roblox-obby-games-compared/) breaks down the full genre.
+**If you like obstacle courses:** [Tower of Hell](/games/tower-of-hell/) is the fastest way to get into obbies — 6-player races up randomly generated towers, no checkpoints. For serious platformer players, **Juke's Towers of Hell** offers a curated difficulty chart with hundreds of towers ranging from trivial to literally impossible. Our [obby games guide](/posts/pillar/roblox-obby-games-compared/) breaks down the full genre.
 
 ### Tower Defense / Strategy
 
@@ -239,19 +240,19 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 2 | **Brookhaven** | Easy | Easy to Start | Roleplay, hangouts, private servers |
 | 3 | **My Singing Monsters** | Easy | Easy to Start | Music, breeding, island building |
 
-**If you like creative/social games:** [Dress To Impress](/games/dress-to-impress/) is the surprise hit — fashion competitions with surprisingly deep customization. [Brookhaven](/games/brookhaven/) is the purest hangout experience on Roblox — perfect for roleplay with friends. [My Singing Monsters](/games/my-singing-monsters/) lets you build musical islands by breeding monsters. Check out our [social games guide](/posts/pillar/roblox-social-hangout-games-compared/) for more.
+**If you like creative/social games:** [Dress To Impress](/games/dress-to-impress/) is the surprise hit — fashion competitions with surprisingly deep customization. **Brookhaven** is the purest hangout experience on Roblox — perfect for roleplay with friends. [My Singing Monsters](/games/my-singing-monsters/) lets you build musical islands by breeding monsters. Check out our [social games guide](/posts/pillar/roblox-social-hangout-games-compared/) for more.
 
 ### Puzzle / Mystery
 
-**If you like puzzle games:** [Escape Room by DevUltra](/games/escape-room/) is the classic Roblox puzzle experience — dozens of rooms across multiple difficulty tiers, great with friends. For something with more atmosphere, the puzzle sections in [DOORS](/games/doors/) are genuinely clever escape-room style challenges. Hardcore puzzle fans should check out **Puzzle Doors** for logic puzzles and code breaking. See our [puzzle games comparison](/posts/pillar/roblox-puzzle-games-compared/) for the full breakdown.
+**If you like puzzle games:** **Escape Room by DevUltra** is the classic Roblox puzzle experience — dozens of rooms across multiple difficulty tiers, great with friends. For something with more atmosphere, the puzzle sections in [DOORS](/games/doors/) are genuinely clever escape-room style challenges. Hardcore puzzle fans should check out **Puzzle Doors** for logic puzzles and code breaking. See our [puzzle games comparison](/posts/pillar/roblox-puzzle-games-compared/) for the full breakdown.
 
 ### Cozy / Relaxing
 
-**If you want to unwind:** [Fisch](/games/fisch/) is the most relaxing game on Roblox — no combat, no timer, no pressure. Just you and a fishing rod and a big ocean. [My Singing Monsters](/games/my-singing-monsters/) is perfect for 5-minute check-ins throughout the day — breed monsters, build musical islands, come back later. And [Adopt Me!] is the go-to for cozy pet collecting and decorating. Our [cozy games guide](/posts/pillar/roblox-cozy-games-compared/) ranks the full genre.
+**If you want to unwind:** [Fisch](/games/fisch/) is the most relaxing game on Roblox — no combat, no timer, no pressure. Just you and a fishing rod and a big ocean. [My Singing Monsters](/games/my-singing-monsters/) is perfect for 5-minute check-ins throughout the day — breed monsters, build musical islands, come back later. And [Adopt Me!] is the go-to for cozy pet collecting and decorating. Our [cozy games guide](/posts/pillar/roblox-cozy-games-compared/) ranks the full genre. If fishing specifically is what you are after, our [Roblox fishing games ranking](/posts/pillar/roblox-fishing-games-compared/) compares Fisch against Fish It!, Ridiculous Fishing, and the rest of the genre by rod depth and rarity systems.
 
 ### Fighting / Action PvP
 
-**If you like fighting games:** [The Strongest Battlegrounds](/games/the-strongest-battlegrounds/) has the deepest combat system on Roblox — true combos, frame traps, dash canceling, and a brutal ranked scene. For something more accessible, try [Combat Warriors](/games/combat-warriors/) — simple controls but real tactical depth. Our [fighting games guide](/posts/pillar/roblox-fighting-games-compared/) ranks the full genre.
+**If you like fighting games:** **The Strongest Battlegrounds** has the deepest combat system on Roblox — true combos, frame traps, dash canceling, and a brutal ranked scene. For something more accessible, try **Combat Warriors** — simple controls but real tactical depth. Our [fighting games guide](/posts/pillar/roblox-fighting-games-compared/) ranks the full genre.
 
 ### Mobile-Friendly
 
@@ -362,7 +363,8 @@ For deeper dives into specific genres, check out our genre comparison guides lin
 
 - [Best Roblox Horror Games Compared](/posts/pillar/roblox-horror-games-compared/) — DOORS, Pressure, Lethal Company ranked
 - [Best Roblox FPS Games Compared](/posts/pillar/roblox-fps-games-compared/) — RIVALS, SNIPE, Bad Business and more
-- [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — PS99 vs Fisch vs Bee Swarm
+- [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — PS99 vs Fisch vs Bee Swarm- [Best Roblox Simulator Games Compared](/posts/pillar/roblox-simulator-games-compared/) — PS99 vs Fisch vs Bee Swarm
+- [Best Roblox Fishing Games Compared](/posts/pillar/roblox-fishing-games-compared/) — Fisch vs Fish It! vs Ridiculous Fishing
 - [Best Roblox RPG Games Compared](/posts/pillar/roblox-rpg-games-compared/) — Blox Fruits, Arcane Odyssey, Project Slayers
 - [Best Roblox Obby Games Compared](/posts/pillar/roblox-obby-games-compared/) — JToH, Tower of Hell, and platformer rankings
 - [Best Roblox Tower Defense Games Compared](/posts/pillar/roblox-tower-defense-games-compared/) — TDS vs Anime Vanguards vs Toilet Tower Defense

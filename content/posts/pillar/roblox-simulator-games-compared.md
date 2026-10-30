@@ -30,6 +30,7 @@ related:
   - "/posts/pillar/best-roblox-games-2026/"
   - "/posts/pillar/roblox-farming-life-sim-games-compared/"
   - "/posts/pillar/roblox-vehicle-driving-sim-games-compared/"
+  - "/posts/pillar/roblox-fishing-games-compared/"
   - "/posts/pillar/roblox-cozy-games-compared/"
   - "/posts/pillar/roblox-adventure-exploration-games-compared/"
   - "/games/pet-simulator-99/"
@@ -111,6 +112,8 @@ The free-to-play experience is the most generous in the genre. Every rod and upg
 **Best for:** Players who want fully active gameplay, skill-based progression, and atmospheric immersion. Short to medium sessions (20-60 minutes).
 
 **Skip if:** You want endless progression depth. You want a game to run in the background. You hate fishing as a theme.
+
+Fisch also anchors our dedicated [Roblox fishing games ranking](/posts/pillar/roblox-fishing-games-compared/), which breaks the whole genre down by rod depth, rarity economy, and how each game fills the wait between casts.
 
 ---
 

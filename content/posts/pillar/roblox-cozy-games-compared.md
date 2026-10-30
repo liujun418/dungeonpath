@@ -11,6 +11,7 @@ games: []
 related:
   - "/posts/pillar/best-roblox-games-2026/"
   - "/posts/pillar/roblox-farming-life-sim-games-compared/"
+  - "/posts/pillar/roblox-fishing-games-compared/"
   - "/posts/pillar/roblox-simulator-games-compared/"
   - "/posts/pillar/roblox-social-hangout-games-compared/"
   - "/posts/pillar/roblox-adventure-exploration-games-compared/"
@@ -89,6 +90,8 @@ The bestiary is the quiet engine. Every empty slot is a question mark. Some fish
 **Best for:** Zero social pressure. Solo relaxation. Mobile players. Anyone who finds rhythm and repetition calming.
 
 **Skip if:** You need background activity while multitasking. You find fishing boring. You want competition or social interaction.
+
+Fisch is the anchor of our dedicated [Roblox fishing games ranking](/posts/pillar/roblox-fishing-games-compared/), where we compare the whole genre — Fisch, Fish It!, Ridiculous Fishing and more — by rod depth, rarity design, and progression pacing.
 
 ---
 
