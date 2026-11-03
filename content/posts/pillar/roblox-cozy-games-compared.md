@@ -16,6 +16,7 @@ related:
   - "/posts/pillar/roblox-social-hangout-games-compared/"
   - "/posts/pillar/roblox-adventure-exploration-games-compared/"
   - "/posts/pillar/roblox-tycoon-games-compared/"
+  - "/posts/pillar/roblox-cooking-restaurant-games-compared/"
 cover:
   image: "/cover-image/roblox-cozy-games/cover.webp"
   alt: "Best cozy Roblox games compared"
@@ -42,6 +43,8 @@ This is the paradox of cozy gaming on Roblox. A game can look relaxing — soft 
 Some people unwind through creative expression. Others unwind through mindless grinding. Some need zero social pressure. Others need social interaction as the whole point. Calling a game "cozy" without understanding which type of cozy it is guarantees you'll pick the wrong one.
 
 This guide ranks six of Roblox's most popular relaxing games — Fisch, Adopt Me, Bee Swarm Simulator, Dress To Impress, Pet Simulator 99, and Royale High — across the criteria that actually determine whether a game calms you down or winds you up.
+
+If it is cooking specifically that relaxes you, our [Roblox cooking and restaurant games ranking](/posts/pillar/roblox-cooking-restaurant-games-compared/) covers Conveyor Sushi Restaurant, which is the closest thing that genre has to a cozy game.
 
 ---
 

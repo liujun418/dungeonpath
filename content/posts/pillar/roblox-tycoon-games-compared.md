@@ -34,6 +34,7 @@ related:
   - /posts/pillar/roblox-fighting-games-compared/
   - /posts/pillar/roblox-rpg-games-compared/
   - /posts/pillar/roblox-cozy-games-compared/
+  - /posts/pillar/roblox-cooking-restaurant-games-compared/
 ---
 
 It's 2 AM. You've been playing "Mega Mansion Tycoon" for six hours. Your mansion has three floors, a helicopter pad, and a pool shaped like a dollar sign. You just unlocked the gold-plated elevator. You feel accomplished.
@@ -131,6 +132,8 @@ The social layer is what makes it special. You can hire friends as chefs, waiter
 **Progression curve.** Steady and satisfying. Hour 1: hot dog stand, one table, barely scraping by. Hour 10: full restaurant with multiple menu items, staff, decent ratings. Hour 30+: multi-floor fine dining empire with VIP lounges, valet parking, and five-star ratings. There's always a clear next goal, and the game is good at doling out rewards at just the right pace.
 
 **Monetization.** Light and fair. Gamepasses are mostly plot expansions and cosmetic uniforms. No pay-to-win income multipliers or exclusive recipes. A free player has access to the full game.
+
+**The sequel already won.** Restaurant Tycoon 3 now runs at roughly 5,700 concurrent players against Restaurant Tycoon 2's ~900, even though the original holds 1.34 million lifetime upvotes to the sequel's 402,000. Starting fresh in the food-tycoon genre? The newer game is the live one — our [Roblox cooking and restaurant games ranking](/posts/pillar/roblox-cooking-restaurant-games-compared/) puts the two side by side.
 
 **Who should play it.** If you want a tycoon you can play with friends, or if you like steady, satisfying progression without the harsh learning curve of Lumber Tycoon 2.
 
