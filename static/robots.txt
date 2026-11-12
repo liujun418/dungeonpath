@@ -1,0 +1,56 @@
+User-agent: *
+Allow: /
+
+# ----- Search engines: full access -----
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Yandex
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+# ----- AI training / bulk scrapers: blocked (no referral traffic) -----
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: OmigiliBot
+Disallow: /
+User-agent: Omigili
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: webzio
+Disallow: /
+User-agent: friendlycrawl
+Disallow: /
+
+Sitemap: https://dungeonpath.com/sitemap.xml
