@@ -24,6 +24,7 @@ related:
   - "/posts/pillar/roblox-rpg-games-compared/"
   - "/posts/pillar/roblox-obby-games-compared/"
   - "/posts/pillar/roblox-cooking-restaurant-games-compared/"
+  - "/posts/pillar/roblox-zombie-games-compared/"
 faq:
   - question: "What is the best Roblox game to play in 2026?"
     answer: "There is no single best game — it depends on what you enjoy. For horror, DOORS and Pressure are the top picks. For competitive FPS, RIVALS and SNIPE offer the most polished gameplay. For collecting sims, Pet Simulator 99 and Fisch dominate. For RPGs, Blox Fruits is still king. This guide breaks 16+ games across 12 genres down by playstyle so you can find your match in 5 minutes."
@@ -174,7 +175,7 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 2 | **Pressure** | Very Hard | Moderate | Underwater horror, badges, achievement hunters |
 | 3 | **Lethal Company** | Hard | Moderate | Co-op chaos, communication, laugh-out-loud deaths |
 
-**If you like horror:** Start with [DOORS](/games/doors/). It's the most polished horror experience on Roblox — 100 rooms of escalating dread with iconic entity designs. Move to [Pressure](/games/pressure/) when you want harder mechanics and deeper badge hunting. [Lethal Company](/games/lethal-company/) is best with 2-4 friends and voice chat. For deeper comparison, see our [full horror games ranking](/posts/pillar/roblox-horror-games-compared/).
+**If you like horror:** Start with [DOORS](/games/doors/). It's the most polished horror experience on Roblox — 100 rooms of escalating dread with iconic entity designs. Move to [Pressure](/games/pressure/) when you want harder mechanics and deeper badge hunting. [Lethal Company](/games/lethal-company/) is best with 2-4 friends and voice chat. For deeper comparison, see our [full horror games ranking](/posts/pillar/roblox-horror-games-compared/). If you'd rather fight back than hide, see our [full zombie games ranking](/posts/pillar/roblox-zombie-games-compared/), led by the Napoleonic co-op hit Guts & Blackpowder.
 
 ### FPS / Competitive
 

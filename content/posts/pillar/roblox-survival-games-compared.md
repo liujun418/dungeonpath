@@ -164,7 +164,7 @@ Dead Rails is set on a moving train traveling through a monster-infested wastela
 
 **Difficulty curve.** Starts easy and ramps up fast. Early waves are trivial with a basic gun. By wave 10+, you need layered defenses, good aim, and smart resource management. Solo runs are significantly harder than co-op because you can't cover the whole train.
 
-**Best fit.** Dead Rails is for players who like the *survival* part but don't love the *horror* part — or who want to fight back instead of just hiding. If you enjoy tower defense or wave shooters, this is your game. Skip it if you want pure psychological horror.
+**Best fit.** Dead Rails is for players who like the *survival* part but don't love the *horror* part — or who want to fight back instead of just hiding. If you enjoy tower defense or wave shooters, this is your game. Skip it if you want pure psychological horror. If wave combat is the layer you love, the dedicated [Roblox zombie games comparison](/posts/pillar/roblox-zombie-games-compared/) ranks six games built entirely around holding out.
 
 ---
 

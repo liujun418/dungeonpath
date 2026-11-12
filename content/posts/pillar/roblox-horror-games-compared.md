@@ -161,6 +161,8 @@ Lethal Company isn't on Roblox (it's $10 on Steam), but it makes the list becaus
 
 **Skip if:** You play solo. You want polished mechanics. You want actual scares (it's more "oh no" than "AHHH").
 
+If the horror you actually want comes with a horde you can fight instead of a monster you hide from, the [Roblox zombie games comparison](/posts/pillar/roblox-zombie-games-compared/) ranks six action-horror games on the same dark turf.
+
 ---
 
 ## Failure Retrospective: My First 23 DOORS Attempts

@@ -166,7 +166,7 @@ You place heroes in towers, each hero is unlocked and leveled, and there are sid
 
 **Where Tower Heroes frustrates:** the ceiling is low. Once you understand the game, there is not much left to master, and the challenge curve flattens sooner than any other entry. Serious TD players will outgrow it.
 
-**Verdict:** the right pick if you want to play TD with a sibling, a younger kid, or a friend who has never touched the genre. Not the right pick if you want depth.
+**Verdict:** the right pick if you want to play TD with a sibling, a younger kid, or a friend who has never touched the genre. Not the right pick if you want depth. If you would rather aim the guns yourself than place the towers, the [Roblox zombie games comparison](/posts/pillar/roblox-zombie-games-compared/) covers wave survival in first person.
 
 ## Failure Retrospective: The Three Months I Wasted Chasing the Wrong TD
 
