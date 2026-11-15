@@ -318,7 +318,7 @@ No. All six are fully playable for free. Fisch's best rods are earned, not bough
 
 ---
 
-More rankings in the **Related Guides** section below, or check our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list.
+More rankings in the **Related Guides** section below, or check our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list. If low-pressure creativity is the coziness you're after, the [Roblox fashion games ranking](/posts/pillar/roblox-fashion-games-compared/) covers stakes-free dress-up studios alongside the runway contests.
 
 > **Disclaimer:** Coziness is subjective and depends heavily on your mood and what type of relaxation you need. This ranking reflects general consensus as of September 2026. Game balance, event frequency, and community culture can shift quickly.
 

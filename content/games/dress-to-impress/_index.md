@@ -3,7 +3,7 @@ title: "Dress To Impress Guides"
 description: "Complete Dress To Impress guides for Roblox. Beginner walkthrough, all themes list, codes, VIP vs free items, makeup and pose guide, runway and voting strategies."
 ---
 
-Dress To Impress is a competitive fashion game on Roblox where players create outfits matching a given theme and compete on the runway. Creativity, speed, and knowing your wardrobe win votes.
+Dress To Impress is a competitive fashion game on Roblox where players create outfits matching a given theme and compete on the runway. Creativity, speed, and knowing your wardrobe win votes. Wondering how it compares to Royale High, Catalog Avatar Creator and the rest of the runway games? See our [best Roblox fashion games ranking](/posts/pillar/roblox-fashion-games-compared/).
 
 ## Quick Answers
 

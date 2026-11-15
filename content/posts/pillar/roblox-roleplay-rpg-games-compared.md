@@ -159,6 +159,8 @@ The community is also divisive. It's heavily female-skewing and aimed at younger
 
 **Skip if:** You hate grinding for currency. You find the fairy-princess aesthetic off-putting. You want combat or action gameplay.
 
+If the fashion layer is the whole reason you're here, our [Roblox fashion games ranking](/posts/pillar/roblox-fashion-games-compared/) puts Royale High next to the dedicated runway games and the avatar studios.
+
 ---
 
 ## 5. World // Zero — The Class-Based Middle Ground

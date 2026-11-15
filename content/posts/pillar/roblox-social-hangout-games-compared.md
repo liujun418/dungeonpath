@@ -165,6 +165,8 @@ The good news: you can totally ignore the adoption mechanics and just use Club R
 
 **Skip if:** You're a teen or adult group looking for a cool hangout spot. You want deep systems or serious roleplay. The "family RP" vibe turns you off.
 
+Showing off outfits is its own kind of hangout, of course — the [Roblox fashion games ranking](/posts/pillar/roblox-fashion-games-compared/) covers runway shows and avatar studios where watching each other dress up is the entire activity.
+
 ---
 
 ## Failure Retrospective: The Hangout Night That Didn't Happen

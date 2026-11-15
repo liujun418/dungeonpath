@@ -25,6 +25,7 @@ related:
   - "/posts/pillar/roblox-obby-games-compared/"
   - "/posts/pillar/roblox-cooking-restaurant-games-compared/"
   - "/posts/pillar/roblox-zombie-games-compared/"
+  - "/posts/pillar/roblox-fashion-games-compared/"
 faq:
   - question: "What is the best Roblox game to play in 2026?"
     answer: "There is no single best game — it depends on what you enjoy. For horror, DOORS and Pressure are the top picks. For competitive FPS, RIVALS and SNIPE offer the most polished gameplay. For collecting sims, Pet Simulator 99 and Fisch dominate. For RPGs, Blox Fruits is still king. This guide breaks 16+ games across 12 genres down by playstyle so you can find your match in 5 minutes."
@@ -242,7 +243,7 @@ This rule alone has saved me from wasting weeks on flash-in-the-pan Roblox games
 | 2 | **Brookhaven** | Easy | Easy to Start | Roleplay, hangouts, private servers |
 | 3 | **My Singing Monsters** | Easy | Easy to Start | Music, breeding, island building |
 
-**If you like creative/social games:** [Dress To Impress](/games/dress-to-impress/) is the surprise hit — fashion competitions with surprisingly deep customization. **Brookhaven** is the purest hangout experience on Roblox — perfect for roleplay with friends. [My Singing Monsters](/games/my-singing-monsters/) lets you build musical islands by breeding monsters. Check out our [social games guide](/posts/pillar/roblox-social-hangout-games-compared/) for more.
+**If you like creative/social games:** [Dress To Impress](/games/dress-to-impress/) is the surprise hit — fashion competitions with surprisingly deep customization. **Brookhaven** is the purest hangout experience on Roblox — perfect for roleplay with friends. [My Singing Monsters](/games/my-singing-monsters/) lets you build musical islands by breeding monsters. Check out our [social games guide](/posts/pillar/roblox-social-hangout-games-compared/) for more, and our [full fashion games ranking](/posts/pillar/roblox-fashion-games-compared/) — where Catalog Avatar Creator actually out-pops Dress To Impress — sorts runway contests from stakes-free dress-up studios.
 
 ### Puzzle / Mystery
 
