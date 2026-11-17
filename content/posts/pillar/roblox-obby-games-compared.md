@@ -315,7 +315,7 @@ Each obby game uses different physics tuning: jump height, walk speed, friction,
 
 ---
 
-More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list.
+More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list. When obby-style challenges turn lethal and only the last player standing wins, that is the [Roblox battle royale games ranking](/posts/pillar/roblox-battle-royale-games-compared/) — glass bridges and red-light movement, ranked.
 
 > **Disclaimer:** Obby games receive frequent content updates — new towers, new mechanics, physics tweaks. This guide reflects the state of Roblox obbies as of September 2026. Difficulty ratings and physics can shift with major updates. Always check recent patch notes before diving into a new game.
 

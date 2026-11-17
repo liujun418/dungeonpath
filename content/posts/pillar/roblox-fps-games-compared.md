@@ -166,7 +166,7 @@ The player base is also smaller and older. It's a dedicated community, but it's 
 
 **Skip if:** You want fast-paced action. You're a beginner to FPS. You need quick queue times and a large player base.
 
-If you want those guns pointed at a horde instead of at another player, the [Roblox zombie games comparison](/posts/pillar/roblox-zombie-games-compared/) ranks the horde-shooter side of the genre, from round-based classics to melee co-op.
+If you want those guns pointed at a horde instead of at another player, the [Roblox zombie games comparison](/posts/pillar/roblox-zombie-games-compared/) ranks the horde-shooter side of the genre, from round-based classics to melee co-op. For elimination stakes — beds, shrinking lobbies, last-one-standing — the [Roblox battle royale games ranking](/posts/pillar/roblox-battle-royale-games-compared/) covers BedWars and the Squid-style elimination branch.
 
 ---
 

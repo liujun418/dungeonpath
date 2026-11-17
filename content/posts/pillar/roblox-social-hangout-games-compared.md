@@ -321,7 +321,7 @@ You can play Bloxburg as a visitor — work jobs at other players' businesses, a
 
 ---
 
-More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list.
+More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list. For the same strangers-in-a-lobby energy but with everyone getting voted or knocked out, see the [Roblox battle royale games ranking](/posts/pillar/roblox-battle-royale-games-compared/), including the social-voting game Outlaster.
 
 > **Disclaimer:** Social game experiences vary wildly depending on who you play with and whether you use private servers. This guide reflects the general experience as of September 2026. Popularity, update frequency, and community culture can change quickly in social games.
 

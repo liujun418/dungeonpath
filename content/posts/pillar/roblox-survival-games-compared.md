@@ -299,7 +299,7 @@ Survival horror adds **resource management and decision-making** on top of scare
 
 ---
 
-More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list.
+More game comparisons and rankings in the **Related Guides** section below, or browse our full [Best Roblox Games of 2026](/posts/pillar/best-roblox-games-2026/) list. If you want survival where the threat is other players and only one remains, the [Roblox battle royale games ranking](/posts/pillar/roblox-battle-royale-games-compared/) covers team bed defense and scripted elimination.
 
 > **Disclaimer:** Game balance and entity behaviors change with every update. This guide reflects the state of Roblox survival horror as of September 2026. New floors, entity reworks, and mechanic patches can shift the meta significantly. Always check recent patch notes before investing in a new game.
 
